@@ -1,7 +1,7 @@
 name: Auto Scraper
 
 on:
-  workflow_dispatch:  # 👈 Add this to enable manual runs
+  workflow_dispatch:  # Allows you to manually trigger the workflow
   schedule:
     - cron: "0 */6 * * *"  # Runs every 6 hours
   push:
@@ -15,24 +15,30 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
-          fetch-depth: 0
+          fetch-depth: 0  # Ensures the full repo is downloaded
 
       - name: Set up Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: "18"
+          node-version: "18"  # Make sure to use your desired Node.js version
 
       - name: Install dependencies
-        run: npm install
+        run: |
+          npm install || echo "npm install failed"  # Print an error message if install fails
 
       - name: List all files (Debugging)
-        run: ls -R
+        run: |
+          echo "Listing all files in the repo to confirm everything is in place..."
+          ls -R  # List all files and directories for debugging purposes
 
-      - name: Run scraper
-        run: node scrapper.js  # Update if filename is incorrect
+      - name: Run scraper with full error output
+        run: |
+          echo "Running scraper.js..."
+          node scrapper.js || echo "Scraper script failed with error code $?"  # Log any error if scraper fails
 
       - name: Commit and push changes
         run: |
+          echo "Committing and pushing changes if any..."
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
           git add universe_data.json
