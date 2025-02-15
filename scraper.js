@@ -1,93 +1,57 @@
 const axios = require("axios");
-const cheerio = require("cheerio");
 const fs = require("fs");
 
-// DevForum URL to scrape
-const DEVFORUM_URL = "https://devforum.roblox.com/t/roblox-developer-challenge-2025/3389448";
+// DevForum URL and base structure
+const BASE_URL = "https://devforum.roblox.com/raw/3389448?page=";
 const MATCH_DOMAIN = "roblox.com/games/";
-const ROBLOX_API = "https://games.roblox.com/v1/games?universeIds=";
 
-// Scrape DevForum for relevant links
-async function scrapeLinks() {
+// Function to scrape content from a specific page
+async function scrapePage(pageNumber) {
     try {
-        const { data } = await axios.get(DEVFORUM_URL);
-        const $ = cheerio.load(data);
+        const { data } = await axios.get(BASE_URL + pageNumber);
+        console.log(`Scraping page ${pageNumber}...`);
 
-        let links = new Set(); // Store unique links
+        // Check if data contains relevant links
+        let links = [];
+        const regex = /https:\/\/www\.roblox\.com\/games\/\d+/g;
+        const matches = data.match(regex);
+        if (matches) {
+            links = matches;
+        }
 
-        $("a").each((_, element) => {
-            let href = $(element).attr("href");
-
-            // Log the href values for debugging purposes
-            console.log("Found href:", href);
-
-            // Check if the href contains the desired domain "roblox.com/games/"
-            if (href && href.includes(MATCH_DOMAIN)) {
-                console.log("Found matching link:", href); // Debugging: log the matched links
-                links.add(href);
-            }
-        });
-
-        console.log(`Found ${links.size} matching links.`);
-        return Array.from(links);
+        return links;
     } catch (error) {
-        console.error("Error scraping DevForum:", error);
+        console.error(`Error scraping page ${pageNumber}:`, error);
         return [];
     }
 }
 
-// Extract Place ID from a URL
-function extractPlaceId(url) {
-    let match = url.match(/(\d+)/); // Extracts numeric ID from URL
-    return match ? match[0] : null;
-}
+// Main function to scrape multiple pages
+async function scrapeMultiplePages() {
+    let allLinks = [];
+    let pageNumber = 1;
+    let links;
 
-// Get Universe ID using Place ID
-async function getUniverseId(placeId) {
-    try {
-        console.log(`Fetching Universe ID for Place ID: ${placeId}`); // Debugging: log the Place ID being fetched
-        const response = await axios.get(ROBLOX_API + placeId);
-        const data = response.data;
-
-        console.log(`API response for Place ID ${placeId}:`, data); // Debugging: log the API response
-
-        if (data.data && data.data.length > 0) {
-            const universeId = data.data[0].rootPlaceId;
-            console.log(`Found Universe ID: ${universeId}`);
-            return universeId;
-        } else {
-            console.log(`No Universe ID found for Place ID ${placeId}`);
-            return null;
+    while (true) {
+        links = await scrapePage(pageNumber);
+        if (links.length === 0) {
+            // No more links found, exit loop
+            console.log("No more data found.");
+            break;
         }
-    } catch (error) {
-        console.error(`Error fetching Universe ID for Place ID ${placeId}:`, error);
-        return null;
-    }
-}
 
-// Main function
-async function main() {
-    let links = await scrapeLinks();
-    let universeIds = new Set();
-
-    for (let link of links) {
-        let placeId = extractPlaceId(link);
-        if (placeId) {
-            let universeId = await getUniverseId(placeId);
-            if (universeId) {
-                universeIds.add(universeId);
-            }
-        }
+        allLinks = allLinks.concat(links);
+        pageNumber++;
     }
 
-    if (universeIds.size > 0) {
-        // Save Universe IDs to JSON
-        fs.writeFileSync("universe_data.json", JSON.stringify([...universeIds], null, 2));
-        console.log("Saved Universe IDs to universe_data.json");
+    // Save all collected links to a JSON file
+    if (allLinks.length > 0) {
+        fs.writeFileSync("universe_data.json", JSON.stringify(allLinks, null, 2));
+        console.log("Saved all links to universe_data.json");
     } else {
-        console.log("No Universe IDs found to save.");
+        console.log("No links found to save.");
     }
 }
 
 // Run the scraper
-main();
+scrapeMultiplePages();
