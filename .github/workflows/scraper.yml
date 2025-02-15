@@ -34,7 +34,7 @@ jobs:
       - name: Run scraper with full error output
         run: |
           echo "Running scraper.js..."
-          node scrapper.js || echo "Scraper script failed with error code $?"  # Log any error if scraper fails
+          node scraper.js || echo "Scraper script failed with error code $?"  # Log any error if scraper fails
 
       - name: Commit and push changes
         run: |
