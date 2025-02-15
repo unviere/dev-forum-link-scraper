@@ -3,7 +3,7 @@ const cheerio = require("cheerio");
 const fs = require("fs");
 
 // DevForum URL to scrape
-const DEVFORUM_URL = "https://devforum.roblox.com/c/some-category";
+const DEVFORUM_URL = "https://devforum.roblox.com/t/roblox-developer-challenge-2025/3389448";
 const MATCH_DOMAIN = "roblox.com/games/";
 const ROBLOX_API = "https://games.roblox.com/v1/games?universeIds=";
 
