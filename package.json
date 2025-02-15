@@ -1,0 +1,13 @@
+{
+  "name": "roblox-scraper",
+  "version": "1.0.0",
+  "description": "A scraper that fetches Universe IDs from Roblox DevForum",
+  "main": "scraper.js",
+  "dependencies": {
+    "axios": "^1.0.0",
+    "cheerio": "^1.0.0"
+  },
+  "scripts": {
+    "start": "node scraper.js"
+  }
+}
