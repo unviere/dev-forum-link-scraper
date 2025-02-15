@@ -17,8 +17,13 @@ async function scrapeLinks() {
 
         $("a").each((_, element) => {
             let href = $(element).attr("href");
+
+            // Log the href values for debugging purposes
+            console.log("Found href:", href);
+
+            // Check if the href contains the desired domain "roblox.com/games/"
             if (href && href.includes(MATCH_DOMAIN)) {
-                console.log("Found matching link:", href);  // Debugging: log the matched links
+                console.log("Found matching link:", href); // Debugging: log the matched links
                 links.add(href);
             }
         });
@@ -33,18 +38,18 @@ async function scrapeLinks() {
 
 // Extract Place ID from a URL
 function extractPlaceId(url) {
-    let match = url.match(/(\d+)/);
+    let match = url.match(/(\d+)/); // Extracts numeric ID from URL
     return match ? match[0] : null;
 }
 
 // Get Universe ID using Place ID
 async function getUniverseId(placeId) {
     try {
-        console.log(`Fetching Universe ID for Place ID: ${placeId}`);  // Debugging: log the Place ID being fetched
+        console.log(`Fetching Universe ID for Place ID: ${placeId}`); // Debugging: log the Place ID being fetched
         const response = await axios.get(ROBLOX_API + placeId);
         const data = response.data;
 
-        console.log(`API response for Place ID ${placeId}:`, data);  // Debugging: log the API response
+        console.log(`API response for Place ID ${placeId}:`, data); // Debugging: log the API response
 
         if (data.data && data.data.length > 0) {
             const universeId = data.data[0].rootPlaceId;
