@@ -18,6 +18,7 @@ async function scrapeLinks() {
         $("a").each((_, element) => {
             let href = $(element).attr("href");
             if (href && href.includes(MATCH_DOMAIN)) {
+                console.log("Found matching link:", href);  // Debugging: log the matched links
                 links.add(href);
             }
         });
@@ -39,10 +40,20 @@ function extractPlaceId(url) {
 // Get Universe ID using Place ID
 async function getUniverseId(placeId) {
     try {
+        console.log(`Fetching Universe ID for Place ID: ${placeId}`);  // Debugging: log the Place ID being fetched
         const response = await axios.get(ROBLOX_API + placeId);
         const data = response.data;
 
-        return data.data.length > 0 ? data.data[0].rootPlaceId : null;
+        console.log(`API response for Place ID ${placeId}:`, data);  // Debugging: log the API response
+
+        if (data.data && data.data.length > 0) {
+            const universeId = data.data[0].rootPlaceId;
+            console.log(`Found Universe ID: ${universeId}`);
+            return universeId;
+        } else {
+            console.log(`No Universe ID found for Place ID ${placeId}`);
+            return null;
+        }
     } catch (error) {
         console.error(`Error fetching Universe ID for Place ID ${placeId}:`, error);
         return null;
@@ -64,9 +75,13 @@ async function main() {
         }
     }
 
-    // Save Universe IDs to JSON
-    fs.writeFileSync("universe_data.json", JSON.stringify([...universeIds], null, 2));
-    console.log("Saved Universe IDs to universe_data.json");
+    if (universeIds.size > 0) {
+        // Save Universe IDs to JSON
+        fs.writeFileSync("universe_data.json", JSON.stringify([...universeIds], null, 2));
+        console.log("Saved Universe IDs to universe_data.json");
+    } else {
+        console.log("No Universe IDs found to save.");
+    }
 }
 
 // Run the scraper
