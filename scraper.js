@@ -23,8 +23,8 @@ async function scrapePage(url) {
         console.log(`Scraping ${url}...`);
 
         if (!data || data.trim() === "") {
-            console.log(`Page ${url} has no content.`);
-            return null;
+            console.log(`Page ${url} is empty.`);
+            return null; // Page is completely blank
         }
 
         // Extract game IDs from URLs
@@ -33,7 +33,7 @@ async function scrapePage(url) {
         let ids = new Set(); // Store unique IDs
 
         while ((matches = regex.exec(data)) !== null) {
-            ids.add(matches[1]); // Store the extracted ID
+            ids.add(matches[1]); // Extracted game ID
         }
 
         return Array.from(ids);
@@ -43,7 +43,7 @@ async function scrapePage(url) {
     }
 }
 
-// Function to scrape all pages for a game jam
+// Function to scrape all pages for a game jam until an empty page is found
 async function scrapeGameJam(gameJamKey, baseURL) {
     let page = 1;
     let foundLinks = new Set();
@@ -52,22 +52,22 @@ async function scrapeGameJam(gameJamKey, baseURL) {
         let url = baseURL + page;
         let ids = await scrapePage(url);
 
-        if (!ids || ids.length === 0) {
-            console.log(`No content found on page ${page} for ${gameJamKey}. Stopping.`);
-            break;
+        if (ids === null) {
+            console.log(`Page ${page} for ${gameJamKey} is empty. Stopping.`);
+            break; // Stop if we get an empty page
         }
 
-        // Store unique IDs
+        // Add unique IDs
         ids.forEach(id => foundLinks.add(id));
 
-        page++; // Go to next page
+        page++; // Move to the next page
     }
 
-    // Save to structured JSON if there are IDs found
+    // Save structured data if IDs were found
     if (foundLinks.size > 0) {
         let formattedData = {};
         let index = 1;
-        
+
         foundLinks.forEach(id => {
             formattedData[index] = id;
             index++;
@@ -86,7 +86,7 @@ async function runScraper() {
         await scrapeGameJam(gameJam, url);
     }
 
-    // Save the structured data to JSON
+    // Save all collected data to JSON
     fs.writeFileSync("universe_data.json", JSON.stringify(gameJamData, null, 2));
     console.log("Saved all data to universe_data.json");
 }
