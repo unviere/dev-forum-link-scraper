@@ -36,38 +36,38 @@ const defaultInfo = {
             "shortName": "Developer 23",
             "Duration": "3 days",
             "Description": "Welcome to the Roblox Developer Challenge, a yearly development competition gathering the whole world to create the most amazing Roblox experiences based on a theme! <br /> Source: dev forum",
-            "Theme": "N/A"
+            "Theme": "Chain Reaction"
         },
          "4": { // this the first game jam
             "fullName": "Connect 2023 Challenge",
             "shortName": "Connect 23",
-              "Duration": "n/a",
-            "Description": "n/a",
-            "Theme": "n/a"
+              "Duration": "10 days",
+            "Description": "connect is an events with diferent work shops and a game jam at the end its called inspire now",
+            "Theme": "Parallelism"
         },
          "5": { // this the first game jam
             "fullName": "Roblox Developer Challenge 2024",
             "shortName": "Developer 24",
               "Duration": "n/a",
-            "Description": "n/a",
-            "Theme": "n/a"
+            "Description": "a yearly development competition gathering the whole world to create the most amazing Roblox experiences based on a theme! <br /> Source: dev forum <br /><br /> mostly run a weekend in february the time to show off your skills and make a game in one weekend",
+            "Theme": "Unexpected Development"
         },
          "6": { // this the first game jam
             "fullName": "Roblox Inspire 2024 Challenge",
             "shortName": "Inspire 24",
-              "Duration": "n/a",
-            "Description": "n/a",
-            "Theme": "n/a"
+              "Duration": "3 days",
+            "Description": "inspire is an events with diferent work shops and a game jam at the end",
+            "Theme": "Time is your enemy"
         },
          "7": { // this the first game jam
             "fullName": "Introducing Unite 2024",
             "shortName": "Unite 24",
-              "Duration": "n/a",
-            "Description": "n/a",
-            "Theme": "n/a"
+              "Duration": "16 days",
+            "Description": "Unite 2024 offers an exciting opportunity to network, compete, and win amazing prizes! This challenge has a specific focus on Europe-based developer networking and collaboration, however anyone can participate, no matter where you are from! <br /> Source: dev forum",
+            "Theme": "There is only one rule"
         }
     },
-    "TotalGameJams": 5
+    "TotalGameJams": 7
 };
 
 // Stores final data
