@@ -18,32 +18,53 @@ const defaultInfo = {
     "chalanceNames": {
         "1": { // is again the recentst game jam
             "fullName": "Developer Chalange 2025",
-            "shortName": "Developer 25"
+            "shortName": "Developer 25",
+            "Duration": "3 days",
+            "Description": "the developer chalange always is a weekend in february the time to show off your skills by making a game in one weekend",
+            "Theme": "Break the system"
             
         },
         "2": { // this the first game jam
             "fullName": "Roblox Developer Dream Jam 2022",
-            "shortName": "Dream Jam 22"
+            "shortName": "Dream Jam 22",
+            "Duration": "10 days",
+            "Description": "developers will have ten days to create an experience based on the theme, when it’s announced on March 4th, 2022. Remember, you do not have to spend the full 10 days working on this - take as much or as little time as you’d like! After, there will be a short period of two weeks to allow our judging panel to select the top ten experiences! At this point, a vote will open where everyone will have the chance to vote on their favorite experiences! <br /><br />After the community vote, the winning teams will have the opportunity to refine, update, and make ANY changes to their experiences that they deem necessary. These changes must be made AND published by April 12th at 11:59 PM PST. <br /><br />After another week of review by our panel of judges, the top three experiences will be announced! These will be the first, second, and third place winners of the Roblox Developer Dream Jam! <br /> Source: Dev forum | <br /><br />this a game jam with diferent rounds with semi finals etc",
+            "Theme": "Your Dream Experience"
         },
         "3": { // this the first game jam
             "fullName": "Roblox Developer Challenge 2023",
-            "shortName": "Developer 23"
+            "shortName": "Developer 23",
+            "Duration": "3 days",
+            "Description": "Welcome to the Roblox Developer Challenge, a yearly development competition gathering the whole world to create the most amazing Roblox experiences based on a theme! <br /> Source: dev forum",
+            "Theme": "N/A"
         },
          "4": { // this the first game jam
             "fullName": "Connect 2023 Challenge",
-            "shortName": "Connect 23"
+            "shortName": "Connect 23",
+              "Duration": "n/a",
+            "Description": "n/a",
+            "Theme": "n/a"
         },
          "5": { // this the first game jam
             "fullName": "Roblox Developer Challenge 2024",
-            "shortName": "Developer 24"
+            "shortName": "Developer 24",
+              "Duration": "n/a",
+            "Description": "n/a",
+            "Theme": "n/a"
         },
          "6": { // this the first game jam
             "fullName": "Roblox Inspire 2024 Challenge",
-            "shortName": "Inspire 24"
+            "shortName": "Inspire 24",
+              "Duration": "n/a",
+            "Description": "n/a",
+            "Theme": "n/a"
         },
          "7": { // this the first game jam
             "fullName": "Introducing Unite 2024",
-            "shortName": "Unite 24"
+            "shortName": "Unite 24",
+              "Duration": "n/a",
+            "Description": "n/a",
+            "Theme": "n/a"
         }
     },
     "TotalGameJams": 5
