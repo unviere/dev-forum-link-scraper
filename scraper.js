@@ -6,7 +6,10 @@ const GAMEJAM_URLS = {
     "gameJam1": "https://devforum.roblox.com/raw/3389448?page=", // game jam 1 is not game jam 1 we use it to store the recentst game jam
     "gameJam2": "https://devforum.roblox.com/raw/1677276/?page=", // this than the first
     "gameJam3": "https://devforum.roblox.com/raw/2206650/?page=",
-    "gameJam4": "https://devforum.roblox.com/raw/2468676/?page="
+    "gameJam4": "https://devforum.roblox.com/raw/2468676/?page=",
+    "gameJam5": "https://devforum.roblox.com/raw/2779970/?page=",
+     "gameJam6": "https://devforum.roblox.com/raw/3104238/?page=",
+    "gameJam7": "https://devforum.roblox.com/raw/3181924/?page="
 };
 
 // Default info section (can be modified)
@@ -16,6 +19,7 @@ const defaultInfo = {
         "1": { // is again the recentst game jam
             "fullName": "Developer Chalange 2025",
             "shortName": "Developer 25"
+            
         },
         "2": { // this the first game jam
             "fullName": "Roblox Developer Dream Jam 2022",
@@ -28,9 +32,21 @@ const defaultInfo = {
          "4": { // this the first game jam
             "fullName": "Connect 2023 Challenge",
             "shortName": "Connect 23"
+        },
+         "5": { // this the first game jam
+            "fullName": "Roblox Developer Challenge 2024",
+            "shortName": "Developer 24"
+        },
+         "6": { // this the first game jam
+            "fullName": "Roblox Inspire 2024 Challenge",
+            "shortName": "Inspire 24"
+        },
+         "7": { // this the first game jam
+            "fullName": "Introducing Unite 2024",
+            "shortName": "Unite 24"
         }
     },
-    "TotalGameJams": 4
+    "TotalGameJams": 5
 };
 
 // Stores final data
