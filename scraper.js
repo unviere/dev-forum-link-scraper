@@ -3,14 +3,34 @@ const fs = require("fs");
 
 // Define the forum post URLs for each game jam
 const GAMEJAM_URLS = {
-    "gameJam1": "https://devforum.roblox.com/raw/3389448?page=",
-    "gameJam2": "https://devforum.roblox.com/raw/3389449?page="
+    "gameJam1": "https://devforum.roblox.com/raw/3389448?page=", // game jam 1 is not game jam 1 we use it to store the recentst game jam
+    "gameJam2": "https://devforum.roblox.com/raw/1677276/?page=", // this than the first
+    "gameJam3": "https://devforum.roblox.com/raw/2206650/?page=",
+    "gameJam4": "https://devforum.roblox.com/raw/2468676/?page="
 };
 
 // Default info section (can be modified)
 const defaultInfo = {
-    "source": "Roblox DevForum Scraper",
-    "lastUpdated": new Date().toISOString()
+    "lastUpdated": new Date().toISOString(),
+    "chalanceNames": {
+        "1": { // is again the recentst game jam
+            "fullName": "Developer Chalange 2025",
+            "shortName": "Developer 25"
+        },
+        "2": { // this the first game jam
+            "fullName": "Roblox Developer Dream Jam 2022",
+            "shortName": "Dream Jam 22"
+        },
+        "3": { // this the first game jam
+            "fullName": "Roblox Developer Challenge 2023",
+            "shortName": "Developer 23"
+        },
+         "4": { // this the first game jam
+            "fullName": "Connect 2023 Challenge",
+            "shortName": "Connect 23"
+        }
+    },
+    "TotalGameJams": 4
 };
 
 // Stores final data
