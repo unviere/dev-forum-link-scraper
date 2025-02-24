@@ -26,7 +26,7 @@ const defaultInfo = {
             "shortName": "Developer 25",
             "Duration": "3 days",
             "Start": "07-02-2025 | 7 feb 2025 | 23:00 | 0",
-            "End": "10-02-2025 | 10 feb 2025" | 23:00 | 0,
+            "End": "10-02-2025 | 10 feb 2025 | 23:00 | 0",
             "Description": "the developer chalange always is a weekend in february the time to show off your skills by making a game in one weekend",
             "Theme": "Break the system",
             "OGName": "dev25_ID7" // dont change this needed for tags and for the data store
