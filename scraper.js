@@ -20,7 +20,7 @@ const GAMEJAM_URLS = {
 // Default info section (can be modified)
 const defaultInfo = {
     "lastUpdated": new Date().toISOString(),
-    "chalanceNames": {
+    "chalanceInfo": {
         "1": { // is again the recentst game jam
             "fullName": "Developer Chalange 2025",
             "shortName": "Developer 25",
