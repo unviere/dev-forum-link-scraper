@@ -16,13 +16,22 @@ const GAMEJAM_URLS = {
 const defaultInfo = {
     "lastUpdated": new Date().toISOString(),
     "chalanceInfo": {
-        "1": { "fullName": "Developer Challenge 2025", "shortName": "Developer 25", "Duration": "3 days", "Start": "07-02-2025 | 7 feb 2025 | 23:00 | 11 pm | 0", "End": "10-02-2025 | 10 feb 2025 | 23:00 | 11 pm | 0", "Description": "the developer challenge always is a weekend in february the time to show off your skills by making a game in one weekend", "Theme": "Break the system", "OGName": "dev25_ID7" },
+        "1": {
+            "fullName": "Developer Challenge 2025",
+            "shortName": "Developer 25",
+            "Duration": "3 days",
+            "Start": "07-02-2025 | 7 feb 2025 | 23:00 | 11 pm | 0",
+            "End": "10-02-2025 | 10 feb 2025 | 23:00 | 11 pm | 0",
+            "Description": "the developer challenge always is a weekend in february the time to show off your skills by making a game in one weekend",
+            "Theme": "Break the system",
+            "OGName": "dev25_ID7"
+        },
         // Add more game jams as needed...
     },
     "TotalGameJams": 7
 };
 
-// Stores final data
+// Initialize the gameJamData object with the defaultInfo data
 let gameJamData = { "info": defaultInfo };
 
 // Roblox API Endpoints
@@ -175,7 +184,7 @@ async function fetchGameData() {
                         const gameInfo = await getGameData(universeID);
                         if (gameInfo) {
                             const newGame = { 
-                                id: `Game_${universeIDString}`, 
+                              //  id: `Game_${universeIDString}`, 
                                 title: gameInfo.sourceName, 
                                 description: gameInfo.sourceDescription, 
                                 placeID: placeID,
@@ -191,7 +200,6 @@ async function fetchGameData() {
                                     GenreNew: gameInfo.genre_l1,
                                     SubGenreNew: gameInfo.genre_l2,
                                     MaxPlayers: gameInfo.maxPlayers,
-                                    IsFavorited: gameInfo.isFavoritedByUser,
                                 },
                             };
 
