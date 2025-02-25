@@ -3,7 +3,7 @@ const fs = require("fs");
 
 // Define the forum post URLs for each game jam
 const GAMEJAM_URLS = {
-    "gameJam1": "https://devforum.roblox.com/raw/3389448?page=", // game jam 1 is the most recent
+    "gameJam1": "https://devforum.roblox.com/raw/3389448?page=",
     "gameJam2": "https://devforum.roblox.com/raw/3181924/?page=",
     "gameJam3": "https://devforum.roblox.com/raw/3104238/?page=",
     "gameJam4": "https://devforum.roblox.com/raw/2779970/?page=",
@@ -77,7 +77,7 @@ async function scrapePage(url) {
 async function scrapeGameJam(gameJamKey, baseURL) {
     let page = 1;
     let foundLinks = new Set();
-    
+
     while (true) {
         let url = baseURL + page;
         let ids = await scrapePage(url);
@@ -103,6 +103,7 @@ async function scrapeGameJam(gameJamKey, baseURL) {
             index++;
         });
 
+        // Update the gameJamData object with the new data for the game jam
         gameJamData[gameJamKey] = formattedData;
         console.log(`Scraped ${foundLinks.size} unique game IDs for ${gameJamKey}.`);
     } else {
@@ -162,7 +163,7 @@ async function fetchGameData() {
         for (let [gameJam, gameJamData] of Object.entries(gameJamData)) {
             if (gameJam !== "info") {
                 const gameJamIDs = Object.values(gameJamData);
-                
+
                 for (let i = 0; i < gameJamIDs.length; i++) {
                     index++;
                     if (index >= maxUniverseCalls) {
@@ -184,7 +185,6 @@ async function fetchGameData() {
                         const gameInfo = await getGameData(universeID);
                         if (gameInfo) {
                             const newGame = { 
-                              //  id: `Game_${universeIDString}`, 
                                 title: gameInfo.sourceName, 
                                 description: gameInfo.sourceDescription, 
                                 placeID: placeID,
@@ -227,11 +227,12 @@ async function fetchGameData() {
 
 // Main function to run both the scraper and the game data fetcher
 async function runScraperAndFetcher() {
+    // Ensure scraping happens first
     for (let [gameJam, url] of Object.entries(GAMEJAM_URLS)) {
         await scrapeGameJam(gameJam, url);
     }
 
-    // Fetch game data for all game jams
+    // Fetch game data after scraping
     await fetchGameData();
 }
 
