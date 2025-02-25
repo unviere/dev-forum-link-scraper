@@ -203,62 +203,54 @@ async function fetchGameData() {
   let allGameData = [];
   console.log("All collected game data:", JSON.stringify(allGameData, null, 2));
   try {
-    for (let [gameJam, gameJamDetails] of Object.entries(gameJamData)) {
-      if (gameJam !== "info") {
-        const gameJamIDs = Object.values(gameJamDetails);
+   for (let [gameJam, gameJamDetails] of Object.entries(gameJamData)) {
+  if (gameJam !== "info") {
+    const gameJamIDs = Object.values(gameJamDetails);
 
-        for (let i = 0; i < gameJamIDs.length; i++) {
-          index++;
-          if (index >= maxUniverseCalls) {
-            console.warn("Max API calls reached. Waiting...");
-            await new Promise(resolve => setTimeout(resolve, UniverseDelay));
-            index = 0;
-          }
+    for (let i = 0; i < gameJamIDs.length; i++) {
+      const placeID = gameJamIDs[i];
 
-          const placeID = gameJamIDs[i].placeID; // Extract the actual place ID
+      const universeID = await getUniverseID(placeID);
+      if (!universeID) continue;
 
-          const universeID = await getUniverseID(placeID);
-          if (!universeID) continue;
+      const gameInfo = await getGameData(universeID);
+      if (gameInfo) {
+        const newGame = { 
+          title: gameInfo.name || "Unknown",
+          description: gameInfo.description || "No description",
+          placeID: placeID,
+          universeID: universeID,
+          stats: {
+            TPlay: gameInfo.playing || 0,
+            TVisits: gameInfo.visits || 0,
+          },
+          attributes: {
+            Created: gameInfo.created || "Unknown",
+            Updated: gameInfo.updated || "Unknown",
+            Genre: gameInfo.genre || "All",
+            GenreNew: gameInfo.genre_l1 || "",
+            SubGenreNew: gameInfo.genre_l2 || "",
+            MaxPlayers: gameInfo.maxPlayers || 0,
+          },
+        };
 
-          const universeIDString = universeID.toString();
-          console.log("Universe ID:", universeID);
-
-          // Avoid duplicates
-          const duplicate = allGameData.some(game => game.universeID === universeID);
-          if (!duplicate) {
-            const gameInfo = await getGameData(universeID);
-            if (gameInfo) {
-              const newGame = { 
-                title: gameInfo.sourceName, 
-                description: gameInfo.sourceDescription, 
-                placeID: placeID,
-                universeID: universeID, 
-                stats: {
-                  TPlay: gameInfo.playing,
-                  TVisits: gameInfo.visits,
-                },
-                attributes: {
-                  Created: gameInfo.created,
-                  Updated: gameInfo.updated,
-                  Genre: gameInfo.genre,
-                  GenreNew: gameInfo.genre_l1,
-                  SubGenreNew: gameInfo.genre_l2,
-                  MaxPlayers: gameInfo.maxPlayers,
-                },
-              };
-
-              allGameData.push(newGame);
-              console.log("New game added:", newGame);
-            } else {
-              console.warn("Game has been removed from Roblox. Skipping.");
-            }
-          } else {
-            console.warn("Game is duplicated.");
-            duplicated++;
-          }
+        // ✅ **Store it inside `gameJamData` correctly**
+        if (!gameJamData[gameJam]) {
+          gameJamData[gameJam] = {};
         }
+        gameJamData[gameJam][placeID] = { 
+          placeID: placeID, 
+          universeID: universeID, 
+          gameData: newGame  // ✅ **Now storing gameData properly**
+        };
+
+        console.log("✅ Game saved in gameJamData:", gameJamData[gameJam][placeID]);
+      } else {
+        console.warn(`⚠️ No game data found for universe ID: ${universeID}`);
       }
     }
+  }
+}
 
   
 
