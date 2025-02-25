@@ -1,272 +1,95 @@
-[
-  {
-    "title": "Europe: The Journey",
-    "description": "Explore The Europe\n🇪🇺",
-    "placeID": "91900883945664",
-    "universeID": 6663802499,
-    "stats": {
-      "TPlay": 0,
-      "TVisits": 200
+{
+  "defaultData": {
+    "lastUpdated": "2025-02-25T16:16:10.564Z",
+    "chalanceInfo": {
+      "1": {
+        "fullName": "Developer Chalange 2025",
+        "shortName": "Developer 25",
+        "Duration": "3 days",
+        "Start": "07-02-2025 | 7 feb 2025 | 23:00 | 11 pm | 0",
+        "End": "10-02-2025 | 10 feb 2025 | 23:00 | 11 pm | 0",
+        "Description": "the developer chalange always is a weekend in february the time to show off your skills by making a game in one weekend",
+        "Theme": "Break the system",
+        "OGName": "dev25_ID7"
+      }
     },
-    "attributes": {
-      "Created": "2024-10-11T20:25:39.713Z",
-      "Updated": "2024-11-01T14:04:20.007Z",
-      "Genre": "All",
-      "GenreNew": "",
-      "SubGenreNew": "",
-      "MaxPlayers": 7
-    }
+    "TotalGameJams": 1
   },
-  {
-    "title": "🚩Find The European Flags 🚩 (12)",
-    "description": "⭐Welcome to find Find The European Flags! A game where you need to find and collect all the european flags! However there is one rule,Theres also country flags that is not in Europe Your goal is to avoid those flags and only collect The European flags. Goodluck!⭐\n",
-    "placeID": "70566422201645",
-    "universeID": 6690464005,
-    "stats": {
-      "TPlay": 0,
-      "TVisits": 127
+  "gameJam2": {
+    "1": {
+      "placeID": "91900883945664",
+      "universeID": "91900883945664",
+      "gameData": {}
     },
-    "attributes": {
-      "Created": "2024-10-18T19:41:31.163Z",
-      "Updated": "2025-02-21T14:21:34.093Z",
-      "Genre": "All",
-      "GenreNew": "",
-      "SubGenreNew": "",
-      "MaxPlayers": 50
-    }
-  },
-  {
-    "title": "An enigmatic Attic",
-    "description": "R to reload battery into flashlight\n\nIn the middle of the night, you hear a faint chime from the corridor.\nYou decide to go investigate. Turns out, the trapdoor to the hotel's attic is open.\nSOMETHING WICKED THIS WAY COMES.\nYOU CAN ONLY GO FORWARD.\nTHE PLACE SEEMS UNENDING,\nYET YOU KNOW YOU MUST KEEP GOING AS FAR AS YOU CAN,\nUNTIL YOUR INEVITABLE FAILURE\nAND THAT YOUR ONLY RULE.\nIS TO.\nM A K E  H A S T E .",
-    "placeID": "135117039113438",
-    "universeID": 6663090762,
-    "stats": {
-      "TPlay": 0,
-      "TVisits": 71
+    "2": {
+      "placeID": "70566422201645",
+      "universeID": "70566422201645",
+      "gameData": {}
     },
-    "attributes": {
-      "Created": "2024-10-11T16:40:24.043Z",
-      "Updated": "2025-01-27T18:07:20.337Z",
-      "Genre": "All",
-      "GenreNew": "",
-      "SubGenreNew": "",
-      "MaxPlayers": 50
-    }
-  },
-  {
-    "title": "Chop & Clock!",
-    "description": "🌟 Welcome to Chop & Clock! ⏰🔪\n\nGet ready to start your first-ever job as a chef 👨‍🍳👩‍🍳 in a fabulous restaurant located in the heart of Ukraine's most beautiful city, Lviv! 🇺🇦🏙️\n\n🍽️ Your mission? Serve up delicious dishes 🍲 and refreshing drinks 🥤 to satisfy hungry customers. But watch out – there's a twist! Sometimes, a special challenge will pop up: the one and only rule... Can you conquer it? 🔥⚡\n\nThis fun-filled game is part of Roblox Unite 2024 Game Jam 🎮✨.\nShoutout to the amazing team:\n🎨 @JuanGamerPlayz_RBLX – Art Director\n💻 @crazycat2789 – Programmer\n🎥 @RealTheBobucksMan – Trailer Producer\n💃 @AamTum – Animator\n🛠️ @Mihnealihnea – 3D Modeler\n\nGet ready to chop, clock, and conquer the kitchen! 👨‍🍳🔪",
-    "placeID": "84839513220508",
-    "universeID": 6690412578,
-    "stats": {
-      "TPlay": 0,
-      "TVisits": 58
+    "3": {
+      "placeID": "135117039113438",
+      "universeID": "135117039113438",
+      "gameData": {}
     },
-    "attributes": {
-      "Created": "2024-10-18T19:24:56.943Z",
-      "Updated": "2025-02-09T17:11:52.207Z",
-      "Genre": "All",
-      "GenreNew": "",
-      "SubGenreNew": "",
-      "MaxPlayers": 1
-    }
-  },
-  {
-    "title": "Train of Thought",
-    "description": "It's 1874. Step aboard the \"Le Grand Voyageur\" on her maiden journey journey across Europe where nothing is quite as it seems... Systems on the train are failing, and it’s up to you to keep everything running smoothly! Can you fix the engine, restore power, and more in time to allow the train to depart?\n\nThe Rule? Fix all systems before departure before the time runs out.\n\nEvery choice counts. Every second matters. Will you rise to the challenge?\n\n🔧 Fix critical systems like water pipes, communication and lighting to allow the train to depart..\n🚂 [NEXT UPDATE] Experience a cross-country adventure from Lyon to Prague, with stunning European landscapes along the way.\n\n⚠️ A PC is recommend for the game to run smoothly.\n\n🏆 This game was created in a 2-week timeframe as part of the Unite 2024 Game Jam! 🏆\n\n🎬 Credits:\n- WiseMatheu: Builder/Programmer/UI/GFX\n- apoaddda: Programmer\n- NicCrimson: Builder / Modeler",
-    "placeID": "131304927566050",
-    "universeID": 6663001975,
-    "stats": {
-      "TPlay": 0,
-      "TVisits": 171
+    "4": {
+      "placeID": "84839513220508",
+      "universeID": "84839513220508",
+      "gameData": {}
     },
-    "attributes": {
-      "Created": "2024-10-11T16:14:43.527Z",
-      "Updated": "2025-02-08T14:02:16.873Z",
-      "Genre": "All",
-      "GenreNew": "Adventure",
-      "SubGenreNew": "Story",
-      "MaxPlayers": 24
-    }
-  },
-  {
-    "title": "A historycal trip [unite 24 submission]",
-    "description": "Take the trip trough the history of Europe \n\nProf Unviere have made a time machine but she is lost something really important in the history of Europe go find it but...\n\ntheres only one rule. but what join the game so you get to know it\n\nFor unite 24 game jam by unviere \n\nNotes: we made our Ui responsive go check it on different devices small and big (pc) and we support multiplayer but we don't recommend play on console cuz it's not fully supported we also recommend to break the one rule to see what happens \n\nnote for the ribirth you need to find a part to trigger to get the ribirth the rule can you break by comming close to your family\n\n©Unviere assets belong to their owner",
-    "placeID": "107169670237182",
-    "universeID": 6663022834,
-    "stats": {
-      "TPlay": 0,
-      "TVisits": 383
+    "5": {
+      "placeID": "131304927566050",
+      "universeID": "131304927566050",
+      "gameData": {}
     },
-    "attributes": {
-      "Created": "2024-10-11T16:20:44.23Z",
-      "Updated": "2025-02-17T16:09:10.923Z",
-      "Genre": "All",
-      "GenreNew": "Adventure",
-      "SubGenreNew": "Exploration",
-      "MaxPlayers": 50
-    }
-  },
-  {
-    "title": "Mushroomania! 🍄 [Remaking]",
-    "description": "❗Rule: Don't pick up Poisonus Mushrooms!\n\n⚠ We made this game in 4 days (working +10 hours per day) for roblox game jam called as \"Unite 2024\"\n🛠 We are doing a remake - we are going to add more features etc., stay tuned! 👀\n\n🍄 Gather many Mushrooms as possible but don't touch Poisonous Mushrooms or you will die!\n\n👉 Mushroom picking, or \"houbaření\", is a beloved tradition in the Czech Republic.\n🌲 Inspired by Czech Republic's forests and mushrooms\n\n🔨 Developers are from Czechia \n- supertom145 - Main Scripter, Builder / Modeler, UI\n- Cookisek92 - Main Modeler / Builder\n- MCcsfe - Main Artist\n- JendaGaming - Professional Mushroomer\n- JaxkFe2acc - Helping Artist\n\n🤔 Are you ready to become the ultimate mushroom forager? Get ready to embark on an unforgettable journey into the heart of the forest. Test your skills, embrace the challenge, and see if you can survive the wild, mushroom-filled woods!",
-    "placeID": "120526693923947",
-    "universeID": 6682929848,
-    "stats": {
-      "TPlay": 0,
-      "TVisits": 1070
+    "6": {
+      "placeID": "107169670237182",
+      "universeID": "107169670237182",
+      "gameData": {}
     },
-    "attributes": {
-      "Created": "2024-10-16T15:30:22.48Z",
-      "Updated": "2025-02-14T22:14:55.17Z",
-      "Genre": "All",
-      "GenreNew": "",
-      "SubGenreNew": "",
-      "MaxPlayers": 10
-    }
-  },
-  {
-    "title": "ONLY ONE RULE! [Unite 2024 Winner]",
-    "description": "Welcome to ONLY ONE RULE:\n\n»\nLocked in a dark, eerie facility, you must follow one rule in each room to survive. Watched closely by those in control, a hidden prisoner offers a chance at escape. Will you be able to escape, or will you end up trapped forever?\n«\n\nThis game was made within 2 weeks for the Unite  '24 Gamejam! All soundtracks were made for the game and you can use them in videos/streams. We recommend to play this game on pc using headphones. Enjoy!\n\nUpdates:\n\n24/11/13: Added missing content, polishing & bug fixes",
-    "placeID": "86599074896460",
-    "universeID": 6683728849,
-    "stats": {
-      "TPlay": 0,
-      "TVisits": 244
+    "7": {
+      "placeID": "120526693923947",
+      "universeID": "120526693923947",
+      "gameData": {}
     },
-    "attributes": {
-      "Created": "2024-10-16T21:18:00.823Z",
-      "Updated": "2025-02-10T22:01:55.507Z",
-      "Genre": "All",
-      "GenreNew": "",
-      "SubGenreNew": "",
-      "MaxPlayers": 1
-    }
-  },
-  {
-    "title": "'Till the Cows Come Home - Unite 2024 Submission",
-    "description": "\n---------------------------------------------------------\nTHIS PROJECT HAS NOW BEEN ARCHIVED\n---------------------------------------------------------\n\n\nWelcome to 'Till the Cows Come Home!\n🐮☕🌾This game is about the weird and strange law in the UK that forbids cows to be crossed in the street at certain times!\n\n📣✨ NEWSET UPDATE (HALLOWEEN):\n🎃 Spooky Season has arrived!\n🌾Collect hay bales scattered around the map to gain points!\n🕒You're on the clock, time is your worst enemy.\n☕ Watch out of teacup cows, one hit is fatal!\n\n👍 Enjoying 'Till the Cows Come Home? Give us a like, it helps us out alot!\n\nCreated by:\nRothisk & Voidcrusher\n\nRead our copyright policy and creative attributions here:\nhttps://devforum.roblox.com/t/copyright-policy-aethersync-studio/3146426",
-    "placeID": "75911236210483",
-    "universeID": 6668187812,
-    "stats": {
-      "TPlay": 0,
-      "TVisits": 106
+    "8": {
+      "placeID": "86599074896460",
+      "universeID": "86599074896460",
+      "gameData": {}
     },
-    "attributes": {
-      "Created": "2024-10-12T17:12:47.49Z",
-      "Updated": "2025-02-06T05:11:19.563Z",
-      "Genre": "All",
-      "GenreNew": "",
-      "SubGenreNew": "",
-      "MaxPlayers": 1
-    }
-  },
-  {
-    "title": "European Explorer",
-    "description": "Travel to every corner of Europe and know its environment\n\nRule is... \n\nJust complete a quest under 5 minutes\n\nSpecial Thanks and Credits to:\nBritishSparkle - Builder, Modeler, and Tester\nqnvww - Builder, Modeler, Programmer, Scripter, Tester\n7xqidj - Digital Artist\nrepecfuangelr - Builder, Modeler, and Tester",
-    "placeID": "124035211961100",
-    "universeID": 6663022979,
-    "stats": {
-      "TPlay": 0,
-      "TVisits": 34
+    "9": {
+      "placeID": "75911236210483",
+      "universeID": "75911236210483",
+      "gameData": {}
     },
-    "attributes": {
-      "Created": "2024-10-11T16:20:46.71Z",
-      "Updated": "2024-10-29T04:08:53.083Z",
-      "Genre": "All",
-      "GenreNew": "",
-      "SubGenreNew": "",
-      "MaxPlayers": 50
-    }
-  },
-  {
-    "title": "Visit Paris",
-    "description": "This game was made for the Unite 2024 game jam with the theme \"There is only one rule\"!\n\nExplore the scenery of Paris!\nWalk around, chat and have fun!\nInvite your friends!",
-    "placeID": "108147795805388",
-    "universeID": 6664654621,
-    "stats": {
-      "TPlay": 0,
-      "TVisits": 25
+    "10": {
+      "placeID": "124035211961100",
+      "universeID": "124035211961100",
+      "gameData": {}
     },
-    "attributes": {
-      "Created": "2024-10-12T01:25:13.297Z",
-      "Updated": "2024-10-28T01:33:15.59Z",
-      "Genre": "All",
-      "GenreNew": "",
-      "SubGenreNew": "",
-      "MaxPlayers": 50
-    }
-  },
-  {
-    "title": "Mitoball: ENGAGE",
-    "description": "Winner of the \"Most Engaging Experience\" category in the Unite 2024 Challenge.\n\nCreated for the Unite 2024 Challenge with the theme \"There is Only One Rule.\"\n\nYou are a brave cube in a strange world of odd balls, particularly challenged by a yellow one that undergoes mitosis each time it bounces. ENGAGE in fast-paced, hack n' slash combat with your trusty blade. Combo and BLAST your way through hoards of various genetic mutations. In order to survive, there is only one rule... do not fall off the platform!",
-    "placeID": "104409273097252",
-    "universeID": 6664186074,
-    "stats": {
-      "TPlay": 0,
-      "TVisits": 171
+    "11": {
+      "placeID": "108147795805388",
+      "universeID": "108147795805388",
+      "gameData": {}
     },
-    "attributes": {
-      "Created": "2024-10-11T22:52:22.96Z",
-      "Updated": "2024-11-13T16:17:16.187Z",
-      "Genre": "All",
-      "GenreNew": "",
-      "SubGenreNew": "",
-      "MaxPlayers": 1
-    }
-  },
-  {
-    "title": "Lost Memories of My Shadow",
-    "description": "👁️‍🗨️ Don't forget to sleep before lights out.. --- Created for the Unite 2024 Challenge with the theme \"There is Only One Rule.\"  -WIP",
-    "placeID": "99039901919536",
-    "universeID": 6667522539,
-    "stats": {
-      "TPlay": 0,
-      "TVisits": 14
+    "12": {
+      "placeID": "104409273097252",
+      "universeID": "104409273097252",
+      "gameData": {}
     },
-    "attributes": {
-      "Created": "2024-10-12T14:36:21.653Z",
-      "Updated": "2025-02-10T15:21:55.35Z",
-      "Genre": "All",
-      "GenreNew": "",
-      "SubGenreNew": "",
-      "MaxPlayers": 50
-    }
-  },
-  {
-    "title": "Lunar Isolation",
-    "description": "A roblox horror game that includes space. \n\nYou're employee of the spaceship , but all other people dissapeared without any trace... you are alone ... but are you sure about this?\n\nGame Created Especially For UNITE 2024 Gamejam!",
-    "placeID": "136808248264802",
-    "universeID": 6673090095,
-    "stats": {
-      "TPlay": 0,
-      "TVisits": 41
+    "13": {
+      "placeID": "99039901919536",
+      "universeID": "99039901919536",
+      "gameData": {}
     },
-    "attributes": {
-      "Created": "2024-10-13T16:27:24.017Z",
-      "Updated": "2025-02-15T00:30:22.14Z",
-      "Genre": "All",
-      "GenreNew": "",
-      "SubGenreNew": "",
-      "MaxPlayers": 1
-    }
-  },
-  {
-    "title": "Blinky BromsleyBridge (UNITE 2024 WINNER)",
-    "description": "Blinky BromsleyBridge - 2024 Unite Challenge\nA friendly Fictional town that is set in Ireland, the one rule is to not blink or else silly moments will happen :3\n\npictureu - Scripter\n\ncazgamez - Builder + modeller + 2D artist\n\nTorhynVhett - 2D character artist\n\nDISCLAIMER: other parts such as sounds and music are Roblox own assets or AI and some textures are AI such as ground textures. \n\n(Winner of unite 2024 Best Representation of European Culture)",
-    "placeID": "133557151082518",
-    "universeID": 6673274743,
-    "stats": {
-      "TPlay": 0,
-      "TVisits": 101
+    "14": {
+      "placeID": "136808248264802",
+      "universeID": "136808248264802",
+      "gameData": {}
     },
-    "attributes": {
-      "Created": "2024-10-13T17:15:13.84Z",
-      "Updated": "2025-02-10T15:58:24.73Z",
-      "Genre": "All",
-      "GenreNew": "",
-      "SubGenreNew": "",
-      "MaxPlayers": 1
+    "15": {
+      "placeID": "133557151082518",
+      "universeID": "133557151082518",
+      "gameData": {}
     }
   }
-]
+}
