@@ -20,18 +20,59 @@ const defaultInfo = {
   "TotalGameJams": 1
 };
 
-let gameJamData = { "info": defaultInfo };
+let gameJamData = {
+  defaultData: defaultInfo,
+};
 
 // Define the forum post URLs for each game jam
 const GAMEJAM_URLS = {
-  "gameJam1": "https://devforum.roblox.com/raw/3389448?page="
-  //"gameJam2": "https://devforum.roblox.com/raw/3181924/?page=",
+//  "gameJam1": "https://devforum.roblox.com/raw/3389448?page="
+  "gameJam2": "https://devforum.roblox.com/raw/3181924/?page="
   //"gameJam3": "https://devforum.roblox.com/raw/3104238/?page=",
   //"gameJam4": "https://devforum.roblox.com/raw/2779970/?page=",
  // "gameJam5": "https://devforum.roblox.com/raw/2468676/?page=",
  // "gameJam6": "https://devforum.roblox.com/raw/2206650/?page=",
  // "gameJam7": "https://devforum.roblox.com/raw/1677276/?page="
 };
+
+async function fetchAndPopulateGameJamData(gameJamKey, baseURL) {
+  let page = 1;
+  let foundLinks = new Set();
+
+  while (true) {
+    let url = baseURL + page;
+    let ids = await scrapePage(url);
+
+    if (ids === null) {
+      console.log(`Page ${page} for ${gameJamKey} is empty. Stopping.`);
+      break; // Stop if we get an empty page
+    }
+
+    ids.forEach(id => foundLinks.add(id));  // Add unique IDs
+    page++;
+  }
+
+  // Populate the gameJamData with the scraped IDs
+  if (foundLinks.size > 0) {
+    let formattedData = {};
+    let index = 1;
+
+    foundLinks.forEach(id => {
+      formattedData[index] = {
+        placeID: id,  // For now, placeID is the game ID itself
+        universeID: id,  // Placeholder, you can replace this with real universeID
+        gameData: {}  // Placeholder for actual game data
+      };
+      index++;
+    });
+
+    // Update the gameJamData object with the new data for this game jam
+    gameJamData[gameJamKey] = formattedData;
+    console.log(`Scraped ${foundLinks.size} unique game IDs for ${gameJamKey}.`);
+  } else {
+    console.log(`No valid game links found for ${gameJamKey}.`);
+  }
+}
 
 // Roblox API Endpoints
 const GetUniverseApi = "https://apis.roproxy.com/universes/v1/places/";
@@ -225,9 +266,9 @@ async function fetchGameData() {
 
 // Main function to run both the scraper and the game data fetcher
 async function runScraperAndFetcher() {
-  // Ensure scraping happens first
-  for (let [gameJam, url] of Object.entries(GAMEJAM_URLS)) {
-    await scrapeGameJam(gameJam, url);
+  // Loop through each game jam and scrape data
+  for (let [gameJamKey, url] of Object.entries(GAMEJAM_URLS)) {
+    await fetchAndPopulateGameJamData(gameJamKey, url);
   }
 
   // Fetch game data after scraping
