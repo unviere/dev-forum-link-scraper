@@ -4,7 +4,7 @@ const fs = require("fs");
 // Define the forum post URLs for each game jam
 const GAMEJAM_URLS = {
     "gameJam1": "https://devforum.roblox.com/raw/3389448?page=",
-    "gameJam2": "https://devforum.roblox.com/raw/3181924/?page=",
+    "gameJam2": "https://devforum.roblox.com/raw/3181924/?page="
    // "gameJam3": "https://devforum.roblox.com/raw/3104238/?page=",
    // "gameJam4": "https://devforum.roblox.com/raw/2779970/?page=",
    // "gameJam5": "https://devforum.roblox.com/raw/2468676/?page=",
@@ -35,7 +35,7 @@ const defaultInfo = {
             "Description": "Unite 2024 offers an exciting opportunity to network, compete, and win amazing prizes.",
             "Theme": "There is only one rule",
             "OGName": "un24_ID6"
-        },
+        }
         // Add other game jam details as needed...
     },
     "TotalGameJams": 2
