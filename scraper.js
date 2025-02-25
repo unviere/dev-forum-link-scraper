@@ -264,7 +264,8 @@ async function fetchGameData() {
 
 
     // Save all collected game data to JSON
-    fs.writeFileSync("game_data.json", JSON.stringify(allGameData, null, 2));
+    fs.writeFileSync("game_data.json", JSON.stringify(gameJamData, null, 2));
+
     console.log("Saved all data to game_data.json");
 
   } catch (error) {
