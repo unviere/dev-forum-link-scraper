@@ -152,6 +152,8 @@ async function scrapeGameJam(gameJamKey, baseURL) {
 
 // Function to get Universe ID
 async function getUniverseID(placeID) {
+  console.log(`Fetching Universe ID for placeID: ${placeID}`);
+
   try {
     const response = await axios.get(GetUniverseApi + placeID + "/universe");
     return response.data.universeId;
@@ -196,7 +198,9 @@ async function getGameData(universeID) {
 
 // Function to fetch game data
 async function fetchGameData() {
-  let allGameData = [];
+  console.log("All collected game data:", JSON.stringify(allGameData, null, 2));
+
+  //let allGameData = [];
 
   try {
     for (let [gameJam, gameJamDetails] of Object.entries(gameJamData)) {
@@ -254,6 +258,9 @@ async function fetchGameData() {
         }
       }
     }
+
+  
+
 
     // Save all collected game data to JSON
     fs.writeFileSync("game_data.json", JSON.stringify(allGameData, null, 2));
