@@ -200,7 +200,7 @@ async function getGameData(universeID) {
 async function fetchGameData() {
   console.log("All collected game data:", JSON.stringify(allGameData, null, 2));
 
-  //let allGameData = [];
+  let allGameData = [];
 
   try {
     for (let [gameJam, gameJamDetails] of Object.entries(gameJamData)) {
