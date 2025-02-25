@@ -215,7 +215,8 @@ async function fetchGameData() {
             index = 0;
           }
 
-          const placeID = gameJamIDs[i];
+          const placeID = gameJamIDs[i].placeID; // Extract the actual place ID
+
           const universeID = await getUniverseID(placeID);
           if (!universeID) continue;
 
