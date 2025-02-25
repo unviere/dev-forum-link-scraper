@@ -64,7 +64,7 @@ async function fetchAndPopulateGameJamData(gameJamKey, baseURL) {
         gameData: {}  // Placeholder for actual game data
       };
       index++;
-  });
+    });
 
     // Update the gameJamData object with the new data for this game jam
     gameJamData[gameJamKey] = formattedData;
@@ -87,7 +87,6 @@ let info = {
 };
 
 // Function to scrape content from a specific page
-// Scrape and log the game jam IDs
 async function scrapePage(url) {
   try {
     const { data } = await axios.get(url);
@@ -113,44 +112,6 @@ async function scrapePage(url) {
   } catch (error) {
     console.error(`Error scraping ${url}:`, error);
     return null;
-  }
-}
-
-
-// Function to scrape all pages for a game jam
-async function scrapeGameJam(gameJamKey, baseURL) {
-  let page = 1;
-  let foundLinks = new Set();
-
-  while (true) {
-    let url = baseURL + page;
-    let ids = await scrapePage(url);
-
-    if (ids === null) {
-      console.log(`Page ${page} for ${gameJamKey} is empty. Stopping.`);
-      break; // Stop if we get an empty page
-    }
-
-    // Add unique IDs
-    ids.forEach(id => foundLinks.add(id));
-    page++; // Move to the next page
-  }
-
-  // Save structured data if IDs were found
-  if (foundLinks.size > 0) {
-    let formattedData = {};
-    let index = 1;
-
-    foundLinks.forEach(id => {
-      formattedData[index] = id;
-      index++;
-    });
-
-    // Update the gameJamData object with the new data for the game jam
-    gameJamData[gameJamKey] = formattedData;
-    console.log(`Scraped ${foundLinks.size} unique game IDs for ${gameJamKey}.`);
-  } else {
-    console.log(`No valid game links found for ${gameJamKey}.`);
   }
 }
 
@@ -202,62 +163,58 @@ async function getGameData(universeID) {
 
 // Function to fetch game data
 async function fetchGameData() {
-
-
   let allGameData = [];
   console.log("All collected game data:", JSON.stringify(allGameData, null, 2));
+
   try {
-   for (let [gameJam, gameJamDetails] of Object.entries(gameJamData)) {
-  if (gameJam !== "info") {
-    const gameJamIDs = Object.values(gameJamDetails);
+    for (let [gameJam, gameJamDetails] of Object.entries(gameJamData)) {
+      if (gameJam !== "info") {
+        const gameJamIDs = Object.values(gameJamDetails);
 
-    for (let i = 0; i < gameJamIDs.length; i++) {
-      const placeID = gameJamIDs[i];
+        for (let i = 0; i < gameJamIDs.length; i++) {
+          const placeID = gameJamIDs[i];
 
-      const universeID = await getUniverseID(placeID);
-      if (!universeID) continue;
+          const universeID = await getUniverseID(placeID);
+          if (!universeID) continue;
 
-      const gameInfo = await getGameData(universeID);
-      if (gameInfo) {
-        const newGame = { 
-          title: gameInfo.name || "Unknown",
-          description: gameInfo.description || "No description",
-          placeID: placeID,
-          universeID: universeID,
-          stats: {
-            TPlay: gameInfo.playing || 0,
-            TVisits: gameInfo.visits || 0,
-          },
-          attributes: {
-            Created: gameInfo.created || "Unknown",
-            Updated: gameInfo.updated || "Unknown",
-            Genre: gameInfo.genre || "All",
-            GenreNew: gameInfo.genre_l1 || "",
-            SubGenreNew: gameInfo.genre_l2 || "",
-            MaxPlayers: gameInfo.maxPlayers || 0,
-          },
-        };
+          const gameInfo = await getGameData(universeID);
+          if (gameInfo) {
+            const newGame = { 
+              title: gameInfo.name || "Unknown",
+              description: gameInfo.description || "No description",
+              placeID: placeID,
+              universeID: universeID,
+              stats: {
+                TPlay: gameInfo.playing || 0,
+                TVisits: gameInfo.visits || 0,
+              },
+              attributes: {
+                Created: gameInfo.created || "Unknown",
+                Updated: gameInfo.updated || "Unknown",
+                Genre: gameInfo.genre || "All",
+                GenreNew: gameInfo.genre_l1 || "",
+                SubGenreNew: gameInfo.genre_l2 || "",
+                MaxPlayers: gameInfo.maxPlayers || 0,
+              },
+            };
 
-        // ✅ **Store it inside `gameJamData` correctly**
-        if (!gameJamData[gameJam]) {
-          gameJamData[gameJam] = {};
+            // Store it inside `gameJamData` correctly
+            if (!gameJamData[gameJam]) {
+              gameJamData[gameJam] = {};
+            }
+            gameJamData[gameJam][placeID] = { 
+              placeID: placeID, 
+              universeID: universeID, 
+              gameData: newGame  // Now storing gameData properly
+            };
+
+            console.log("Game saved in gameJamData:", gameJamData[gameJam][placeID]);
+          } else {
+            console.warn(`No game data found for universe ID: ${universeID}`);
+          }
         }
-        gameJamData[gameJam][placeID] = { 
-          placeID: placeID, 
-          universeID: universeID, 
-          gameData: newGame  // ✅ **Now storing gameData properly**
-        };
-
-        console.log("✅ Game saved in gameJamData:", gameJamData[gameJam][placeID]);
-      } else {
-        console.warn(`⚠️ No game data found for universe ID: ${universeID}`);
       }
     }
-  }
-}
-
-  
-
 
     // Save all collected game data to JSON
     fs.writeFileSync("game_data.json", JSON.stringify(gameJamData, null, 2));
