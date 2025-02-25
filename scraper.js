@@ -60,11 +60,11 @@ async function fetchAndPopulateGameJamData(gameJamKey, baseURL) {
     foundLinks.forEach(id => {
       formattedData[index] = {
         placeID: id,  // For now, placeID is the game ID itself
-        universeID: id,  // Placeholder, you can replace this with real universeID
+        universeID: null,  // Placeholder for universeID until it's fetched
         gameData: {}  // Placeholder for actual game data
       };
       index++;
-    });
+  });
 
     // Update the gameJamData object with the new data for this game jam
     gameJamData[gameJamKey] = formattedData;
@@ -87,31 +87,35 @@ let info = {
 };
 
 // Function to scrape content from a specific page
+// Scrape and log the game jam IDs
 async function scrapePage(url) {
   try {
     const { data } = await axios.get(url);
     console.log(`Scraping ${url}...`);
-
+    
+    // Check if the page data is valid
     if (!data || data.trim() === "") {
       console.log(`Page ${url} is empty.`);
-      return null; // Page is completely blank
+      return null; // If no data, return null
     }
-
-    // Extract game IDs from URLs
+    
+    // Extract game IDs using regex
     const regex = /https:\/\/www\.roblox\.com\/games\/(\d+)/g;
     let matches;
     let ids = new Set(); // Store unique IDs
 
     while ((matches = regex.exec(data)) !== null) {
-      ids.add(matches[1]); // Extracted game ID
+      ids.add(matches[1]); // Add each unique game ID to the set
     }
 
+    console.log(`Found game IDs:`, Array.from(ids));
     return Array.from(ids);
   } catch (error) {
     console.error(`Error scraping ${url}:`, error);
     return null;
   }
 }
+
 
 // Function to scrape all pages for a game jam
 async function scrapeGameJam(gameJamKey, baseURL) {
