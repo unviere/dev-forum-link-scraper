@@ -4,9 +4,9 @@ on:
   workflow_dispatch:  # Allows you to manually trigger the workflow
   schedule:
     - cron: "0 */6 * * *"  # Runs every 6 hours
-  push:
-    branches:
-      - new-1
+#push:
+   # branches:
+    #  - new-1
 
 permissions:
   contents: write
