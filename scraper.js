@@ -98,6 +98,7 @@ const defaultInfo = {
 
 // Initialize the gameJamData object with the defaultInfo data
 let gameJamData = { "info": defaultInfo };
+console.log(gameJamData);  // Before starting the loop
 
 // Roblox API Endpoints
 const GetUniverseApi = "https://apis.roproxy.com/universes/v1/places/";
@@ -140,6 +141,8 @@ async function scrapePage(url) {
 
 // Function to scrape all pages for a game jam until an empty page is found
 async function scrapeGameJam(gameJamKey, baseURL) {
+    console.log(gameJamData);  // Before starting the loop
+
     let page = 1;
     let foundLinks = new Set();
 
@@ -221,13 +224,15 @@ async function getGameData(universeID) {
 }
 
 // Main function to fetch game data based on scraped universe IDs
+// Function to fetch game data based on scraped universe IDs
 async function fetchGameData() {
     let allGameData = [];
+console.log(gameJamData);  // Before starting the loop
 
     try {
-        for (let [gameJam, gameJamData] of Object.entries(gameJamData)) {
+        for (let [gameJam, gameJamDetails] of Object.entries(gameJamData)) {
             if (gameJam !== "info") {
-                const gameJamIDs = Object.values(gameJamData);
+                const gameJamIDs = Object.values(gameJamDetails);
 
                 for (let i = 0; i < gameJamIDs.length; i++) {
                     index++;
