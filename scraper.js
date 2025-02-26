@@ -165,31 +165,36 @@ async function getGameData(universeID) {
 
 // Function to fetch game data
 async function fetchGameData() {
-    console.log("All collected game data:", JSON.stringify(gameJamData, null, 2));
+    console.log("All collected game data before fetching details:", JSON.stringify(gameJamData, null, 2));
 
     try {
         for (let [gameJam, gameJamDetails] of Object.entries(gameJamData)) {
             if (gameJam !== "info") {
-                const gameJamIDs = Object.values(gameJamDetails);
+                let formattedData = {}; // Store correct indexed data
+                let index = 1; // Start indexing from 1
 
-                for (let i = 0; i < gameJamIDs.length; i++) {
-                    const placeID = gameJamIDs[i].placeID; // Extract placeID
+                for (let gameEntry of Object.values(gameJamDetails)) {
+                    const placeID = gameEntry.placeID;
                     if (!placeID) continue;
 
                     console.log(`Fetching data for placeID: ${placeID}`);
                     const universeID = await getUniverseID(placeID);
-                    if (!universeID) continue;
+                    if (!universeID) continue; // Skip if universe ID not found
 
                     const gameInfo = await getGameData(universeID);
-                    if (gameInfo) {
-                        const newGame = {
+                    if (!gameInfo) continue; // Skip if no game data is found
+
+                    formattedData[index] = {
+                        placeID: placeID,
+                        universeID: universeID,
+                        gameData: {
                             title: gameInfo.name || "Unknown",
                             description: gameInfo.description || "No description",
                             placeID: placeID,
                             universeID: universeID,
                             stats: {
                                 TPlay: gameInfo.playing || 0,
-                                TVisits: gameInfo.visits || 0,
+                                TVisits: gameInfo.visits || 0
                             },
                             attributes: {
                                 Created: gameInfo.created || "Unknown",
@@ -197,23 +202,17 @@ async function fetchGameData() {
                                 Genre: gameInfo.genre || "All",
                                 GenreNew: gameInfo.genre_l1 || "",
                                 SubGenreNew: gameInfo.genre_l2 || "",
-                                MaxPlayers: gameInfo.maxPlayers || 0,
-                            },
-                        };
+                                MaxPlayers: gameInfo.maxPlayers || 0
+                            }
+                        }
+                    };
 
-                        // Ensure numerical indexing
-                        let gameIndex = Object.keys(gameJamData[gameJam]).length + 1;
-                        gameJamData[gameJam][gameIndex] = {
-                            placeID: placeID,
-                            universeID: universeID,
-                            gameData: newGame
-                        };
-
-                        console.log(`Game saved in gameJamData at index ${gameIndex}:`, gameJamData[gameJam][gameIndex]);
-                    } else {
-                        console.warn(`No game data found for universe ID: ${universeID}`);
-                    }
+                    console.log(`Game saved at index ${index}:`, formattedData[index]);
+                    index++; // Increment index for the next entry
                 }
+
+                // Replace old data with the correctly indexed version
+                gameJamData[gameJam] = formattedData;
             }
         }
 
@@ -226,6 +225,7 @@ async function fetchGameData() {
         console.error("Failed to retrieve data:", error);
     }
 }
+
 
 // Main function to run both the scraper and the game data fetcher
 async function runScraperAndFetcher() {
