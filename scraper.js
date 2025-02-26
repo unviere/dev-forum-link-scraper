@@ -26,7 +26,7 @@ let gameJamData = {
 
 // Define the forum post URLs for each game jam
 const GAMEJAM_URLS = {
-    "gameJam1": "https://devforum.roblox.com/raw/3389448?page="
+    "gameJam1": "https://devforum.roblox.com/raw/3389448?page=",
     "gameJam2": "https://devforum.roblox.com/raw/3181924/?page="
     //"gameJam3": "https://devforum.roblox.com/raw/3104238/?page=",
     //"gameJam4": "https://devforum.roblox.com/raw/2779970/?page=",
