@@ -1,6 +1,6 @@
 {
   "defaultData": {
-    "lastUpdated": "2025-02-26T12:37:17.633Z",
+    "lastUpdated": "2025-02-26T12:41:25.155Z",
     "chalanceInfo": {
       "1": {
         "fullName": "Developer Chalange 2025",
@@ -15,5 +15,81 @@
     },
     "TotalGameJams": 1
   },
-  "gameJam2": {}
+  "gameJam2": {
+    "1": {
+      "placeID": "91900883945664",
+      "universeID": null,
+      "gameData": {}
+    },
+    "2": {
+      "placeID": "70566422201645",
+      "universeID": null,
+      "gameData": {}
+    },
+    "3": {
+      "placeID": "135117039113438",
+      "universeID": null,
+      "gameData": {}
+    },
+    "4": {
+      "placeID": "84839513220508",
+      "universeID": null,
+      "gameData": {}
+    },
+    "5": {
+      "placeID": "131304927566050",
+      "universeID": null,
+      "gameData": {}
+    },
+    "6": {
+      "placeID": "107169670237182",
+      "universeID": null,
+      "gameData": {}
+    },
+    "7": {
+      "placeID": "120526693923947",
+      "universeID": null,
+      "gameData": {}
+    },
+    "8": {
+      "placeID": "86599074896460",
+      "universeID": null,
+      "gameData": {}
+    },
+    "9": {
+      "placeID": "75911236210483",
+      "universeID": null,
+      "gameData": {}
+    },
+    "10": {
+      "placeID": "124035211961100",
+      "universeID": null,
+      "gameData": {}
+    },
+    "11": {
+      "placeID": "108147795805388",
+      "universeID": null,
+      "gameData": {}
+    },
+    "12": {
+      "placeID": "104409273097252",
+      "universeID": null,
+      "gameData": {}
+    },
+    "13": {
+      "placeID": "99039901919536",
+      "universeID": null,
+      "gameData": {}
+    },
+    "14": {
+      "placeID": "136808248264802",
+      "universeID": null,
+      "gameData": {}
+    },
+    "15": {
+      "placeID": "133557151082518",
+      "universeID": null,
+      "gameData": {}
+    }
+  }
 }
