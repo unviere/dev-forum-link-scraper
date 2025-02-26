@@ -57,14 +57,14 @@ async function fetchAndPopulateGameJamData(gameJamKey, baseURL) {
     let formattedData = {};
     let index = 1;
 
-    foundLinks.forEach(id => {
-      formattedData[index] = {
-        placeID: id,  // For now, placeID is the game ID itself
-        universeID: null,  // Placeholder for universeID until it's fetched
-        gameData: {}  // Placeholder for actual game data
-      };
-      index++;
-    });
+  //  foundLinks.forEach(id => {
+     // formattedData[index] = {
+     //   placeID: id,  // For now, placeID is the game ID itself
+     //   universeID: null,  // Placeholder for universeID until it's fetched
+    //    gameData: {}  // Placeholder for actual game data
+   //   };
+  //    index++;
+  //  });
 
     // Update the gameJamData object with the new data for this game jam
     gameJamData[gameJamKey] = formattedData;
