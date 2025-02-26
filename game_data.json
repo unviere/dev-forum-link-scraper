@@ -1,5 +1,20 @@
 {
-  "defaultData": {},
+  "defaultData": {
+    "lastUpdated": "2025-02-26T13:27:45.150Z",
+    "chalanceInfo": {
+      "1": {
+        "fullName": "Developer Chalange 2025",
+        "shortName": "Developer 25",
+        "Duration": "3 days",
+        "Start": "07-02-2025 | 7 feb 2025 | 23:00 | 11 pm | 0",
+        "End": "10-02-2025 | 10 feb 2025 | 23:00 | 11 pm | 0",
+        "Description": "the developer chalange always is a weekend in february the time to show off your skills by making a game in one weekend",
+        "Theme": "Break the system",
+        "OGName": "dev25_ID7"
+      }
+    },
+    "TotalGameJams": 1
+  },
   "gameJam2": {
     "1": {
       "placeID": "91900883945664",
