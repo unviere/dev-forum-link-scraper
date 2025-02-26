@@ -172,10 +172,10 @@ async function fetchGameData() {
     for (let [gameJam, gameJamDetails] of Object.entries(gameJamData)) {
       if (gameJam !== "info") {
         const gameJamIDs = Object.values(gameJamDetails);
-
+console.log(gameJamIDs)
         for (let i = 0; i < gameJamIDs.length; i++) {
           const placeID = gameJamIDs[i];
-
+console.log(placeID)
           const universeID = await getUniverseID(placeID);
           if (!universeID) continue;
 
