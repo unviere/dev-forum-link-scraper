@@ -256,11 +256,12 @@ async function fetchGameData() {
                     gameData: {
                         title: gameInfo.name || "Unknown",
                         description: gameInfo.description || "No description",
-                        placeID: placeID,
-                        universeID: universeID,
+                      //  placeID: placeID,
+                       // universeID: universeID,
                         stats: {
-                            TPlay: gameInfo.playing || 0,
-                            TVisits: gameInfo.visits || 0
+                            Playing: gameInfo.playing || 0,
+                            Visits: gameInfo.visits || 0,
+                            Favorited: gameInfo.favoritedCount || 0
                         },
                         attributes: {
                             Created: gameInfo.created || "Unknown",
@@ -269,6 +270,11 @@ async function fetchGameData() {
                             GenreNew: gameInfo.genre_l1 || "",
                             SubGenreNew: gameInfo.genre_l2 || "",
                             MaxPlayers: gameInfo.maxPlayers || 0
+                        },
+                        Creator: {
+                           Name: gameInfo.creator.name,
+                           ID: gameInfo.creator.id,
+                           Type: gameInfo.creator.type
                         }
                     }
                 };
