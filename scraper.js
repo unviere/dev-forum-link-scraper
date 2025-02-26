@@ -165,20 +165,18 @@ async function getGameData(universeID) {
 
 // Function to fetch game data
 async function fetchGameData() {
-    let allGameData = [];
-    console.log("All collected game data:", JSON.stringify(allGameData, null, 2));
+    console.log("All collected game data:", JSON.stringify(gameJamData, null, 2));
 
     try {
         for (let [gameJam, gameJamDetails] of Object.entries(gameJamData)) {
             if (gameJam !== "info") {
                 const gameJamIDs = Object.values(gameJamDetails);
-                console.log(gameJamIDs)
-                for (let i = 0; i < gameJamIDs.length; i++) {
-                    const placeID = gameJamIDs[i].placeID; // Correctly extract placeID
-                    console.log(`Fetching data for placeID: ${placeID}`);
 
+                for (let i = 0; i < gameJamIDs.length; i++) {
+                    const placeID = gameJamIDs[i].placeID; // Extract placeID
                     if (!placeID) continue;
 
+                    console.log(`Fetching data for placeID: ${placeID}`);
                     const universeID = await getUniverseID(placeID);
                     if (!universeID) continue;
 
@@ -203,19 +201,19 @@ async function fetchGameData() {
                             },
                         };
 
-                        // Store data properly
-                        gameJamData[gameJam][placeID] = {
+                        // Ensure numerical indexing
+                        let gameIndex = Object.keys(gameJamData[gameJam]).length + 1;
+                        gameJamData[gameJam][gameIndex] = {
                             placeID: placeID,
                             universeID: universeID,
                             gameData: newGame
                         };
 
-                        console.log("Game saved in gameJamData:", gameJamData[gameJam][placeID]);
+                        console.log(`Game saved in gameJamData at index ${gameIndex}:`, gameJamData[gameJam][gameIndex]);
                     } else {
                         console.warn(`No game data found for universe ID: ${universeID}`);
                     }
                 }
-
             }
         }
 
