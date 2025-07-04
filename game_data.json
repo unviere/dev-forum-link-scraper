@@ -1,6 +1,6 @@
 {
   "defaultData": {
-    "lastUpdated": "2025-07-04T01:18:37.605Z",
+    "lastUpdated": "2025-07-04T06:24:26.742Z",
     "chalanceInfo": {
       "1": {
         "fullName": "Developer Chalange 2025",
@@ -136,7 +136,7 @@
         "description": "Part of the Roblox Developer Challenge 2024\n🐹 Test your survival skills as you take care of your furry friend in \"Hungry Hungry Hamster!\"\n\nlillybearish | hiaihai1 | TopDev | Lyspyon",
         "stats": {
           "Playing": 0,
-          "Visits": 17996,
+          "Visits": 17998,
           "Favorited": 102
         },
         "attributes": {
@@ -474,7 +474,7 @@
         "description": "For the 2025 Developer Game Jam. Made in only 3 days.\nMade by the one and only...\nsome nobodies!!!\n\nYou wake up into the world inside a computer. What purpose do you have? Well, to be a virus and do malicious things to your victims! But, maybe you can change?",
         "stats": {
           "Playing": 0,
-          "Visits": 347,
+          "Visits": 348,
           "Favorited": 5
         },
         "attributes": {
@@ -1306,7 +1306,7 @@
         "description": "Made Under 72 Hours for Developer Challenge 2025\n\nYou wake up and go about your day like any other—same routine, same rhythm. But then, something feels… off. Like the world around you doesn’t quite fit anymore. Time seems to stretch, twist, or maybe even stop. Are you stuck in some kind of endless loop, or is there something deeper going on? It’s up to you to figure it out. Do you stay in the comfort of what you know, or do you dig for the truth? The choice is yours, and it’s not going to be easy.",
         "stats": {
           "Playing": 0,
-          "Visits": 620,
+          "Visits": 621,
           "Favorited": 27
         },
         "attributes": {
@@ -2034,7 +2034,7 @@
         "description": ">Incoming transmission...\n\nYou used to be free to spawn anywhere... but ever since that system was enabled, you've become a prisoner in a harsh and oppressive complex. \nWill you succumb to the endless cycle, or will you find a way to break it?\n\nRoblox Developer Challenge 2025 submission\n\nCreated by atone404 and Ringularity\n\nInspired by Portal and The Stanley Parable",
         "stats": {
           "Playing": 0,
-          "Visits": 531,
+          "Visits": 532,
           "Favorited": 13
         },
         "attributes": {
@@ -2164,7 +2164,7 @@
         "description": "Your new friend for life! Right?\n\nYou're an abandoned virtual pet... Nobody has interacted with you in years... It's time to find a way out.\n\nCreated for the February Roblox 2025 Developer Challenge\n\nScripting: Smellysuperfart\n2D Assets, Modeling: hiioh\nModeling, Building: Spookiner\nMusic: dieselfluids",
         "stats": {
           "Playing": 0,
-          "Visits": 12754,
+          "Visits": 12762,
           "Favorited": 903
         },
         "attributes": {
@@ -2866,7 +2866,7 @@
         "description": "Your lack of money forced you to sign an open-ended contract to take part in a popular experiment, where you will be very well rewarded. Your task is simple: do what you are told.\n\nThis game was made in 2 days for the Roblox Developer Challenge 2025, you may expect some bugs and glitchs.",
         "stats": {
           "Playing": 0,
-          "Visits": 32,
+          "Visits": 34,
           "Favorited": 6
         },
         "attributes": {
@@ -2975,7 +2975,7 @@
         },
         "attributes": {
           "Created": "2025-02-07T23:38:56.937Z",
-          "Updated": "2025-07-02T18:18:47.434783Z",
+          "Updated": "2025-07-02T18:18:47.433Z",
           "Genre": "All",
           "GenreNew": "",
           "SubGenreNew": "",
@@ -3281,8 +3281,8 @@
         "title": "Fart Simulator! 💨",
         "description": "BBRRAPPP!!!!\nIt's Fart Simulator! The number one farting simulation on ROBLOX!!\n\nFeatures Include:\n-30 Different Fart Sounds!\n-Many Fun NPCs!\n-Rich Story!\n-Farting!!!!!\n\nMade for the ROBLOX Developer Challenge Spring 2025 \n(Theme: Break the System)",
         "stats": {
-          "Playing": 0,
-          "Visits": 3211,
+          "Playing": 2,
+          "Visits": 3218,
           "Favorited": 16
         },
         "attributes": {
@@ -3457,6 +3457,32 @@
       }
     },
     "131": {
+      "placeID": "140370843730190",
+      "universeID": 7209950683,
+      "gameData": {
+        "title": "Escape the Phone!",
+        "description": "All you wanted to do was go get taco's with your friend.\n\nThen, you found the phone...\n\nAdventure this mystery world and figure out how to escape, and most importantly...\n\nBreak the System!",
+        "stats": {
+          "Playing": 0,
+          "Visits": 62,
+          "Favorited": 3
+        },
+        "attributes": {
+          "Created": "2025-02-07T23:02:35.353Z",
+          "Updated": "2025-04-09T00:59:18.4Z",
+          "Genre": "All",
+          "GenreNew": "",
+          "SubGenreNew": "",
+          "MaxPlayers": 1
+        },
+        "Creator": {
+          "Name": "Tubba Tycoons",
+          "ID": 11167082,
+          "Type": "Group"
+        }
+      }
+    },
+    "132": {
       "placeID": "108067592050237",
       "universeID": 7212385486,
       "gameData": {
@@ -3482,7 +3508,7 @@
         }
       }
     },
-    "132": {
+    "133": {
       "placeID": "124870019155574",
       "universeID": 7218037134,
       "gameData": {
@@ -3508,7 +3534,7 @@
         }
       }
     },
-    "133": {
+    "134": {
       "placeID": "109485588458218",
       "universeID": 7210868254,
       "gameData": {
@@ -3534,7 +3560,7 @@
         }
       }
     },
-    "134": {
+    "135": {
       "placeID": "96163352774069",
       "universeID": 7226787325,
       "gameData": {
@@ -3560,7 +3586,7 @@
         }
       }
     },
-    "135": {
+    "136": {
       "placeID": "83713907852106",
       "universeID": 7212008342,
       "gameData": {
@@ -3586,7 +3612,7 @@
         }
       }
     },
-    "136": {
+    "137": {
       "placeID": "72912130469681",
       "universeID": 7212779734,
       "gameData": {
@@ -3612,7 +3638,7 @@
         }
       }
     },
-    "137": {
+    "138": {
       "placeID": "78132847686092",
       "universeID": 7212386423,
       "gameData": {
@@ -3638,7 +3664,7 @@
         }
       }
     },
-    "138": {
+    "139": {
       "placeID": "106042066179089",
       "universeID": 7208448289,
       "gameData": {
@@ -3664,7 +3690,7 @@
         }
       }
     },
-    "139": {
+    "140": {
       "placeID": "85190148898169",
       "universeID": 7210062717,
       "gameData": {
@@ -3690,7 +3716,7 @@
         }
       }
     },
-    "140": {
+    "141": {
       "placeID": "112583259836702",
       "universeID": 7215794292,
       "gameData": {
@@ -3716,7 +3742,7 @@
         }
       }
     },
-    "141": {
+    "142": {
       "placeID": "80525326226235",
       "universeID": 7211102200,
       "gameData": {
@@ -3742,7 +3768,7 @@
         }
       }
     },
-    "142": {
+    "143": {
       "placeID": "96741259723218",
       "universeID": 7213482043,
       "gameData": {
@@ -3768,7 +3794,7 @@
         }
       }
     },
-    "143": {
+    "144": {
       "placeID": "80994083209502",
       "universeID": 7210078102,
       "gameData": {
@@ -3794,7 +3820,7 @@
         }
       }
     },
-    "144": {
+    "145": {
       "placeID": "138575298989692",
       "universeID": 7221698316,
       "gameData": {
@@ -3820,7 +3846,7 @@
         }
       }
     },
-    "145": {
+    "146": {
       "placeID": "91296245716001",
       "universeID": 7211252032,
       "gameData": {
@@ -3846,7 +3872,7 @@
         }
       }
     },
-    "146": {
+    "147": {
       "placeID": "126574915202769",
       "universeID": 7210008936,
       "gameData": {
@@ -3872,7 +3898,7 @@
         }
       }
     },
-    "147": {
+    "148": {
       "placeID": "102842680645879",
       "universeID": 7210422085,
       "gameData": {
@@ -3898,7 +3924,7 @@
         }
       }
     },
-    "148": {
+    "149": {
       "placeID": "81724075215140",
       "universeID": 7209961033,
       "gameData": {
@@ -3924,7 +3950,7 @@
         }
       }
     },
-    "149": {
+    "150": {
       "placeID": "111966874384784",
       "universeID": 7211771997,
       "gameData": {
@@ -3950,7 +3976,7 @@
         }
       }
     },
-    "150": {
+    "151": {
       "placeID": "97780181113052",
       "universeID": 7210900724,
       "gameData": {
@@ -3976,7 +4002,7 @@
         }
       }
     },
-    "151": {
+    "152": {
       "placeID": "131703287651357",
       "universeID": 7212585938,
       "gameData": {
@@ -4002,7 +4028,7 @@
         }
       }
     },
-    "152": {
+    "153": {
       "placeID": "124030455534901",
       "universeID": 7234882718,
       "gameData": {
@@ -4028,7 +4054,7 @@
         }
       }
     },
-    "153": {
+    "154": {
       "placeID": "95763096032104",
       "universeID": 7243037786,
       "gameData": {
@@ -4054,7 +4080,7 @@
         }
       }
     },
-    "154": {
+    "155": {
       "placeID": "106892291871683",
       "universeID": 6885847974,
       "gameData": {
@@ -4080,7 +4106,7 @@
         }
       }
     },
-    "155": {
+    "156": {
       "placeID": "5366010983",
       "universeID": 1881144051,
       "gameData": {
@@ -4088,7 +4114,7 @@
         "description": "No description",
         "stats": {
           "Playing": 0,
-          "Visits": 13297,
+          "Visits": 13298,
           "Favorited": 782
         },
         "attributes": {
@@ -4106,7 +4132,7 @@
         }
       }
     },
-    "156": {
+    "157": {
       "placeID": "122605544107985",
       "universeID": 7210020075,
       "gameData": {
@@ -4132,7 +4158,7 @@
         }
       }
     },
-    "157": {
+    "158": {
       "placeID": "111303556968040",
       "universeID": 7225757640,
       "gameData": {
@@ -4158,7 +4184,7 @@
         }
       }
     },
-    "158": {
+    "159": {
       "placeID": "84634840595368",
       "universeID": 7209998112,
       "gameData": {
@@ -4184,7 +4210,7 @@
         }
       }
     },
-    "159": {
+    "160": {
       "placeID": "102220311737244",
       "universeID": 7210079985,
       "gameData": {
@@ -4210,16 +4236,16 @@
         }
       }
     },
-    "160": {
+    "161": {
       "placeID": "102259817027922",
       "universeID": 6839591956,
       "gameData": {
         "title": "Let Him Go",
         "description": "\"And waking up again, this cycle repeats itself time after time.\nStop the feeling, overcome it, and let go. Can you handle it?\"\n\nA short psychological story about loss and empathy\n\n[CREDITS]\nFounder: Foxbox226\nDevelopers: Marat198017, 1Maks_Play, Alinnaria, rrxllx, OSG3141\n\nWARNING | Game will contain vivid images and sharp unrecognizable sounds, scenes of violence and a demonstration of blood.",
         "stats": {
-          "Playing": 410,
-          "Visits": 13068690,
-          "Favorited": 508218
+          "Playing": 318,
+          "Visits": 13077959,
+          "Favorited": 508519
         },
         "attributes": {
           "Created": "2024-11-25T12:20:47.987Z",
@@ -4236,7 +4262,7 @@
         }
       }
     },
-    "161": {
+    "162": {
       "placeID": "129522477162080",
       "universeID": 7435543318,
       "gameData": {
@@ -5105,9 +5131,9 @@
         "title": "Nexus [Connect 2023 Winner]",
         "description": "Controls:\nQ switch dimension\nY Reset\nH Inspect weapon\nHold down mouse button to shoot\n\n(This is only a demo for chapter 1)\n- Huge Thank you to  ItzMrRatzP For updating this game to support mobile and console!\n\nGame Constraints: \n-This was was made in 10 days for the Roblox 2023 connect challenge. \nThe theme was \"Parallelism\".\nGame Description:\n-The game is a Dimensional FPS where you are tasked with completing various task throughout the facility in order to retrieve someone. Your bullet ricochets every time it hits a panel, and every ricochet causes the bullet to swap to another dimension. \nPINK PAINT on the floor is your FRIEND :D",
         "stats": {
-          "Playing": 18,
-          "Visits": 1416351,
-          "Favorited": 58944
+          "Playing": 6,
+          "Visits": 1416765,
+          "Favorited": 58950
         },
         "attributes": {
           "Created": "2023-07-28T20:04:50.47Z",
@@ -5498,8 +5524,8 @@
         "description": "Psychis.\nIt means \"SOUL\" in Greek.\n\nKeybinds: They are listed in-game in the options tab within the main menu. \n\nPsychis is currently in its revamp stage. Let us know about any bugs if they come up.",
         "stats": {
           "Playing": 0,
-          "Visits": 1865165,
-          "Favorited": 30321
+          "Visits": 1865169,
+          "Favorited": 30320
         },
         "attributes": {
           "Created": "2022-09-25T22:35:58.843Z",
@@ -5602,7 +5628,7 @@
         "description": "DON'T OPEN THE BOX\n\nAn interactive, suspenseful, and abstract adventure through public domain and contemporary artwork inspired by the myth of Pandora's Box.\n\nCheck out the sequel of this game made for the 2025 development challenge: https://www.roblox.com/games/129538720687906/lucid-dream#!/about\n\nUse [Shift] to run.\nRecommended to play on High Graphics with Audio.\n\nThanks to everyone who is playing! I didn't expect people to play this game after the challenge was over!\n\nCreated for the Roblox Developer Challenge 2024, for the theme \"unexpected development\"",
         "stats": {
           "Playing": 0,
-          "Visits": 640,
+          "Visits": 641,
           "Favorited": 21
         },
         "attributes": {
@@ -5861,9 +5887,9 @@
         "title": "Prototype",
         "description": "Welcome to my brand new game :D !!!!\nBest game of 2024 now in early development.\nCome Test out the game!! New FEATURES!!!\n____________________________________\n(Previously known as Game [W.I.P.])\n(This game has 2 Endings)\n(This game was made for RDC:2024  In 48 hours)\nTheme: Unexpected Development\n\nCredits\n_____________________________________\n- Accessibility Updates - ItzMrRatzP\n- Code by: DylWithIt, Robogojo, Dodman531\n- GUI and voice acting by: Dodman531\n- All Models, Textures & Map by: 2Tye\n\nPremade Assets\n- Sounds provided by the Roblox toolbox  (Roblox)\n- Character animations (Robo & Dod)\n- The sound bob makes and reset sound (Dodman531)\n- Parts of the parkour system (Robo)\n- The Ortho Games Framework (By Ortho Games)",
         "stats": {
-          "Playing": 23,
-          "Visits": 3467152,
-          "Favorited": 146240
+          "Playing": 21,
+          "Visits": 3468318,
+          "Favorited": 146277
         },
         "attributes": {
           "Created": "2024-01-27T00:43:12.897Z",
@@ -6279,7 +6305,7 @@
         "stats": {
           "Playing": 0,
           "Visits": 179051,
-          "Favorited": 16697
+          "Favorited": 16698
         },
         "attributes": {
           "Created": "2024-01-26T23:06:27.287Z",
@@ -6621,7 +6647,7 @@
         },
         "attributes": {
           "Created": "2024-01-26T23:47:00.353Z",
-          "Updated": "2025-07-04T00:40:09.4860666Z",
+          "Updated": "2025-07-04T02:12:19.8090204Z",
           "Genre": "Fighting",
           "GenreNew": "",
           "SubGenreNew": "",
@@ -7604,7 +7630,7 @@
         "description": "Part of the Roblox Developer Challenge 2024\n🐹 Test your survival skills as you take care of your furry friend in \"Hungry Hungry Hamster!\"\n\nlillybearish | hiaihai1 | TopDev | Lyspyon",
         "stats": {
           "Playing": 0,
-          "Visits": 17996,
+          "Visits": 17998,
           "Favorited": 102
         },
         "attributes": {
@@ -8176,7 +8202,7 @@
         "description": "Roblox Game Jam 2024 Submission",
         "stats": {
           "Playing": 0,
-          "Visits": 128,
+          "Visits": 129,
           "Favorited": 6
         },
         "attributes": {
@@ -8384,7 +8410,7 @@
         "description": "Duo project for 'Roblox Developer Challenge 2024'\nTheme: unexpected development\n\nYou are stuck in a subway station and your goal is to find a way out!\nInteract with NPCs or things by clicking on them!\nGain experience and wins to buy stuff from the shop!\n(I don't have enough time to make the shop during the Challenge 😭)",
         "stats": {
           "Playing": 0,
-          "Visits": 12879,
+          "Visits": 12881,
           "Favorited": 163
         },
         "attributes": {
@@ -8436,8 +8462,8 @@
         "description": "A game about writing a letter to an old friend.\n\nControl with WASD.\nRoblox Developer Challenge 2024.",
         "stats": {
           "Playing": 0,
-          "Visits": 11845,
-          "Favorited": 1851
+          "Visits": 11856,
+          "Favorited": 1852
         },
         "attributes": {
           "Created": "2024-01-27T05:12:06.223Z",
@@ -10049,9 +10075,9 @@
         "title": "Mayor Of Chain Town",
         "description": "Mayor of Chain Town was a game created during the 2023 Game Jam on Roblox based on the theme, \"Chain Reaction\". \nCredits:\n\nScripter - RjTheDev\nScripter - supergreatr299\nModeler - teddyraptor5\nBuilder - dinoboy5560\nComposer - Zacchary21\n\nMake sure to join the group on my profile '- Super Studios -'!",
         "stats": {
-          "Playing": 15,
-          "Visits": 2358064,
-          "Favorited": 29824
+          "Playing": 10,
+          "Visits": 2358766,
+          "Favorited": 29822
         },
         "attributes": {
           "Created": "2023-03-17T20:34:06.513Z",
@@ -10440,7 +10466,7 @@
         "description": "Dominos is a game in which there are 10 levels. The goal is to cause a chain reaction to make yourself a path to continue to the next level. You can do this by firing an energy ball at a specific domino, causing it to fall, and affecting other dominos.\nPress \"1\" key to equip the energy weapon.\n\n(WE ONLY HAD 72 HOURS TO CREATE THIS GAME!)",
         "stats": {
           "Playing": 0,
-          "Visits": 495,
+          "Visits": 497,
           "Favorited": 6
         },
         "attributes": {
@@ -11482,7 +11508,7 @@
         "description": "Use the scanner to explore and find portals to new worlds 👀 Created for the \"Roblox Developer Dream Jam\" Last version published ##### PM ####### Credits: AntiBoomz0r FieryEvent The_Potato97 devaleporbet sircfenner",
         "stats": {
           "Playing": 0,
-          "Visits": 2186,
+          "Visits": 2187,
           "Favorited": 108
         },
         "attributes": {
@@ -11741,9 +11767,9 @@
         "title": "Dream Job",
         "description": "A Game Jam Submission\r\n\r\nBy Guard303 and DARKEVATOR",
         "stats": {
-          "Playing": 1,
-          "Visits": 2511782,
-          "Favorited": 49575
+          "Playing": 0,
+          "Visits": 2511856,
+          "Favorited": 49574
         },
         "attributes": {
           "Created": "2022-03-05T02:27:55.78Z",
