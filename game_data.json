@@ -1,6 +1,6 @@
 {
   "defaultData": {
-    "lastUpdated": "2025-07-27T06:24:31.982Z",
+    "lastUpdated": "2025-07-27T12:33:05.605Z",
     "chalanceInfo": {
       "1": {
         "fullName": "Developer Chalange 2025",
@@ -136,8 +136,8 @@
         "description": "Part of the Roblox Developer Challenge 2024\n🐹 Test your survival skills as you take care of your furry friend in \"Hungry Hungry Hamster!\"\n\nlillybearish | hiaihai1 | TopDev | Lyspyon",
         "stats": {
           "Playing": 0,
-          "Visits": 18570,
-          "Favorited": 102
+          "Visits": 18581,
+          "Favorited": 103
         },
         "attributes": {
           "Created": "2024-01-27T03:48:04.753Z",
@@ -760,7 +760,7 @@
         "description": "If it sounds like its too good to be true, it most likely is. \nDont fall for Robux scams!\n\nDeveloped by @fizzysaur with the moral support and assistance of @green271 :)\nCreated for the Roblox 2025 Developer Challenge - Feb 7-10th 2025",
         "stats": {
           "Playing": 0,
-          "Visits": 240,
+          "Visits": 241,
           "Favorited": 14
         },
         "attributes": {
@@ -1410,12 +1410,12 @@
         "description": "Welcome to Hotfix, an all-new party game where the physics change every few seconds!\n\n💥 Survive the madness as random hotfixes are applied to the testing environment\n🛠️ Adapt to new unpredictable game mechanics\n🎯 Complete challenges to earn points\n🏆 Win solo or with a team - the choice is up to you!\n\n⚠️ At least 2 players are required to play\n🎮 24 player servers so you can easily compete against friends\n\n🏆 This game was constructed within a 3 day timeframe as part of the Roblox Developer Challenge 2025 game jam! 🏆\n\nGood luck and have fun!!",
         "stats": {
           "Playing": 0,
-          "Visits": 112,
+          "Visits": 127,
           "Favorited": 1
         },
         "attributes": {
           "Created": "2025-02-08T08:47:47.36Z",
-          "Updated": "2025-02-10T22:11:47.933Z",
+          "Updated": "2025-07-27T10:30:03.4756676Z",
           "Genre": "All",
           "GenreNew": "Survival",
           "SubGenreNew": "",
@@ -1488,7 +1488,7 @@
         "description": "🦠 VIRUS.EXE – Break the System 💻🔥\n\nRoblox Developer Challenge 2025\n\nBoss Fight Was Rushed\n\nCredit to coolamirereqi (nickname: MrPlagueMask)\nCredit to ME\n\n🔨 CONTROLS – PC / Console 🔨\nDash: Q (PC) / LT (Console)",
         "stats": {
           "Playing": 0,
-          "Visits": 70,
+          "Visits": 71,
           "Favorited": 3
         },
         "attributes": {
@@ -1623,7 +1623,7 @@
         },
         "attributes": {
           "Created": "2025-02-07T23:02:56.83Z",
-          "Updated": "2025-07-25T19:40:09.6117925Z",
+          "Updated": "2025-07-25T19:40:09.613Z",
           "Genre": "All",
           "GenreNew": "Puzzle",
           "SubGenreNew": "Escape Room",
@@ -2008,7 +2008,7 @@
         "description": "Created for the RDC 2025 GameJam \"Break the System\"\nPlayable on PC, Mobile & Console.\n\nA short game where you play as a fish.\nDrag windows on your way to escape!\n\nCredits:\n\nLukaAdidasn - 3D models, animations, music, helped build the map and sprite\neeeLee - Coder and built the map\nD4WizardBoi - Coder\nTootyPatrooty - Lead",
         "stats": {
           "Playing": 0,
-          "Visits": 554,
+          "Visits": 563,
           "Favorited": 27
         },
         "attributes": {
@@ -2034,7 +2034,7 @@
         "description": ">Incoming transmission...\n\nYou used to be free to spawn anywhere... but ever since that system was enabled, you've become a prisoner in a harsh and oppressive complex. \nWill you succumb to the endless cycle, or will you find a way to break it?\n\nRoblox Developer Challenge 2025 submission\n\nCreated by atone404 and Ringularity\n\nInspired by Portal and The Stanley Parable",
         "stats": {
           "Playing": 0,
-          "Visits": 648,
+          "Visits": 649,
           "Favorited": 14
         },
         "attributes": {
@@ -2164,7 +2164,7 @@
         "description": "Your new friend for life! Right?\n\nYou're an abandoned virtual pet... Nobody has interacted with you in years... It's time to find a way out.\n\nCreated for the February Roblox 2025 Developer Challenge\n\nScripting: Smellysuperfart\n2D Assets, Modeling: hiioh\nModeling, Building: Spookiner\nMusic: dieselfluids",
         "stats": {
           "Playing": 0,
-          "Visits": 13116,
+          "Visits": 13120,
           "Favorited": 915
         },
         "attributes": {
@@ -3282,7 +3282,7 @@
         "description": "BBRRAPPP!!!!\nIt's Fart Simulator! The number one farting simulation on ROBLOX!!\n\nFeatures Include:\n-30 Different Fart Sounds!\n-Many Fun NPCs!\n-Rich Story!\n-Farting!!!!!\n\nMade for the ROBLOX Developer Challenge Spring 2025 \n(Theme: Break the System)",
         "stats": {
           "Playing": 0,
-          "Visits": 3772,
+          "Visits": 3779,
           "Favorited": 16
         },
         "attributes": {
@@ -3464,7 +3464,7 @@
         "description": "All you wanted to do was go get taco's with your friend.\n\nThen, you found the phone...\n\nAdventure this mystery world and figure out how to escape, and most importantly...\n\nBreak the System!",
         "stats": {
           "Playing": 0,
-          "Visits": 72,
+          "Visits": 73,
           "Favorited": 3
         },
         "attributes": {
@@ -3502,9 +3502,9 @@
           "MaxPlayers": 50
         },
         "Creator": {
-          "Name": "",
-          "ID": 0,
-          "Type": ""
+          "Name": "Unviere",
+          "ID": 32826338,
+          "Type": "Group"
         }
       }
     },
@@ -4113,9 +4113,9 @@
         "title": "[🏆] Shapescape",
         "description": "No description",
         "stats": {
-          "Playing": 0,
-          "Visits": 14762,
-          "Favorited": 826
+          "Playing": 1,
+          "Visits": 14807,
+          "Favorited": 827
         },
         "attributes": {
           "Created": "2020-07-17T20:06:29.19Z",
@@ -4243,9 +4243,9 @@
         "title": "Let Him Go",
         "description": "\"And waking up again, this cycle repeats itself time after time.\nStop the feeling, overcome it, and let go. Can you handle it?\"\n\nA short psychological story about loss and empathy\n\n[CREDITS]\nFounder: Foxbox226\nDevelopers: Marat198017, 1Maks_Play, Alinnaria, rrxllx, OSG3141\n\nWARNING | Game will contain vivid images and sharp unrecognizable sounds, scenes of violence and a demonstration of blood.",
         "stats": {
-          "Playing": 311,
-          "Visits": 14512015,
-          "Favorited": 550354
+          "Playing": 340,
+          "Visits": 14521098,
+          "Favorited": 550552
         },
         "attributes": {
           "Created": "2024-11-25T12:20:47.987Z",
@@ -4794,7 +4794,7 @@
         "description": "Credits:\n@noahrepublic\n@SirDerpsAlot83\n@HollowMariofan\n@drillbitboxer\n@jake_4543\n\nMade for the Connect 2023 Gamejam. Won 3rd place for Most Unique Game Concept",
         "stats": {
           "Playing": 0,
-          "Visits": 2152,
+          "Visits": 2153,
           "Favorited": 355
         },
         "attributes": {
@@ -5131,9 +5131,9 @@
         "title": "Nexus [Connect 2023 Winner]",
         "description": "Controls:\nQ switch dimension\nY Reset\nH Inspect weapon\nHold down mouse button to shoot\n\n(This is only a demo for chapter 1)\n- Huge Thank you to  ItzMrRatzP For updating this game to support mobile and console!\n\nGame Constraints: \n-This was was made in 10 days for the Roblox 2023 connect challenge. \nThe theme was \"Parallelism\".\nGame Description:\n-The game is a Dimensional FPS where you are tasked with completing various task throughout the facility in order to retrieve someone. Your bullet ricochets every time it hits a panel, and every ricochet causes the bullet to swap to another dimension. \nPINK PAINT on the floor is your FRIEND :D",
         "stats": {
-          "Playing": 20,
-          "Visits": 1489494,
-          "Favorited": 61024
+          "Playing": 17,
+          "Visits": 1490309,
+          "Favorited": 61037
         },
         "attributes": {
           "Created": "2023-07-28T20:04:50.47Z",
@@ -5314,7 +5314,7 @@
         "description": "🎉Winner of Most Unique Game for Connect 2023🎉\nDeveloped in 5 days\n\n🎹 Match parallel lines on your piano to create harmonious melodies, perfect your timing, and play back your masterpiece in 'Parallel Pianist.' \n\nAs a talented pianist, you must master the art of matching parallel lines with the keys 'A,' 'S,' 'K,' and 'L' on your piano. As the tempo increases, match lines of varying lengths. But beware of mistakes! A record scratch awaits for every wrong match. Earn points by perfecting your rhythm and timing. As you progress, the challenge intensifies, adding new keys and a faster tempo to keep you on your toes!\n\n🎨Entry for Connect 2023 Challenge - Theme: Parallelism ",
         "stats": {
           "Playing": 0,
-          "Visits": 334,
+          "Visits": 335,
           "Favorited": 4
         },
         "attributes": {
@@ -5524,8 +5524,8 @@
         "description": "Psychis.\nIt means \"SOUL\" in Greek.\n\nKeybinds: They are listed in-game in the options tab within the main menu. \n\nPsychis is currently in its revamp stage. Let us know about any bugs if they come up.",
         "stats": {
           "Playing": 0,
-          "Visits": 1865888,
-          "Favorited": 30256
+          "Visits": 1865893,
+          "Favorited": 30255
         },
         "attributes": {
           "Created": "2022-09-25T22:35:58.843Z",
@@ -5628,7 +5628,7 @@
         "description": "DON'T OPEN THE BOX\n\nAn interactive, suspenseful, and abstract adventure through public domain and contemporary artwork inspired by the myth of Pandora's Box.\n\nCheck out the sequel of this game made for the 2025 development challenge: https://www.roblox.com/games/129538720687906/lucid-dream#!/about\n\nUse [Shift] to run.\nRecommended to play on High Graphics with Audio.\n\nThanks to everyone who is playing! I didn't expect people to play this game after the challenge was over!\n\nCreated for the Roblox Developer Challenge 2024, for the theme \"unexpected development\"",
         "stats": {
           "Playing": 0,
-          "Visits": 689,
+          "Visits": 690,
           "Favorited": 22
         },
         "attributes": {
@@ -5887,9 +5887,9 @@
         "title": "Prototype",
         "description": "Welcome to my brand new game :D !!!!\nBest game of 2024 now in early development.\nCome Test out the game!! New FEATURES!!!\n____________________________________\n(Previously known as Game [W.I.P.])\n(This game has 2 Endings)\n(This game was made for RDC:2024  In 48 hours)\nTheme: Unexpected Development\n\nCredits\n_____________________________________\n- Accessibility Updates - ItzMrRatzP\n- Code by: DylWithIt, Robogojo, Dodman531\n- GUI and voice acting by: Dodman531\n- All Models, Textures & Map by: 2Tye\n\nPremade Assets\n- Sounds provided by the Roblox toolbox  (Roblox)\n- Character animations (Robo & Dod)\n- The sound bob makes and reset sound (Dodman531)\n- Parts of the parkour system (Robo)\n- The Ortho Games Framework (By Ortho Games)",
         "stats": {
-          "Playing": 23,
-          "Visits": 3645785,
-          "Favorited": 151798
+          "Playing": 25,
+          "Visits": 3647067,
+          "Favorited": 151836
         },
         "attributes": {
           "Created": "2024-01-27T00:43:12.897Z",
@@ -6044,7 +6044,7 @@
         "description": "2 player puzzles with wire logic\n\nelectric, bungee, solid and whispers of others",
         "stats": {
           "Playing": 0,
-          "Visits": 687,
+          "Visits": 688,
           "Favorited": 10
         },
         "attributes": {
@@ -6279,7 +6279,7 @@
         "stats": {
           "Playing": 0,
           "Visits": 1734,
-          "Favorited": 177
+          "Favorited": 176
         },
         "attributes": {
           "Created": "2024-01-27T00:35:57.967Z",
@@ -6303,7 +6303,7 @@
         "title": "Happy Plants",
         "description": "For the ROBLOX Gamejam.\n\nYou are a plant scientist, and you are contributing towards the development of experimental vegetation! \nI hope they turn out cool and healthy!..\n\nConeland Team:\nReal_Jaj\nOrderDestroy\nBurnedCone\nFoxIsADev\nRenssur",
         "stats": {
-          "Playing": 0,
+          "Playing": 1,
           "Visits": 179156,
           "Favorited": 16635
         },
@@ -7240,7 +7240,7 @@
         "description": "Total Chaos is a round based co-op game where anything could happen! You could say it could be an... unexpected development.\n\nMade for the Roblox Developer Challenge 2024\n\nCredits:\n@SirDerpsAlot83\n@noahrepublic\n@jake_4543\n@drillbitboxer\n@HollowMariofan",
         "stats": {
           "Playing": 0,
-          "Visits": 322,
+          "Visits": 323,
           "Favorited": 19
         },
         "attributes": {
@@ -7629,9 +7629,9 @@
         "title": "Hungry Hungry Hamster",
         "description": "Part of the Roblox Developer Challenge 2024\n🐹 Test your survival skills as you take care of your furry friend in \"Hungry Hungry Hamster!\"\n\nlillybearish | hiaihai1 | TopDev | Lyspyon",
         "stats": {
-          "Playing": 1,
-          "Visits": 18570,
-          "Favorited": 102
+          "Playing": 0,
+          "Visits": 18581,
+          "Favorited": 103
         },
         "attributes": {
           "Created": "2024-01-27T03:48:04.753Z",
@@ -8202,7 +8202,7 @@
         "description": "Roblox Game Jam 2024 Submission",
         "stats": {
           "Playing": 0,
-          "Visits": 136,
+          "Visits": 137,
           "Favorited": 6
         },
         "attributes": {
@@ -8410,7 +8410,7 @@
         "description": "Duo project for 'Roblox Developer Challenge 2024'\nTheme: unexpected development\n\nYou are stuck in a subway station and your goal is to find a way out!\nInteract with NPCs or things by clicking on them!\nGain experience and wins to buy stuff from the shop!\n(I don't have enough time to make the shop during the Challenge 😭)",
         "stats": {
           "Playing": 0,
-          "Visits": 12957,
+          "Visits": 12958,
           "Favorited": 167
         },
         "attributes": {
@@ -8462,7 +8462,7 @@
         "description": "A game about writing a letter to an old friend.\n\nControl with WASD.\nRoblox Developer Challenge 2024.",
         "stats": {
           "Playing": 0,
-          "Visits": 12364,
+          "Visits": 12370,
           "Favorited": 1888
         },
         "attributes": {
@@ -9710,7 +9710,7 @@
         "description": "Made in 2 days for the RDC 2024 Game Jam \n\nWelcome to the farm!  You have suddenly found yourself stuck on a farm where you need to earn money and get out of debt from a mysterious businessguy! \n\nThis game features \n- 20+ plants from normal to wacky \n- 14+ animals with \"personalities\" \n- Tons of hidden easter eggs \n- Several various random events \n- Goofy ragdolls and mechanics \n- at least one giraffe \n\n This game was inspired by The Upturned by Zeekerss and untitled tag game by .create.",
         "stats": {
           "Playing": 0,
-          "Visits": 79000,
+          "Visits": 79001,
           "Favorited": 3610
         },
         "attributes": {
@@ -10075,9 +10075,9 @@
         "title": "Mayor Of Chain Town",
         "description": "Mayor of Chain Town was a game created during the 2023 Game Jam on Roblox based on the theme, \"Chain Reaction\". \nCredits:\n\nScripter - RjTheDev\nScripter - supergreatr299\nModeler - teddyraptor5\nBuilder - dinoboy5560\nComposer - Zacchary21\n\nMake sure to join the group on my profile '- Super Studios -'!",
         "stats": {
-          "Playing": 5,
-          "Visits": 2496702,
-          "Favorited": 30802
+          "Playing": 9,
+          "Visits": 2497264,
+          "Favorited": 30800
         },
         "attributes": {
           "Created": "2023-03-17T20:34:06.513Z",
@@ -10546,8 +10546,8 @@
         "description": "First place winner for the 2022 Dream Game Jam\r\n\r\nGrandpa has invented a machine that can invade dreams, and your envy for others consumes you. Explore five unique dreams to collect skill fragments, and then combine them all to become the ultimate developer! Beware of enemies and treacherous paths as you journey through the minds of five developers.",
         "stats": {
           "Playing": 0,
-          "Visits": 13343,
-          "Favorited": 988
+          "Visits": 13344,
+          "Favorited": 989
         },
         "attributes": {
           "Created": "2022-03-04T23:04:30.75Z",
@@ -11768,8 +11768,8 @@
         "description": "A Game Jam Submission\r\n\r\nBy Guard303 and DARKEVATOR",
         "stats": {
           "Playing": 0,
-          "Visits": 2535158,
-          "Favorited": 49750
+          "Visits": 2535212,
+          "Favorited": 49749
         },
         "attributes": {
           "Created": "2022-03-05T02:27:55.78Z",
