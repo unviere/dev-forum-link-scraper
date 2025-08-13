@@ -12,7 +12,7 @@ const defaultInfo = {
            "Start": "09-08-2025 | 9 aug 2025 | 19:00 | 7 pm | 2",
            "End": "13-08-2025 | 13 aug 2025 | 9:00 | 9 pm | 2",
            "Description": "inspire is an event in the sumer with workshops folowed by an game jam at the end",
-           / "Theme": "one tool many uses",
+           "Theme": "one tool many uses",
             "OGName": "coninsp25_ID8" // dont change this needed for tags and for the data store
        },
         "2": { // is again the recentst game jam
