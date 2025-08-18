@@ -283,9 +283,9 @@ async function fetchGameData() {
                             MaxPlayers: gameInfo.maxPlayers || 0
                         },
                         Creator: {
-                           Name: gameInfo.creator.name,
-                           ID: gameInfo.creator.id,
-                           Type: gameInfo.creator.type
+                           Name: gameInfo.creator.name || "Unknown",
+                           ID: gameInfo.creator.id || 0,
+                           Type: gameInfo.creator.type || "None"
                         }
                     }
                 };
