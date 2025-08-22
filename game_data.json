@@ -1,6 +1,6 @@
 {
   "defaultData": {
-    "lastUpdated": "2025-08-22T06:24:03.930Z",
+    "lastUpdated": "2025-08-22T12:31:33.985Z",
     "chalanceInfo": {
       "1": {
         "fullName": "inspire 2025",
@@ -120,7 +120,7 @@
         "description": "yuo are trapped in a jungle and yuo have a grappler and yuo got to make it to agartha to  drink raw milk\n\nControls\n\nLeft click to shoot the grapple hook\n\nRight click to spawn a part using the grapple hook",
         "stats": {
           "Playing": 0,
-          "Visits": 138,
+          "Visits": 140,
           "Favorited": 3
         },
         "attributes": {
@@ -484,7 +484,7 @@
         "description": "Created for DevRel Challenge 2025\nBy Cute And Fun Games\n\nArguably the first tool, the ROCK, had many flaws. Durability, Strength, Shape.\nThat is, until WE (humans) FIXED IT BEYOND RECOGNITION, into what is now\nknown has a \"BRICK.\"\n\nAre YOU Resourseful enough to escape the clutches of the sinister BRICKLER, or  will you too fall, like a house of ca-... bricks...\n\n\n\n",
         "stats": {
           "Playing": 0,
-          "Visits": 142,
+          "Visits": 143,
           "Favorited": 10
         },
         "attributes": {
@@ -666,8 +666,8 @@
         "description": "Welcome to the world, Choop.\n\nLight work is a puzzle-platformer set in a post apocalyptic ice-age, you are here to save this world from the cold, with the light as your tool.\n\nThis is our game submission for the 2025 Inspire Jam under the theme of \"One Tool, Many Uses\"\n\nCredits: \n\nCrystalflxme: Programming, Building\nPotenchill: Programming, Building\nSheenyo: Modeling, Building, Composing, Art\nRox_N_Roll: Modeling, Building, Art\napoll3r: Art",
         "stats": {
           "Playing": 0,
-          "Visits": 541,
-          "Favorited": 57
+          "Visits": 545,
+          "Favorited": 60
         },
         "attributes": {
           "Created": "2025-08-09T23:22:24.913Z",
@@ -770,7 +770,7 @@
         "description": "Welcome to a classic adventure! With a multi-tool, you can help the world and defeat the corrupt. Explore the map, avoid obstacles, and talk to the characters!\n\nGame created for the Roblox INSPIRE 2025 event by JustInertia, ImNotServi, THE_XDIABLO, and Sprix2Co.",
         "stats": {
           "Playing": 0,
-          "Visits": 61,
+          "Visits": 62,
           "Favorited": 5
         },
         "attributes": {
@@ -873,9 +873,9 @@
         "title": "T.O.O.L.",
         "description": "Survive in an irradiated island endlessly fulfilling tasks for humanity. Remember, this is what you were built for.\nMade in 86 hours for the Inspire 2025 challenge.\n\nDEVELOPERS:\nXyloma7a - Builder, Modeler\nDanCodes - Programmer, UI\nRileybytes - Programmer\nMISO_ARTIFACT - Animator, VA\nGrandGumdrop - Composer",
         "stats": {
-          "Playing": 1,
-          "Visits": 1078,
-          "Favorited": 232
+          "Playing": 0,
+          "Visits": 1086,
+          "Favorited": 235
         },
         "attributes": {
           "Created": "2025-08-13T02:57:51.09Z",
@@ -1087,7 +1087,7 @@
         },
         "attributes": {
           "Created": "2025-03-25T16:25:21.733Z",
-          "Updated": "2025-08-20T10:17:30.993Z",
+          "Updated": "2025-08-22T12:08:18.190886Z",
           "Genre": "All",
           "GenreNew": "Utility & Other",
           "SubGenreNew": "",
@@ -1290,7 +1290,7 @@
         "description": "As a scientist you have finally developed the Multi Tool Device, a tool that allows you to modify physical properties with the quantum cubes. You tell your development to the CEO so you can get a raise and he prepares you some chambers to test the Multi Tool Device.\n\nWill you manage to complete all the chambers to get your raise?\n\nControls:\n\nPress 1 then hold click to drag elements\nPress 2 then click an object to change its gravity\nPress 3 then click an object to stop time on it\n\nThe powers are unlocked as you progress through the game.\n\nReset character if you get stucked to reset the puzzle.\n\n\nGame maked in 86 hours for the Inspire 2025 Challenge.\n\nProgramming and Game Design: divad008\nProgramming, Tool Design, Level Design: robik_bob967\nBuilding, Level Design and Enviroment Design: tuiea\nBuilding, Level Design and Texture Design: prtomos\nMusic Composer: MLGAttack\n\n",
         "stats": {
           "Playing": 0,
-          "Visits": 50,
+          "Visits": 51,
           "Favorited": 1
         },
         "attributes": {
@@ -1309,32 +1309,6 @@
       }
     },
     "48": {
-      "placeID": "70536887101230",
-      "universeID": 8390670220,
-      "gameData": {
-        "title": "Orange Delivery!",
-        "description": "A game about bringing an orange around the world\n\nBuild the vehicle of your dreams using your trusty squeezle and transport your little orange buddy through each level and reach your final destination!\n\nFor the Inspire 2025 Game Jam",
-        "stats": {
-          "Playing": 0,
-          "Visits": 158,
-          "Favorited": 16
-        },
-        "attributes": {
-          "Created": "2025-08-09T17:05:58.24Z",
-          "Updated": "2025-08-13T01:08:31.217Z",
-          "Genre": "All",
-          "GenreNew": "",
-          "SubGenreNew": "",
-          "MaxPlayers": 1
-        },
-        "Creator": {
-          "Name": "OrangeJam",
-          "ID": 1041309444,
-          "Type": "Group"
-        }
-      }
-    },
-    "49": {
       "placeID": "96057469313256",
       "universeID": 8424500283,
       "gameData": {
@@ -1360,7 +1334,7 @@
         }
       }
     },
-    "50": {
+    "49": {
       "placeID": "134400740696755",
       "universeID": 8423149342,
       "gameData": {
@@ -1386,7 +1360,7 @@
         }
       }
     },
-    "51": {
+    "50": {
       "placeID": "127448355907200",
       "universeID": 8391050771,
       "gameData": {
@@ -1412,7 +1386,7 @@
         }
       }
     },
-    "52": {
+    "51": {
       "placeID": "89744289156397",
       "universeID": 8392807839,
       "gameData": {
@@ -1438,7 +1412,7 @@
         }
       }
     },
-    "53": {
+    "52": {
       "placeID": "87546221505784",
       "universeID": 8390668687,
       "gameData": {
@@ -1464,7 +1438,7 @@
         }
       }
     },
-    "54": {
+    "53": {
       "placeID": "84651950158606",
       "universeID": 8397212753,
       "gameData": {
@@ -1490,7 +1464,7 @@
         }
       }
     },
-    "55": {
+    "54": {
       "placeID": "119927111573861",
       "universeID": 8406617334,
       "gameData": {
@@ -1516,7 +1490,7 @@
         }
       }
     },
-    "56": {
+    "55": {
       "placeID": "92774023001755",
       "universeID": 8390717545,
       "gameData": {
@@ -1542,7 +1516,7 @@
         }
       }
     },
-    "57": {
+    "56": {
       "placeID": "104948081594100",
       "universeID": 8391514602,
       "gameData": {
@@ -1568,7 +1542,7 @@
         }
       }
     },
-    "58": {
+    "57": {
       "placeID": "107243517260577",
       "universeID": 8390773961,
       "gameData": {
@@ -1594,7 +1568,7 @@
         }
       }
     },
-    "59": {
+    "58": {
       "placeID": "130403193040541",
       "universeID": 8390796376,
       "gameData": {
@@ -1620,7 +1594,7 @@
         }
       }
     },
-    "60": {
+    "59": {
       "placeID": "111165238694210",
       "universeID": 8393457911,
       "gameData": {
@@ -1708,7 +1682,7 @@
         "description": "Part of the Roblox Developer Challenge 2024\n🐹 Test your survival skills as you take care of your furry friend in \"Hungry Hungry Hamster!\"\n\nlillybearish | hiaihai1 | TopDev | Lyspyon",
         "stats": {
           "Playing": 0,
-          "Visits": 19366,
+          "Visits": 19377,
           "Favorited": 105
         },
         "attributes": {
@@ -3606,7 +3580,7 @@
         "description": ">Incoming transmission...\n\nYou used to be free to spawn anywhere... but ever since that system was enabled, you've become a prisoner in a harsh and oppressive complex. \nWill you succumb to the endless cycle, or will you find a way to break it?\n\nRoblox Developer Challenge 2025 submission\n\nCreated by atone404 and Ringularity\n\nInspired by Portal and The Stanley Parable",
         "stats": {
           "Playing": 0,
-          "Visits": 807,
+          "Visits": 808,
           "Favorited": 15
         },
         "attributes": {
@@ -3632,7 +3606,7 @@
         "description": "Cyberception (Cyber-Interception) is a game made in a 72-hour time-limit, for the 2025 Roblox Developer Dream Jam, with the theme 'Break the System.' \n\nWill you make it out, or get lost in the maze of concrete walls? \n\n- Some objects can be moved!\n- Anything highlighted is crucial to the game, don't miss any!\n\nDevelopers;\nBuilding / Modeling - \ncrazyferret1231\n\nScripting - \n@Archenhailor\n@game_bros22\n@8kfr0gz\n@h_pup\n\nThank you for playing our game! Feel free to rate it!\n\nMild Flashing lights at the end of the game, beware.\n\n",
         "stats": {
           "Playing": 0,
-          "Visits": 58,
+          "Visits": 59,
           "Favorited": 1
         },
         "attributes": {
@@ -3736,7 +3710,7 @@
         "description": "Your new friend for life! Right?\n\nYou're an abandoned virtual pet... Nobody has interacted with you in years... It's time to find a way out.\n\nCreated for the February Roblox 2025 Developer Challenge\n\nScripting: Smellysuperfart\n2D Assets, Modeling: hiioh\nModeling, Building: Spookiner\nMusic: dieselfluids",
         "stats": {
           "Playing": 0,
-          "Visits": 13385,
+          "Visits": 13389,
           "Favorited": 923
         },
         "attributes": {
@@ -4854,7 +4828,7 @@
         "description": "BBRRAPPP!!!!\nIt's Fart Simulator! The number one farting simulation on ROBLOX!!\n\nFeatures Include:\n-30 Different Fart Sounds!\n-Many Fun NPCs!\n-Rich Story!\n-Farting!!!!!\n\nMade for the ROBLOX Developer Challenge Spring 2025 \n(Theme: Break the System)",
         "stats": {
           "Playing": 0,
-          "Visits": 4417,
+          "Visits": 4419,
           "Favorited": 17
         },
         "attributes": {
@@ -5036,7 +5010,7 @@
         "description": "All you wanted to do was go get taco's with your friend.\n\nThen, you found the phone...\n\nAdventure this mystery world and figure out how to escape, and most importantly...\n\nBreak the System!",
         "stats": {
           "Playing": 0,
-          "Visits": 158,
+          "Visits": 159,
           "Favorited": 3
         },
         "attributes": {
@@ -5452,7 +5426,7 @@
         "description": "Hired as Quality Assurance Tester for the Gadgetico company, you are tasked to perform tests with products!\n\nMight be broken, finished last minute. Inspired by Superliminal and Portal.\n\n[Gamejam submission for the Roblox Developer Challenge 2025]",
         "stats": {
           "Playing": 0,
-          "Visits": 5221,
+          "Visits": 5222,
           "Favorited": 98
         },
         "attributes": {
@@ -5686,7 +5660,7 @@
         "description": "No description",
         "stats": {
           "Playing": 0,
-          "Visits": 16402,
+          "Visits": 16413,
           "Favorited": 869
         },
         "attributes": {
@@ -5815,13 +5789,13 @@
         "title": "Let Him Go",
         "description": "\"And waking up again, this cycle repeats itself time after time.\nStop the feeling, overcome it, and let go. Can you handle it?\"\n\nA short psychological story about loss and empathy\n\n[CREDITS]\nFounder: Foxbox226\nDevelopers: Marat198017, 1Maks_Play, Alinnaria, rrxllx, OSG3141\n\nWARNING | Game will contain vivid images and sharp unrecognizable sounds, scenes of violence and a demonstration of blood.",
         "stats": {
-          "Playing": 314,
-          "Visits": 15784278,
-          "Favorited": 586599
+          "Playing": 360,
+          "Visits": 15794438,
+          "Favorited": 586826
         },
         "attributes": {
           "Created": "2024-11-25T12:20:47.987Z",
-          "Updated": "2025-08-20T19:51:59.0144314Z",
+          "Updated": "2025-08-20T19:51:59.013Z",
           "Genre": "All",
           "GenreNew": "Adventure",
           "SubGenreNew": "Story",
@@ -5847,7 +5821,7 @@
         },
         "attributes": {
           "Created": "2025-03-25T16:25:21.733Z",
-          "Updated": "2025-08-20T10:17:30.993Z",
+          "Updated": "2025-08-22T12:08:18.190886Z",
           "Genre": "All",
           "GenreNew": "Utility & Other",
           "SubGenreNew": "",
@@ -6756,7 +6730,7 @@
         "description": "Crowzart is a famous classical musician who recently moved to the big city to play with the Plumage Symphony Orchestra. Though he's finding it increasingly difficult to focus on practice when his next-door neighbor is 'Gator Sips', a lively club with a rowdy night life. On a particularly boisterous night, he goes to confront them...\n\nScripting - Zomebody & Skarletbun\nArt - Sheenyo\nBuilding - SULKRE\nSoundtrack - Skarletbun\nWriting - Skarletbun & Zomebody\nTextures - Zomebody\nVFX - Skarletbun & SULKRE\n\nExtra Assets:\nCar - RoxN_Roll\n\nMade for the Inspire 2024 Challenge in 72 hours, and winner of the challenge's Best Overall Experience category!",
         "stats": {
           "Playing": 0,
-          "Visits": 3380,
+          "Visits": 3381,
           "Favorited": 609
         },
         "attributes": {
@@ -7380,7 +7354,7 @@
         "description": "[GAME WAS RECODED POST GAME JAM TO FIX BUGS, PLEASE REPORT ANY NEW BUGS FOUND]\n\nOrtho Games presents Fangs and Ferns, a fun, silly, stylized rogue-like race against time as a gardening vampire on his quest to secure enough money before a sought-after ring goes off sale.\n\nSHORT TUTORIAL:\nGet a pot and put it down on the ground, go back and get the seed bag, walk back over to your pot, and hold E to select a seed (you start with 3).  Water and care for the seed until it grows and harvest it before it dies! Avoid the sunlight and visit the shop at night to make your fortune.\n\nThis game was a game jam game made for the Inspire 2024 game jam.\nTheme: Time Is Your Enemy\nTime Limit: 72 Hours\n\nCredits:\nDylWithlt & Robo - Scripting & Various Assistance\n2T_ye & CanyonJack - Modelers & Builders\ndodman531 - Voice Acting, UI & Animations\nVesp_Ithon - Post Game jam Recoding",
         "stats": {
           "Playing": 0,
-          "Visits": 12329,
+          "Visits": 12333,
           "Favorited": 818
         },
         "attributes": {
@@ -7407,7 +7381,7 @@
         "stats": {
           "Playing": 0,
           "Visits": 3015,
-          "Favorited": 480
+          "Favorited": 481
         },
         "attributes": {
           "Created": "2024-08-10T20:18:15.443Z",
@@ -7432,7 +7406,7 @@
         "description": "🏆Winner of the \"Most Engaging Experience\" category - 3rd place🥉\n\n⌚You have been sent to an object under the name \"TEMPUS\". Your task is to ASCEND to the top floor while solving Time Puzzles, and retrieve the Time Crystal to make the \"Veil of Time\" disappear. Good luck!\n\nThis game was made in under 72 hours for the Inspire Challenge.\nAll assets were made specifically for this game within the 3 days of the challenge!\nSound design was not finished due to lack of time, sorry.\n\n🛠️Devs:\n@Userr_Arash - Animator\n@crixyz0 - UI Designer, Idea Creator, Builder\n@ZachDevz - Builder, Modeler, Environment Artist, VFX\n@ItzVaksi - Programmer, Composer, Sound Designer\n\nThis game may contain bugs.",
         "stats": {
           "Playing": 0,
-          "Visits": 255,
+          "Visits": 256,
           "Favorited": 10
         },
         "attributes": {
@@ -7848,7 +7822,7 @@
         "description": "Roblox released an update a while back which broke many existing UnionOperation objects. Due to this, many map assets have been transformed into dull gray blocks. However, the game should still be fully playable.\r\n\r\nAs this is an old game, I've also uncopylocked it! You can copy it if you like, and make something of your own with it. However, this place is just the lobby. If you're looking for the actual dungeon (with gameplay), it's linked here:\r\nhttps://www.roblox.com/games/477622292\r\n\r\nWhether you play or make with this, enjoy your nostalgia.",
         "stats": {
           "Playing": 0,
-          "Visits": 27196321,
+          "Visits": 27196325,
           "Favorited": 382374
         },
         "attributes": {
@@ -7874,7 +7848,7 @@
         "description": "Made in 3 days for the Roblox Inspire 2024 Challenge.",
         "stats": {
           "Playing": 0,
-          "Visits": 155,
+          "Visits": 156,
           "Favorited": 1
         },
         "attributes": {
@@ -8316,7 +8290,7 @@
         "description": "TIME IS YOUR ENEMY! \n\nSurvive waves of lasers, bombs, fire, spikes, and falls! As time goes on, the more intense it gets! \n\nDeveloped for the 2024 Inspire gamejam by Plaything: \n- @Tom_atoes (Programming, UI Design) \n- @DevSpec (Programming) \n- @WhoseTrade (Modelling, Building)",
         "stats": {
           "Playing": 0,
-          "Visits": 243987,
+          "Visits": 243990,
           "Favorited": 1710
         },
         "attributes": {
@@ -8368,7 +8342,7 @@
         "description": "You, a worried grandparent, have lost your grandson!\nThankfully, you can manipulate the world around you to make fetching him easier.\nHowever, this comes at a cost. Your time.\nYou must balance convenience with necessity, and get your grandson back.\n\nFOR THE ROBLOX GAMEJAM - INSPIRE 2024\n\n\nPROGRAMMING: BurnedCone\nMODELS, MESHES AND MUSIC: kamoeX3\nBUILDS: Renssur\nANIMATIONS: CVLM250\nUI: Afoxbox",
         "stats": {
           "Playing": 1,
-          "Visits": 296007,
+          "Visits": 296055,
           "Favorited": 9234
         },
         "attributes": {
@@ -8446,8 +8420,8 @@
         "description": "📖 PLEASE READ: This is a demo. If there's enough support and interest, we will work on a full-fledged game exploring the depths of Neohex Labs. We're a small indie dev group, so be sure to favorite, thumbs-up, and JOIN NEOHEX TODAY: https://www.roblox.com/communities/6388858/Neohex#!/about\n\n🥇 1ST PLACE WINNER in the Roblox Inspire 2024 Challenge for Global Citizenship!\n\n📜 Neohex Labs has been at the forefront of modern-day technology for years, supplying high-tech goods to millions. Now, they're testing their latest innovation to scrap the last hurdle to their progress and inventing: time itself. Will you make it through testing, in this singleplayer obby?\n\nThis game is a demo with plans for more levels, lore, & gameplay in future updates.\n❤️ Thumbs-up the game to show support for future updates (and join the Neohex group, too!) It'd mean a lot :)",
         "stats": {
           "Playing": 1,
-          "Visits": 62170,
-          "Favorited": 3057
+          "Visits": 62200,
+          "Favorited": 3056
         },
         "attributes": {
           "Created": "2024-08-10T18:12:06.873Z",
@@ -8526,7 +8500,7 @@
         "description": "Psychis.\nIt means \"SOUL\" in Greek.\n\nKeybinds: They are listed in-game in the options tab within the main menu. \n\nPsychis is currently in its revamp stage. Let us know about any bugs if they come up.",
         "stats": {
           "Playing": 0,
-          "Visits": 1866739,
+          "Visits": 1866740,
           "Favorited": 30198
         },
         "attributes": {
@@ -8889,9 +8863,9 @@
         "title": "Prototype",
         "description": "Welcome to my brand new game :D !!!!\nBest game of 2024 now in early development.\nCome Test out the game!! New FEATURES!!!\n____________________________________\n(Previously known as Game [W.I.P.])\n(This game has 2 Endings)\n(This game was made for RDC:2024  In 48 hours)\nTheme: Unexpected Development\n\nCredits\n_____________________________________\n- Accessibility Updates - ItzMrRatzP\n- Code by: DylWithIt, Robogojo, Dodman531\n- GUI and voice acting by: Dodman531\n- All Models, Textures & Map by: 2Tye\n\nPremade Assets\n- Sounds provided by the Roblox toolbox  (Roblox)\n- Character animations (Robo & Dod)\n- The sound bob makes and reset sound (Dodman531)\n- Parts of the parkour system (Robo)\n- The Ortho Games Framework (By Ortho Games)",
         "stats": {
-          "Playing": 15,
-          "Visits": 3809018,
-          "Favorited": 156481
+          "Playing": 27,
+          "Visits": 3810103,
+          "Favorited": 156516
         },
         "attributes": {
           "Created": "2024-01-27T00:43:12.897Z",
@@ -9307,7 +9281,7 @@
         "stats": {
           "Playing": 0,
           "Visits": 179264,
-          "Favorited": 16583
+          "Favorited": 16582
         },
         "attributes": {
           "Created": "2024-01-26T23:06:27.287Z",
@@ -10632,7 +10606,7 @@
         "description": "Part of the Roblox Developer Challenge 2024\n🐹 Test your survival skills as you take care of your furry friend in \"Hungry Hungry Hamster!\"\n\nlillybearish | hiaihai1 | TopDev | Lyspyon",
         "stats": {
           "Playing": 0,
-          "Visits": 19366,
+          "Visits": 19378,
           "Favorited": 105
         },
         "attributes": {
@@ -11464,7 +11438,7 @@
         "description": "A game about writing a letter to an old friend.\n\nControl with WASD.\nRoblox Developer Challenge 2024.",
         "stats": {
           "Playing": 0,
-          "Visits": 12826,
+          "Visits": 12830,
           "Favorited": 1936
         },
         "attributes": {
@@ -13207,9 +13181,9 @@
         "title": "Nexus [Connect 2023 Winner]",
         "description": "Controls:\nQ switch dimension\nY Reset\nH Inspect weapon\nHold down mouse button to shoot\n\n(This is only a demo for chapter 1)\n- Huge Thank you to  ItzMrRatzP For updating this game to support mobile and console!\n\nGame Constraints: \n-This was was made in 10 days for the Roblox 2023 connect challenge. \nThe theme was \"Parallelism\".\nGame Description:\n-The game is a Dimensional FPS where you are tasked with completing various task throughout the facility in order to retrieve someone. Your bullet ricochets every time it hits a panel, and every ricochet causes the bullet to swap to another dimension. \nPINK PAINT on the floor is your FRIEND :D",
         "stats": {
-          "Playing": 9,
-          "Visits": 1575058,
-          "Favorited": 63545
+          "Playing": 20,
+          "Visits": 1575715,
+          "Favorited": 63561
         },
         "attributes": {
           "Created": "2023-07-28T20:04:50.47Z",
@@ -13885,9 +13859,9 @@
         "title": "Mayor Of Chain Town",
         "description": "Mayor of Chain Town was a game created during the 2023 Game Jam on Roblox based on the theme, \"Chain Reaction\". \nCredits:\n\nScripter - RjTheDev\nScripter - supergreatr299\nModeler - teddyraptor5\nBuilder - dinoboy5560\nComposer - Zacchary21\n\nMake sure to join the group on my profile '- Super Studios -'!",
         "stats": {
-          "Playing": 4,
-          "Visits": 2594899,
-          "Favorited": 31533
+          "Playing": 20,
+          "Visits": 2595471,
+          "Favorited": 31538
         },
         "attributes": {
           "Created": "2023-03-17T20:34:06.513Z",
@@ -14146,7 +14120,7 @@
         "description": "🎮Fated Connections is a simulator game that you can place obstacle to create accidents🎮\n\nGame Jam Project🎯\n\nABOUT:  In Fated Connections you can place stuffs like 🚦traffic lights, 📬Mailbox, Cones, Walls🧱, and lots of obstacles to change NPC’s paths or Cars to occur incidents.\nthere’s also lots of incidents for you to discover later on In game\n\nCurrent Incidents: Car Explosions, Run over by car, Building Destruction, Falling trees, Etc.\n\nCONTROLS: “R” to Rotate Objects, “X” to Cancel Placing Objects",
         "stats": {
           "Playing": 0,
-          "Visits": 1682,
+          "Visits": 1684,
           "Favorited": 64
         },
         "attributes": {
@@ -14224,7 +14198,7 @@
         "description": "🐔 🔗‍💥Trigger chain reactions while you solve puzzles to rescue your chicken friends in this truly eggciting adventure! See how one action leads to another as you eat magic peppers that give you flame-throwing abilities, use high-tech night vision goggles, lay eggs, lower the bridge, & find keys to free your friends!\n\nJourney through our hand-crafted world and find items to use on your quest to save your caged chicken pals! Once you've saved them all, escape together on the rocket ship!",
         "stats": {
           "Playing": 0,
-          "Visits": 4301,
+          "Visits": 4302,
           "Favorited": 544
         },
         "attributes": {
@@ -14357,7 +14331,7 @@
         "stats": {
           "Playing": 0,
           "Visits": 13366,
-          "Favorited": 987
+          "Favorited": 988
         },
         "attributes": {
           "Created": "2022-03-04T23:04:30.75Z",
@@ -15552,7 +15526,7 @@
         "description": "A Game Jam Submission\r\n\r\nBy Guard303 and DARKEVATOR",
         "stats": {
           "Playing": 2,
-          "Visits": 2550507,
+          "Visits": 2550641,
           "Favorited": 49838
         },
         "attributes": {
