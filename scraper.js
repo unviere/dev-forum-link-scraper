@@ -103,7 +103,7 @@ const defaultInfo = {
 
         },
     },
-    "TotalGameJams": 8
+    "TotalGameJams": 9
 };
 
 let gameJamData = {
