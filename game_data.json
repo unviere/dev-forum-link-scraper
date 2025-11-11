@@ -1,6 +1,6 @@
 {
   "defaultData": {
-    "lastUpdated": "2025-11-11T01:16:58.649Z",
+    "lastUpdated": "2025-11-11T06:25:15.445Z",
     "chalanceInfo": {
       "1": {
         "fullName": "EuroJam 2025, spooktober fest",
@@ -104,7 +104,7 @@
         "description": "Boing bam zap pow! Anoxia Collective presents Firewall 3D: the coolest, wackiest, most radical adventure this side of the milky way! Fight off hordes of enemies with your trusty wrench to save the civilians of this digital simulation! Guess what? It runs in spectacular THREE DIMENSIONS!\n\nSubmission for EuroJam 2025\nCreated by CheezBoy27 in 10 days\n\nInspired by \"Wrench Wrecker\" from the Inspire 2025 Game Jam. You can check that out here: https://www.roblox.com/games/88008138884368/Wrench-Wrecker",
         "stats": {
           "Playing": 0,
-          "Visits": 25,
+          "Visits": 26,
           "Favorited": 2
         },
         "attributes": {
@@ -182,7 +182,7 @@
         "description": "Halloween Eurojam2025 \nwe come from Vietnam\n\nThe game gives you a unique, fun and dramatic experience with friends and family.\n\nDev team: @athea56789, @Rabbit_revenge, @Zeroed_45, @Death_Flame @rossakean",
         "stats": {
           "Playing": 0,
-          "Visits": 61,
+          "Visits": 63,
           "Favorited": 4
         },
         "attributes": {
@@ -364,7 +364,7 @@
         "description": "Maya Alto is a regular girl who noticed the spark of Halloween is dimming away, and the only way to bring life to it is to follow her magical broom around Europe and meet up with strangers that might help her along the way!\n\nA 2 key rhythm game that will make you tap your feet into the rhythm! Meet monsters that will guide you along to revive the spirit of the Spooktober Festival! Deep storyline, quick and easy to follow gameplay, unique character and icons, custom artwork!\n\n- Story and gameplay by BillMoney123\n- Artwork and UI by Cliosow\n- Charting and building by Derpario\n- Scripting by TenebrisNoctua\n\n(This game is a submission for the EuroJam 2025 Challenge!)\n",
         "stats": {
           "Playing": 0,
-          "Visits": 58,
+          "Visits": 59,
           "Favorited": 1
         },
         "attributes": {
@@ -390,7 +390,7 @@
         "description": "[ Inspired by Untitled Door Game ]\n\n- Navigate a spooky medieval themed escape room!\n- Solve difficult puzzles!\n- Most importantly: have fun!\n\n[Made for EuroJam 2025]\n[Created by @glowyogurt, @revirtualizer, @Favology, and @DarkOfLum]",
         "stats": {
           "Playing": 0,
-          "Visits": 18,
+          "Visits": 19,
           "Favorited": 1
         },
         "attributes": {
@@ -416,7 +416,7 @@
         "description": "INFO: this game is supposed to be played with everyone in the same call. Every player must also somewhat know the other players.\n\nNEEDS AT LEAST 3 PLAYERS! MORE ARE RECOMMENDED FOR BETTER EXPERIENCE\n\nEveryone has to answer the questions truthfully. The game needs at least 3 players to work.\n\nForgot to mention it in the submit form: All images used are not made by us.",
         "stats": {
           "Playing": 0,
-          "Visits": 46,
+          "Visits": 47,
           "Favorited": 2
         },
         "attributes": {
@@ -447,7 +447,7 @@
         },
         "attributes": {
           "Created": "2025-11-01T08:57:06.003Z",
-          "Updated": "2025-11-09T14:35:15.2106238Z",
+          "Updated": "2025-11-09T14:35:15.21Z",
           "Genre": "All",
           "GenreNew": "Adventure",
           "SubGenreNew": "Story",
@@ -487,6 +487,58 @@
       }
     },
     "16": {
+      "placeID": "78867641478585",
+      "universeID": 9078593846,
+      "gameData": {
+        "title": "Treat Or Death",
+        "description": "EuroJam 2025: Spooktober Fest\nhttps://devforum.roblox.com/t/eurojam-2025-spooktober-fest/4036710\n\nModeler & Sound Designer: @offqitiz (offqtz)\nhttps://www.roblox.com/users/3324573853/profile\n\nAnimation & Scripter: True_Screech\nhttps://www.roblox.com/users/4116241774/profile",
+        "stats": {
+          "Playing": 2,
+          "Visits": 39,
+          "Favorited": 58
+        },
+        "attributes": {
+          "Created": "2025-11-01T12:46:11.66Z",
+          "Updated": "2025-11-10T07:51:32.9988003Z",
+          "Genre": "All",
+          "GenreNew": "Action",
+          "SubGenreNew": "",
+          "MaxPlayers": 1
+        },
+        "Creator": {
+          "Name": "offqitiz",
+          "ID": 3324573853,
+          "Type": "User"
+        }
+      }
+    },
+    "17": {
+      "placeID": "70567318539694",
+      "universeID": 9136804826,
+      "gameData": {
+        "title": "EuroJam",
+        "description": "No description",
+        "stats": {
+          "Playing": 0,
+          "Visits": 9,
+          "Favorited": 1
+        },
+        "attributes": {
+          "Created": "2025-11-09T13:17:43.233Z",
+          "Updated": "2025-11-09T16:14:27.227Z",
+          "Genre": "All",
+          "GenreNew": "",
+          "SubGenreNew": "",
+          "MaxPlayers": 10
+        },
+        "Creator": {
+          "Name": "ALU99099",
+          "ID": 1214013297,
+          "Type": "User"
+        }
+      }
+    },
+    "18": {
       "placeID": "129522477162080",
       "universeID": 7435543318,
       "gameData": {
@@ -512,55 +564,29 @@
         }
       }
     },
-    "17": {
-      "placeID": "78867641478585",
-      "universeID": 9078593846,
+    "19": {
+      "placeID": "135048807063330",
+      "universeID": 9072114931,
       "gameData": {
-        "title": "Treat Or Death",
-        "description": "EuroJam 2025: Spooktober Fest\nhttps://devforum.roblox.com/t/eurojam-2025-spooktober-fest/4036710\n\nModeler & Sound Designer: @offqitiz (offqtz)\nhttps://www.roblox.com/users/3324573853/profile\n\nAnimation & Scripter: True_Screech\nhttps://www.roblox.com/users/4116241774/profile",
-        "stats": {
-          "Playing": 0,
-          "Visits": 35,
-          "Favorited": 58
-        },
-        "attributes": {
-          "Created": "2025-11-01T12:46:11.66Z",
-          "Updated": "2025-11-10T07:51:32.9988003Z",
-          "Genre": "All",
-          "GenreNew": "Action",
-          "SubGenreNew": "",
-          "MaxPlayers": 1
-        },
-        "Creator": {
-          "Name": "offqitiz",
-          "ID": 3324573853,
-          "Type": "User"
-        }
-      }
-    },
-    "18": {
-      "placeID": "70567318539694",
-      "universeID": 9136804826,
-      "gameData": {
-        "title": "EuroJam",
+        "title": "Uncopylocked gothic architecture. (Semi-Stylized)",
         "description": "No description",
         "stats": {
           "Playing": 0,
-          "Visits": 9,
-          "Favorited": 1
+          "Visits": 36,
+          "Favorited": 0
         },
         "attributes": {
-          "Created": "2025-11-09T13:17:43.233Z",
-          "Updated": "2025-11-09T16:14:27.2278817Z",
+          "Created": "2025-10-31T15:50:27.307Z",
+          "Updated": "2025-11-11T02:02:07.6309416Z",
           "Genre": "All",
-          "GenreNew": "",
+          "GenreNew": "Utility & Other",
           "SubGenreNew": "",
-          "MaxPlayers": 10
+          "MaxPlayers": 50
         },
         "Creator": {
-          "Name": "ALU99099",
-          "ID": 1214013297,
-          "Type": "User"
+          "Name": "Gutter Mice Unlicensed Chiropractic",
+          "ID": 9963214,
+          "Type": "Group"
         }
       }
     }
@@ -886,7 +912,7 @@
         "description": "In a quiet remote town, a new product has just been released... The 13-in-1 Soap. This innovative creation is redefining the soap industry, offering far more than just the ability to wash yourself.\n\nDevelopers:\nDirector - MrPiglr\nArtist - XxMakio\nBuilder - BasedMannn\nModeler - arktull\nScripter - Ihaveash0rtname\n\n(Not all Badges are available since we only made it in 3 days! In the future we will maybe be able to finish it!)",
         "stats": {
           "Playing": 0,
-          "Visits": 173674,
+          "Visits": 173731,
           "Favorited": 5277
         },
         "attributes": {
@@ -964,7 +990,7 @@
         "description": "Created for DevRel Challenge 2025\nBy Cute And Fun Games\n\nArguably the first tool, the ROCK, had many flaws. Durability, Strength, Shape.\nThat is, until WE (humans) FIXED IT BEYOND RECOGNITION, into what is now\nknown has a \"BRICK.\"\n\nAre YOU Resourseful enough to escape the clutches of the sinister BRICKLER, or  will you too fall, like a house of ca-... bricks...\n\n\n\n",
         "stats": {
           "Playing": 0,
-          "Visits": 192,
+          "Visits": 193,
           "Favorited": 12
         },
         "attributes": {
@@ -990,7 +1016,7 @@
         "description": "You got a long way ahead of you. Only have a single tool to make it to then end.\n\n2025 Inspire challenge",
         "stats": {
           "Playing": 0,
-          "Visits": 39,
+          "Visits": 40,
           "Favorited": 0
         },
         "attributes": {
@@ -1145,9 +1171,9 @@
         "title": "Light Work",
         "description": "Welcome to the world, Choop.\n\nLight work is a puzzle-platformer set in a post apocalyptic ice-age, you are here to save this world from the cold, with the light as your tool.\n\nMade for the Inspire 2025 Challenge and winner of the Best Technical Quality category!\n\nCredits: \n\nCrystalflxme: Programming, Building\nPotenchill: Programming, Building\nSheenyo: Modeling, Building, Composing, Art\nRox_N_Roll: Modeling, Building, Art\napoll3r: Art",
         "stats": {
-          "Playing": 1,
-          "Visits": 69046,
-          "Favorited": 11755
+          "Playing": 0,
+          "Visits": 69075,
+          "Favorited": 11763
         },
         "attributes": {
           "Created": "2025-08-09T23:22:24.913Z",
@@ -1353,8 +1379,8 @@
         "title": "T.O.O.L. [V1.0.3a]",
         "description": "Survive in an irradiated island endlessly fulfilling tasks for humanity. Remember, this is what you were built for.\nMade in 86 hours for the Inspire 2025 challenge.\n\nKEYBINDS:\nShift - Sprint\nSpace (Jump, Double Jump)\nQ - Dash (WASD to change direction)",
         "stats": {
-          "Playing": 0,
-          "Visits": 130706,
+          "Playing": 2,
+          "Visits": 130708,
           "Favorited": 8595
         },
         "attributes": {
@@ -1692,8 +1718,8 @@
         "description": "INSPIRE 2025 WINNER:🏆Best Overall Experience\nhttps://devforum.roblox.com/t/inspire-2025-challenge\nProject created in 86 hours for the Inspire 2025 Gamejam contest.\nThis is the full game, time of completion is between 15-30 minutes\n\n@Fabuss254 - Programmer\n@Friizti - Lead 3D Animator, Voice actor\n@kenami - UI Animator/Code, Additional Animator\n@GamaLowOff - Modeling, Lead Assets\n@EternityReality - Modeling, Lead Map\nwe own none of the SFX used in this project\n\nWSAD - Move\nC/CTRL - Sneak\nShift - Run\nE - Interact\nQ - Grapple\nP - Enable/Disable Godmode (cheat mode to complete the game faster)",
         "stats": {
           "Playing": 1,
-          "Visits": 43976,
-          "Favorited": 4601
+          "Visits": 43998,
+          "Favorited": 4602
         },
         "attributes": {
           "Created": "2025-08-09T17:08:54.32Z",
@@ -1770,7 +1796,7 @@
         "description": "As a scientist you have finally developed the Multi Tool Device, a tool that allows you to modify physical properties with the quantum cubes. You tell your development to the CEO so you can get a raise and he prepares you some chambers to test the Multi Tool Device.\n\nWill you manage to complete all the chambers to get your raise?\n\nControls:\n\nPress 1 then hold click to drag elements\nPress 2 then click an object to change its gravity\nPress 3 then click an object to stop time on it\n\nThe powers are unlocked as you progress through the game.\n\nReset character if you get stucked to reset the puzzle.\n\n\nGame maked in 86 hours for the Inspire 2025 Challenge.\n\nProgramming and Game Design: divad008\nProgramming, Tool Design, Level Design: robik_bob967\nBuilding, Level Design and Enviroment Design: tuiea\nBuilding, Level Design and Texture Design: prtomos\nMusic Composer: MLGAttack\n\n",
         "stats": {
           "Playing": 0,
-          "Visits": 53,
+          "Visits": 54,
           "Favorited": 2
         },
         "attributes": {
@@ -2185,9 +2211,9 @@
         "title": "[HALLOWEEN] Armless Detective",
         "description": "You lost both your arms in a tragic accident at your factory, but you've now been employed to work as a detective - an Armless Detective! Use your magic hat to assist you in your investigations, and bring justice to Robloxia!\n\nThird place winner for the 'Best Technical Quality' category of the ROBLOX Inspire 2025 Challenge\n\nJoin our group for a free face cosmetic! https://www.roblox.com/communities/946378404/Top-of-The-Barrel#!/about\n\nMade by:\n@LiamGame09\n@forleaveFR\n@Goober_ish\n@minecoiiiFR\n@kylecat11\n\nCredits:\nloleris - ReplicaService & ProfileService\nsleitnick - RbxUtil\nScarious, dthecoolest, iGottic - R6 IK Procedural Footplanting Module",
         "stats": {
-          "Playing": 463,
-          "Visits": 29214295,
-          "Favorited": 158823
+          "Playing": 279,
+          "Visits": 29244271,
+          "Favorited": 158923
         },
         "attributes": {
           "Created": "2025-08-09T23:27:09.127Z",
@@ -2474,7 +2500,7 @@
         "description": "Part of the Roblox Developer Challenge 2024\n🐹 Test your survival skills as you take care of your furry friend in \"Hungry Hungry Hamster!\"\n\nlillybearish | hiaihai1 | TopDev | Lyspyon",
         "stats": {
           "Playing": 0,
-          "Visits": 21192,
+          "Visits": 21194,
           "Favorited": 113
         },
         "attributes": {
@@ -4502,7 +4528,7 @@
         "description": "Your new friend for life! Right?\n\nYou're an abandoned virtual pet... Nobody has interacted with you in years... It's time to find a way out.\n\nCreated for the February Roblox 2025 Developer Challenge\n\nScripting: Smellysuperfart\n2D Assets, Modeling: hiioh\nModeling, Building: Spookiner\nMusic: dieselfluids",
         "stats": {
           "Playing": 0,
-          "Visits": 21433,
+          "Visits": 21447,
           "Favorited": 1278
         },
         "attributes": {
@@ -5287,7 +5313,7 @@
         },
         "attributes": {
           "Created": "2025-02-08T08:45:58.283Z",
-          "Updated": "2025-11-09T13:47:12.8322161Z",
+          "Updated": "2025-11-09T13:47:12.833Z",
           "Genre": "All",
           "GenreNew": "",
           "SubGenreNew": "",
@@ -5620,7 +5646,7 @@
         "description": "BBRRAPPP!!!!\nIt's Fart Simulator! The number one farting simulation on ROBLOX!!\n\nFeatures Include:\n-30 Different Fart Sounds!\n-Many Fun NPCs!\n-Rich Story!\n-Farting!!!!!\n\nMade for the ROBLOX Developer Challenge Spring 2025 \n(Theme: Break the System)",
         "stats": {
           "Playing": 0,
-          "Visits": 4802,
+          "Visits": 4803,
           "Favorited": 16
         },
         "attributes": {
@@ -5802,7 +5828,7 @@
         "description": "All you wanted to do was go get taco's with your friend.\n\nThen, you found the phone...\n\nAdventure this mystery world and figure out how to escape, and most importantly...\n\nBreak the System!",
         "stats": {
           "Playing": 0,
-          "Visits": 387,
+          "Visits": 393,
           "Favorited": 3
         },
         "attributes": {
@@ -6581,9 +6607,9 @@
         "title": "Let Him Go",
         "description": "\"And waking up again, this cycle repeats itself time after time.\nStop the feeling, overcome it, and let go. Can you handle it?\"\n\nA short psychological story about loss and empathy\n\n[CREDITS]\nFounder: Foxbox226\nDevelopers: Marat198017, 1Maks_Play, Alinnaria, rrxllx, OSG3141\n\nWARNING | Game will contain vivid images and sharp unrecognizable sounds, scenes of violence and a demonstration of blood.",
         "stats": {
-          "Playing": 189,
-          "Visits": 18565445,
-          "Favorited": 637747
+          "Playing": 117,
+          "Visits": 18569322,
+          "Favorited": 637812
         },
         "attributes": {
           "Created": "2024-11-25T12:20:47.987Z",
@@ -6797,7 +6823,7 @@
         },
         "attributes": {
           "Created": "2024-10-16T21:18:00.823Z",
-          "Updated": "2025-11-09T14:37:28.4499991Z",
+          "Updated": "2025-11-09T14:37:28.45Z",
           "Genre": "All",
           "GenreNew": "",
           "SubGenreNew": "",
@@ -7938,8 +7964,8 @@
         "description": "Your goal is to smash the required amount of keys in 5 seconds.\nAdvancing to the next level increases the requirement by 10 keys, but the time limit remains the same.\nMake sure not to fail, doing so will make you restart from the beginning! (Level 0)\n\nHow far can you go?\nCan you beat the clock and set a new high score?\n\n-----------------------\nYour level and high score are saved when you leave the game.\nNot responsible for any broken keyboards (lol)\n\nOriginally created in 2 days for the Inspire 2024 Challenge (8/10/24 - 8/13/24)\n\nUpdates:\n8/23/2024\n- Press [Tab] see list of keys smashed after each level\n- Press [Enter] to advance to next level (vs automatically advancing in 3 seconds)\n- Minor UI fixes",
         "stats": {
           "Playing": 0,
-          "Visits": 21,
-          "Favorited": 0
+          "Visits": 22,
+          "Favorited": 1
         },
         "attributes": {
           "Created": "2024-08-11T12:15:25.107Z",
@@ -9134,7 +9160,7 @@
         "description": "You, a worried grandparent, have lost your grandson!\nThankfully, you can manipulate the world around you to make fetching him easier.\nHowever, this comes at a cost. Your time.\nYou must balance convenience with necessity, and get your grandson back.\n\nFOR THE ROBLOX GAMEJAM - INSPIRE 2024\n\n\nPROGRAMMING: BurnedCone\nMODELS, MESHES AND MUSIC: kamoeX3\nBUILDS: Renssur\nANIMATIONS: CVLM250\nUI: Afoxbox",
         "stats": {
           "Playing": 0,
-          "Visits": 325423,
+          "Visits": 325426,
           "Favorited": 10242
         },
         "attributes": {
@@ -9212,7 +9238,7 @@
         "description": "📖 PLEASE READ: This is a demo. If there's enough support and interest, we will work on a full-fledged game exploring the depths of Neohex Labs. We're a small indie dev group, so be sure to favorite, thumbs-up, and JOIN NEOHEX TODAY: https://www.roblox.com/communities/6388858/Neohex#!/about\n\n🥇 1ST PLACE WINNER in the Roblox Inspire 2024 Challenge for Global Citizenship!\n\n📜 Neohex Labs has been at the forefront of modern-day technology for years, supplying high-tech goods to millions. Now, they're testing their latest innovation to scrap the last hurdle to their progress and inventing: time itself. Will you make it through testing, in this singleplayer obby?\n\nThis game is a demo with plans for more levels, lore, & gameplay in future updates.\n❤️ Thumbs-up the game to show support for future updates (and join the Neohex group, too!) It'd mean a lot :)",
         "stats": {
           "Playing": 0,
-          "Visits": 64079,
+          "Visits": 64080,
           "Favorited": 3086
         },
         "attributes": {
@@ -9292,8 +9318,8 @@
         "description": "Psychis.\nIt means \"SOUL\" in Greek.\n\nKeybinds: They are listed in-game in the options tab within the main menu. \n\nPsychis is currently in its revamp stage. Let us know about any bugs if they come up.",
         "stats": {
           "Playing": 0,
-          "Visits": 1868638,
-          "Favorited": 30082
+          "Visits": 1868641,
+          "Favorited": 30081
         },
         "attributes": {
           "Created": "2022-09-25T22:35:58.843Z",
@@ -9655,9 +9681,9 @@
         "title": "Prototype",
         "description": "Welcome to my brand new game :D !!!!\nBest game of 2024 now in early development.\nCome Test out the game!! New FEATURES!!!\n____________________________________\n(Previously known as Game [W.I.P.])\n(This game has 2 Endings)\n(This game was made for RDC:2024  In 48 hours)\nTheme: Unexpected Development\n\nCredits\n_____________________________________\n- Accessibility Updates - ItzMrRatzP\n- Code by: DylWithIt, Robogojo, Dodman531\n- GUI and voice acting by: Dodman531\n- All Models, Textures & Map by: 2Tye\n\nPremade Assets\n- Sounds provided by the Roblox toolbox  (Roblox)\n- Character animations (Robo & Dod)\n- The sound bob makes and reset sound (Dodman531)\n- Parts of the parkour system (Robo)\n- The Ortho Games Framework (By Ortho Games)",
         "stats": {
-          "Playing": 7,
-          "Visits": 4081203,
-          "Favorited": 162539
+          "Playing": 4,
+          "Visits": 4081544,
+          "Favorited": 162541
         },
         "attributes": {
           "Created": "2024-01-27T00:43:12.897Z",
@@ -10073,7 +10099,7 @@
         "stats": {
           "Playing": 0,
           "Visits": 179384,
-          "Favorited": 16495
+          "Favorited": 16494
         },
         "attributes": {
           "Created": "2024-01-26T23:06:27.287Z",
@@ -11398,7 +11424,7 @@
         "description": "Part of the Roblox Developer Challenge 2024\n🐹 Test your survival skills as you take care of your furry friend in \"Hungry Hungry Hamster!\"\n\nlillybearish | hiaihai1 | TopDev | Lyspyon",
         "stats": {
           "Playing": 0,
-          "Visits": 21192,
+          "Visits": 21194,
           "Favorited": 113
         },
         "attributes": {
@@ -12178,7 +12204,7 @@
         "description": "Duo project for 'Roblox Developer Challenge 2024'\nTheme: unexpected development\n\nYou are stuck in a subway station and your goal is to find a way out!\nInteract with NPCs or things by clicking on them!\nGain experience and wins to buy stuff from the shop!\n(I don't have enough time to make the shop during the Challenge 😭)",
         "stats": {
           "Playing": 0,
-          "Visits": 13114,
+          "Visits": 13115,
           "Favorited": 174
         },
         "attributes": {
@@ -12229,9 +12255,9 @@
         "title": "DEAR BODI",
         "description": "A game about writing a letter to an old friend.\n\nControl with WASD.\nRoblox Developer Challenge 2024.",
         "stats": {
-          "Playing": 0,
-          "Visits": 18966,
-          "Favorited": 2179
+          "Playing": 1,
+          "Visits": 18989,
+          "Favorited": 2181
         },
         "attributes": {
           "Created": "2024-01-27T05:12:06.223Z",
@@ -13477,8 +13503,8 @@
         "title": "untitled farming game [RDC 2024 Game Jam]",
         "description": "Made in 2 days for the RDC 2024 Game Jam \n\nWelcome to the farm!  You have suddenly found yourself stuck on a farm where you need to earn money and get out of debt from a mysterious businessguy! \n\nThis game features \n- 20+ plants from normal to wacky \n- 14+ animals with \"personalities\" \n- Tons of hidden easter eggs \n- Several various random events \n- Goofy ragdolls and mechanics \n- at least one giraffe \n\n This game was inspired by The Upturned by Zeekerss and untitled tag game by .create.",
         "stats": {
-          "Playing": 0,
-          "Visits": 79115,
+          "Playing": 1,
+          "Visits": 79116,
           "Favorited": 3581
         },
         "attributes": {
@@ -13974,8 +14000,8 @@
         "description": "Controls:\nQ switch dimension\nY Reset\nH Inspect weapon\nHold down mouse button to shoot\n\n(This is only a demo for chapter 1)\n- Huge Thank you to  ItzMrRatzP For updating this game to support mobile and console!\n\nGame Constraints: \n-This was was made in 10 days for the Roblox 2023 connect challenge. \nThe theme was \"Parallelism\".\nGame Description:\n-The game is a Dimensional FPS where you are tasked with completing various task throughout the facility in order to retrieve someone. Your bullet ricochets every time it hits a panel, and every ricochet causes the bullet to swap to another dimension. \nPINK PAINT on the floor is your FRIEND :D",
         "stats": {
           "Playing": 11,
-          "Visits": 1806645,
-          "Favorited": 68008
+          "Visits": 1807098,
+          "Favorited": 68021
         },
         "attributes": {
           "Created": "2023-07-28T20:04:50.47Z",
@@ -14651,8 +14677,8 @@
         "title": "Mayor Of Chain Town",
         "description": "Mayor of Chain Town was a game created during the 2023 Game Jam on Roblox based on the theme, \"Chain Reaction\". \nCredits:\n\nScripter - RjTheDev\nScripter - supergreatr299\nModeler - teddyraptor5\nBuilder - dinoboy5560\nComposer - Zacchary21\n\nMake sure to join the group on my profile '- Super Studios -'!",
         "stats": {
-          "Playing": 2,
-          "Visits": 2716953,
+          "Playing": 0,
+          "Visits": 2717072,
           "Favorited": 32074
         },
         "attributes": {
@@ -15123,7 +15149,7 @@
         "stats": {
           "Playing": 0,
           "Visits": 13397,
-          "Favorited": 989
+          "Favorited": 988
         },
         "attributes": {
           "Created": "2022-03-04T23:04:30.75Z",
@@ -16318,7 +16344,7 @@
         "description": "A Game Jam Submission\r\n\r\nBy Guard303 and DARKEVATOR",
         "stats": {
           "Playing": 0,
-          "Visits": 2563414,
+          "Visits": 2563434,
           "Favorited": 49862
         },
         "attributes": {
