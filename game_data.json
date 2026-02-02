@@ -1,6 +1,6 @@
 {
   "defaultData": {
-    "lastUpdated": "2026-02-02T06:58:12.127Z",
+    "lastUpdated": "2026-02-02T12:52:02.517Z",
     "chalanceInfo": {
       "1": {
         "fullName": "EuroJam 2025, spooktober fest",
@@ -801,32 +801,6 @@
       }
     },
     "5": {
-      "placeID": "71820145451843",
-      "universeID": 8400879041,
-      "gameData": {
-        "title": "Reflections.",
-        "description": "A reflection can have more uses than you may think.",
-        "stats": {
-          "Playing": 0,
-          "Visits": 65,
-          "Favorited": 2
-        },
-        "attributes": {
-          "Created": "2025-08-10T15:40:00.513Z",
-          "Updated": "2025-08-13T00:06:06.317Z",
-          "Genre": "All",
-          "GenreNew": "",
-          "SubGenreNew": "",
-          "MaxPlayers": 1
-        },
-        "Creator": {
-          "Name": "Sindious",
-          "ID": 1380576883,
-          "Type": "User"
-        }
-      }
-    },
-    "6": {
       "placeID": "126247889487777",
       "universeID": 8420390213,
       "gameData": {
@@ -848,6 +822,32 @@
         "Creator": {
           "Name": "pahreh619",
           "ID": 29040983,
+          "Type": "User"
+        }
+      }
+    },
+    "6": {
+      "placeID": "117687743589363",
+      "universeID": 8396358151,
+      "gameData": {
+        "title": "Throwback [Roblox Inspire 2025]",
+        "description": "Welcome to Throwback, you will travel to different Roblox periods. Find all the tokens!",
+        "stats": {
+          "Playing": 0,
+          "Visits": 140,
+          "Favorited": 2
+        },
+        "attributes": {
+          "Created": "2025-08-10T05:57:12.703Z",
+          "Updated": "2025-08-13T06:50:09.44Z",
+          "Genre": "All",
+          "GenreNew": "Adventure",
+          "SubGenreNew": "",
+          "MaxPlayers": 1
+        },
+        "Creator": {
+          "Name": "davedesito",
+          "ID": 509017208,
           "Type": "User"
         }
       }
@@ -879,32 +879,6 @@
       }
     },
     "8": {
-      "placeID": "94873500052048",
-      "universeID": 8398606981,
-      "gameData": {
-        "title": "Secrets of the Skies [Inspire 2025]",
-        "description": "Made for the Inspire 2025 Game Jam\nTheme: One Tool, Many Uses\n\nA familiar land, high above the rest of civilisation, shrouded in darkness. Explore, cast spells with your spell book and light the way. Reach the end. Uncover what secrets lay dormant within the ruins of the sky.\n\nDEVELOPED BY some of Jumbo Studs:\n@FelVerse\n@Nak1yosh\n@coderpurity\n@Phillytoro",
-        "stats": {
-          "Playing": 0,
-          "Visits": 80,
-          "Favorited": 7
-        },
-        "attributes": {
-          "Created": "2025-08-10T11:16:26.913Z",
-          "Updated": "2025-08-13T02:40:59.177Z",
-          "Genre": "All",
-          "GenreNew": "",
-          "SubGenreNew": "",
-          "MaxPlayers": 1
-        },
-        "Creator": {
-          "Name": "The Jumbo Studs",
-          "ID": 35506788,
-          "Type": "Group"
-        }
-      }
-    },
-    "9": {
       "placeID": "109132939374122",
       "universeID": 8401083100,
       "gameData": {
@@ -930,7 +904,7 @@
         }
       }
     },
-    "10": {
+    "9": {
       "placeID": "91995133243351",
       "universeID": 8390949905,
       "gameData": {
@@ -956,7 +930,7 @@
         }
       }
     },
-    "11": {
+    "10": {
       "placeID": "87355089340007",
       "universeID": 8391149753,
       "gameData": {
@@ -965,7 +939,7 @@
         "stats": {
           "Playing": 0,
           "Visits": 180832,
-          "Favorited": 5204
+          "Favorited": 5203
         },
         "attributes": {
           "Created": "2025-08-09T18:12:41.693Z",
@@ -982,33 +956,7 @@
         }
       }
     },
-    "12": {
-      "placeID": "110436029630333",
-      "universeID": 8414929985,
-      "gameData": {
-        "title": "Goggle Gambit (Inspire 2025)",
-        "description": "This game did not win anything in the Inspire challenge but idc i think i made a cool game\n\nThis is a puzzle platformer that lets you view the world through different colored lenses through your special goggles. Each lens provides a different bonus, so use them to your advantage.\n\nEvery puzzle is possible. Seriously. I dont need anyone complaining\n\nThis game was intended to be placed on PC. Although it technically is possible on mobile and tablet devices, it will be a lot more difficult\n\nThis was made for the Inspire 2025 Challenge. The theme was: One tool, many uses. This was made in 2 days because I epically joined late.",
-        "stats": {
-          "Playing": 0,
-          "Visits": 109,
-          "Favorited": 2
-        },
-        "attributes": {
-          "Created": "2025-08-12T03:28:49.033Z",
-          "Updated": "2025-11-03T16:22:21.11Z",
-          "Genre": "All",
-          "GenreNew": "Puzzle",
-          "SubGenreNew": "",
-          "MaxPlayers": 1
-        },
-        "Creator": {
-          "Name": "GryphusButCool",
-          "ID": 96560127,
-          "Type": "User"
-        }
-      }
-    },
-    "13": {
+    "11": {
       "placeID": "111136555627618",
       "universeID": 8394495112,
       "gameData": {
@@ -1034,7 +982,33 @@
         }
       }
     },
-    "14": {
+    "12": {
+      "placeID": "87991550482128",
+      "universeID": 8391859729,
+      "gameData": {
+        "title": "BRICK (DevRel Challenge 2025)",
+        "description": "Created for DevRel Challenge 2025\nBy Cute And Fun Games\n\nArguably the first tool, the ROCK, had many flaws. Durability, Strength, Shape.\nThat is, until WE (humans) FIXED IT BEYOND RECOGNITION, into what is now\nknown has a \"BRICK.\"\n\nAre YOU Resourseful enough to escape the clutches of the sinister BRICKLER, or  will you too fall, like a house of ca-... bricks...\n\n\n\n",
+        "stats": {
+          "Playing": 0,
+          "Visits": 229,
+          "Favorited": 14
+        },
+        "attributes": {
+          "Created": "2025-08-09T19:46:53.023Z",
+          "Updated": "2025-11-02T01:35:24.633Z",
+          "Genre": "All",
+          "GenreNew": "Adventure",
+          "SubGenreNew": "Story",
+          "MaxPlayers": 1
+        },
+        "Creator": {
+          "Name": "CUTE AND FUN GAMES",
+          "ID": 16071274,
+          "Type": "Group"
+        }
+      }
+    },
+    "13": {
       "placeID": "122302863329170",
       "universeID": 8401912069,
       "gameData": {
@@ -1060,7 +1034,7 @@
         }
       }
     },
-    "15": {
+    "14": {
       "placeID": "115484401190147",
       "universeID": 8390706501,
       "gameData": {
@@ -1086,7 +1060,7 @@
         }
       }
     },
-    "16": {
+    "15": {
       "placeID": "71481888049165",
       "universeID": 8390826184,
       "gameData": {
@@ -1112,7 +1086,7 @@
         }
       }
     },
-    "17": {
+    "16": {
       "placeID": "128453707487443",
       "universeID": 8392222096,
       "gameData": {
@@ -1138,7 +1112,7 @@
         }
       }
     },
-    "18": {
+    "17": {
       "placeID": "110089407797934",
       "universeID": 8390684352,
       "gameData": {
@@ -1164,16 +1138,16 @@
         }
       }
     },
-    "19": {
+    "18": {
       "placeID": "84843854608244",
       "universeID": 8393317239,
       "gameData": {
         "title": "Light Work",
         "description": "Welcome to the world, Choop.\n\nLight work is a puzzle-platformer set in a post apocalyptic ice-age, you are here to save this world from the cold, with the light as your tool.\n\nMade for the Inspire 2025 Challenge and winner of the Best Technical Quality category!\n\nCredits: \n\nCrystalflxme: Programming, Building\nPotenchill: Programming, Building\nSheenyo: Modeling, Building, Composing, Art\nRox_N_Roll: Modeling, Building, Art\napoll3r: Art",
         "stats": {
-          "Playing": 2,
-          "Visits": 84244,
-          "Favorited": 13495
+          "Playing": 0,
+          "Visits": 84276,
+          "Favorited": 13498
         },
         "attributes": {
           "Created": "2025-08-09T23:22:24.913Z",
@@ -1190,7 +1164,7 @@
         }
       }
     },
-    "20": {
+    "19": {
       "placeID": "133484998566833",
       "universeID": 8390719073,
       "gameData": {
@@ -1216,7 +1190,7 @@
         }
       }
     },
-    "21": {
+    "20": {
       "placeID": "82129466412495",
       "universeID": 8424552388,
       "gameData": {
@@ -1242,7 +1216,7 @@
         }
       }
     },
-    "22": {
+    "21": {
       "placeID": "75234906066192",
       "universeID": 8391158557,
       "gameData": {
@@ -1268,7 +1242,7 @@
         }
       }
     },
-    "23": {
+    "22": {
       "placeID": "105875181505062",
       "universeID": 8396170667,
       "gameData": {
@@ -1294,7 +1268,7 @@
         }
       }
     },
-    "24": {
+    "23": {
       "placeID": "72372925778114",
       "universeID": 8394682779,
       "gameData": {
@@ -1320,7 +1294,7 @@
         }
       }
     },
-    "25": {
+    "24": {
       "placeID": "73267661122121",
       "universeID": 8392797107,
       "gameData": {
@@ -1346,7 +1320,7 @@
         }
       }
     },
-    "26": {
+    "25": {
       "placeID": "79009487359931",
       "universeID": 8423681346,
       "gameData": {
@@ -1372,7 +1346,7 @@
         }
       }
     },
-    "27": {
+    "26": {
       "placeID": "95955367526377",
       "universeID": 8391238461,
       "gameData": {
@@ -1398,7 +1372,7 @@
         }
       }
     },
-    "28": {
+    "27": {
       "placeID": "87490532811268",
       "universeID": 8390884307,
       "gameData": {
@@ -1424,7 +1398,7 @@
         }
       }
     },
-    "29": {
+    "28": {
       "placeID": "132784866036275",
       "universeID": 8390680072,
       "gameData": {
@@ -1450,7 +1424,7 @@
         }
       }
     },
-    "30": {
+    "29": {
       "placeID": "128590815979530",
       "universeID": 8423289792,
       "gameData": {
@@ -1476,7 +1450,7 @@
         }
       }
     },
-    "31": {
+    "30": {
       "placeID": "76578051573274",
       "universeID": 8390809107,
       "gameData": {
@@ -1502,7 +1476,7 @@
         }
       }
     },
-    "32": {
+    "31": {
       "placeID": "114643693698513",
       "universeID": 8390972296,
       "gameData": {
@@ -1528,7 +1502,7 @@
         }
       }
     },
-    "33": {
+    "32": {
       "placeID": "129522477162080",
       "universeID": 7435543318,
       "gameData": {
@@ -1554,7 +1528,7 @@
         }
       }
     },
-    "34": {
+    "33": {
       "placeID": "124597397548131",
       "universeID": 8390822055,
       "gameData": {
@@ -1580,7 +1554,7 @@
         }
       }
     },
-    "35": {
+    "34": {
       "placeID": "115513136066545",
       "universeID": 8398604777,
       "gameData": {
@@ -1606,7 +1580,7 @@
         }
       }
     },
-    "36": {
+    "35": {
       "placeID": "88008138884368",
       "universeID": 8400241798,
       "gameData": {
@@ -1632,7 +1606,7 @@
         }
       }
     },
-    "37": {
+    "36": {
       "placeID": "129118912228998",
       "universeID": 8390691528,
       "gameData": {
@@ -1640,7 +1614,7 @@
         "description": "INSPIRE 2025 WINNER:🏆Best Overall Experience\nhttps://devforum.roblox.com/t/inspire-2025-challenge\nProject created in 86 hours for the Inspire 2025 Gamejam contest.\nThis is the full game, time of completion is between 15-30 minutes\n\n@Fabuss254 - Programmer\n@Friizti - Lead 3D Animator, Voice actor\n@kenami - UI Animator/Code, Additional Animator\n@GamaLowOff - Modeling, Lead Assets\n@EternityReality - Modeling, Lead Map\nwe own none of the SFX used in this project\n\nWSAD - Move\nC/CTRL - Sneak\nShift - Run\nE - Interact\nQ - Grapple\nP - Enable/Disable Godmode (cheat mode to complete the game faster)",
         "stats": {
           "Playing": 0,
-          "Visits": 52791,
+          "Visits": 52802,
           "Favorited": 5087
         },
         "attributes": {
@@ -1658,7 +1632,7 @@
         }
       }
     },
-    "38": {
+    "37": {
       "placeID": "124896810569253",
       "universeID": 8390719685,
       "gameData": {
@@ -1684,7 +1658,7 @@
         }
       }
     },
-    "39": {
+    "38": {
       "placeID": "124686846553604",
       "universeID": 8391237502,
       "gameData": {
@@ -1710,7 +1684,7 @@
         }
       }
     },
-    "40": {
+    "39": {
       "placeID": "139130515908319",
       "universeID": 8390764446,
       "gameData": {
@@ -1736,7 +1710,7 @@
         }
       }
     },
-    "41": {
+    "40": {
       "placeID": "70536887101230",
       "universeID": 8390670220,
       "gameData": {
@@ -1762,7 +1736,7 @@
         }
       }
     },
-    "42": {
+    "41": {
       "placeID": "134400740696755",
       "universeID": 8423149342,
       "gameData": {
@@ -1788,7 +1762,7 @@
         }
       }
     },
-    "43": {
+    "42": {
       "placeID": "127448355907200",
       "universeID": 8391050771,
       "gameData": {
@@ -1814,33 +1788,7 @@
         }
       }
     },
-    "44": {
-      "placeID": "89744289156397",
-      "universeID": 8392807839,
-      "gameData": {
-        "title": "Umbrella of the World",
-        "description": "Travel around the world with your trusty umbrella! Your journey will soon reveal that this one tool has many uses...\n\nMade in under 86 hours for the Inspire 2025 Challenge with the theme \"One Tool, Many Uses.\"",
-        "stats": {
-          "Playing": 0,
-          "Visits": 63,
-          "Favorited": 1
-        },
-        "attributes": {
-          "Created": "2025-08-09T22:04:30.707Z",
-          "Updated": "2025-08-13T03:47:31.577Z",
-          "Genre": "All",
-          "GenreNew": "Adventure",
-          "SubGenreNew": "Scavenger Hunt",
-          "MaxPlayers": 1
-        },
-        "Creator": {
-          "Name": "minecraftpowers956",
-          "ID": 198552808,
-          "Type": "User"
-        }
-      }
-    },
-    "45": {
+    "43": {
       "placeID": "84651950158606",
       "universeID": 8397212753,
       "gameData": {
@@ -1866,7 +1814,7 @@
         }
       }
     },
-    "46": {
+    "44": {
       "placeID": "119927111573861",
       "universeID": 8406617334,
       "gameData": {
@@ -1892,7 +1840,7 @@
         }
       }
     },
-    "47": {
+    "45": {
       "placeID": "92774023001755",
       "universeID": 8390717545,
       "gameData": {
@@ -1918,7 +1866,7 @@
         }
       }
     },
-    "48": {
+    "46": {
       "placeID": "104948081594100",
       "universeID": 8391514602,
       "gameData": {
@@ -1944,7 +1892,7 @@
         }
       }
     },
-    "49": {
+    "47": {
       "placeID": "107243517260577",
       "universeID": 8390773961,
       "gameData": {
@@ -1970,7 +1918,7 @@
         }
       }
     },
-    "50": {
+    "48": {
       "placeID": "130403193040541",
       "universeID": 8390796376,
       "gameData": {
@@ -1996,7 +1944,7 @@
         }
       }
     },
-    "51": {
+    "49": {
       "placeID": "111165238694210",
       "universeID": 8393457911,
       "gameData": {
@@ -2022,7 +1970,7 @@
         }
       }
     },
-    "52": {
+    "50": {
       "placeID": "131208496626535",
       "universeID": 8407321656,
       "gameData": {
@@ -2048,7 +1996,7 @@
         }
       }
     },
-    "53": {
+    "51": {
       "placeID": "129666626349917",
       "universeID": 8391215177,
       "gameData": {
@@ -2074,16 +2022,16 @@
         }
       }
     },
-    "54": {
+    "52": {
       "placeID": "97719631053849",
       "universeID": 8393350511,
       "gameData": {
         "title": "[MUSEUM] Armless Detective",
         "description": "You lost both your arms in a tragic accident at your factory, but you've now been employed to work as a detective - an Armless Detective! Use your magic hat to assist you in your investigations, and bring justice to Robloxia!\n\nThird place winner for the 'Best Technical Quality' category of the ROBLOX Inspire 2025 Challenge\n\nJoin our group for a free face cosmetic! https://www.roblox.com/communities/946378404/Top-of-The-Barrel#!/about\n\nMade by:\n@LiamGame09\n@forleaveFR\n@Goober_ish\n@minecoiiiFR\n@kylecat11\n\nCredits:\nloleris - ReplicaService & ProfileService\nsleitnick - RbxUtil\nScarious, dthecoolest, iGottic - R6 IK Procedural Footplanting Module",
         "stats": {
-          "Playing": 196,
-          "Visits": 51657941,
-          "Favorited": 195196
+          "Playing": 250,
+          "Visits": 51678264,
+          "Favorited": 195218
         },
         "attributes": {
           "Created": "2025-08-09T23:27:09.127Z",
@@ -2100,33 +2048,33 @@
         }
       }
     },
-    "55": {
-      "placeID": "101973845425565",
-      "universeID": 8393166201,
+    "53": {
+      "placeID": "126341693436579",
+      "universeID": 8390734085,
       "gameData": {
-        "title": "Luteborne",
-        "description": "Luteborne is a fantasy-inspired puzzle-solving rhythm game. The main character, Bardolomew, is on a pilgrimage in long forgotten lands to uncover fragments of his, and his mentor’s past. Armed with only his mentor’s heirloom lute, Bardolomew must navigate the unknown using the power of song. \n\nMade in under 86 hours, and won 2nd in \"Most Creative Game Concept\" for the ROBLOX 2025 Inspire Challenge. 🥈\n\nGFX, 3D Modelling, Environment - lololuu6\nScripting, SFX, Lute Shredding, Writing - aybuddRBX",
+        "title": "Inkwell",
+        "description": "Play as Mr Inkwell, turned sentient by a magic multi pen, solving puzzles and exploring the human world.\n\nMade (with love) by:\nCodinGlitch\nDevSersponge\n723642767\nVulpany\nrr_ome",
         "stats": {
           "Playing": 0,
-          "Visits": 309,
-          "Favorited": 65
+          "Visits": 429,
+          "Favorited": 14
         },
         "attributes": {
-          "Created": "2025-08-09T23:00:52.267Z",
-          "Updated": "2025-08-25T09:14:28.943Z",
+          "Created": "2025-08-09T17:14:44.617Z",
+          "Updated": "2026-01-07T20:49:06.453Z",
           "Genre": "All",
-          "GenreNew": "Action",
-          "SubGenreNew": "Music & Rhythm",
+          "GenreNew": "",
+          "SubGenreNew": "",
           "MaxPlayers": 1
         },
         "Creator": {
-          "Name": "aybuddRBX",
-          "ID": 640666262,
-          "Type": "User"
+          "Name": "COGS IN THE MACHINE",
+          "ID": 33898694,
+          "Type": "Group"
         }
       }
     },
-    "56": {
+    "54": {
       "placeID": "120507358143223",
       "universeID": 8395662930,
       "gameData": {
@@ -2152,7 +2100,7 @@
         }
       }
     },
-    "57": {
+    "55": {
       "placeID": "79118539278043",
       "universeID": 8395136088,
       "gameData": {
@@ -2178,33 +2126,7 @@
         }
       }
     },
-    "58": {
-      "placeID": "124164402253726",
-      "universeID": 8418683877,
-      "gameData": {
-        "title": "Countryball Global Adventure",
-        "description": "Use a magic passport with a bunch of different abilities!\n\nunlock abilities by collecting a countryball's stamp after finishing a short quiz about that country\n\nwon second place for Global Citizenship in the Roblox Inspire 2025 Event\n",
-        "stats": {
-          "Playing": 0,
-          "Visits": 49,
-          "Favorited": 1
-        },
-        "attributes": {
-          "Created": "2025-08-12T13:47:25.123Z",
-          "Updated": "2025-08-24T00:52:23.84Z",
-          "Genre": "All",
-          "GenreNew": "",
-          "SubGenreNew": "",
-          "MaxPlayers": 1
-        },
-        "Creator": {
-          "Name": "doodiepiefac",
-          "ID": 2215982383,
-          "Type": "User"
-        }
-      }
-    },
-    "59": {
+    "56": {
       "placeID": "133386244907188",
       "universeID": 8391882942,
       "gameData": {
@@ -2230,7 +2152,7 @@
         }
       }
     },
-    "60": {
+    "57": {
       "placeID": "132624527472993",
       "universeID": 8390897287,
       "gameData": {
@@ -2256,7 +2178,7 @@
         }
       }
     },
-    "61": {
+    "58": {
       "placeID": "111852446316315",
       "universeID": 8393905403,
       "gameData": {
@@ -2285,32 +2207,6 @@
   },
   "gameJam3": {
     "1": {
-      "placeID": "12813038547",
-      "universeID": 4486452283,
-      "gameData": {
-        "title": "Trial Mountain",
-        "description": "For the 2023 Roblox game jam.",
-        "stats": {
-          "Playing": 0,
-          "Visits": 113,
-          "Favorited": 0
-        },
-        "attributes": {
-          "Created": "2023-03-17T18:45:49.153Z",
-          "Updated": "2024-01-28T22:04:33.67Z",
-          "Genre": "All",
-          "GenreNew": "",
-          "SubGenreNew": "",
-          "MaxPlayers": 1
-        },
-        "Creator": {
-          "Name": "isgreai750 studios",
-          "ID": 6774040,
-          "Type": "Group"
-        }
-      }
-    },
-    "2": {
       "placeID": "16127537343",
       "universeID": 5572666518,
       "gameData": {
@@ -2336,15 +2232,15 @@
         }
       }
     },
-    "3": {
+    "2": {
       "placeID": "16128837102",
       "universeID": 5573090223,
       "gameData": {
         "title": "Hungry Hungry Hamster",
         "description": "Part of the Roblox Developer Challenge 2024\n🐹 Test your survival skills as you take care of your furry friend in \"Hungry Hungry Hamster!\"\n\nlillybearish | hiaihai1 | TopDev | Lyspyon",
         "stats": {
-          "Playing": 0,
-          "Visits": 23458,
+          "Playing": 1,
+          "Visits": 23461,
           "Favorited": 119
         },
         "attributes": {
@@ -2362,33 +2258,7 @@
         }
       }
     },
-    "4": {
-      "placeID": "127707154332102",
-      "universeID": 7209245620,
-      "gameData": {
-        "title": "Break The System",
-        "description": "Created for RDC Gamejam 2025",
-        "stats": {
-          "Playing": 0,
-          "Visits": 125,
-          "Favorited": 1
-        },
-        "attributes": {
-          "Created": "2025-02-07T19:28:57.933Z",
-          "Updated": "2025-09-20T11:03:17.283Z",
-          "Genre": "All",
-          "GenreNew": "RPG",
-          "SubGenreNew": "Open World & Survival RPG",
-          "MaxPlayers": 50
-        },
-        "Creator": {
-          "Name": "Hyperware Studios",
-          "ID": 35516065,
-          "Type": "Group"
-        }
-      }
-    },
-    "5": {
+    "3": {
       "placeID": "84321929161642",
       "universeID": 7210385144,
       "gameData": {
@@ -2414,7 +2284,7 @@
         }
       }
     },
-    "6": {
+    "4": {
       "placeID": "82594125205181",
       "universeID": 7210138915,
       "gameData": {
@@ -2440,7 +2310,7 @@
         }
       }
     },
-    "7": {
+    "5": {
       "placeID": "115872714738097",
       "universeID": 7212288783,
       "gameData": {
@@ -2466,7 +2336,7 @@
         }
       }
     },
-    "8": {
+    "6": {
       "placeID": "127469901979334",
       "universeID": 7219119853,
       "gameData": {
@@ -2492,7 +2362,7 @@
         }
       }
     },
-    "9": {
+    "7": {
       "placeID": "117752552688289",
       "universeID": 7210303171,
       "gameData": {
@@ -2518,7 +2388,7 @@
         }
       }
     },
-    "10": {
+    "8": {
       "placeID": "85492668516600",
       "universeID": 7212709614,
       "gameData": {
@@ -2544,7 +2414,7 @@
         }
       }
     },
-    "11": {
+    "9": {
       "placeID": "80199676803622",
       "universeID": 7221317296,
       "gameData": {
@@ -2570,7 +2440,7 @@
         }
       }
     },
-    "12": {
+    "10": {
       "placeID": "103307446040598",
       "universeID": 7210173023,
       "gameData": {
@@ -2596,7 +2466,7 @@
         }
       }
     },
-    "13": {
+    "11": {
       "placeID": "109376499528460",
       "universeID": 7210071991,
       "gameData": {
@@ -2622,7 +2492,7 @@
         }
       }
     },
-    "14": {
+    "12": {
       "placeID": "78104278190210",
       "universeID": 7212528232,
       "gameData": {
@@ -2648,7 +2518,7 @@
         }
       }
     },
-    "15": {
+    "13": {
       "placeID": "84385028614208",
       "universeID": 7209948465,
       "gameData": {
@@ -2674,7 +2544,7 @@
         }
       }
     },
-    "16": {
+    "14": {
       "placeID": "70447056498136",
       "universeID": 7210099833,
       "gameData": {
@@ -2700,7 +2570,7 @@
         }
       }
     },
-    "17": {
+    "15": {
       "placeID": "107579098782448",
       "universeID": 7213533185,
       "gameData": {
@@ -2726,7 +2596,7 @@
         }
       }
     },
-    "18": {
+    "16": {
       "placeID": "79742068037803",
       "universeID": 7214010667,
       "gameData": {
@@ -2752,7 +2622,7 @@
         }
       }
     },
-    "19": {
+    "17": {
       "placeID": "105473820232108",
       "universeID": 7211030291,
       "gameData": {
@@ -2778,7 +2648,7 @@
         }
       }
     },
-    "20": {
+    "18": {
       "placeID": "109225702277230",
       "universeID": 7211622225,
       "gameData": {
@@ -2804,7 +2674,7 @@
         }
       }
     },
-    "21": {
+    "19": {
       "placeID": "80724163022544",
       "universeID": 7215323586,
       "gameData": {
@@ -2830,7 +2700,7 @@
         }
       }
     },
-    "22": {
+    "20": {
       "placeID": "93055178263199",
       "universeID": 7210147235,
       "gameData": {
@@ -2856,7 +2726,7 @@
         }
       }
     },
-    "23": {
+    "21": {
       "placeID": "78858448726582",
       "universeID": 7213455079,
       "gameData": {
@@ -2882,33 +2752,7 @@
         }
       }
     },
-    "24": {
-      "placeID": "136717803250800",
-      "universeID": 7213594832,
-      "gameData": {
-        "title": "The Endless Show",
-        "description": "A game for the Roblox Developer Challenge 2025, made in 17 hours.\n\nSPOILERS!!!\nHow to beat:\nBuy planks and build up to the glass.\nUse the rock hidden inside of the bedroom to break the glass.",
-        "stats": {
-          "Playing": 0,
-          "Visits": 27,
-          "Favorited": 1
-        },
-        "attributes": {
-          "Created": "2025-02-08T14:01:55.38Z",
-          "Updated": "2025-02-11T00:06:41.54Z",
-          "Genre": "All",
-          "GenreNew": "",
-          "SubGenreNew": "",
-          "MaxPlayers": 1
-        },
-        "Creator": {
-          "Name": "Eri_oxo",
-          "ID": 7193377033,
-          "Type": "User"
-        }
-      }
-    },
-    "25": {
+    "22": {
       "placeID": "108730662758038",
       "universeID": 7209972636,
       "gameData": {
@@ -2934,7 +2778,7 @@
         }
       }
     },
-    "26": {
+    "23": {
       "placeID": "118911927757559",
       "universeID": 7219005898,
       "gameData": {
@@ -2960,59 +2804,59 @@
         }
       }
     },
-    "27": {
-      "placeID": "91250579445880",
-      "universeID": 7210223504,
+    "24": {
+      "placeID": "117569748822980",
+      "universeID": 7210915147,
       "gameData": {
-        "title": "R.I.F.T",
-        "description": "Made by me (@Hiyshhiysh) and @Tombcaller in 3 days for the Roblox Developer Challenge 2025.",
+        "title": "GAMER RAGE",
+        "description": "After losing one (1) (not too many literally just one) round, you've decided you had enough and unleashed your inner beast. Thrash at your computer until it is nothing more than dust and shrapnel to show those skill-less gamers on the other side of your ethernet cable who's boss!\n\nFor Roblox's \"Break the System\" Developer Challenge 2025.",
         "stats": {
           "Playing": 0,
-          "Visits": 85,
+          "Visits": 161,
           "Favorited": 6
         },
         "attributes": {
-          "Created": "2025-02-08T00:22:20.097Z",
-          "Updated": "2025-05-29T21:15:23.92Z",
+          "Created": "2025-02-08T03:21:05.47Z",
+          "Updated": "2025-12-19T18:41:46.307Z",
           "Genre": "All",
-          "GenreNew": "Puzzle",
+          "GenreNew": "",
           "SubGenreNew": "",
-          "MaxPlayers": 1
+          "MaxPlayers": 50
         },
         "Creator": {
-          "Name": "Hiyshhiysh",
-          "ID": 1083917705,
-          "Type": "User"
+          "Name": "æ incorporated",
+          "ID": 7775601,
+          "Type": "Group"
         }
       }
     },
-    "28": {
-      "placeID": "90204607294901",
-      "universeID": 7210060677,
+    "25": {
+      "placeID": "96303214566327",
+      "universeID": 7212061408,
       "gameData": {
-        "title": "OVERRIDE ⚠️",
-        "description": "You're hired at Roblox HQ but your mission isn't what people anticipated as you work the night shift alone you get up to no good. Will you break the system? Will you continue to survive? There is only one way to find out....\n\nHOW TO PLAY:\n🧑‍💻Use your computer to complete tasks\n⏰Watch out, builderman may catch onto what you're doing!\n🏆Survive all of the attacks and reach the final run to win!\n\n❗Something not working? Delete your character to fix it. Tasks are mainly to be more powerful for the final fight\n\n🥳This game was made for the Roblox Developer Challenge 2025. The theme was \"Break the system\"...\n\nTEAM:\n@Mihnealihnea - Modeller, Scripter\n@TaylorDev_RBLX - Scripter, Lighting Artist, Music Artist, Thumbnails Designer\n@VelocionDev - Modeller, Builder\n@occho060 - Scripter, Builder\n@aminepro31 - Builder",
+        "title": "Corrupt",
+        "description": "🎮 Solo Project for Roblox's 2025 DevRel Game Jam under the theme \"Break the System\" \n\n🕹 Controls are as followed: {\n   R to Reload\n   Q to toggle music\n   LMB to fire weapon\n   WASD for movement\n}\n\nYou're a employee at a factory under a corrupted system, you've reached you're breaking point along with your other friends and you're all equipped with two guns to your aid. Kill the corrupted top-hatted businessmen and free the poor workers, break the system...\n\n📱 Mobile is supported.\n👍 Multiplayer is supported.\n\n⏲ You have 5 Minutes to do your task.\n\nTo free the employees, go near a door to open it, if the door's other end is pitch black and if a businessman isn't in sight, the employees will proceed to walk outside through the exit. Do not kill the employees.\n\nDue to my lack of knowledge on certain topics during the development process, this game has led on to be slightly scuffed. You may encounter several errors or bugs. Apologies...\n\n\n",
         "stats": {
           "Playing": 0,
-          "Visits": 180,
-          "Favorited": 2
+          "Visits": 99,
+          "Favorited": 0
         },
         "attributes": {
-          "Created": "2025-02-07T23:35:48.92Z",
-          "Updated": "2025-02-10T22:54:41.167Z",
+          "Created": "2025-02-08T08:23:34.473Z",
+          "Updated": "2025-12-07T13:28:19.44Z",
           "Genre": "All",
-          "GenreNew": "Survival",
-          "SubGenreNew": "1 vs All",
-          "MaxPlayers": 1
+          "GenreNew": "Shooter",
+          "SubGenreNew": "PvE Shooter",
+          "MaxPlayers": 50
         },
         "Creator": {
-          "Name": "Mihnealihnea",
-          "ID": 72813032,
+          "Name": "Dude1nSpace",
+          "ID": 3976319450,
           "Type": "User"
         }
       }
     },
-    "29": {
+    "26": {
       "placeID": "133815585483850",
       "universeID": 7211390706,
       "gameData": {
@@ -3038,7 +2882,7 @@
         }
       }
     },
-    "30": {
+    "27": {
       "placeID": "105371564149894",
       "universeID": 7210063877,
       "gameData": {
@@ -3064,7 +2908,33 @@
         }
       }
     },
-    "31": {
+    "28": {
+      "placeID": "99777522302530",
+      "universeID": 7210162848,
+      "gameData": {
+        "title": "Sabotage Rush",
+        "description": "🔥 Sabotage Rush – Roblox Challenge 2025! 🔥\n[PC - Mobile - Console]\nThe Resistance is at war against a ruthless megacorporation that controls the Industrial Center. To weaken their operations, a team of saboteurs has been sent on a high-risk mission: break in, cause destruction, and escape before it's too late!\n\n💥 The Mission:\n🔧 Sabotage machines and overload systems to spread chaos.\n🚁 Race to the helicopter at the North Exit before time runs out. ⏳\n⚠️ Get left behind, and you're captured!\n\n⚙️ How to Play:\n🎯 Equip your sabotage tool and aim at your target.\n⚡ Charge up energy and fire to disable machines.\n💣 Sabotage near opponents to take them down.\n🤝 Play solo or team up to survive.\n🏆 Earn points by destroying objects and sabotaging key systems.\n\n🚀 Get in, wreak havoc, and escape… if you can!\nAre you ready for the mission? \n\nCredits:\nLead Programmer/Director: @SamuGameDev\nProgrammer: @GamerGh0st777\nArtist: @gi_yatori\nLevel Designer: @Gabryzy\nSound Designer: @jerehmiasmenezes",
+        "stats": {
+          "Playing": 0,
+          "Visits": 1188,
+          "Favorited": 7
+        },
+        "attributes": {
+          "Created": "2025-02-08T00:05:21.363Z",
+          "Updated": "2025-04-10T21:05:14.093Z",
+          "Genre": "All",
+          "GenreNew": "",
+          "SubGenreNew": "",
+          "MaxPlayers": 10
+        },
+        "Creator": {
+          "Name": "SamuGameDev",
+          "ID": 1701477624,
+          "Type": "User"
+        }
+      }
+    },
+    "29": {
       "placeID": "115816561529160",
       "universeID": 7211945837,
       "gameData": {
@@ -3090,7 +2960,7 @@
         }
       }
     },
-    "32": {
+    "30": {
       "placeID": "74314367941793",
       "universeID": 7212960089,
       "gameData": {
@@ -3116,7 +2986,7 @@
         }
       }
     },
-    "33": {
+    "31": {
       "placeID": "88481183745824",
       "universeID": 7211291053,
       "gameData": {
@@ -3142,7 +3012,7 @@
         }
       }
     },
-    "34": {
+    "32": {
       "placeID": "104745952614780",
       "universeID": 7209515992,
       "gameData": {
@@ -3168,33 +3038,7 @@
         }
       }
     },
-    "35": {
-      "placeID": "101759052547210",
-      "universeID": 7210225052,
-      "gameData": {
-        "title": "Specter Endeavor",
-        "description": "Created for the Roblox Developer Challenge 2025 with the theme \"Break the System.\"\n\nA long-time friend of yours has taken your computer away and up to a sky-piercing tower. He wishes to break it, but you endeavor otherwise. Using your newfound spectral form, you must ascend your way to the top of the tower, surmounting any obstacles you may face. Use your trusty keyboard to break the system that stands in your way and save your system from being broken!",
-        "stats": {
-          "Playing": 0,
-          "Visits": 43,
-          "Favorited": 6
-        },
-        "attributes": {
-          "Created": "2025-02-08T00:22:45.68Z",
-          "Updated": "2025-02-10T22:11:02.787Z",
-          "Genre": "All",
-          "GenreNew": "Adventure",
-          "SubGenreNew": "Story",
-          "MaxPlayers": 1
-        },
-        "Creator": {
-          "Name": "minecraftpowers956",
-          "ID": 198552808,
-          "Type": "User"
-        }
-      }
-    },
-    "36": {
+    "33": {
       "placeID": "130735564664568",
       "universeID": 7210288725,
       "gameData": {
@@ -3220,7 +3064,7 @@
         }
       }
     },
-    "37": {
+    "34": {
       "placeID": "121019003940196",
       "universeID": 7209963721,
       "gameData": {
@@ -3246,7 +3090,7 @@
         }
       }
     },
-    "38": {
+    "35": {
       "placeID": "96639114384630",
       "universeID": 7213381172,
       "gameData": {
@@ -3272,7 +3116,7 @@
         }
       }
     },
-    "39": {
+    "36": {
       "placeID": "133695736430963",
       "universeID": 7214605280,
       "gameData": {
@@ -3298,7 +3142,7 @@
         }
       }
     },
-    "40": {
+    "37": {
       "placeID": "113367314190009",
       "universeID": 7212156775,
       "gameData": {
@@ -3324,33 +3168,7 @@
         }
       }
     },
-    "41": {
-      "placeID": "140623205747517",
-      "universeID": 7212568750,
-      "gameData": {
-        "title": "💻Escape The System Obby!",
-        "description": "No description",
-        "stats": {
-          "Playing": 0,
-          "Visits": 85,
-          "Favorited": 4
-        },
-        "attributes": {
-          "Created": "2025-02-08T10:28:03.313Z",
-          "Updated": "2025-02-10T22:49:30.667Z",
-          "Genre": "All",
-          "GenreNew": "",
-          "SubGenreNew": "",
-          "MaxPlayers": 50
-        },
-        "Creator": {
-          "Name": "The Fun Games Studio!",
-          "ID": 15339455,
-          "Type": "Group"
-        }
-      }
-    },
-    "42": {
+    "38": {
       "placeID": "87420490382392",
       "universeID": 7209953558,
       "gameData": {
@@ -3376,7 +3194,7 @@
         }
       }
     },
-    "43": {
+    "39": {
       "placeID": "117554926080931",
       "universeID": 7213558524,
       "gameData": {
@@ -3402,7 +3220,7 @@
         }
       }
     },
-    "44": {
+    "40": {
       "placeID": "85925579614336",
       "universeID": 7210538559,
       "gameData": {
@@ -3428,7 +3246,7 @@
         }
       }
     },
-    "45": {
+    "41": {
       "placeID": "129538720687906",
       "universeID": 7210552695,
       "gameData": {
@@ -3454,7 +3272,7 @@
         }
       }
     },
-    "46": {
+    "42": {
       "placeID": "130421989985534",
       "universeID": 7210084269,
       "gameData": {
@@ -3480,7 +3298,7 @@
         }
       }
     },
-    "47": {
+    "43": {
       "placeID": "136618763862355",
       "universeID": 7210024330,
       "gameData": {
@@ -3506,7 +3324,7 @@
         }
       }
     },
-    "48": {
+    "44": {
       "placeID": "88023355086538",
       "universeID": 7209951866,
       "gameData": {
@@ -3532,7 +3350,7 @@
         }
       }
     },
-    "49": {
+    "45": {
       "placeID": "134380418357482",
       "universeID": 7211067044,
       "gameData": {
@@ -3558,7 +3376,7 @@
         }
       }
     },
-    "50": {
+    "46": {
       "placeID": "131596174751239",
       "universeID": 7211788166,
       "gameData": {
@@ -3584,85 +3402,7 @@
         }
       }
     },
-    "51": {
-      "placeID": "81829706093461",
-      "universeID": 7209969269,
-      "gameData": {
-        "title": "Maniacal-John",
-        "description": "[ROBLOX DEVELOPER CHALLENGE 2025]\nYour name is John Reed.\n\nYou are on a mission of blood, blood of R.A.A.H\n\nGo in to Roblox and break the A.I R.A.A.H",
-        "stats": {
-          "Playing": 0,
-          "Visits": 90,
-          "Favorited": 0
-        },
-        "attributes": {
-          "Created": "2025-02-07T23:08:21.097Z",
-          "Updated": "2025-08-23T18:24:38.777Z",
-          "Genre": "All",
-          "GenreNew": "",
-          "SubGenreNew": "",
-          "MaxPlayers": 1
-        },
-        "Creator": {
-          "Name": "luauRBX",
-          "ID": 7354280707,
-          "Type": "User"
-        }
-      }
-    },
-    "52": {
-      "placeID": "130205812080572",
-      "universeID": 7210867790,
-      "gameData": {
-        "title": "Ace Up Your Sleeve",
-        "description": "Time's running low, Agent! Do you have what it takes to defeat The System?\nTake on a cast of opponents in a card game duel with global stakes... but spies don't fight fair! Use special Aces to turn the tides in your favor or sabotage your foe!\n\nCreated for the 2025 Roblox Developer Challenge in 3 days!",
-        "stats": {
-          "Playing": 0,
-          "Visits": 69,
-          "Favorited": 5
-        },
-        "attributes": {
-          "Created": "2025-02-08T03:09:02.943Z",
-          "Updated": "2025-02-10T22:40:03.653Z",
-          "Genre": "All",
-          "GenreNew": "",
-          "SubGenreNew": "",
-          "MaxPlayers": 1
-        },
-        "Creator": {
-          "Name": "Astra_X2",
-          "ID": 31291696,
-          "Type": "User"
-        }
-      }
-    },
-    "53": {
-      "placeID": "75962923030157",
-      "universeID": 7212365774,
-      "gameData": {
-        "title": "Corrupt.exe",
-        "description": "Game made for GameJam 2025\n\nWill you follow the premade path or embrace the chaos of physics-defying powers in a small part of the city?\n\nCreated by: @Infinity, @vmatasv6, @Hillponds, @fun1892, and @Getderpified1",
-        "stats": {
-          "Playing": 0,
-          "Visits": 504,
-          "Favorited": 8
-        },
-        "attributes": {
-          "Created": "2025-02-08T09:39:36.917Z",
-          "Updated": "2025-02-28T19:58:33.62Z",
-          "Genre": "All",
-          "GenreNew": "Obby & Platformer",
-          "SubGenreNew": "",
-          "MaxPlayers": 6
-        },
-        "Creator": {
-          "Name": "Northworld Studio",
-          "ID": 11930319,
-          "Type": "Group"
-        }
-      }
-    },
-    "54": {
+    "47": {
       "placeID": "81774258354177",
       "universeID": 7209994749,
       "gameData": {
@@ -3688,7 +3428,7 @@
         }
       }
     },
-    "55": {
+    "48": {
       "placeID": "89100757840447",
       "universeID": 7212393177,
       "gameData": {
@@ -3714,33 +3454,7 @@
         }
       }
     },
-    "56": {
-      "placeID": "72347884958194",
-      "universeID": 7209965234,
-      "gameData": {
-        "title": "PROJECT: HIGHROLL",
-        "description": "Roll high numbers and buy multiplier cards, but beware of rolling too high...",
-        "stats": {
-          "Playing": 0,
-          "Visits": 80,
-          "Favorited": 0
-        },
-        "attributes": {
-          "Created": "2025-02-07T23:07:04.553Z",
-          "Updated": "2025-03-01T05:27:42.28Z",
-          "Genre": "All",
-          "GenreNew": "",
-          "SubGenreNew": "",
-          "MaxPlayers": 1
-        },
-        "Creator": {
-          "Name": "Wracked Games",
-          "ID": 32753168,
-          "Type": "Group"
-        }
-      }
-    },
-    "57": {
+    "49": {
       "placeID": "99216101437383",
       "universeID": 7226480754,
       "gameData": {
@@ -3766,85 +3480,7 @@
         }
       }
     },
-    "58": {
-      "placeID": "80961649414880",
-      "universeID": 7210019279,
-      "gameData": {
-        "title": "Fragmented",
-        "description": "This game was created for the Roblox Developer Challenge 2025.\n\n72 hours of hard work from our team.\nProgramming : @ShibouliDev / @max07_9864\nGame Design : @KingNini77 / @Coco_B0SS / @Fire_Malou \nStory : @everyone\n\nIF PRESSING \"Y\" DOES NOT WORK, PLEASE REJOIN\n\nAll sound FX are provided by the Roblox's toolbox.",
-        "stats": {
-          "Playing": 0,
-          "Visits": 368,
-          "Favorited": 13
-        },
-        "attributes": {
-          "Created": "2025-02-07T23:23:36.547Z",
-          "Updated": "2025-11-21T22:06:45.21Z",
-          "Genre": "All",
-          "GenreNew": "",
-          "SubGenreNew": "",
-          "MaxPlayers": 1
-        },
-        "Creator": {
-          "Name": "Galek Games Studio",
-          "ID": 15866484,
-          "Type": "Group"
-        }
-      }
-    },
-    "59": {
-      "placeID": "100559452339552",
-      "universeID": 7210018522,
-      "gameData": {
-        "title": "🖥️Way to HQ",
-        "description": "Game for Roblox Developer Challenge 2025 on the theme Break the System\n\n🔨Developers\nBuilding / Modeling:\nMoziGames\n@SubToAiim\n@megahungry_shark\n\nScripters:\n@MoziGames\n@Sinster_Zombie\n\nVFX:\nMoziGames\n\nUi design:\nMoziGames\nSinster_Zombie",
-        "stats": {
-          "Playing": 0,
-          "Visits": 55,
-          "Favorited": 4
-        },
-        "attributes": {
-          "Created": "2025-02-07T23:23:22.927Z",
-          "Updated": "2025-08-11T16:14:30.817Z",
-          "Genre": "All",
-          "GenreNew": "Adventure",
-          "SubGenreNew": "Exploration",
-          "MaxPlayers": 50
-        },
-        "Creator": {
-          "Name": "9mozi",
-          "ID": 548724860,
-          "Type": "User"
-        }
-      }
-    },
-    "60": {
-      "placeID": "120851549049295",
-      "universeID": 7210280812,
-      "gameData": {
-        "title": "fish.user (2025 RDC GAMEJAM)",
-        "description": "Created for the RDC 2025 GameJam \"Break the System\"\nPlayable on PC, Mobile & Console.\n\nA short game where you play as a fish.\nDrag windows on your way to escape!\n\nCredits:\n\nLukaAdidasn - 3D models, animations, music, helped build the map and sprite\neeeLee - Coder and built the map\nD4WizardBoi - Coder",
-        "stats": {
-          "Playing": 0,
-          "Visits": 723,
-          "Favorited": 37
-        },
-        "attributes": {
-          "Created": "2025-02-08T00:37:53.193Z",
-          "Updated": "2025-12-31T10:01:56.573Z",
-          "Genre": "All",
-          "GenreNew": "Adventure",
-          "SubGenreNew": "Exploration",
-          "MaxPlayers": 50
-        },
-        "Creator": {
-          "Name": "LuaW1z",
-          "ID": 4371305238,
-          "Type": "User"
-        }
-      }
-    },
-    "61": {
+    "50": {
       "placeID": "107597863814684",
       "universeID": 7210013520,
       "gameData": {
@@ -3852,7 +3488,7 @@
         "description": ">Incoming transmission...\n\nYou used to be free to spawn anywhere... but ever since that system was enabled, you've become a prisoner in a harsh and oppressive complex. \nWill you succumb to the endless cycle, or will you find a way to break it?\n\nRoblox Developer Challenge 2025 submission\n\nCreated by atone404 and Ringularity\n\nInspired by Portal and The Stanley Parable",
         "stats": {
           "Playing": 0,
-          "Visits": 1432,
+          "Visits": 1434,
           "Favorited": 19
         },
         "attributes": {
@@ -3870,7 +3506,7 @@
         }
       }
     },
-    "62": {
+    "51": {
       "placeID": "104523664386789",
       "universeID": 7209943894,
       "gameData": {
@@ -3896,7 +3532,7 @@
         }
       }
     },
-    "63": {
+    "52": {
       "placeID": "117043177174983",
       "universeID": 7210023591,
       "gameData": {
@@ -3922,7 +3558,33 @@
         }
       }
     },
-    "64": {
+    "53": {
+      "placeID": "106899673139403",
+      "universeID": 7209951004,
+      "gameData": {
+        "title": "System Break",
+        "description": "Dive into System Break, our Roblox Dev Challenge 2025 entry!\n\nIt didn't turn out as I envisioned; my family is sick and we just ran out of time. I hope you enjoy it nonetheless, and I wish the best of luck to the other competitors. \n-- Danger\n\nTeam:\nDanger (DangerRangerJJD)\nProx (Proxx_u)\nQuill (Transquilleo)",
+        "stats": {
+          "Playing": 0,
+          "Visits": 32,
+          "Favorited": 1
+        },
+        "attributes": {
+          "Created": "2025-02-07T23:02:42.27Z",
+          "Updated": "2025-04-10T16:56:39.477Z",
+          "Genre": "All",
+          "GenreNew": "Adventure",
+          "SubGenreNew": "Story",
+          "MaxPlayers": 1
+        },
+        "Creator": {
+          "Name": "DangerRangerJJD",
+          "ID": 24468719,
+          "Type": "User"
+        }
+      }
+    },
+    "54": {
       "placeID": "79202192419571",
       "universeID": 7212199813,
       "gameData": {
@@ -3948,7 +3610,33 @@
         }
       }
     },
-    "65": {
+    "55": {
+      "placeID": "116282478952901",
+      "universeID": 7210133079,
+      "gameData": {
+        "title": "Friends Forever",
+        "description": "Your new friend for life! Right?\n\nYou're an abandoned virtual pet... Nobody has interacted with you in years... It's time to find a way out.\n\nCreated for the February Roblox 2025 Developer Challenge\n\nScripting: Smellysuperfart\n2D Assets, Modeling: hiioh\nModeling, Building: Spookiner\nMusic: dieselfluids",
+        "stats": {
+          "Playing": 0,
+          "Visits": 22849,
+          "Favorited": 1305
+        },
+        "attributes": {
+          "Created": "2025-02-07T23:56:53.883Z",
+          "Updated": "2026-02-01T18:57:22.4289973Z",
+          "Genre": "All",
+          "GenreNew": "",
+          "SubGenreNew": "",
+          "MaxPlayers": 1
+        },
+        "Creator": {
+          "Name": "Pixel-bit Studio",
+          "ID": 2684297,
+          "Type": "Group"
+        }
+      }
+    },
+    "56": {
       "placeID": "117219760805800",
       "universeID": 7210765744,
       "gameData": {
@@ -3974,33 +3662,7 @@
         }
       }
     },
-    "66": {
-      "placeID": "137695637382314",
-      "universeID": 7210009582,
-      "gameData": {
-        "title": "sys.break()",
-        "description": "Roblox Developer Challenge 2025 submission. More info here: https://devforum.roblox.com/t/roblox-developer-challenge-2025/3389448/1\n\nFrom the moment you entered, there was no turning back. The operation must succeed—failure isn’t an option. One shot. One chance.\n\nThe antivirus is hunting.\n\n@devuhloper - Environmental Builder\n@hunxrepair - Programming\n@Maxx_J - Gameplay, Programming, Environmental Builder\n@VegetationBush - UI, UX, Programming Lead\n",
-        "stats": {
-          "Playing": 0,
-          "Visits": 186,
-          "Favorited": 2
-        },
-        "attributes": {
-          "Created": "2025-02-07T23:20:40.44Z",
-          "Updated": "2025-02-10T22:23:07.12Z",
-          "Genre": "All",
-          "GenreNew": "Survival",
-          "SubGenreNew": "1 vs All",
-          "MaxPlayers": 1
-        },
-        "Creator": {
-          "Name": "Overpowered Devz",
-          "ID": 9885281,
-          "Type": "Group"
-        }
-      }
-    },
-    "67": {
+    "57": {
       "placeID": "80165723542611",
       "universeID": 7209950151,
       "gameData": {
@@ -4026,7 +3688,7 @@
         }
       }
     },
-    "68": {
+    "58": {
       "placeID": "129926176532706",
       "universeID": 7210002892,
       "gameData": {
@@ -4052,7 +3714,7 @@
         }
       }
     },
-    "69": {
+    "59": {
       "placeID": "111499763676799",
       "universeID": 7212471113,
       "gameData": {
@@ -4078,33 +3740,7 @@
         }
       }
     },
-    "70": {
-      "placeID": "87715772551165",
-      "universeID": 7214895364,
-      "gameData": {
-        "title": "Redcliff Cheats",
-        "description": "An singleplayer game redcliff cheats until the apartment is on fire, cheat your way to victory!\n\nControls\nQ - Change Perspective\nClick - To Interact\n\nDev Team:\nSagaStars - Scripting/UI/Animation\nSoreku - Builder/VFX/Modeler\nsmoothfreak - Builder/Modeler\nAxermis - VFX/Decals\nRepollito789 - Design/SFX",
-        "stats": {
-          "Playing": 0,
-          "Visits": 257,
-          "Favorited": 4
-        },
-        "attributes": {
-          "Created": "2025-02-08T18:09:15.85Z",
-          "Updated": "2025-05-02T23:42:55.903Z",
-          "Genre": "All",
-          "GenreNew": "Action",
-          "SubGenreNew": "",
-          "MaxPlayers": 1
-        },
-        "Creator": {
-          "Name": "Makoka",
-          "ID": 13260219,
-          "Type": "Group"
-        }
-      }
-    },
-    "71": {
+    "60": {
       "placeID": "80660840529088",
       "universeID": 7209975541,
       "gameData": {
@@ -4130,7 +3766,7 @@
         }
       }
     },
-    "72": {
+    "61": {
       "placeID": "111751807894431",
       "universeID": 7210051895,
       "gameData": {
@@ -4156,85 +3792,7 @@
         }
       }
     },
-    "73": {
-      "placeID": "102344625853939",
-      "universeID": 7209958645,
-      "gameData": {
-        "title": "The Conglomerate",
-        "description": "Submission for the Roblox Developer Challenge 2025\n\niCarlos98\nsmashman65\nsmashman565\nbreadbutcooler\nLucifaux2",
-        "stats": {
-          "Playing": 0,
-          "Visits": 102,
-          "Favorited": 6
-        },
-        "attributes": {
-          "Created": "2025-02-07T23:05:03.077Z",
-          "Updated": "2025-12-29T06:04:52.7Z",
-          "Genre": "All",
-          "GenreNew": "Adventure",
-          "SubGenreNew": "Story",
-          "MaxPlayers": 1
-        },
-        "Creator": {
-          "Name": "smart jittleyangs",
-          "ID": 35597374,
-          "Type": "Group"
-        }
-      }
-    },
-    "74": {
-      "placeID": "140632594881105",
-      "universeID": 7209956662,
-      "gameData": {
-        "title": "Save Break💾",
-        "description": "🕹️ You're a tester for a new developer's upcoming game, but some of the systems aren't working correctly...\n\n💾 In this puzzle game, Everything in your inventory seems to stay between different saves . . . ?! Maybe you could use this to progress in an otherwise unbeatable game! There are two endings to be found.\n\n🔨 Made in ~3 days for the Roblox Developer Challenge 2025 with the theme \"Break The System\"\n\nControls:\nWASD - Move\nSpace - Jump\nShift - Sprint\nR - Access save and load menu\nE - Pickup Item\n\nCredits:\n@SComics - Animating/Level Design\n@reamnos - Art/Writing\n@SearingCircuits - Art/Playtesting\n@PuffoThePufferfish - Programming/UI\n@doomforks - Modelling",
-        "stats": {
-          "Playing": 0,
-          "Visits": 388,
-          "Favorited": 72
-        },
-        "attributes": {
-          "Created": "2025-02-07T23:04:25.827Z",
-          "Updated": "2025-12-08T14:22:01.517Z",
-          "Genre": "All",
-          "GenreNew": "Puzzle",
-          "SubGenreNew": "",
-          "MaxPlayers": 1
-        },
-        "Creator": {
-          "Name": "Inconspicuous Kevins",
-          "ID": 34248276,
-          "Type": "Group"
-        }
-      }
-    },
-    "75": {
-      "placeID": "132325165234211",
-      "universeID": 7213564333,
-      "gameData": {
-        "title": "Perpetual Factory",
-        "description": "Roblox Developer Challenge submission.\n\nControls:\nMouse - Interacting.\nWASD - Looking around the room.\nClicking W again will focus view on objects.\n\nScripting : LegsOmega\nAssets & Environment : Evyrith\nEmotional Support : Tomek2z, Are_Xo, Cirel0",
-        "stats": {
-          "Playing": 0,
-          "Visits": 77,
-          "Favorited": 5
-        },
-        "attributes": {
-          "Created": "2025-02-08T13:56:08.63Z",
-          "Updated": "2025-11-04T08:40:24.34Z",
-          "Genre": "All",
-          "GenreNew": "Puzzle",
-          "SubGenreNew": "Escape Room",
-          "MaxPlayers": 1
-        },
-        "Creator": {
-          "Name": "- Break The System -",
-          "ID": 35599792,
-          "Type": "Group"
-        }
-      }
-    },
-    "76": {
+    "62": {
       "placeID": "122150521600662",
       "universeID": 7212885091,
       "gameData": {
@@ -4260,7 +3818,7 @@
         }
       }
     },
-    "77": {
+    "63": {
       "placeID": "121338481931012",
       "universeID": 7220529006,
       "gameData": {
@@ -4286,7 +3844,7 @@
         }
       }
     },
-    "78": {
+    "64": {
       "placeID": "77536812718870",
       "universeID": 7213617556,
       "gameData": {
@@ -4312,7 +3870,7 @@
         }
       }
     },
-    "79": {
+    "65": {
       "placeID": "72715725662122",
       "universeID": 7218206337,
       "gameData": {
@@ -4320,7 +3878,7 @@
         "description": "You're an employee at a large corporation working endlessly with hundreds of other people, until one day, you \"break the system\" and get up.\n\nMade under 2 days as part of the Roblox Developer Challenge 2025.\n\nBuilding: @bacxnwastaken, @thecharlreal, @etangamermaster\nScripting: @bacxnwastaken, @etangamermaster\nSupport: @Veraluxxed",
         "stats": {
           "Playing": 0,
-          "Visits": 418,
+          "Visits": 419,
           "Favorited": 6
         },
         "attributes": {
@@ -4338,7 +3896,7 @@
         }
       }
     },
-    "80": {
+    "66": {
       "placeID": "105911468455399",
       "universeID": 7226491054,
       "gameData": {
@@ -4364,189 +3922,7 @@
         }
       }
     },
-    "81": {
-      "placeID": "102510569729422",
-      "universeID": 7209955738,
-      "gameData": {
-        "title": "Terminality",
-        "description": "This game was a submission for the roblox 2025 Dev challenge.\nThere are many unique characters with their own abilities! The task is to destroy the system with the virus (Red).",
-        "stats": {
-          "Playing": 0,
-          "Visits": 70,
-          "Favorited": 5
-        },
-        "attributes": {
-          "Created": "2025-02-07T23:04:09.903Z",
-          "Updated": "2025-10-31T14:55:19.55Z",
-          "Genre": "All",
-          "GenreNew": "Puzzle",
-          "SubGenreNew": "Escape Room",
-          "MaxPlayers": 1
-        },
-        "Creator": {
-          "Name": "Quacken2",
-          "ID": 35596095,
-          "Type": "Group"
-        }
-      }
-    },
-    "82": {
-      "placeID": "97396158186008",
-      "universeID": 7210077617,
-      "gameData": {
-        "title": "Unstitched [Game Jam 2025]",
-        "description": "Destroy all the houses before it breaks YOUR System",
-        "stats": {
-          "Playing": 0,
-          "Visits": 36,
-          "Favorited": 3
-        },
-        "attributes": {
-          "Created": "2025-02-07T23:40:45.677Z",
-          "Updated": "2025-12-13T19:01:11.477Z",
-          "Genre": "All",
-          "GenreNew": "",
-          "SubGenreNew": "",
-          "MaxPlayers": 1
-        },
-        "Creator": {
-          "Name": "In The Zone Games",
-          "ID": 33204213,
-          "Type": "Group"
-        }
-      }
-    },
-    "83": {
-      "placeID": "119344469172955",
-      "universeID": 7209950628,
-      "gameData": {
-        "title": "Broken Realms",
-        "description": "Game created under 72 hours for Roblox Developer Challenge 2025\n\nCredits: just 5 developers",
-        "stats": {
-          "Playing": 0,
-          "Visits": 105,
-          "Favorited": 1
-        },
-        "attributes": {
-          "Created": "2025-02-07T23:02:34.26Z",
-          "Updated": "2025-12-20T20:14:50.14Z",
-          "Genre": "All",
-          "GenreNew": "",
-          "SubGenreNew": "",
-          "MaxPlayers": 1
-        },
-        "Creator": {
-          "Name": "FuryX547",
-          "ID": 304709117,
-          "Type": "User"
-        }
-      }
-    },
-    "84": {
-      "placeID": "139801809983164",
-      "universeID": 7220378637,
-      "gameData": {
-        "title": "Subject 51",
-        "description": "Your lack of money forced you to sign an open-ended contract to take part in a popular experiment, where you will be very well rewarded. Your task is simple: do what you are told.\n\nThis game was made in 2 days for the Roblox Developer Challenge 2025, you may expect some bugs and glitchs.",
-        "stats": {
-          "Playing": 0,
-          "Visits": 39,
-          "Favorited": 6
-        },
-        "attributes": {
-          "Created": "2025-02-09T15:16:28.573Z",
-          "Updated": "2025-02-10T22:56:56.443Z",
-          "Genre": "All",
-          "GenreNew": "Puzzle",
-          "SubGenreNew": "Escape Room",
-          "MaxPlayers": 1
-        },
-        "Creator": {
-          "Name": "AXP Studio",
-          "ID": 17033198,
-          "Type": "Group"
-        }
-      }
-    },
-    "85": {
-      "placeID": "132079166019134",
-      "universeID": 7211844849,
-      "gameData": {
-        "title": "Zud0",
-        "description": "No description",
-        "stats": {
-          "Playing": 0,
-          "Visits": 36,
-          "Favorited": 2
-        },
-        "attributes": {
-          "Created": "2025-02-08T07:27:20.537Z",
-          "Updated": "2025-02-10T22:53:23.133Z",
-          "Genre": "All",
-          "GenreNew": "",
-          "SubGenreNew": "",
-          "MaxPlayers": 1
-        },
-        "Creator": {
-          "Name": "HereIsADisplay",
-          "ID": 3263898916,
-          "Type": "User"
-        }
-      }
-    },
-    "86": {
-      "placeID": "75212912708449",
-      "universeID": 7209950780,
-      "gameData": {
-        "title": "Computer Chaos",
-        "description": "\"Tell me, do you want to play a game?\"\n\nWelcome to Computer Chaos! \nIn this game, you need to escape a computer that you were trapped in, and defeat all of the enemies that are contained in it!\n\nOriginally built for the Game jam.\nMade and presented to you by: The GameJammers 🏆",
-        "stats": {
-          "Playing": 0,
-          "Visits": 310,
-          "Favorited": 3
-        },
-        "attributes": {
-          "Created": "2025-02-07T23:02:37.53Z",
-          "Updated": "2026-01-05T18:15:45.187Z",
-          "Genre": "All",
-          "GenreNew": "",
-          "SubGenreNew": "",
-          "MaxPlayers": 1
-        },
-        "Creator": {
-          "Name": "The GameJammers",
-          "ID": 35597213,
-          "Type": "Group"
-        }
-      }
-    },
-    "87": {
-      "placeID": "130346634290594",
-      "universeID": 7212149549,
-      "gameData": {
-        "title": "The Noob Paradox",
-        "description": "\"The Noob Paradox\" is a story based game in which you discover different dialoges and do different quests. In the end you can choose either the red button and break the system or choose the green button and not break the system which leaves you in the simulation forever, with your fellow friend, old man.",
-        "stats": {
-          "Playing": 0,
-          "Visits": 104,
-          "Favorited": 6
-        },
-        "attributes": {
-          "Created": "2025-02-08T08:45:58.283Z",
-          "Updated": "2025-11-09T13:47:12.833Z",
-          "Genre": "All",
-          "GenreNew": "",
-          "SubGenreNew": "",
-          "MaxPlayers": 1
-        },
-        "Creator": {
-          "Name": "Dreamy Studios!",
-          "ID": 32811567,
-          "Type": "Group"
-        }
-      }
-    },
-    "88": {
+    "67": {
       "placeID": "77205500015552",
       "universeID": 7210071478,
       "gameData": {
@@ -4572,7 +3948,7 @@
         }
       }
     },
-    "89": {
+    "68": {
       "placeID": "89547059626313",
       "universeID": 7210611571,
       "gameData": {
@@ -4598,7 +3974,7 @@
         }
       }
     },
-    "90": {
+    "69": {
       "placeID": "121026288689516",
       "universeID": 7210886544,
       "gameData": {
@@ -4624,7 +4000,7 @@
         }
       }
     },
-    "91": {
+    "70": {
       "placeID": "120253425098342",
       "universeID": 7210504823,
       "gameData": {
@@ -4650,33 +4026,7 @@
         }
       }
     },
-    "92": {
-      "placeID": "114901213381261",
-      "universeID": 7211909806,
-      "gameData": {
-        "title": "Totally normal game test",
-        "description": "02/27/2025: Fixed a bug that would break all of the voicelines\n\n🚧 We didn't have the time to test properly! If you run into a bug like a blackscreen, please rejoin or reset your Level using \"K\". There should be 3 simulations you can see, the last one being a spaceship\n\n✨ Hey subject 45! You are here to totally test our game. There's nothing suspicious going on..\n\n🧱 Gamejam game made in 3 days by:\nEinMarek\nNova_MrRoyal\nLeon_Kokosnuss\nStayroh\nccandelz\n\nWE REUSED THE INTRO SEQUENCE FROM ONLY ONE RULE! We didnt have time to update it in the credits",
-        "stats": {
-          "Playing": 0,
-          "Visits": 259,
-          "Favorited": 7
-        },
-        "attributes": {
-          "Created": "2025-02-08T07:44:36.583Z",
-          "Updated": "2026-01-03T22:28:36.7Z",
-          "Genre": "All",
-          "GenreNew": "",
-          "SubGenreNew": "",
-          "MaxPlayers": 1
-        },
-        "Creator": {
-          "Name": "Toolbox Users",
-          "ID": 33201967,
-          "Type": "Group"
-        }
-      }
-    },
-    "93": {
+    "71": {
       "placeID": "117618211544191",
       "universeID": 7213366318,
       "gameData": {
@@ -4702,7 +4052,7 @@
         }
       }
     },
-    "94": {
+    "72": {
       "placeID": "126496794891024",
       "universeID": 7210177799,
       "gameData": {
@@ -4728,7 +4078,7 @@
         }
       }
     },
-    "95": {
+    "73": {
       "placeID": "110003583161413",
       "universeID": 7210423164,
       "gameData": {
@@ -4754,7 +4104,7 @@
         }
       }
     },
-    "96": {
+    "74": {
       "placeID": "112991739738266",
       "universeID": 7210045442,
       "gameData": {
@@ -4780,59 +4130,7 @@
         }
       }
     },
-    "97": {
-      "placeID": "88729172630141",
-      "universeID": 7214743598,
-      "gameData": {
-        "title": "Fart Simulator! 💨",
-        "description": "BBRRAPPP!!!!\nIt's Fart Simulator! The number one farting simulation on ROBLOX!!\n\nFeatures Include:\n-30 Different Fart Sounds!\n-Many Fun NPCs!\n-Rich Story!\n-Farting!!!!!\n\nMade for the ROBLOX Developer Challenge Spring 2025 \n(Theme: Break the System)",
-        "stats": {
-          "Playing": 0,
-          "Visits": 4839,
-          "Favorited": 16
-        },
-        "attributes": {
-          "Created": "2025-02-08T17:40:03.593Z",
-          "Updated": "2025-12-03T22:27:46.08Z",
-          "Genre": "All",
-          "GenreNew": "Adventure",
-          "SubGenreNew": "Story",
-          "MaxPlayers": 50
-        },
-        "Creator": {
-          "Name": "CUTE AND FUN GAMES",
-          "ID": 16071274,
-          "Type": "Group"
-        }
-      }
-    },
-    "98": {
-      "placeID": "118438948266662",
-      "universeID": 7211919664,
-      "gameData": {
-        "title": "Nothing Happened",
-        "description": "Made in 3 days for the Roblox Developer Challenge 2025.",
-        "stats": {
-          "Playing": 0,
-          "Visits": 33,
-          "Favorited": 0
-        },
-        "attributes": {
-          "Created": "2025-02-08T07:47:11.373Z",
-          "Updated": "2025-05-08T13:37:21.38Z",
-          "Genre": "All",
-          "GenreNew": "",
-          "SubGenreNew": "",
-          "MaxPlayers": 1
-        },
-        "Creator": {
-          "Name": "Obi_Wan1555",
-          "ID": 1566661218,
-          "Type": "User"
-        }
-      }
-    },
-    "99": {
+    "75": {
       "placeID": "130680776816563",
       "universeID": 7210279052,
       "gameData": {
@@ -4858,7 +4156,7 @@
         }
       }
     },
-    "100": {
+    "76": {
       "placeID": "114804669441354",
       "universeID": 7210052792,
       "gameData": {
@@ -4884,7 +4182,7 @@
         }
       }
     },
-    "101": {
+    "77": {
       "placeID": "130620856771341",
       "universeID": 7209975265,
       "gameData": {
@@ -4910,7 +4208,7 @@
         }
       }
     },
-    "102": {
+    "78": {
       "placeID": "112227276594952",
       "universeID": 7211247875,
       "gameData": {
@@ -4936,33 +4234,7 @@
         }
       }
     },
-    "103": {
-      "placeID": "112624162498510",
-      "universeID": 7224743695,
-      "gameData": {
-        "title": "Databound",
-        "description": "Roblox Developer Challenge 2025 [Break the System 🖥️]\n\nUse your wits, master logic statements, and outsmart the obstacles before you become lost in the code forever. Can you break free, or will you remain a prisoner of the system?\n\nCredits:\nGame lead/Builder - intlude\nScripter/UI - ChrisCruel\n3D Modeller - BubblyFaerie\nAnimator - BobbyForBubby\n\n(Created within 3 days)",
-        "stats": {
-          "Playing": 0,
-          "Visits": 146,
-          "Favorited": 13
-        },
-        "attributes": {
-          "Created": "2025-02-10T13:31:45.45Z",
-          "Updated": "2025-06-05T16:15:10.407Z",
-          "Genre": "All",
-          "GenreNew": "Puzzle",
-          "SubGenreNew": "",
-          "MaxPlayers": 1
-        },
-        "Creator": {
-          "Name": "intlude",
-          "ID": 202078833,
-          "Type": "User"
-        }
-      }
-    },
-    "104": {
+    "79": {
       "placeID": "140370843730190",
       "universeID": 7209950683,
       "gameData": {
@@ -4970,7 +4242,7 @@
         "description": "All you wanted to do was go get taco's with your friend.\n\nThen, you found the phone...\n\nAdventure this mystery world and figure out how to escape, and most importantly...\n\nBreak the System!",
         "stats": {
           "Playing": 0,
-          "Visits": 2870,
+          "Visits": 2884,
           "Favorited": 5
         },
         "attributes": {
@@ -4988,7 +4260,7 @@
         }
       }
     },
-    "105": {
+    "80": {
       "placeID": "108067592050237",
       "universeID": 7212385486,
       "gameData": {
@@ -5014,7 +4286,7 @@
         }
       }
     },
-    "106": {
+    "81": {
       "placeID": "124870019155574",
       "universeID": 7218037134,
       "gameData": {
@@ -5040,7 +4312,7 @@
         }
       }
     },
-    "107": {
+    "82": {
       "placeID": "109485588458218",
       "universeID": 7210868254,
       "gameData": {
@@ -5066,7 +4338,7 @@
         }
       }
     },
-    "108": {
+    "83": {
       "placeID": "83713907852106",
       "universeID": 7212008342,
       "gameData": {
@@ -5092,7 +4364,7 @@
         }
       }
     },
-    "109": {
+    "84": {
       "placeID": "72912130469681",
       "universeID": 7212779734,
       "gameData": {
@@ -5118,7 +4390,7 @@
         }
       }
     },
-    "110": {
+    "85": {
       "placeID": "106042066179089",
       "universeID": 7208448289,
       "gameData": {
@@ -5144,7 +4416,7 @@
         }
       }
     },
-    "111": {
+    "86": {
       "placeID": "85190148898169",
       "universeID": 7210062717,
       "gameData": {
@@ -5170,7 +4442,7 @@
         }
       }
     },
-    "112": {
+    "87": {
       "placeID": "80525326226235",
       "universeID": 7211102200,
       "gameData": {
@@ -5196,33 +4468,7 @@
         }
       }
     },
-    "113": {
-      "placeID": "96741259723218",
-      "universeID": 7213482043,
-      "gameData": {
-        "title": "[UPDATE!] The CHASE: Trigger & Ignition",
-        "description": "CHASE or GET CHASED!\n\nFight til' the end in this fast paced brutal car deathmatch! The best rider shall take the victory.. 💥\n\nNEW UPDATE: \n- Added icons to the leader board for developers, premium and verified\n- Added overhead icons to identify players in cars\n- Most importantly CONSOLE AND MOBILE SUPPORT\n- Numerous bug fixes\n\nPress TAB to view Leaderboards in-game session, and RT/R2 if you're on console to click the \"Play\" button\n\nEnjoy!\n\n(Requires 2 or more players to play)\n\nFire til' your hearts desire! \n\n\nSpecial (volunteer) Thanks to:\n\n@monstercat - For the in-game music library\n\n@eProgram - For the Rocket launcher & Mine dropper weapons\n\n@Xy_Zre (Crimsonatic) - For the Mini-City Map\n\n",
-        "stats": {
-          "Playing": 0,
-          "Visits": 2196,
-          "Favorited": 69
-        },
-        "attributes": {
-          "Created": "2025-02-08T13:40:25.103Z",
-          "Updated": "2026-01-08T18:52:37.63Z",
-          "Genre": "All",
-          "GenreNew": "Action",
-          "SubGenreNew": "Open World Action",
-          "MaxPlayers": 12
-        },
-        "Creator": {
-          "Name": "Road Rage Studio",
-          "ID": 35600020,
-          "Type": "Group"
-        }
-      }
-    },
-    "114": {
+    "88": {
       "placeID": "80994083209502",
       "universeID": 7210078102,
       "gameData": {
@@ -5248,7 +4494,7 @@
         }
       }
     },
-    "115": {
+    "89": {
       "placeID": "138575298989692",
       "universeID": 7221698316,
       "gameData": {
@@ -5274,7 +4520,7 @@
         }
       }
     },
-    "116": {
+    "90": {
       "placeID": "91296245716001",
       "universeID": 7211252032,
       "gameData": {
@@ -5300,7 +4546,7 @@
         }
       }
     },
-    "117": {
+    "91": {
       "placeID": "126574915202769",
       "universeID": 7210008936,
       "gameData": {
@@ -5326,7 +4572,7 @@
         }
       }
     },
-    "118": {
+    "92": {
       "placeID": "102842680645879",
       "universeID": 7210422085,
       "gameData": {
@@ -5352,7 +4598,7 @@
         }
       }
     },
-    "119": {
+    "93": {
       "placeID": "81724075215140",
       "universeID": 7209961033,
       "gameData": {
@@ -5378,7 +4624,7 @@
         }
       }
     },
-    "120": {
+    "94": {
       "placeID": "97780181113052",
       "universeID": 7210900724,
       "gameData": {
@@ -5404,7 +4650,7 @@
         }
       }
     },
-    "121": {
+    "95": {
       "placeID": "124030455534901",
       "universeID": 7234882718,
       "gameData": {
@@ -5430,33 +4676,7 @@
         }
       }
     },
-    "122": {
-      "placeID": "95763096032104",
-      "universeID": 7243037786,
-      "gameData": {
-        "title": "Developer Challenge Game Submissions (2025)",
-        "description": "All games publically submitted for the Roblox Developer Challenge on the Dev Forums.\n\nGames list put together by @TimeFrenzied",
-        "stats": {
-          "Playing": 0,
-          "Visits": 63,
-          "Favorited": 1
-        },
-        "attributes": {
-          "Created": "2025-02-14T19:45:03.587Z",
-          "Updated": "2025-03-22T19:37:51.267Z",
-          "Genre": "All",
-          "GenreNew": "",
-          "SubGenreNew": "",
-          "MaxPlayers": 10
-        },
-        "Creator": {
-          "Name": "TeaITL",
-          "ID": 661156402,
-          "Type": "User"
-        }
-      }
-    },
-    "123": {
+    "96": {
       "placeID": "106892291871683",
       "universeID": 6885847974,
       "gameData": {
@@ -5482,33 +4702,7 @@
         }
       }
     },
-    "124": {
-      "placeID": "5366010983",
-      "universeID": 1881144051,
-      "gameData": {
-        "title": "[🏆] Shapescape",
-        "description": "No description",
-        "stats": {
-          "Playing": 0,
-          "Visits": 17918,
-          "Favorited": 936
-        },
-        "attributes": {
-          "Created": "2020-07-17T20:06:29.19Z",
-          "Updated": "2022-08-28T03:39:23.507Z",
-          "Genre": "All",
-          "GenreNew": "",
-          "SubGenreNew": "",
-          "MaxPlayers": 1
-        },
-        "Creator": {
-          "Name": "the coolest team on roblox",
-          "ID": 4140867,
-          "Type": "Group"
-        }
-      }
-    },
-    "125": {
+    "97": {
       "placeID": "122605544107985",
       "universeID": 7210020075,
       "gameData": {
@@ -5534,33 +4728,7 @@
         }
       }
     },
-    "126": {
-      "placeID": "111303556968040",
-      "universeID": 7225757640,
-      "gameData": {
-        "title": "The Last Job",
-        "description": "Plan, execute, and escape a daring bank heist in this thrilling puzzle-action game! Take on the role of a skilled hacker and thief, determined to break into the heavily fortified vault of a prestigious bank!💸\n\n\nUse your wits to bypass security systems and hack through doors to reach the ultimate prize. But be warned: the bank's defenses are formidable, and the clock is ticking.⏰\n\n\nWill you breach the vault and escape with the loot, or will you get caught in the act? The challenge is on! 🏆\n\nMade by: @jzsonn, @MattyDevs, @v1set",
-        "stats": {
-          "Playing": 0,
-          "Visits": 85,
-          "Favorited": 2
-        },
-        "attributes": {
-          "Created": "2025-02-10T18:14:33.167Z",
-          "Updated": "2025-02-10T22:57:21.843Z",
-          "Genre": "All",
-          "GenreNew": "Action",
-          "SubGenreNew": "",
-          "MaxPlayers": 1
-        },
-        "Creator": {
-          "Name": "Game Jam [RDC 2025]",
-          "ID": 35588842,
-          "Type": "Group"
-        }
-      }
-    },
-    "127": {
+    "98": {
       "placeID": "84634840595368",
       "universeID": 7209998112,
       "gameData": {
@@ -5586,16 +4754,16 @@
         }
       }
     },
-    "128": {
+    "99": {
       "placeID": "102259817027922",
       "universeID": 6839591956,
       "gameData": {
         "title": "Let Him Go",
         "description": "\"And waking up again, this cycle repeats itself time after time.\nStop the feeling, overcome it, and let go. Can you handle it?\"\n\nA short psychological story about loss and empathy\n\n[CREDITS]\nFounder: Foxbox226\nDevelopers: Marat198017, 1Maks_Play, Alinnaria, rrxllx, OSG3141\n\nWARNING | Game will contain vivid images and sharp unrecognizable sounds, scenes of violence and a demonstration of blood.",
         "stats": {
-          "Playing": 53,
-          "Visits": 20154353,
-          "Favorited": 666678
+          "Playing": 72,
+          "Visits": 20156055,
+          "Favorited": 666691
         },
         "attributes": {
           "Created": "2024-11-25T12:20:47.987Z",
@@ -5611,62 +4779,10 @@
           "Type": "Group"
         }
       }
-    },
-    "129": {
-      "placeID": "129522477162080",
-      "universeID": 7435543318,
-      "gameData": {
-        "title": "Untitled game jam HUB",
-        "description": "this HUB contains all game jam submissions posted in oficial game jam treads on the dev forum from the last 8 game jams with Inspire 2025 as first \n\nclick on an game card and view the live (or cashed if rate limited) info of the game then its up to you to decide if you should teleport or search another game but you doesnt have to search in the treats anymore\n\nand if you are an group contributor you can view the group members of groups with games in this HUB and view the visits of contributed games when you contribute to the group who made it or mentioned in the description with @\n\ndream jam 22\ninspire 24, 25\nUnite 23\nconnect 23\nRDC 23, 24, 25\n\nTo an Idea of @glowyogurt\n\n©Unviere",
-        "stats": {
-          "Playing": 0,
-          "Visits": 251,
-          "Favorited": 4
-        },
-        "attributes": {
-          "Created": "2025-03-25T16:25:21.733Z",
-          "Updated": "2025-11-12T16:06:09.647Z",
-          "Genre": "All",
-          "GenreNew": "Utility & Other",
-          "SubGenreNew": "",
-          "MaxPlayers": 50
-        },
-        "Creator": {
-          "Name": "Unviere",
-          "ID": 32826338,
-          "Type": "Group"
-        }
-      }
     }
   },
   "gameJam4": {
     "1": {
-      "placeID": "91900883945664",
-      "universeID": 6663802499,
-      "gameData": {
-        "title": "Europe: The Journey",
-        "description": "Explore The Europe\n🇪🇺",
-        "stats": {
-          "Playing": 0,
-          "Visits": 232,
-          "Favorited": 2
-        },
-        "attributes": {
-          "Created": "2024-10-11T20:25:39.713Z",
-          "Updated": "2024-11-01T14:04:20.007Z",
-          "Genre": "All",
-          "GenreNew": "",
-          "SubGenreNew": "",
-          "MaxPlayers": 7
-        },
-        "Creator": {
-          "Name": "Cactus's Team",
-          "ID": 33683450,
-          "Type": "Group"
-        }
-      }
-    },
-    "2": {
       "placeID": "135117039113438",
       "universeID": 6663090762,
       "gameData": {
@@ -5692,7 +4808,7 @@
         }
       }
     },
-    "3": {
+    "2": {
       "placeID": "84839513220508",
       "universeID": 6690412578,
       "gameData": {
@@ -5718,7 +4834,7 @@
         }
       }
     },
-    "4": {
+    "3": {
       "placeID": "131304927566050",
       "universeID": 6663001975,
       "gameData": {
@@ -5744,7 +4860,7 @@
         }
       }
     },
-    "5": {
+    "4": {
       "placeID": "107169670237182",
       "universeID": 6663022834,
       "gameData": {
@@ -5770,7 +4886,7 @@
         }
       }
     },
-    "6": {
+    "5": {
       "placeID": "86599074896460",
       "universeID": 6683728849,
       "gameData": {
@@ -5796,7 +4912,7 @@
         }
       }
     },
-    "7": {
+    "6": {
       "placeID": "124035211961100",
       "universeID": 6663022979,
       "gameData": {
@@ -5822,7 +4938,7 @@
         }
       }
     },
-    "8": {
+    "7": {
       "placeID": "108147795805388",
       "universeID": 6664654621,
       "gameData": {
@@ -5848,7 +4964,7 @@
         }
       }
     },
-    "9": {
+    "8": {
       "placeID": "104409273097252",
       "universeID": 6664186074,
       "gameData": {
@@ -5874,7 +4990,7 @@
         }
       }
     },
-    "10": {
+    "9": {
       "placeID": "99039901919536",
       "universeID": 6667522539,
       "gameData": {
@@ -5900,7 +5016,7 @@
         }
       }
     },
-    "11": {
+    "10": {
       "placeID": "133557151082518",
       "universeID": 6673274743,
       "gameData": {
@@ -6007,32 +5123,6 @@
       }
     },
     "4": {
-      "placeID": "15401142654",
-      "universeID": 5313679028,
-      "gameData": {
-        "title": "Dead Riot [IN DEV]",
-        "description": "Dead Riot is a top-down shooter zombie game that challenges you in ways you never thought possible. Blast through waves of zombies, encountering all different types as the rounds get tougher and more intense. Collect coins, tickets, and soulflowers to customize your playstyle with unique mods, giving you the edge you need to survive. Jump in and see how long you can last against the undead horde!\n\n🔻 | Premium users get 10% more gold and tickets.\n🔻 | Currently only available on PC/laptop.\n\nChanges:\n\n- Revamp system\n- Added ability to upgrade weapons\n- New in game UI\n\nIcons made by a handful of creators. Available on https://game-icons.net",
-        "stats": {
-          "Playing": 0,
-          "Visits": 326,
-          "Favorited": 15
-        },
-        "attributes": {
-          "Created": "2023-11-19T11:28:53.19Z",
-          "Updated": "2025-09-10T05:59:48.333Z",
-          "Genre": "All",
-          "GenreNew": "",
-          "SubGenreNew": "",
-          "MaxPlayers": 40
-        },
-        "Creator": {
-          "Name": "IamGoat_1",
-          "ID": 341454504,
-          "Type": "User"
-        }
-      }
-    },
-    "5": {
       "placeID": "16126233410",
       "universeID": 5572262478,
       "gameData": {
@@ -6058,7 +5148,7 @@
         }
       }
     },
-    "6": {
+    "5": {
       "placeID": "9094233861",
       "universeID": 3418592833,
       "gameData": {
@@ -6084,7 +5174,7 @@
         }
       }
     },
-    "7": {
+    "6": {
       "placeID": "18903440307",
       "universeID": 6402791537,
       "gameData": {
@@ -6110,7 +5200,7 @@
         }
       }
     },
-    "8": {
+    "7": {
       "placeID": "18909523508",
       "universeID": 6404905524,
       "gameData": {
@@ -6136,33 +5226,7 @@
         }
       }
     },
-    "9": {
-      "placeID": "18894391155",
-      "universeID": 6399504125,
-      "gameData": {
-        "title": "Cake Time",
-        "description": "The story of time where you wake up to bring your adventure!\nSince today is your birthday! You need to complete a 25 rooms with obstacles, and make it in time to not miss your party\n\n\"If there is no passage it doesnt mean it doesnt exist\"\n\nA game made for Roblox Inspire 2024 \"GameJam\" Challenge, Theme as \"Time is Your Enemy\"\n\n\nCredits:\nVrDoor - Building, Design.\nNOTEKAMI - Programming.\nHafuPlay - Programming.\nVrVax - Building, Design.\n\nPre-made assets: only sounds, music, meshes from toolbox",
-        "stats": {
-          "Playing": 0,
-          "Visits": 239,
-          "Favorited": 6
-        },
-        "attributes": {
-          "Created": "2024-08-10T20:11:09.96Z",
-          "Updated": "2025-01-31T13:07:18.69Z",
-          "Genre": "All",
-          "GenreNew": "",
-          "SubGenreNew": "",
-          "MaxPlayers": 1
-        },
-        "Creator": {
-          "Name": "Typical Development Workshop",
-          "ID": 34122527,
-          "Type": "Group"
-        }
-      }
-    },
-    "10": {
+    "8": {
       "placeID": "18896697510",
       "universeID": 6400215960,
       "gameData": {
@@ -6188,7 +5252,7 @@
         }
       }
     },
-    "11": {
+    "9": {
       "placeID": "18892084321",
       "universeID": 6398751299,
       "gameData": {
@@ -6214,7 +5278,7 @@
         }
       }
     },
-    "12": {
+    "10": {
       "placeID": "18933012656",
       "universeID": 6412561801,
       "gameData": {
@@ -6240,33 +5304,59 @@
         }
       }
     },
-    "13": {
-      "placeID": "18892864428",
-      "universeID": 6399007883,
+    "11": {
+      "placeID": "18892122017",
+      "universeID": 6398764379,
       "gameData": {
-        "title": "Explosive Sprint",
-        "description": "Created for the Inspire 2024 Challenge with the theme \"Time is Your Enemy.\"\n\nWorking in the caves is no easy job, especially when it comes to handling explosive equipment. Unfortunately, your colleagues weren't brave enough to handle said explosive equipment, so you have been tasked with the delivery of highly explosive dynamite to deep within the cave. It is rumored that very valuable riches lie inside of there, but they can only be reached by the power of an explosion. Arrive at your destination before you run out of time!",
+        "title": "Purgatorio",
+        "description": "Welcome to Purgatorio! You appear to have been deceased following your attempts to protect your family from evil spirts. While we aren’t necessarily opposed to them, we like to play a little game here… We’ll offer you the ability to temporarily return to your feeble existence and in exchange you get to protect your family for as long as you can.\n\nDuring the day time we are unable to bring you back… However, you can collect clocks that contain the fabric of time itself using that nifty scythe we so kindly offered you. Up to 50 time units can be collected with this. When night falls, you will be able to be sent back and use the same scythe to send those sprits to the stratosphere.\n\nThere’s just one catch however… That scythe is the only thing keeping you in the real world, and it runs out of energy with each second that passes. Using the scythe will also take away.\n\nWe’ll see you back here when you eventually fail to protect the ones you love. Good luck!",
         "stats": {
           "Playing": 0,
-          "Visits": 385,
-          "Favorited": 11
+          "Visits": 168,
+          "Favorited": 1
         },
         "attributes": {
-          "Created": "2024-08-10T18:06:19.697Z",
-          "Updated": "2024-08-13T15:25:57.063Z",
+          "Created": "2024-08-10T17:07:23.333Z",
+          "Updated": "2025-08-10T16:17:56.23Z",
           "Genre": "All",
           "GenreNew": "",
           "SubGenreNew": "",
-          "MaxPlayers": 10
+          "MaxPlayers": 1
         },
         "Creator": {
-          "Name": "minecraftpowers956",
-          "ID": 198552808,
+          "Name": "Wracked Games",
+          "ID": 32753168,
+          "Type": "Group"
+        }
+      }
+    },
+    "12": {
+      "placeID": "18899031093",
+      "universeID": 6401113992,
+      "gameData": {
+        "title": "The Race Against Time",
+        "description": "Welcome to The Race Against Time where you are in a untouched land and met Time Traveler Tamara. Will you help Tamara find her brother? Travel to distant lands!\n\nCredits:\nBritishSparkle - Builder, Scripter and Tester\nFERENC_EMPIRE - Builder and Tester\n7xqidj - Digital Artist\nIcedemized - Builder and QA Tester\nqnvww - Builder, GUI, UI, Scripter, and Tester",
+        "stats": {
+          "Playing": 0,
+          "Visits": 332,
+          "Favorited": 4
+        },
+        "attributes": {
+          "Created": "2024-08-11T03:16:42.28Z",
+          "Updated": "2025-11-30T10:18:59.227Z",
+          "Genre": "All",
+          "GenreNew": "",
+          "SubGenreNew": "",
+          "MaxPlayers": 1
+        },
+        "Creator": {
+          "Name": "BritishSparkle",
+          "ID": 4754637132,
           "Type": "User"
         }
       }
     },
-    "14": {
+    "13": {
       "placeID": "18892056558",
       "universeID": 6398742639,
       "gameData": {
@@ -6292,7 +5382,7 @@
         }
       }
     },
-    "15": {
+    "14": {
       "placeID": "18897845217",
       "universeID": 6400651621,
       "gameData": {
@@ -6318,7 +5408,7 @@
         }
       }
     },
-    "16": {
+    "15": {
       "placeID": "18893714833",
       "universeID": 6399292698,
       "gameData": {
@@ -6344,7 +5434,7 @@
         }
       }
     },
-    "17": {
+    "16": {
       "placeID": "18894252969",
       "universeID": 6399461133,
       "gameData": {
@@ -6370,7 +5460,7 @@
         }
       }
     },
-    "18": {
+    "17": {
       "placeID": "18892408158",
       "universeID": 6398858362,
       "gameData": {
@@ -6396,7 +5486,7 @@
         }
       }
     },
-    "19": {
+    "18": {
       "placeID": "18892145602",
       "universeID": 6398772039,
       "gameData": {
@@ -6422,7 +5512,7 @@
         }
       }
     },
-    "20": {
+    "19": {
       "placeID": "18910687456",
       "universeID": 6405258285,
       "gameData": {
@@ -6448,7 +5538,7 @@
         }
       }
     },
-    "21": {
+    "20": {
       "placeID": "18892051914",
       "universeID": 6398741294,
       "gameData": {
@@ -6474,7 +5564,7 @@
         }
       }
     },
-    "22": {
+    "21": {
       "placeID": "18892535437",
       "universeID": 6398900918,
       "gameData": {
@@ -6500,7 +5590,7 @@
         }
       }
     },
-    "23": {
+    "22": {
       "placeID": "18894647019",
       "universeID": 6399580610,
       "gameData": {
@@ -6526,7 +5616,7 @@
         }
       }
     },
-    "24": {
+    "23": {
       "placeID": "18892351807",
       "universeID": 6398839836,
       "gameData": {
@@ -6552,7 +5642,7 @@
         }
       }
     },
-    "25": {
+    "24": {
       "placeID": "18910130034",
       "universeID": 6405088917,
       "gameData": {
@@ -6578,7 +5668,7 @@
         }
       }
     },
-    "26": {
+    "25": {
       "placeID": "18892263944",
       "universeID": 6398811306,
       "gameData": {
@@ -6604,7 +5694,7 @@
         }
       }
     },
-    "27": {
+    "26": {
       "placeID": "18901806327",
       "universeID": 6402191582,
       "gameData": {
@@ -6630,7 +5720,7 @@
         }
       }
     },
-    "28": {
+    "27": {
       "placeID": "18934921721",
       "universeID": 6413139094,
       "gameData": {
@@ -6656,7 +5746,7 @@
         }
       }
     },
-    "29": {
+    "28": {
       "placeID": "18898964194",
       "universeID": 6401087602,
       "gameData": {
@@ -6682,7 +5772,7 @@
         }
       }
     },
-    "30": {
+    "29": {
       "placeID": "18904197749",
       "universeID": 6403068959,
       "gameData": {
@@ -6708,7 +5798,7 @@
         }
       }
     },
-    "31": {
+    "30": {
       "placeID": "18892165008",
       "universeID": 6398778398,
       "gameData": {
@@ -6734,7 +5824,7 @@
         }
       }
     },
-    "32": {
+    "31": {
       "placeID": "18892114632",
       "universeID": 6398762043,
       "gameData": {
@@ -6760,7 +5850,7 @@
         }
       }
     },
-    "33": {
+    "32": {
       "placeID": "18889384150",
       "universeID": 6397825214,
       "gameData": {
@@ -6786,7 +5876,7 @@
         }
       }
     },
-    "34": {
+    "33": {
       "placeID": "18892045390",
       "universeID": 6398738918,
       "gameData": {
@@ -6812,7 +5902,7 @@
         }
       }
     },
-    "35": {
+    "34": {
       "placeID": "18909934453",
       "universeID": 6405030199,
       "gameData": {
@@ -6838,7 +5928,7 @@
         }
       }
     },
-    "36": {
+    "35": {
       "placeID": "18924381386",
       "universeID": 6409742351,
       "gameData": {
@@ -6864,7 +5954,7 @@
         }
       }
     },
-    "37": {
+    "36": {
       "placeID": "18892200261",
       "universeID": 6398789913,
       "gameData": {
@@ -6890,7 +5980,7 @@
         }
       }
     },
-    "38": {
+    "37": {
       "placeID": "18893726197",
       "universeID": 6399296554,
       "gameData": {
@@ -6898,8 +5988,8 @@
         "description": "[GAME WAS RECODED POST GAME JAM TO FIX BUGS, PLEASE REPORT ANY NEW BUGS FOUND]\n\nOrtho Games presents Fangs and Ferns, a fun, silly, stylized rogue-like race against time as a gardening vampire on his quest to secure enough money before a sought-after ring goes off sale.\n\nSHORT TUTORIAL:\nGet a pot and put it down on the ground, go back and get the seed bag, walk back over to your pot, and hold E to select a seed (you start with 3).  Water and care for the seed until it grows and harvest it before it dies! Avoid the sunlight and visit the shop at night to make your fortune.\n\nThis game was a game jam game made for the Inspire 2024 game jam.\nTheme: Time Is Your Enemy\nTime Limit: 72 Hours\n\nCredits:\nDylWithlt & Robo - Scripting & Various Assistance\n2T_ye & CanyonJack - Modelers & Builders\ndodman531 - Voice Acting, UI & Animations\nVesp_Ithon - Post Game jam Recoding",
         "stats": {
           "Playing": 0,
-          "Visits": 13257,
-          "Favorited": 888
+          "Visits": 13258,
+          "Favorited": 887
         },
         "attributes": {
           "Created": "2024-08-10T19:17:00.853Z",
@@ -6916,7 +6006,7 @@
         }
       }
     },
-    "39": {
+    "38": {
       "placeID": "18894482011",
       "universeID": 6399530972,
       "gameData": {
@@ -6942,7 +6032,7 @@
         }
       }
     },
-    "40": {
+    "39": {
       "placeID": "18892394304",
       "universeID": 6398854115,
       "gameData": {
@@ -6968,7 +6058,7 @@
         }
       }
     },
-    "41": {
+    "40": {
       "placeID": "18893717558",
       "universeID": 6399293601,
       "gameData": {
@@ -6994,7 +6084,7 @@
         }
       }
     },
-    "42": {
+    "41": {
       "placeID": "18892493211",
       "universeID": 6398886682,
       "gameData": {
@@ -7017,6 +6107,32 @@
           "Name": "ScriptedPi",
           "ID": 1686255772,
           "Type": "User"
+        }
+      }
+    },
+    "42": {
+      "placeID": "18896969176",
+      "universeID": 6400315027,
+      "gameData": {
+        "title": "Time was Our Enemy",
+        "description": "Game for Roblox Inspire 2024 Challenge - Topic \"Time is Your Enemy\"\n\nWe didn't make to do everything in time, because we didn't have a lot of free time (we are not no-life developers driven on caffeine) and one bug took us really a lot of free time (it is still here)\n\nTeam:\n- supertom145 - Modeler, UI Designer, Main Scripter\n- Cookisek92 - Main Modeler\n- MCcsfe - Artist",
+        "stats": {
+          "Playing": 0,
+          "Visits": 28,
+          "Favorited": 1
+        },
+        "attributes": {
+          "Created": "2024-08-10T23:58:35Z",
+          "Updated": "2024-10-25T13:31:52.047Z",
+          "Genre": "All",
+          "GenreNew": "",
+          "SubGenreNew": "",
+          "MaxPlayers": 10
+        },
+        "Creator": {
+          "Name": "Superior Bohemia Games",
+          "ID": 3474197,
+          "Type": "Group"
         }
       }
     },
@@ -7177,58 +6293,6 @@
       }
     },
     "49": {
-      "placeID": "18934982456",
-      "universeID": 6413156980,
-      "gameData": {
-        "title": " the secret of puzzle island  [copy][wip]",
-        "description": "Welcome to puzzle island here you need to solve puzzles before the time rans out but remember time is your enemy and drag the bell if you are done but sometimes it trigger the battle field then you need to fight the other team to keep your xp and money \n\nNote: unfortunately we didn't get all systems working but we will work this month on it and release it at the end of this month \n\ni added some more information where we explain the game suposing in game\n",
-        "stats": {
-          "Playing": 0,
-          "Visits": 221,
-          "Favorited": 1
-        },
-        "attributes": {
-          "Created": "2024-08-13T16:57:22.43Z",
-          "Updated": "2025-08-11T08:35:58.143Z",
-          "Genre": "All",
-          "GenreNew": "",
-          "SubGenreNew": "",
-          "MaxPlayers": 50
-        },
-        "Creator": {
-          "Name": "Unviere",
-          "ID": 32826338,
-          "Type": "Group"
-        }
-      }
-    },
-    "50": {
-      "placeID": "18892214852",
-      "universeID": 6398795195,
-      "gameData": {
-        "title": "Dead Circuit",
-        "description": "Made for the roblox 2024 gamejam (Time is your enemy)\n\nCredits:\nR0sserB0b, He made the story and provided a lot of creative input\nScriptedSebas, Most of the game's visuals and code",
-        "stats": {
-          "Playing": 0,
-          "Visits": 75,
-          "Favorited": 2
-        },
-        "attributes": {
-          "Created": "2024-08-10T17:14:44.7Z",
-          "Updated": "2024-10-12T18:54:46.467Z",
-          "Genre": "Sci-Fi",
-          "GenreNew": "",
-          "SubGenreNew": "",
-          "MaxPlayers": 1
-        },
-        "Creator": {
-          "Name": "ScriptedSebas",
-          "ID": 622098070,
-          "Type": "User"
-        }
-      }
-    },
-    "51": {
       "placeID": "255280267",
       "universeID": 104993751,
       "gameData": {
@@ -7237,7 +6301,7 @@
         "stats": {
           "Playing": 0,
           "Visits": 27197699,
-          "Favorited": 382174
+          "Favorited": 382173
         },
         "attributes": {
           "Created": "2015-06-03T23:54:29.08Z",
@@ -7254,7 +6318,7 @@
         }
       }
     },
-    "52": {
+    "50": {
       "placeID": "18892587417",
       "universeID": 6398917244,
       "gameData": {
@@ -7280,7 +6344,7 @@
         }
       }
     },
-    "53": {
+    "51": {
       "placeID": "18892068545",
       "universeID": 6398746011,
       "gameData": {
@@ -7306,7 +6370,7 @@
         }
       }
     },
-    "54": {
+    "52": {
       "placeID": "17435489451",
       "universeID": 5966818205,
       "gameData": {
@@ -7332,59 +6396,7 @@
         }
       }
     },
-    "55": {
-      "placeID": "18899026422",
-      "universeID": 6401112304,
-      "gameData": {
-        "title": "abuelo",
-        "description": "Submission for the ROBLOX Inspire 2024 Challenge (https://devforum.roblox.com/t/roblox-inspire-2024-challenge/3104238).\n\nSUMMARY:\nYour character (Mort, the mushroom) is fighting for his life against a time-controlling deity known as \"Abuelo.\" If Mort wins, he is no longer subject to the effects of passing time and can live forever in peace.\n\nThe remaining timer is your health, if it hits zero, you lose. Parrying restores some timer so you can keep the fight going.\n\nThere are four phases, each one introducing a new mechanic:\n1: Simple hand attacks\n2: Spinning clock face on the stage\n3: Falling objects\n4: Max timer of 1:00\n\nBeating the game awards you with a badge for your efforts! Good luck everyone.\n\nCREDITS:\nScripting: Piptendo, Spoofify\nModeling, Animating, UI Assets: tommytherock\nMusic, Sound Assets: phr3tt",
-        "stats": {
-          "Playing": 0,
-          "Visits": 326,
-          "Favorited": 8
-        },
-        "attributes": {
-          "Created": "2024-08-11T03:16:16.563Z",
-          "Updated": "2025-07-13T09:30:10.28Z",
-          "Genre": "All",
-          "GenreNew": "",
-          "SubGenreNew": "",
-          "MaxPlayers": 1
-        },
-        "Creator": {
-          "Name": "dunderfart",
-          "ID": 34776950,
-          "Type": "Group"
-        }
-      }
-    },
-    "56": {
-      "placeID": "18893341596",
-      "universeID": 6399169461,
-      "gameData": {
-        "title": "(GAMEJAM) Fight For Time🕰️",
-        "description": "Race the clock and clear all time zones in time!\n~ ~ ~ ~ ~ ~ ~ ~ \n• One mansion discovered!\n• Four challenging zones!\n• Infinite time desire!\n~ ~ ~ ~ ~ ~ ~ ~ \nIt's go, time! \n\nThis game was made for Inspire 2024 GameJam!\nSpecial thanks for our builders, TQNY2, SORCERERRG\nGUI/ART/GFX work from ZETWAV, and amazing scripting from WAKD4! Enjoy.",
-        "stats": {
-          "Playing": 0,
-          "Visits": 489,
-          "Favorited": 4
-        },
-        "attributes": {
-          "Created": "2024-08-10T18:45:24.637Z",
-          "Updated": "2024-11-09T02:30:52.727Z",
-          "Genre": "All",
-          "GenreNew": "",
-          "SubGenreNew": "",
-          "MaxPlayers": 50
-        },
-        "Creator": {
-          "Name": "Dream Game Conquerors",
-          "ID": 34078297,
-          "Type": "Group"
-        }
-      }
-    },
-    "57": {
+    "53": {
       "placeID": "18892134668",
       "universeID": 6398768633,
       "gameData": {
@@ -7410,7 +6422,7 @@
         }
       }
     },
-    "58": {
+    "54": {
       "placeID": "10078359376",
       "universeID": 3705665564,
       "gameData": {
@@ -7436,7 +6448,7 @@
         }
       }
     },
-    "59": {
+    "55": {
       "placeID": "18894030557",
       "universeID": 6399392174,
       "gameData": {
@@ -7462,7 +6474,7 @@
         }
       }
     },
-    "60": {
+    "56": {
       "placeID": "18893196067",
       "universeID": 6399121079,
       "gameData": {
@@ -7488,7 +6500,7 @@
         }
       }
     },
-    "61": {
+    "57": {
       "placeID": "18892194890",
       "universeID": 6398788105,
       "gameData": {
@@ -7514,7 +6526,7 @@
         }
       }
     },
-    "62": {
+    "58": {
       "placeID": "18933929905",
       "universeID": 6412841121,
       "gameData": {
@@ -7540,7 +6552,7 @@
         }
       }
     },
-    "63": {
+    "59": {
       "placeID": "18895160616",
       "universeID": 6399729097,
       "gameData": {
@@ -7566,7 +6578,7 @@
         }
       }
     },
-    "64": {
+    "60": {
       "placeID": "18930285966",
       "universeID": 6411708720,
       "gameData": {
@@ -7592,7 +6604,7 @@
         }
       }
     },
-    "65": {
+    "61": {
       "placeID": "18892236729",
       "universeID": 6398802342,
       "gameData": {
@@ -7618,7 +6630,7 @@
         }
       }
     },
-    "66": {
+    "62": {
       "placeID": "18896448294",
       "universeID": 6400130501,
       "gameData": {
@@ -7644,7 +6656,7 @@
         }
       }
     },
-    "67": {
+    "63": {
       "placeID": "18897651085",
       "universeID": 6400574674,
       "gameData": {
@@ -7670,33 +6682,7 @@
         }
       }
     },
-    "68": {
-      "placeID": "18892111623",
-      "universeID": 6398760842,
-      "gameData": {
-        "title": "OBLIVION",
-        "description": "Game created in less than 72 hours for Inspire Challenge 2024 for the theme \"Time is your enemy\"\n\nDevelopers:\nAlphh_100\nDJSANTS\nEnderWinn\nryann_13\nthmaximo",
-        "stats": {
-          "Playing": 0,
-          "Visits": 405,
-          "Favorited": 13
-        },
-        "attributes": {
-          "Created": "2024-08-10T17:06:32.823Z",
-          "Updated": "2025-11-01T20:41:19.537Z",
-          "Genre": "All",
-          "GenreNew": "",
-          "SubGenreNew": "",
-          "MaxPlayers": 1
-        },
-        "Creator": {
-          "Name": "Aguioto's Nest",
-          "ID": 34322342,
-          "Type": "Group"
-        }
-      }
-    },
-    "69": {
+    "64": {
       "placeID": "18892517371",
       "universeID": 6398894738,
       "gameData": {
@@ -7704,8 +6690,8 @@
         "description": "You, a worried grandparent, have lost your grandson!\nThankfully, you can manipulate the world around you to make fetching him easier.\nHowever, this comes at a cost. Your time.\nYou must balance convenience with necessity, and get your grandson back.\n\nFOR THE ROBLOX GAMEJAM - INSPIRE 2024\n\n\nPROGRAMMING: BurnedCone\nMODELS, MESHES AND MUSIC: kamoeX3\nBUILDS: Renssur\nANIMATIONS: CVLM250\nUI: Afoxbox",
         "stats": {
           "Playing": 0,
-          "Visits": 328352,
-          "Favorited": 10321
+          "Visits": 328357,
+          "Favorited": 10322
         },
         "attributes": {
           "Created": "2024-08-10T17:38:45.17Z",
@@ -7722,7 +6708,7 @@
         }
       }
     },
-    "70": {
+    "65": {
       "placeID": "18891803672",
       "universeID": 6398660863,
       "gameData": {
@@ -7748,7 +6734,7 @@
         }
       }
     },
-    "71": {
+    "66": {
       "placeID": "18892935511",
       "universeID": 6399031720,
       "gameData": {
@@ -7761,7 +6747,7 @@
         },
         "attributes": {
           "Created": "2024-08-10T18:12:06.873Z",
-          "Updated": "2026-01-31T23:22:13.7770926Z",
+          "Updated": "2026-01-31T23:22:13.777Z",
           "Genre": "Sci-Fi",
           "GenreNew": "Puzzle",
           "SubGenreNew": "",
@@ -7774,7 +6760,7 @@
         }
       }
     },
-    "72": {
+    "67": {
       "placeID": "18907623162",
       "universeID": 6404273456,
       "gameData": {
@@ -7836,7 +6822,7 @@
         "description": "Psychis.\nIt means \"SOUL\" in Greek.\n\nKeybinds: They are listed in-game in the options tab within the main menu. \n\nPsychis is currently in its revamp stage. Let us know about any bugs if they come up.",
         "stats": {
           "Playing": 0,
-          "Visits": 1870207,
+          "Visits": 1870208,
           "Favorited": 30001
         },
         "attributes": {
@@ -7881,32 +6867,6 @@
       }
     },
     "4": {
-      "placeID": "14518413954",
-      "universeID": 5012220347,
-      "gameData": {
-        "title": "Empires Rising",
-        "description": "Welcome to Empires Rising, a turn-based strategy game!\n\n🌲 Gather resources\n🐲 Defeat monsters\n⚔️ Conquer other lands\n🏰 Build an empire\n\nControls:\n[Left Click]: Select objects\n[Right Click]: Move units",
-        "stats": {
-          "Playing": 0,
-          "Visits": 349,
-          "Favorited": 6
-        },
-        "attributes": {
-          "Created": "2023-08-21T11:48:19.85Z",
-          "Updated": "2024-12-26T20:23:54.827Z",
-          "Genre": "Medieval",
-          "GenreNew": "",
-          "SubGenreNew": "",
-          "MaxPlayers": 100
-        },
-        "Creator": {
-          "Name": "Empires Rising Group",
-          "ID": 32971352,
-          "Type": "Group"
-        }
-      }
-    },
-    "5": {
       "placeID": "16126206624",
       "universeID": 5572255828,
       "gameData": {
@@ -7932,7 +6892,7 @@
         }
       }
     },
-    "6": {
+    "5": {
       "placeID": "16136352090",
       "universeID": 5575457911,
       "gameData": {
@@ -7958,7 +6918,7 @@
         }
       }
     },
-    "7": {
+    "6": {
       "placeID": "16126274637",
       "universeID": 5572273611,
       "gameData": {
@@ -7984,7 +6944,7 @@
         }
       }
     },
-    "8": {
+    "7": {
       "placeID": "16127081550",
       "universeID": 5572517155,
       "gameData": {
@@ -8010,7 +6970,7 @@
         }
       }
     },
-    "9": {
+    "8": {
       "placeID": "16126310200",
       "universeID": 5572284343,
       "gameData": {
@@ -8036,7 +6996,7 @@
         }
       }
     },
-    "10": {
+    "9": {
       "placeID": "16155966337",
       "universeID": 5581236781,
       "gameData": {
@@ -8062,7 +7022,7 @@
         }
       }
     },
-    "11": {
+    "10": {
       "placeID": "16126644018",
       "universeID": 5572380754,
       "gameData": {
@@ -8088,7 +7048,7 @@
         }
       }
     },
-    "12": {
+    "11": {
       "placeID": "16131443871",
       "universeID": 5573953394,
       "gameData": {
@@ -8114,7 +7074,7 @@
         }
       }
     },
-    "13": {
+    "12": {
       "placeID": "16126238454",
       "universeID": 5572263658,
       "gameData": {
@@ -8140,7 +7100,7 @@
         }
       }
     },
-    "14": {
+    "13": {
       "placeID": "16127079616",
       "universeID": 5572516638,
       "gameData": {
@@ -8166,7 +7126,7 @@
         }
       }
     },
-    "15": {
+    "14": {
       "placeID": "16126227284",
       "universeID": 5572260921,
       "gameData": {
@@ -8192,16 +7152,16 @@
         }
       }
     },
-    "16": {
+    "15": {
       "placeID": "16127140865",
       "universeID": 5572536052,
       "gameData": {
         "title": "Prototype",
         "description": "Welcome to my brand new game :D !!!!\nBest game of 2024 now in early development.\nCome Test out the game!! New FEATURES!!!\n____________________________________\n(Previously known as Game [W.I.P.])\n(This game has 2 Endings)\n(This game was made for RDC:2024  In 48 hours)\nTheme: Unexpected Development\n\nCredits\n_____________________________________\n- Accessibility Updates - ItzMrRatzP\n- Code by: DylWithIt, Robogojo, Dodman531\n- GUI and voice acting by: Dodman531\n- All Models, Textures & Map by: 2Tye\n\nPremade Assets\n- Sounds provided by the Roblox toolbox  (Roblox)\n- Character animations (Robo & Dod)\n- The sound bob makes and reset sound (Dodman531)\n- Parts of the parkour system (Robo)\n- The Ortho Games Framework (By Ortho Games)",
         "stats": {
-          "Playing": 6,
-          "Visits": 4256033,
-          "Favorited": 165333
+          "Playing": 16,
+          "Visits": 4256810,
+          "Favorited": 165340
         },
         "attributes": {
           "Created": "2024-01-27T00:43:12.897Z",
@@ -8218,7 +7178,7 @@
         }
       }
     },
-    "17": {
+    "16": {
       "placeID": "16126403954",
       "universeID": 5572310431,
       "gameData": {
@@ -8244,7 +7204,7 @@
         }
       }
     },
-    "18": {
+    "17": {
       "placeID": "16127599658",
       "universeID": 5572687597,
       "gameData": {
@@ -8270,7 +7230,7 @@
         }
       }
     },
-    "19": {
+    "18": {
       "placeID": "16133810382",
       "universeID": 5574681449,
       "gameData": {
@@ -8296,7 +7256,7 @@
         }
       }
     },
-    "20": {
+    "19": {
       "placeID": "16136066614",
       "universeID": 5575374371,
       "gameData": {
@@ -8322,33 +7282,7 @@
         }
       }
     },
-    "21": {
-      "placeID": "16131682002",
-      "universeID": 5574028783,
-      "gameData": {
-        "title": "The WAR of Sendwich [Game Jam]",
-        "description": "Live Chuck & Jim's amazing journey to get their Sendwich back!\n\n-- Team --\nJohnRush07: Scripting, modelling, artist\ntheStarboot: Scripting, sound design, immoral support\n\n-- Theme Explaination --\nThe theme of this game jam was unexpected development. Reading the theme we tought of two things: cartoons (ex. Regular Show) and Flash story games, thats why we made a web-comic style game where the story just develops degenerately (or unexpectedly) into a chaos of plot twists and missions.",
-        "stats": {
-          "Playing": 0,
-          "Visits": 147,
-          "Favorited": 10
-        },
-        "attributes": {
-          "Created": "2024-01-27T09:18:40.497Z",
-          "Updated": "2025-07-18T22:11:01.87Z",
-          "Genre": "Comedy",
-          "GenreNew": "",
-          "SubGenreNew": "",
-          "MaxPlayers": 1
-        },
-        "Creator": {
-          "Name": "H & J Games",
-          "ID": 11476154,
-          "Type": "Group"
-        }
-      }
-    },
-    "22": {
+    "20": {
       "placeID": "16126420263",
       "universeID": 5572314897,
       "gameData": {
@@ -8374,7 +7308,7 @@
         }
       }
     },
-    "23": {
+    "21": {
       "placeID": "16126251044",
       "universeID": 5572266921,
       "gameData": {
@@ -8400,7 +7334,7 @@
         }
       }
     },
-    "24": {
+    "22": {
       "placeID": "16127074826",
       "universeID": 5572515226,
       "gameData": {
@@ -8426,85 +7360,7 @@
         }
       }
     },
-    "25": {
-      "placeID": "16126270335",
-      "universeID": 5572272444,
-      "gameData": {
-        "title": "Happy Plants",
-        "description": "For the ROBLOX Gamejam.\n\nYou are a plant scientist, and you are contributing towards the development of experimental vegetation! \nI hope they turn out cool and healthy!..\n\nConeland Team:\nReal_Jaj\nOrderDestroy\nBurnedCone\nFoxIsADev\nRenssur",
-        "stats": {
-          "Playing": 0,
-          "Visits": 179472,
-          "Favorited": 16442
-        },
-        "attributes": {
-          "Created": "2024-01-26T23:06:27.287Z",
-          "Updated": "2024-08-18T20:47:35.43Z",
-          "Genre": "Adventure",
-          "GenreNew": "",
-          "SubGenreNew": "",
-          "MaxPlayers": 1
-        },
-        "Creator": {
-          "Name": "BurnedCone",
-          "ID": 4060672243,
-          "Type": "User"
-        }
-      }
-    },
-    "26": {
-      "placeID": "16126265731",
-      "universeID": 5572271178,
-      "gameData": {
-        "title": "The Lab",
-        "description": "Made for the Roblox Developer Challenge 2024. Your must use the computer and the other lab equipment in order to complete your tasks. Created by Sardiception, agentcole1, and 27_0Glocks.",
-        "stats": {
-          "Playing": 0,
-          "Visits": 63,
-          "Favorited": 6
-        },
-        "attributes": {
-          "Created": "2024-01-26T23:05:58.293Z",
-          "Updated": "2024-01-28T23:31:59.097Z",
-          "Genre": "Sci-Fi",
-          "GenreNew": "",
-          "SubGenreNew": "",
-          "MaxPlayers": 1
-        },
-        "Creator": {
-          "Name": "agentcole1",
-          "ID": 25557640,
-          "Type": "User"
-        }
-      }
-    },
-    "27": {
-      "placeID": "16126570029",
-      "universeID": 5572358635,
-      "gameData": {
-        "title": "Union Testing Laboratory",
-        "description": "A platformer with a bit of puzzle elements the gameplay is heavily relying on the new Union features roblox added.\n\nThis game inspired by Facade(On roblox)",
-        "stats": {
-          "Playing": 0,
-          "Visits": 166,
-          "Favorited": 18
-        },
-        "attributes": {
-          "Created": "2024-01-26T23:39:20.8Z",
-          "Updated": "2024-01-28T11:21:18.177Z",
-          "Genre": "Sci-Fi",
-          "GenreNew": "Obby & Platformer",
-          "SubGenreNew": "",
-          "MaxPlayers": 1
-        },
-        "Creator": {
-          "Name": "Sir_Pixelated",
-          "ID": 1644040279,
-          "Type": "User"
-        }
-      }
-    },
-    "28": {
+    "23": {
       "placeID": "16126291388",
       "universeID": 5572278819,
       "gameData": {
@@ -8512,7 +7368,7 @@
         "description": "It's a regular day at the office! Except an unexpected development seems to have taken place today...\n\nGet to 40 iterations in this chaotic work environment stuck in time to win!\n\nCreated in 2 days by Team ZED for the Roblox Developer Challenge 2024 with the theme \"Unexpected Development\".",
         "stats": {
           "Playing": 0,
-          "Visits": 2354,
+          "Visits": 2355,
           "Favorited": 122
         },
         "attributes": {
@@ -8530,7 +7386,7 @@
         }
       }
     },
-    "29": {
+    "24": {
       "placeID": "16126399668",
       "universeID": 5572309209,
       "gameData": {
@@ -8556,7 +7412,7 @@
         }
       }
     },
-    "30": {
+    "25": {
       "placeID": "16132976582",
       "universeID": 5574422754,
       "gameData": {
@@ -8582,33 +7438,7 @@
         }
       }
     },
-    "31": {
-      "placeID": "16133902097",
-      "universeID": 5574709243,
-      "gameData": {
-        "title": "Cultural Crossroads",
-        "description": "The adventures of a young explorer on a journey to see the world..",
-        "stats": {
-          "Playing": 0,
-          "Visits": 76,
-          "Favorited": 4
-        },
-        "attributes": {
-          "Created": "2024-01-27T12:37:05.223Z",
-          "Updated": "2024-01-28T23:38:33.277Z",
-          "Genre": "All",
-          "GenreNew": "",
-          "SubGenreNew": "",
-          "MaxPlayers": 50
-        },
-        "Creator": {
-          "Name": "MasterCatGodsWhyIms",
-          "ID": 547430997,
-          "Type": "User"
-        }
-      }
-    },
-    "32": {
+    "26": {
       "placeID": "16126566813",
       "universeID": 5572357504,
       "gameData": {
@@ -8634,7 +7464,7 @@
         }
       }
     },
-    "33": {
+    "27": {
       "placeID": "16126220560",
       "universeID": 5572259338,
       "gameData": {
@@ -8660,7 +7490,7 @@
         }
       }
     },
-    "34": {
+    "28": {
       "placeID": "16132306159",
       "universeID": 5574220519,
       "gameData": {
@@ -8686,7 +7516,7 @@
         }
       }
     },
-    "35": {
+    "29": {
       "placeID": "16126253441",
       "universeID": 5572267657,
       "gameData": {
@@ -8712,33 +7542,7 @@
         }
       }
     },
-    "36": {
-      "placeID": "16126233410",
-      "universeID": 5572262478,
-      "gameData": {
-        "title": "Capricious Forecast",
-        "description": "You and your friends are going home after walking a nature trail. After arriving home, you are all faced with waves of unexpected natural disasters! How long will you last with your friends and supplies?\n\nControls (PC Only)\n     E - Interact\n     Click - Use Item/Place Item\n\nWarning: This game was designed for PC. While it does work on mobile, It can be more buggy then usual.\n\nThis game was originally made for the 2024 Roblox Developer Challenge. We thank Roblox for causing this game to spark!\n",
-        "stats": {
-          "Playing": 0,
-          "Visits": 338,
-          "Favorited": 4
-        },
-        "attributes": {
-          "Created": "2024-01-26T23:02:36.62Z",
-          "Updated": "2024-06-24T06:19:18.21Z",
-          "Genre": "Adventure",
-          "GenreNew": "",
-          "SubGenreNew": "",
-          "MaxPlayers": 16
-        },
-        "Creator": {
-          "Name": "FlashBolt Studios",
-          "ID": 5124692,
-          "Type": "Group"
-        }
-      }
-    },
-    "37": {
+    "30": {
       "placeID": "16126639358",
       "universeID": 5572379420,
       "gameData": {
@@ -8764,59 +7568,7 @@
         }
       }
     },
-    "38": {
-      "placeID": "16127278358",
-      "universeID": 5572581241,
-      "gameData": {
-        "title": "Quantum Catastrophe",
-        "description": "☢️ It's your job to ensure that nothing goes wrong with a nuclear core that you oversee, which it surely won't, right? ☢️\n\n⚒️ Made within 2 days for the 2024 Roblox Game Jam with the theme \"Unexpected Development\". ⚒️\nInspired heavily by games like Outer Wilds and Homebody🪐\n\nThis game was not finished and unfortunately won't be.\n\nControls:\nWASD - Move\nSpace - Interact\nShift - Sprint\n\nSubmission by:\nPuffoThePufferfish\nThroughTheBlueFields\nceb361\nTheCoolerFlashFire20\nkimchi2012",
-        "stats": {
-          "Playing": 0,
-          "Visits": 102,
-          "Favorited": 15
-        },
-        "attributes": {
-          "Created": "2024-01-27T00:58:37.353Z",
-          "Updated": "2024-09-20T06:09:48.667Z",
-          "Genre": "Sci-Fi",
-          "GenreNew": "",
-          "SubGenreNew": "",
-          "MaxPlayers": 1
-        },
-        "Creator": {
-          "Name": "Yokimaa",
-          "ID": 3049335,
-          "Type": "Group"
-        }
-      }
-    },
-    "39": {
-      "placeID": "16126992502",
-      "universeID": 5572488632,
-      "gameData": {
-        "title": "The Ultimate Sandwich Quest",
-        "description": "In a quest for the perfect sandwich, you embark with Bob through a magnificent quest of various adventures. Will you make the sandwich? \n\nA GAME JAM 2024 PROJECT \n\nCosmental Project Lead, Programming and Spanish Localization \nKh0mpheIl 3D Modelling and Character Design \nJeffining Level Design and Thai Localization \nnekoanims Animations and Indonesian Localization \npmkopp Interior Design and Portuguese Localization",
-        "stats": {
-          "Playing": 0,
-          "Visits": 1550,
-          "Favorited": 180
-        },
-        "attributes": {
-          "Created": "2024-01-27T00:26:35.377Z",
-          "Updated": "2024-02-02T14:04:20.07Z",
-          "Genre": "All",
-          "GenreNew": "",
-          "SubGenreNew": "",
-          "MaxPlayers": 1
-        },
-        "Creator": {
-          "Name": "gluttonous cat",
-          "ID": 33777826,
-          "Type": "Group"
-        }
-      }
-    },
-    "40": {
+    "31": {
       "placeID": "16129811429",
       "universeID": 5573408077,
       "gameData": {
@@ -8842,7 +7594,7 @@
         }
       }
     },
-    "41": {
+    "32": {
       "placeID": "16126224891",
       "universeID": 5572260219,
       "gameData": {
@@ -8868,33 +7620,7 @@
         }
       }
     },
-    "42": {
-      "placeID": "16126295868",
-      "universeID": 5572280175,
-      "gameData": {
-        "title": "Revolution",
-        "description": "Created for the 2024 Roblox Developer Challenge, with the theme of \"Unexpected Development\"\n\nSet somewhere in Mexico during the Start of the Mexican Revolution, you are set in the life of Juan, an Infantry Officer for the Federal army, when all of a sudden, bandits board the train he is in.\n\nCreated in 48 hours.\n\nControls:\nWASD - Movement\nLeft Click - Shoot\nRight Click - Aim\nR - Reload\nE - Interact\n\nDeveloped By:\nmoIIete - Graphics, Textures, Animation, Lighting, Voice Acting, UI\nInstanceAdded - Programming, UI\ntornadochaser2005 - Building, Voice Acting",
-        "stats": {
-          "Playing": 0,
-          "Visits": 2078,
-          "Favorited": 71
-        },
-        "attributes": {
-          "Created": "2024-01-26T23:09:26.033Z",
-          "Updated": "2026-01-01T02:50:43.523Z",
-          "Genre": "All",
-          "GenreNew": "",
-          "SubGenreNew": "",
-          "MaxPlayers": 1
-        },
-        "Creator": {
-          "Name": "moIIete",
-          "ID": 136568311,
-          "Type": "User"
-        }
-      }
-    },
-    "43": {
+    "33": {
       "placeID": "16145028726",
       "universeID": 5577946009,
       "gameData": {
@@ -8920,7 +7646,7 @@
         }
       }
     },
-    "44": {
+    "34": {
       "placeID": "16126898754",
       "universeID": 5572460026,
       "gameData": {
@@ -8946,7 +7672,7 @@
         }
       }
     },
-    "45": {
+    "35": {
       "placeID": "16127006729",
       "universeID": 5572493539,
       "gameData": {
@@ -8972,7 +7698,7 @@
         }
       }
     },
-    "46": {
+    "36": {
       "placeID": "16131298949",
       "universeID": 5573907818,
       "gameData": {
@@ -8998,59 +7724,7 @@
         }
       }
     },
-    "47": {
-      "placeID": "16133672663",
-      "universeID": 5574638301,
-      "gameData": {
-        "title": "Diverse And Unexpected",
-        "description": "For Roblox developer challenge 2024\n\nA worthfull item be stolen go chase the Rober but watch out on your way unexpected things will be happening and you travel trough diverent country's\n\nThis game is made in 35 hours so make sure to like follow and favourite if you want ",
-        "stats": {
-          "Playing": 0,
-          "Visits": 117,
-          "Favorited": 6
-        },
-        "attributes": {
-          "Created": "2024-01-27T12:18:30.06Z",
-          "Updated": "2025-08-11T08:09:17.813Z",
-          "Genre": "All",
-          "GenreNew": "",
-          "SubGenreNew": "",
-          "MaxPlayers": 50
-        },
-        "Creator": {
-          "Name": "Unviere",
-          "ID": 32826338,
-          "Type": "Group"
-        }
-      }
-    },
-    "48": {
-      "placeID": "16127993822",
-      "universeID": 5572813318,
-      "gameData": {
-        "title": "Chronologic",
-        "description": "(not finished at all)\n\nMade in 24 hours for the 2024 roblox game jam\n\nControls:\nE- Grab (not implemented)\nClick- Place portal\nR- Fast forward\n\nCredits:\nPyronai: Main programmer\nSnowBootz: Modeler, Level designer, Animator\nrshiba: Voice Acting\nNodiuus: Assistant Programmer\n\n",
-        "stats": {
-          "Playing": 0,
-          "Visits": 66,
-          "Favorited": 1
-        },
-        "attributes": {
-          "Created": "2024-01-27T02:15:58.567Z",
-          "Updated": "2024-01-29T00:00:36.4Z",
-          "Genre": "All",
-          "GenreNew": "",
-          "SubGenreNew": "",
-          "MaxPlayers": 50
-        },
-        "Creator": {
-          "Name": "BYTENET",
-          "ID": 32312680,
-          "Type": "Group"
-        }
-      }
-    },
-    "49": {
+    "37": {
       "placeID": "16126238497",
       "universeID": 5572263666,
       "gameData": {
@@ -9076,33 +7750,7 @@
         }
       }
     },
-    "50": {
-      "placeID": "16126550534",
-      "universeID": 5572352897,
-      "gameData": {
-        "title": "Community Guidelines",
-        "description": "Made in 48 hours for the Roblox 2024 Developer Challenge\n\nYou were just hired for the new Roblox moderation job! Live edit players' messages as they type them to help make Roblox a better place.",
-        "stats": {
-          "Playing": 0,
-          "Visits": 218,
-          "Favorited": 13
-        },
-        "attributes": {
-          "Created": "2024-01-26T23:37:10.383Z",
-          "Updated": "2024-09-11T04:42:56.977Z",
-          "Genre": "All",
-          "GenreNew": "",
-          "SubGenreNew": "",
-          "MaxPlayers": 1
-        },
-        "Creator": {
-          "Name": "c://lightbox_games",
-          "ID": 13601873,
-          "Type": "Group"
-        }
-      }
-    },
-    "51": {
+    "38": {
       "placeID": "16133810316",
       "universeID": 5574681428,
       "gameData": {
@@ -9128,7 +7776,7 @@
         }
       }
     },
-    "52": {
+    "39": {
       "placeID": "16143769463",
       "universeID": 5577518008,
       "gameData": {
@@ -9154,7 +7802,7 @@
         }
       }
     },
-    "53": {
+    "40": {
       "placeID": "16132257756",
       "universeID": 5574206381,
       "gameData": {
@@ -9180,33 +7828,7 @@
         }
       }
     },
-    "54": {
-      "placeID": "16129587068",
-      "universeID": 5573333135,
-      "gameData": {
-        "title": "Lucidity",
-        "description": "Made under 48 hours, submission for 2024 Unexpected Development game jam\n\n✨ Embark on a lucid dreaming odyssey where you navigate surreal landscapes, entering vibrant paintings to solve puzzles and unlock the mysteries of your subconscious.\n\n🌟 Each dream unveils unique challenges and abstract environments inspired by artistic movements. Immerse yourself in a captivating journey, forging connections with enigmatic characters and deciphering the symbolic elements that weave through your dreams.\n\n🔍 Will you unravel the ultimate mystery that binds your waking world with the fantastical realms of your imagination?",
-        "stats": {
-          "Playing": 0,
-          "Visits": 1070,
-          "Favorited": 26
-        },
-        "attributes": {
-          "Created": "2024-01-27T05:15:12.833Z",
-          "Updated": "2025-02-08T15:59:43.703Z",
-          "Genre": "All",
-          "GenreNew": "",
-          "SubGenreNew": "",
-          "MaxPlayers": 1
-        },
-        "Creator": {
-          "Name": "Big Wow Studios",
-          "ID": 33776550,
-          "Type": "Group"
-        }
-      }
-    },
-    "55": {
+    "41": {
       "placeID": "16127165234",
       "universeID": 5572544457,
       "gameData": {
@@ -9232,7 +7854,7 @@
         }
       }
     },
-    "56": {
+    "42": {
       "placeID": "16126400852",
       "universeID": 5572309633,
       "gameData": {
@@ -9258,33 +7880,7 @@
         }
       }
     },
-    "57": {
-      "placeID": "16126560127",
-      "universeID": 5572355508,
-      "gameData": {
-        "title": "Temporal Displacement",
-        "description": "Welcome to Temporal Displacement! For optimum experience, use at least Graphics 4 & Volume on.\n\nA rift has formed in the time-space continuum as you're thrust from a family friendly outing to certain doom. Can you make it back alive...?\n\n[Left Click]: Shoot",
-        "stats": {
-          "Playing": 0,
-          "Visits": 141,
-          "Favorited": 3
-        },
-        "attributes": {
-          "Created": "2024-01-26T23:38:09.117Z",
-          "Updated": "2024-01-31T03:41:18.527Z",
-          "Genre": "All",
-          "GenreNew": "",
-          "SubGenreNew": "",
-          "MaxPlayers": 50
-        },
-        "Creator": {
-          "Name": "blowup999",
-          "ID": 11808841,
-          "Type": "User"
-        }
-      }
-    },
-    "58": {
+    "43": {
       "placeID": "16142695899",
       "universeID": 5577174934,
       "gameData": {
@@ -9310,33 +7906,7 @@
         }
       }
     },
-    "59": {
-      "placeID": "16127975010",
-      "universeID": 5572807383,
-      "gameData": {
-        "title": "Night Watch 🌙",
-        "description": "⛯ You are assigned night watch duty at an offshore lighthouse when weird things begin to happen.\n\n🔑 Find keys to explore the lighthouse! Keep your eyes peeled though, as the old clock might have the last laugh... \n\n⭐ Entry for the 48-Hour Roblox Developer Challenge 2024 - Theme: Unexpected Development \n\n4slug - Programming \nclapyblapy - Meshes, Character Design \nmprsnd - Music, Building \nsaywhoom - Meshes, Animations, Character Design \nyounite - UI/UX, Character Design",
-        "stats": {
-          "Playing": 0,
-          "Visits": 40730,
-          "Favorited": 2464
-        },
-        "attributes": {
-          "Created": "2024-01-27T02:14:00.167Z",
-          "Updated": "2025-07-17T02:42:46.667Z",
-          "Genre": "All",
-          "GenreNew": "",
-          "SubGenreNew": "",
-          "MaxPlayers": 20
-        },
-        "Creator": {
-          "Name": "Badass Apes",
-          "ID": 33776929,
-          "Type": "Group"
-        }
-      }
-    },
-    "60": {
+    "44": {
       "placeID": "16126216733",
       "universeID": 5572258326,
       "gameData": {
@@ -9362,7 +7932,7 @@
         }
       }
     },
-    "61": {
+    "45": {
       "placeID": "16126726088",
       "universeID": 5572405723,
       "gameData": {
@@ -9388,7 +7958,7 @@
         }
       }
     },
-    "62": {
+    "46": {
       "placeID": "16126235131",
       "universeID": 5572262897,
       "gameData": {
@@ -9414,59 +7984,7 @@
         }
       }
     },
-    "63": {
-      "placeID": "16131683806",
-      "universeID": 5574029276,
-      "gameData": {
-        "title": "Unexpected Cola",
-        "description": "No description",
-        "stats": {
-          "Playing": 0,
-          "Visits": 93,
-          "Favorited": 2
-        },
-        "attributes": {
-          "Created": "2024-01-27T09:18:49.957Z",
-          "Updated": "2024-03-20T11:12:32.937Z",
-          "Genre": "All",
-          "GenreNew": "",
-          "SubGenreNew": "",
-          "MaxPlayers": 1
-        },
-        "Creator": {
-          "Name": "Capta Jam",
-          "ID": 9288484,
-          "Type": "Group"
-        }
-      }
-    },
-    "64": {
-      "placeID": "16129687838",
-      "universeID": 5573368002,
-      "gameData": {
-        "title": "Curious Cat",
-        "description": "No description",
-        "stats": {
-          "Playing": 0,
-          "Visits": 24,
-          "Favorited": 1
-        },
-        "attributes": {
-          "Created": "2024-01-27T05:28:09.687Z",
-          "Updated": "2024-04-04T03:16:40.617Z",
-          "Genre": "All",
-          "GenreNew": "",
-          "SubGenreNew": "",
-          "MaxPlayers": 1
-        },
-        "Creator": {
-          "Name": "imSparkiy",
-          "ID": 1562309503,
-          "Type": "User"
-        }
-      }
-    },
-    "65": {
+    "47": {
       "placeID": "16126317591",
       "universeID": 5572286415,
       "gameData": {
@@ -9492,7 +8010,7 @@
         }
       }
     },
-    "66": {
+    "48": {
       "placeID": "16126337889",
       "universeID": 5572292300,
       "gameData": {
@@ -9518,7 +8036,7 @@
         }
       }
     },
-    "67": {
+    "49": {
       "placeID": "16126704171",
       "universeID": 5572398925,
       "gameData": {
@@ -9544,7 +8062,7 @@
         }
       }
     },
-    "68": {
+    "50": {
       "placeID": "16132264140",
       "universeID": 5574208598,
       "gameData": {
@@ -9570,7 +8088,7 @@
         }
       }
     },
-    "69": {
+    "51": {
       "placeID": "16128837102",
       "universeID": 5573090223,
       "gameData": {
@@ -9578,7 +8096,7 @@
         "description": "Part of the Roblox Developer Challenge 2024\n🐹 Test your survival skills as you take care of your furry friend in \"Hungry Hungry Hamster!\"\n\nlillybearish | hiaihai1 | TopDev | Lyspyon",
         "stats": {
           "Playing": 0,
-          "Visits": 23458,
+          "Visits": 23462,
           "Favorited": 119
         },
         "attributes": {
@@ -9596,7 +8114,7 @@
         }
       }
     },
-    "70": {
+    "52": {
       "placeID": "16129490482",
       "universeID": 5573301459,
       "gameData": {
@@ -9622,33 +8140,7 @@
         }
       }
     },
-    "71": {
-      "placeID": "16131902123",
-      "universeID": 5574097775,
-      "gameData": {
-        "title": "Défi inattendu 2024",
-        "description": "No description",
-        "stats": {
-          "Playing": 0,
-          "Visits": 67,
-          "Favorited": 3
-        },
-        "attributes": {
-          "Created": "2024-01-27T09:40:36.32Z",
-          "Updated": "2026-01-25T12:01:51.33Z",
-          "Genre": "All",
-          "GenreNew": "",
-          "SubGenreNew": "",
-          "MaxPlayers": 1
-        },
-        "Creator": {
-          "Name": "NN197",
-          "ID": 992384914,
-          "Type": "User"
-        }
-      }
-    },
-    "72": {
+    "53": {
       "placeID": "16126963765",
       "universeID": 5572479369,
       "gameData": {
@@ -9674,7 +8166,7 @@
         }
       }
     },
-    "73": {
+    "54": {
       "placeID": "16126225238",
       "universeID": 5572260305,
       "gameData": {
@@ -9700,7 +8192,7 @@
         }
       }
     },
-    "74": {
+    "55": {
       "placeID": "16126236118",
       "universeID": 5572263109,
       "gameData": {
@@ -9726,7 +8218,7 @@
         }
       }
     },
-    "75": {
+    "56": {
       "placeID": "16127008977",
       "universeID": 5572494313,
       "gameData": {
@@ -9752,7 +8244,7 @@
         }
       }
     },
-    "76": {
+    "57": {
       "placeID": "16126419038",
       "universeID": 5572314606,
       "gameData": {
@@ -9778,7 +8270,7 @@
         }
       }
     },
-    "77": {
+    "58": {
       "placeID": "16126208703",
       "universeID": 5572256322,
       "gameData": {
@@ -9804,7 +8296,7 @@
         }
       }
     },
-    "78": {
+    "59": {
       "placeID": "16126501315",
       "universeID": 5572338513,
       "gameData": {
@@ -9830,7 +8322,7 @@
         }
       }
     },
-    "79": {
+    "60": {
       "placeID": "16145190114",
       "universeID": 5578000085,
       "gameData": {
@@ -9856,111 +8348,7 @@
         }
       }
     },
-    "80": {
-      "placeID": "16127094199",
-      "universeID": 5572521039,
-      "gameData": {
-        "title": "Hero To Zero",
-        "description": "Made within 2 Days during Connect 2024 challenge with the theme \"Unexpected Development\"\n\n\nAdventure through event based journey.\n\n\nYou start out with Level 100, But be careful! every defeated enemy will decrease your Level and overall stats.\n\nSupport:\nPC\nMobile/Tablet\nConsole\n",
-        "stats": {
-          "Playing": 0,
-          "Visits": 54,
-          "Favorited": 13
-        },
-        "attributes": {
-          "Created": "2024-01-27T00:38:00.473Z",
-          "Updated": "2024-01-28T12:19:37.983Z",
-          "Genre": "Adventure",
-          "GenreNew": "",
-          "SubGenreNew": "",
-          "MaxPlayers": 1
-        },
-        "Creator": {
-          "Name": "RandomPlayerOne1",
-          "ID": 3054491370,
-          "Type": "User"
-        }
-      }
-    },
-    "81": {
-      "placeID": "16126494279",
-      "universeID": 5572336770,
-      "gameData": {
-        "title": "SuperSorry24",
-        "description": "This game is played in my home and I hope to add a twist to it . Seemed like it could be completed in 72 hours in my mind! I had fun building this. All parts build. Lots of Unions. Next time gadget! GameJam2024 - Solo",
-        "stats": {
-          "Playing": 0,
-          "Visits": 51,
-          "Favorited": 4
-        },
-        "attributes": {
-          "Created": "2024-01-26T23:31:01.55Z",
-          "Updated": "2025-09-09T16:33:48.587Z",
-          "Genre": "All",
-          "GenreNew": "",
-          "SubGenreNew": "",
-          "MaxPlayers": 50
-        },
-        "Creator": {
-          "Name": "JetUpNy",
-          "ID": 110139857,
-          "Type": "User"
-        }
-      }
-    },
-    "82": {
-      "placeID": "16138494926",
-      "universeID": 5576075341,
-      "gameData": {
-        "title": "Time Immortal",
-        "description": "In the role of a steampunk-era explorer, you embark on a mission to steal specific items for a daring experiment. Confiscating a precious watch, you inadvertently trigger a disturbance in the space-time continuum. Upon emerging from the cave where the item was found, you are abruptly knocked out, resulting in an instantaneous teleportation to the future. Years later, you are summoned for a mission in a remote and entirely unfamiliar town. Receiving a letter from the local sheriff, you hastily meet with him. During the encounter, the sheriff hands you a stunning and strangely familiar watch. Despite being aware of the connection, you accept the gift and become the new sheriff. Your current mission: track down a cunning and swift outlaw. As you face obstacles and adversaries, the plot unfolds, revealing that the outlaw is surprisingly yourself from a decade ago. The resolution unveils that the former sheriff is, in fact, another version of yourself attempting to rectify past mistakes in ",
-        "stats": {
-          "Playing": 0,
-          "Visits": 292,
-          "Favorited": 12
-        },
-        "attributes": {
-          "Created": "2024-01-27T18:12:11.537Z",
-          "Updated": "2025-11-23T05:56:53.597Z",
-          "Genre": "All",
-          "GenreNew": "",
-          "SubGenreNew": "",
-          "MaxPlayers": 1
-        },
-        "Creator": {
-          "Name": "BitBrains",
-          "ID": 33782363,
-          "Type": "Group"
-        }
-      }
-    },
-    "83": {
-      "placeID": "16126634054",
-      "universeID": 5572377964,
-      "gameData": {
-        "title": "Learn Spanish with Trio!",
-        "description": "Welcome to TrioLanguage, the best language learning app out there! Our team at TrioLanguage is dedicated to making sure you complete your course, and we'll do anything to help you finish. Anything.\n\nCreators:\nhellofriend\nOnion\nJKL\n\nCreators (quit):\nSar\nBlaze",
-        "stats": {
-          "Playing": 0,
-          "Visits": 67,
-          "Favorited": 1
-        },
-        "attributes": {
-          "Created": "2024-01-26T23:46:28.37Z",
-          "Updated": "2024-09-27T14:14:52.757Z",
-          "Genre": "All",
-          "GenreNew": "",
-          "SubGenreNew": "",
-          "MaxPlayers": 1
-        },
-        "Creator": {
-          "Name": "hellofriend3012",
-          "ID": 1120113115,
-          "Type": "User"
-        }
-      }
-    },
-    "84": {
+    "61": {
       "placeID": "16126478346",
       "universeID": 5572332100,
       "gameData": {
@@ -9986,7 +8374,7 @@
         }
       }
     },
-    "85": {
+    "62": {
       "placeID": "16144754329",
       "universeID": 5577852694,
       "gameData": {
@@ -10012,7 +8400,7 @@
         }
       }
     },
-    "86": {
+    "63": {
       "placeID": "16130414575",
       "universeID": 5573610465,
       "gameData": {
@@ -10038,7 +8426,7 @@
         }
       }
     },
-    "87": {
+    "64": {
       "placeID": "16126840625",
       "universeID": 5572441938,
       "gameData": {
@@ -10064,7 +8452,7 @@
         }
       }
     },
-    "88": {
+    "65": {
       "placeID": "16126399162",
       "universeID": 5572309092,
       "gameData": {
@@ -10090,33 +8478,7 @@
         }
       }
     },
-    "89": {
-      "placeID": "16127106203",
-      "universeID": 5572525113,
-      "gameData": {
-        "title": "Your Frontier",
-        "description": "CONTENT WARNINGS: This covers topics of identity loss, imposter syndrome, and leans into themes of dissociation.\n\nMade for the 2024 \"Unexpected Development\" challenge.\n\nBased on personal experiences.",
-        "stats": {
-          "Playing": 0,
-          "Visits": 105,
-          "Favorited": 2
-        },
-        "attributes": {
-          "Created": "2024-01-27T00:39:25.923Z",
-          "Updated": "2024-01-28T20:33:22.713Z",
-          "Genre": "All",
-          "GenreNew": "",
-          "SubGenreNew": "",
-          "MaxPlayers": 12
-        },
-        "Creator": {
-          "Name": "Unpickled",
-          "ID": 425402714,
-          "Type": "User"
-        }
-      }
-    },
-    "90": {
+    "66": {
       "placeID": "16126314887",
       "universeID": 5572285783,
       "gameData": {
@@ -10142,7 +8504,7 @@
         }
       }
     },
-    "91": {
+    "67": {
       "placeID": "16122488753",
       "universeID": 5571191681,
       "gameData": {
@@ -10168,7 +8530,7 @@
         }
       }
     },
-    "92": {
+    "68": {
       "placeID": "16128274068",
       "universeID": 5572908261,
       "gameData": {
@@ -10194,7 +8556,7 @@
         }
       }
     },
-    "93": {
+    "69": {
       "placeID": "16129559952",
       "universeID": 5573324603,
       "gameData": {
@@ -10202,7 +8564,7 @@
         "description": "A game about writing a letter to an old friend.\n\nControl with WASD.\nRoblox Developer Challenge 2024.",
         "stats": {
           "Playing": 0,
-          "Visits": 22534,
+          "Visits": 22540,
           "Favorited": 2378
         },
         "attributes": {
@@ -10220,7 +8582,7 @@
         }
       }
     },
-    "94": {
+    "70": {
       "placeID": "16134962712",
       "universeID": 5575046116,
       "gameData": {
@@ -10246,7 +8608,7 @@
         }
       }
     },
-    "95": {
+    "71": {
       "placeID": "16128577375",
       "universeID": 5573005364,
       "gameData": {
@@ -10272,7 +8634,7 @@
         }
       }
     },
-    "96": {
+    "72": {
       "placeID": "16130519846",
       "universeID": 5573644805,
       "gameData": {
@@ -10298,7 +8660,7 @@
         }
       }
     },
-    "97": {
+    "73": {
       "placeID": "16127319627",
       "universeID": 5572595166,
       "gameData": {
@@ -10324,7 +8686,7 @@
         }
       }
     },
-    "98": {
+    "74": {
       "placeID": "16126473318",
       "universeID": 5572330721,
       "gameData": {
@@ -10350,7 +8712,7 @@
         }
       }
     },
-    "99": {
+    "75": {
       "placeID": "16126290449",
       "universeID": 5572278516,
       "gameData": {
@@ -10376,33 +8738,7 @@
         }
       }
     },
-    "100": {
-      "placeID": "16126917247",
-      "universeID": 5572465564,
-      "gameData": {
-        "title": "Total Mass Retain (Developer Challenge 2024)",
-        "description": "No description",
-        "stats": {
-          "Playing": 0,
-          "Visits": 54,
-          "Favorited": 5
-        },
-        "attributes": {
-          "Created": "2024-01-27T00:18:24.8Z",
-          "Updated": "2024-05-30T02:27:22.613Z",
-          "Genre": "Building",
-          "GenreNew": "",
-          "SubGenreNew": "",
-          "MaxPlayers": 1
-        },
-        "Creator": {
-          "Name": "CheezBoy27",
-          "ID": 581356947,
-          "Type": "User"
-        }
-      }
-    },
-    "101": {
+    "76": {
       "placeID": "16149110353",
       "universeID": 5579274251,
       "gameData": {
@@ -10428,7 +8764,7 @@
         }
       }
     },
-    "102": {
+    "77": {
       "placeID": "16147355298",
       "universeID": 5578729856,
       "gameData": {
@@ -10454,7 +8790,7 @@
         }
       }
     },
-    "103": {
+    "78": {
       "placeID": "16130354037",
       "universeID": 5573590293,
       "gameData": {
@@ -10480,33 +8816,7 @@
         }
       }
     },
-    "104": {
-      "placeID": "16131012074",
-      "universeID": 5573814056,
-      "gameData": {
-        "title": "Normal Escape game.",
-        "description": "Roblox Developer Challenge 2024",
-        "stats": {
-          "Playing": 0,
-          "Visits": 40,
-          "Favorited": 1
-        },
-        "attributes": {
-          "Created": "2024-01-27T08:08:03.44Z",
-          "Updated": "2024-06-20T16:12:12.623Z",
-          "Genre": "All",
-          "GenreNew": "",
-          "SubGenreNew": "",
-          "MaxPlayers": 300
-        },
-        "Creator": {
-          "Name": "R14GENIE",
-          "ID": 522743812,
-          "Type": "User"
-        }
-      }
-    },
-    "105": {
+    "79": {
       "placeID": "16153231053",
       "universeID": 5580503028,
       "gameData": {
@@ -10532,7 +8842,7 @@
         }
       }
     },
-    "106": {
+    "80": {
       "placeID": "16131014192",
       "universeID": 5573814740,
       "gameData": {
@@ -10558,7 +8868,7 @@
         }
       }
     },
-    "107": {
+    "81": {
       "placeID": "16130457011",
       "universeID": 5573624596,
       "gameData": {
@@ -10584,7 +8894,7 @@
         }
       }
     },
-    "108": {
+    "82": {
       "placeID": "13749134455",
       "universeID": 4770565999,
       "gameData": {
@@ -10610,7 +8920,7 @@
         }
       }
     },
-    "109": {
+    "83": {
       "placeID": "16127216322",
       "universeID": 5572561533,
       "gameData": {
@@ -10636,7 +8946,7 @@
         }
       }
     },
-    "110": {
+    "84": {
       "placeID": "16131820259",
       "universeID": 5574072280,
       "gameData": {
@@ -10662,7 +8972,7 @@
         }
       }
     },
-    "111": {
+    "85": {
       "placeID": "16129948379",
       "universeID": 5573454110,
       "gameData": {
@@ -10688,7 +8998,7 @@
         }
       }
     },
-    "112": {
+    "86": {
       "placeID": "16128224709",
       "universeID": 5572892075,
       "gameData": {
@@ -10714,7 +9024,7 @@
         }
       }
     },
-    "113": {
+    "87": {
       "placeID": "16127606835",
       "universeID": 5572689792,
       "gameData": {
@@ -10740,7 +9050,7 @@
         }
       }
     },
-    "114": {
+    "88": {
       "placeID": "16152698135",
       "universeID": 5580350531,
       "gameData": {
@@ -10766,7 +9076,7 @@
         }
       }
     },
-    "115": {
+    "89": {
       "placeID": "16130961537",
       "universeID": 5573797218,
       "gameData": {
@@ -10792,7 +9102,7 @@
         }
       }
     },
-    "116": {
+    "90": {
       "placeID": "16126371318",
       "universeID": 5572301084,
       "gameData": {
@@ -10818,7 +9128,7 @@
         }
       }
     },
-    "117": {
+    "91": {
       "placeID": "16126346436",
       "universeID": 5572294537,
       "gameData": {
@@ -10844,7 +9154,7 @@
         }
       }
     },
-    "118": {
+    "92": {
       "placeID": "16127537343",
       "universeID": 5572666518,
       "gameData": {
@@ -10870,7 +9180,7 @@
         }
       }
     },
-    "119": {
+    "93": {
       "placeID": "12813038547",
       "universeID": 4486452283,
       "gameData": {
@@ -10896,7 +9206,7 @@
         }
       }
     },
-    "120": {
+    "94": {
       "placeID": "16126256479",
       "universeID": 5572268573,
       "gameData": {
@@ -10922,7 +9232,33 @@
         }
       }
     },
-    "121": {
+    "95": {
+      "placeID": "16137587139",
+      "universeID": 5575816474,
+      "gameData": {
+        "title": "Metaversation",
+        "description": "👋 Hello there! Check out my super cool game! I made it for the Roblox Developer Challenge 2024.\n\n🗨️ Enter the game and leave a message that will be seen by thousands of players!\n\n🎮 HAVE FUN !!\n\n😉",
+        "stats": {
+          "Playing": 0,
+          "Visits": 40,
+          "Favorited": 3
+        },
+        "attributes": {
+          "Created": "2024-01-27T17:09:00.74Z",
+          "Updated": "2024-02-21T09:25:37.967Z",
+          "Genre": "All",
+          "GenreNew": "",
+          "SubGenreNew": "",
+          "MaxPlayers": 1
+        },
+        "Creator": {
+          "Name": "SpacePios",
+          "ID": 1761051745,
+          "Type": "User"
+        }
+      }
+    },
+    "96": {
       "placeID": "16131354195",
       "universeID": 5573925186,
       "gameData": {
@@ -10948,7 +9284,7 @@
         }
       }
     },
-    "122": {
+    "97": {
       "placeID": "16130693436",
       "universeID": 5573704130,
       "gameData": {
@@ -10956,7 +9292,7 @@
         "description": "An entry for the Roblox 'January Gamejam of 2024'.\n\nEntry created by:\nBuilder : @forsathen\nScripter : @8WingedSeraph\n\nOnly 1 ending has been made. We have no intentions of adding more to it.",
         "stats": {
           "Playing": 0,
-          "Visits": 460,
+          "Visits": 463,
           "Favorited": 11
         },
         "attributes": {
@@ -10974,7 +9310,7 @@
         }
       }
     },
-    "123": {
+    "98": {
       "placeID": "16126577003",
       "universeID": 5572360877,
       "gameData": {
@@ -11000,7 +9336,59 @@
         }
       }
     },
-    "124": {
+    "99": {
+      "placeID": "16131538653",
+      "universeID": 5573983412,
+      "gameData": {
+        "title": "The Laboratory",
+        "description": "After a long day of work in a laboratory, where you and your crew has finally developed a new form of life and done countless tests on it, you get a message saying that your shift has ended. However, not all goes according to plan, the containement hasn't worked... Can you go through all 100 doors before finally leaving the facility?\n\nWARNING: If you are epileptic of sorts, proceed with caution.",
+        "stats": {
+          "Playing": 0,
+          "Visits": 46,
+          "Favorited": 0
+        },
+        "attributes": {
+          "Created": "2024-01-27T09:04:04.36Z",
+          "Updated": "2024-10-17T16:44:03.737Z",
+          "Genre": "All",
+          "GenreNew": "",
+          "SubGenreNew": "",
+          "MaxPlayers": 1
+        },
+        "Creator": {
+          "Name": "Placeholder Development Group",
+          "ID": 33779994,
+          "Type": "Group"
+        }
+      }
+    },
+    "100": {
+      "placeID": "16147298772",
+      "universeID": 5578711022,
+      "gameData": {
+        "title": "Cubo",
+        "description": "Knock down your enemies!\n\nEquip your gloves by opening the selection menu!\n\n- Created for the 2024 Roblox Game Jam (48 hour time limit)",
+        "stats": {
+          "Playing": 0,
+          "Visits": 46,
+          "Favorited": 0
+        },
+        "attributes": {
+          "Created": "2024-01-28T08:02:03.31Z",
+          "Updated": "2025-08-08T18:14:00.547Z",
+          "Genre": "Fighting",
+          "GenreNew": "",
+          "SubGenreNew": "",
+          "MaxPlayers": 25
+        },
+        "Creator": {
+          "Name": "silux310",
+          "ID": 2219586083,
+          "Type": "User"
+        }
+      }
+    },
+    "101": {
       "placeID": "16145275694",
       "universeID": 5578029965,
       "gameData": {
@@ -11026,7 +9414,7 @@
         }
       }
     },
-    "125": {
+    "102": {
       "placeID": "16126208632",
       "universeID": 5572256310,
       "gameData": {
@@ -11052,7 +9440,7 @@
         }
       }
     },
-    "126": {
+    "103": {
       "placeID": "16128037933",
       "universeID": 5572828082,
       "gameData": {
@@ -11399,9 +9787,9 @@
         "title": "Nexus [Connect 2023 Winner]",
         "description": "Controls:\nQ switch dimension\nY Reset\nH Inspect weapon\nHold down mouse button to shoot\n\n(This is only a demo for chapter 1)\n- Huge Thank you to  ItzMrRatzP For updating this game to support mobile and console!\n\nGame Constraints: \n-This was was made in 10 days for the Roblox 2023 connect challenge. \nThe theme was \"Parallelism\".\nGame Description:\n-The game is a Dimensional FPS where you are tasked with completing various task throughout the facility in order to retrieve someone. Your bullet ricochets every time it hits a panel, and every ricochet causes the bullet to swap to another dimension. \nPINK PAINT on the floor is your FRIEND :D",
         "stats": {
-          "Playing": 2,
-          "Visits": 1966381,
-          "Favorited": 70660
+          "Playing": 5,
+          "Visits": 1966617,
+          "Favorited": 70659
         },
         "attributes": {
           "Created": "2023-07-28T20:04:50.47Z",
@@ -11471,32 +9859,6 @@
       }
     },
     "16": {
-      "placeID": "14227676658",
-      "universeID": 4921788493,
-      "gameData": {
-        "title": "Pararoll!",
-        "description": "Welcome to Pararoll!\nIn this physics based puzzle game, you must lead a ball to the goal using walls to make it bounce!\nAvoid the evil triangles who aim in a single direction and use the springs to gain incredible height!\n\nWASD to move\nE and Q to rise and fall\n\nHold right click to rotate barriers\nLeft click to place them",
-        "stats": {
-          "Playing": 0,
-          "Visits": 58,
-          "Favorited": 4
-        },
-        "attributes": {
-          "Created": "2023-07-28T18:32:25.403Z",
-          "Updated": "2024-12-29T14:24:13.83Z",
-          "Genre": "All",
-          "GenreNew": "",
-          "SubGenreNew": "",
-          "MaxPlayers": 1
-        },
-        "Creator": {
-          "Name": "Breakfast-Studios",
-          "ID": 9545555,
-          "Type": "Group"
-        }
-      }
-    },
-    "17": {
       "placeID": "14233238051",
       "universeID": 4923509161,
       "gameData": {
@@ -11522,7 +9884,7 @@
         }
       }
     },
-    "18": {
+    "17": {
       "placeID": "14270815578",
       "universeID": 4935441312,
       "gameData": {
@@ -11548,7 +9910,7 @@
         }
       }
     },
-    "19": {
+    "18": {
       "placeID": "14226735485",
       "universeID": 4921521560,
       "gameData": {
@@ -11574,7 +9936,7 @@
         }
       }
     },
-    "20": {
+    "19": {
       "placeID": "14243107273",
       "universeID": 4926671399,
       "gameData": {
@@ -11600,7 +9962,7 @@
         }
       }
     },
-    "21": {
+    "20": {
       "placeID": "14241231598",
       "universeID": 4926125034,
       "gameData": {
@@ -11626,7 +9988,7 @@
         }
       }
     },
-    "22": {
+    "21": {
       "placeID": "14264693747",
       "universeID": 4933617948,
       "gameData": {
@@ -11707,6 +10069,32 @@
       }
     },
     "3": {
+      "placeID": "12821416325",
+      "universeID": 4489152965,
+      "gameData": {
+        "title": "Bomb Fight",
+        "description": "Jump or die",
+        "stats": {
+          "Playing": 0,
+          "Visits": 75,
+          "Favorited": 0
+        },
+        "attributes": {
+          "Created": "2023-03-18T12:09:47.537Z",
+          "Updated": "2025-09-07T12:54:15.323Z",
+          "Genre": "All",
+          "GenreNew": "",
+          "SubGenreNew": "",
+          "MaxPlayers": 6
+        },
+        "Creator": {
+          "Name": "coolerthanbatman123",
+          "ID": 1559585547,
+          "Type": "User"
+        }
+      }
+    },
+    "4": {
       "placeID": "12812313707",
       "universeID": 4486242005,
       "gameData": {
@@ -11732,7 +10120,7 @@
         }
       }
     },
-    "4": {
+    "5": {
       "placeID": "12815158298",
       "universeID": 4487042875,
       "gameData": {
@@ -11755,32 +10143,6 @@
           "Name": "Nikalika48",
           "ID": 4118729894,
           "Type": "User"
-        }
-      }
-    },
-    "5": {
-      "placeID": "12812036417",
-      "universeID": 4486159678,
-      "gameData": {
-        "title": "WRECKLESS",
-        "description": "[IMPORTANT]\nThe game currently has a bug that first timers wont be able to gain any money, if that happens to you; Rejoin the game and everything will work normally.\n\nMade in 72 hours for the Roblox Developer Challenge 2023\n\nLet loose by taking to your cannon and destroying as much as you can!\nGet even more cash by creating chain reactions that span over a longer period of time!\nBuy upgrades and different types of bullets to create even more destruction and chaos!\nI'm sure the owners of the buildings don't mind...\n\nControls\n[A]/[D] - Change cannon's angle\n[W]/[D] - Power up/down cannon strength\nScroll out for freecam, move mouse or your finger to the sides of the screen to pan camera, scroll back in for normal 2d camera\n\nMobile Support is enabled aswell, use the on-screen buttons!\n\nCredits:\nDevSersponge\nCodinGlitch\nVulpany\nthe\nrr_ome",
-        "stats": {
-          "Playing": 0,
-          "Visits": 188,
-          "Favorited": 7
-        },
-        "attributes": {
-          "Created": "2023-03-17T17:04:30.353Z",
-          "Updated": "2025-07-19T16:03:58.987Z",
-          "Genre": "All",
-          "GenreNew": "",
-          "SubGenreNew": "",
-          "MaxPlayers": 1
-        },
-        "Creator": {
-          "Name": "MELIORATION",
-          "ID": 14699976,
-          "Type": "Group"
         }
       }
     },
@@ -11811,6 +10173,32 @@
       }
     },
     "7": {
+      "placeID": "12817441457",
+      "universeID": 4487814600,
+      "gameData": {
+        "title": "BoomChain 💣 - Roblox Developer Challenge 2023",
+        "description": "Welcome to BoomChain! 💥 The fast-paced battle game with an explosive twist! \n\nPlace bombs near one another in chains to create combos of explosions and wipe out your enemies! How long can you last? 💣\n\n🌟 Created in 72 Hours for the Roblox Developer Challenge 2023 Game Jam\n\n🛠️ Development Team\nSharpSerious - Engineering, UX\nF1zxyy - Artistic Direction, 3D Modeling, Game Design\nFileSaved - 3D Modeling, UI, Quality Assurance\n\nstay silly\n\n\n\n",
+        "stats": {
+          "Playing": 0,
+          "Visits": 172,
+          "Favorited": 17
+        },
+        "attributes": {
+          "Created": "2023-03-18T03:38:16.18Z",
+          "Updated": "2023-03-21T02:08:26.407Z",
+          "Genre": "All",
+          "GenreNew": "",
+          "SubGenreNew": "",
+          "MaxPlayers": 1
+        },
+        "Creator": {
+          "Name": "SoSilly Studios",
+          "ID": 17090126,
+          "Type": "Group"
+        }
+      }
+    },
+    "8": {
       "placeID": "12807544563",
       "universeID": 4484602141,
       "gameData": {
@@ -11836,7 +10224,7 @@
         }
       }
     },
-    "8": {
+    "9": {
       "placeID": "12812459785",
       "universeID": 4486284617,
       "gameData": {
@@ -11862,7 +10250,7 @@
         }
       }
     },
-    "9": {
+    "10": {
       "placeID": "12812052152",
       "universeID": 4486164644,
       "gameData": {
@@ -11888,7 +10276,7 @@
         }
       }
     },
-    "10": {
+    "11": {
       "placeID": "12814054712",
       "universeID": 4486736067,
       "gameData": {
@@ -11896,7 +10284,7 @@
         "description": "Mayor of Chain Town was a game created during the 2023 Game Jam on Roblox based on the theme, \"Chain Reaction\". \nCredits:\n\nScripter - RjTheDev\nScripter - supergreatr299\nModeler - teddyraptor5\nBuilder - dinoboy5560\nComposer - Zacchary21\n\nMake sure to join the group on my profile '- Super Studios -'!",
         "stats": {
           "Playing": 0,
-          "Visits": 2772885,
+          "Visits": 2772957,
           "Favorited": 32165
         },
         "attributes": {
@@ -11914,7 +10302,7 @@
         }
       }
     },
-    "11": {
+    "12": {
       "placeID": "12815139623",
       "universeID": 4487036692,
       "gameData": {
@@ -11940,7 +10328,7 @@
         }
       }
     },
-    "12": {
+    "13": {
       "placeID": "7680672729",
       "universeID": 2982705804,
       "gameData": {
@@ -11966,7 +10354,7 @@
         }
       }
     },
-    "13": {
+    "14": {
       "placeID": "12813038547",
       "universeID": 4486452283,
       "gameData": {
@@ -11992,7 +10380,7 @@
         }
       }
     },
-    "14": {
+    "15": {
       "placeID": "12812821943",
       "universeID": 4486389468,
       "gameData": {
@@ -12018,7 +10406,7 @@
         }
       }
     },
-    "15": {
+    "16": {
       "placeID": "12812189621",
       "universeID": 4486204933,
       "gameData": {
@@ -12044,7 +10432,7 @@
         }
       }
     },
-    "16": {
+    "17": {
       "placeID": "12816453929",
       "universeID": 4487478349,
       "gameData": {
@@ -12070,7 +10458,7 @@
         }
       }
     },
-    "17": {
+    "18": {
       "placeID": "12812059419",
       "universeID": 4486166690,
       "gameData": {
@@ -12096,7 +10484,7 @@
         }
       }
     },
-    "18": {
+    "19": {
       "placeID": "12813783219",
       "universeID": 4486662319,
       "gameData": {
@@ -12122,7 +10510,7 @@
         }
       }
     },
-    "19": {
+    "20": {
       "placeID": "12812254329",
       "universeID": 4486224528,
       "gameData": {
@@ -12148,7 +10536,7 @@
         }
       }
     },
-    "20": {
+    "21": {
       "placeID": "12812881582",
       "universeID": 4486407206,
       "gameData": {
@@ -12174,7 +10562,7 @@
         }
       }
     },
-    "21": {
+    "22": {
       "placeID": "12815732971",
       "universeID": 4487237362,
       "gameData": {
@@ -12200,7 +10588,7 @@
         }
       }
     },
-    "22": {
+    "23": {
       "placeID": "12825679116",
       "universeID": 4490512075,
       "gameData": {
@@ -12226,7 +10614,7 @@
         }
       }
     },
-    "23": {
+    "24": {
       "placeID": "12812296351",
       "universeID": 4486236927,
       "gameData": {
@@ -12252,7 +10640,7 @@
         }
       }
     },
-    "24": {
+    "25": {
       "placeID": "12812732940",
       "universeID": 4486363726,
       "gameData": {
@@ -12278,7 +10666,7 @@
         }
       }
     },
-    "25": {
+    "26": {
       "placeID": "12812883238",
       "universeID": 4486407711,
       "gameData": {
@@ -12304,7 +10692,7 @@
         }
       }
     },
-    "26": {
+    "27": {
       "placeID": "12812351554",
       "universeID": 4486253736,
       "gameData": {
@@ -12333,32 +10721,6 @@
   },
   "gameJam9": {
     "1": {
-      "placeID": "9009227085",
-      "universeID": 3394267985,
-      "gameData": {
-        "title": "Roblox Developer (Dream Challenge)",
-        "description": "No description",
-        "stats": {
-          "Playing": 0,
-          "Visits": 95,
-          "Favorited": 2
-        },
-        "attributes": {
-          "Created": "2022-03-05T03:08:48.4Z",
-          "Updated": "2022-03-14T01:37:07.643Z",
-          "Genre": "All",
-          "GenreNew": "",
-          "SubGenreNew": "",
-          "MaxPlayers": 6
-        },
-        "Creator": {
-          "Name": "karaisaac",
-          "ID": 358681244,
-          "Type": "User"
-        }
-      }
-    },
-    "2": {
       "placeID": "9007489592",
       "universeID": 3393778434,
       "gameData": {
@@ -12384,7 +10746,7 @@
         }
       }
     },
-    "3": {
+    "2": {
       "placeID": "9006331795",
       "universeID": 3393482389,
       "gameData": {
@@ -12410,7 +10772,7 @@
         }
       }
     },
-    "4": {
+    "3": {
       "placeID": "9067042344",
       "universeID": 3410720030,
       "gameData": {
@@ -12436,7 +10798,7 @@
         }
       }
     },
-    "5": {
+    "4": {
       "placeID": "9010881988",
       "universeID": 3394746033,
       "gameData": {
@@ -12462,7 +10824,7 @@
         }
       }
     },
-    "6": {
+    "5": {
       "placeID": "9011375291",
       "universeID": 3394892366,
       "gameData": {
@@ -12488,7 +10850,7 @@
         }
       }
     },
-    "7": {
+    "6": {
       "placeID": "9012888307",
       "universeID": 3395310520,
       "gameData": {
@@ -12514,7 +10876,7 @@
         }
       }
     },
-    "8": {
+    "7": {
       "placeID": "9006729666",
       "universeID": 3393588496,
       "gameData": {
@@ -12540,7 +10902,7 @@
         }
       }
     },
-    "9": {
+    "8": {
       "placeID": "9007089626",
       "universeID": 3393679411,
       "gameData": {
@@ -12566,33 +10928,7 @@
         }
       }
     },
-    "10": {
-      "placeID": "9015455873",
-      "universeID": 3396029996,
-      "gameData": {
-        "title": "☠️ Skeletons Dream ☠️",
-        "description": "Fight zombies as you progress in this top-down dungeon game. Can you reach the Skeleton King and avenge the souls of the ones before you?\r\n\r\nThis game was made for the Roblox Dream Jam event.\r\n\r\nUpdate note: Difficulty has been added with Easy, Normal, and Hard being options. An insane difficulty might be added in the future. \r\n\r\nCredits: Reditect, Absentdenik, TopNero, Nvpeo, and CIo-cklfy.",
-        "stats": {
-          "Playing": 0,
-          "Visits": 255,
-          "Favorited": 5
-        },
-        "attributes": {
-          "Created": "2022-03-05T16:07:39.597Z",
-          "Updated": "2022-06-05T14:08:42.137Z",
-          "Genre": "All",
-          "GenreNew": "",
-          "SubGenreNew": "",
-          "MaxPlayers": 1
-        },
-        "Creator": {
-          "Name": "alarickrieg",
-          "ID": 2449252308,
-          "Type": "User"
-        }
-      }
-    },
-    "11": {
+    "9": {
       "placeID": "9018548014",
       "universeID": 3396845018,
       "gameData": {
@@ -12618,7 +10954,7 @@
         }
       }
     },
-    "12": {
+    "10": {
       "placeID": "9017315805",
       "universeID": 3396541429,
       "gameData": {
@@ -12644,33 +10980,7 @@
         }
       }
     },
-    "13": {
-      "placeID": "9063637191",
-      "universeID": 3409743952,
-      "gameData": {
-        "title": "Fly Hole",
-        "description": "Fly through infinite obstacles! The obstacles get harder as proceed farther into the hole. You also get faster.",
-        "stats": {
-          "Playing": 0,
-          "Visits": 200,
-          "Favorited": 4
-        },
-        "attributes": {
-          "Created": "2022-03-10T20:58:25.287Z",
-          "Updated": "2022-03-15T02:08:29.163Z",
-          "Genre": "All",
-          "GenreNew": "",
-          "SubGenreNew": "",
-          "MaxPlayers": 15
-        },
-        "Creator": {
-          "Name": "FlashBolt Studios",
-          "ID": 5124692,
-          "Type": "Group"
-        }
-      }
-    },
-    "14": {
+    "11": {
       "placeID": "9039799235",
       "universeID": 3402681258,
       "gameData": {
@@ -12696,7 +11006,7 @@
         }
       }
     },
-    "15": {
+    "12": {
       "placeID": "9034872145",
       "universeID": 3401286358,
       "gameData": {
@@ -12722,7 +11032,7 @@
         }
       }
     },
-    "16": {
+    "13": {
       "placeID": "9007398811",
       "universeID": 3393755896,
       "gameData": {
@@ -12748,7 +11058,7 @@
         }
       }
     },
-    "17": {
+    "14": {
       "placeID": "9007783718",
       "universeID": 3393856393,
       "gameData": {
@@ -12774,7 +11084,7 @@
         }
       }
     },
-    "18": {
+    "15": {
       "placeID": "9007302996",
       "universeID": 3393731999,
       "gameData": {
@@ -12800,7 +11110,7 @@
         }
       }
     },
-    "19": {
+    "16": {
       "placeID": "9069332945",
       "universeID": 3411457222,
       "gameData": {
@@ -12826,33 +11136,7 @@
         }
       }
     },
-    "20": {
-      "placeID": "9007844670",
-      "universeID": 3393873120,
-      "gameData": {
-        "title": "Haze",
-        "description": "Created for the Roblox Developer Dream Jam by a team of 5 developers.\r\n\r\nWhat's this? Judging by your dream, I assume you're some Sci-Fi fanatic. Wait, what? Oh yeah, this is all a dream. How do you think you're on a floating island with nightmarish-zombie-like monsters in an arena?\r\n\r\nI hope you like this fighting game with the dream theme! :)\r\n\r\nControls:\r\nE - Interact\r\nShift - Sprint\r\nCtrl - Block\r\n\r\nScripter - Attyuo2\r\nBuilder - x5tb\r\nModeler - Tactelus\r\nAnimator - NINJAJACK567\r\nComposer - Zacchary21",
-        "stats": {
-          "Playing": 0,
-          "Visits": 128,
-          "Favorited": 4
-        },
-        "attributes": {
-          "Created": "2022-03-04T23:56:03.327Z",
-          "Updated": "2022-06-27T17:36:42.663Z",
-          "Genre": "Fighting",
-          "GenreNew": "",
-          "SubGenreNew": "",
-          "MaxPlayers": 12
-        },
-        "Creator": {
-          "Name": "Astralis Interactive",
-          "ID": 14011859,
-          "Type": "Group"
-        }
-      }
-    },
-    "21": {
+    "17": {
       "placeID": "9020628985",
       "universeID": 3397358548,
       "gameData": {
@@ -12878,7 +11162,7 @@
         }
       }
     },
-    "22": {
+    "18": {
       "placeID": "9074400084",
       "universeID": 3412898433,
       "gameData": {
@@ -12904,33 +11188,7 @@
         }
       }
     },
-    "23": {
-      "placeID": "9005208326",
-      "universeID": 3393161343,
-      "gameData": {
-        "title": "Salvation of the Temples",
-        "description": "No description",
-        "stats": {
-          "Playing": 0,
-          "Visits": 502,
-          "Favorited": 17
-        },
-        "attributes": {
-          "Created": "2022-03-04T17:47:08.177Z",
-          "Updated": "2025-09-07T22:08:00.447Z",
-          "Genre": "Adventure",
-          "GenreNew": "",
-          "SubGenreNew": "",
-          "MaxPlayers": 100
-        },
-        "Creator": {
-          "Name": "I.T. Games",
-          "ID": 14153249,
-          "Type": "Group"
-        }
-      }
-    },
-    "24": {
+    "19": {
       "placeID": "9038745629",
       "universeID": 3402416628,
       "gameData": {
@@ -12956,7 +11214,7 @@
         }
       }
     },
-    "25": {
+    "20": {
       "placeID": "9006533068",
       "universeID": 3393537837,
       "gameData": {
@@ -12982,7 +11240,7 @@
         }
       }
     },
-    "26": {
+    "21": {
       "placeID": "9059223798",
       "universeID": 3408440205,
       "gameData": {
@@ -13008,33 +11266,7 @@
         }
       }
     },
-    "27": {
-      "placeID": "9050355483",
-      "universeID": 3405766411,
-      "gameData": {
-        "title": "Outdreamed",
-        "description": "Welcome to Outdreamed, this is a project created for the Roblox Developer Dream Jam by Outdreamed Studios, if you've enjoyed what we created please leave a like it helps alot!\r\n\r\nIn Outdreamed, you play as someone lost in a mystical world, as you venture through the dangerous foggy night, you'll need to find your way home while surviving against mother nature, and much, much more.",
-        "stats": {
-          "Playing": 0,
-          "Visits": 163,
-          "Favorited": 5
-        },
-        "attributes": {
-          "Created": "2022-03-09T03:36:40.017Z",
-          "Updated": "2022-03-15T06:10:17.26Z",
-          "Genre": "All",
-          "GenreNew": "",
-          "SubGenreNew": "",
-          "MaxPlayers": 30
-        },
-        "Creator": {
-          "Name": "Outdreamed Studios",
-          "ID": 14286156,
-          "Type": "Group"
-        }
-      }
-    },
-    "28": {
+    "22": {
       "placeID": "9097297216",
       "universeID": 3419406670,
       "gameData": {
@@ -13060,7 +11292,7 @@
         }
       }
     },
-    "29": {
+    "23": {
       "placeID": "9057450349",
       "universeID": 3407914240,
       "gameData": {
@@ -13086,7 +11318,7 @@
         }
       }
     },
-    "30": {
+    "24": {
       "placeID": "9041517066",
       "universeID": 3403156888,
       "gameData": {
@@ -13112,7 +11344,7 @@
         }
       }
     },
-    "31": {
+    "25": {
       "placeID": "9006392689",
       "universeID": 3393498402,
       "gameData": {
@@ -13138,7 +11370,7 @@
         }
       }
     },
-    "32": {
+    "26": {
       "placeID": "9007314802",
       "universeID": 3393734853,
       "gameData": {
@@ -13164,7 +11396,7 @@
         }
       }
     },
-    "33": {
+    "27": {
       "placeID": "9098537389",
       "universeID": 3419799222,
       "gameData": {
@@ -13190,7 +11422,7 @@
         }
       }
     },
-    "34": {
+    "28": {
       "placeID": "9064681219",
       "universeID": 3410025707,
       "gameData": {
@@ -13216,7 +11448,7 @@
         }
       }
     },
-    "35": {
+    "29": {
       "placeID": "9047893545",
       "universeID": 3405083775,
       "gameData": {
@@ -13242,7 +11474,7 @@
         }
       }
     },
-    "36": {
+    "30": {
       "placeID": "9056870881",
       "universeID": 3407753296,
       "gameData": {
@@ -13268,7 +11500,7 @@
         }
       }
     },
-    "37": {
+    "31": {
       "placeID": "9061603350",
       "universeID": 3409184398,
       "gameData": {
@@ -13294,7 +11526,7 @@
         }
       }
     },
-    "38": {
+    "32": {
       "placeID": "9012959818",
       "universeID": 3395329546,
       "gameData": {
@@ -13320,7 +11552,7 @@
         }
       }
     },
-    "39": {
+    "33": {
       "placeID": "9018883551",
       "universeID": 3396923380,
       "gameData": {
@@ -13346,7 +11578,7 @@
         }
       }
     },
-    "40": {
+    "34": {
       "placeID": "9006710730",
       "universeID": 3393583586,
       "gameData": {
@@ -13372,7 +11604,7 @@
         }
       }
     },
-    "41": {
+    "35": {
       "placeID": "9008929655",
       "universeID": 3394182823,
       "gameData": {
@@ -13380,8 +11612,8 @@
         "description": "A Game Jam Submission\r\n\r\nBy Guard303 and DARKEVATOR",
         "stats": {
           "Playing": 0,
-          "Visits": 2568802,
-          "Favorited": 49693
+          "Visits": 2568806,
+          "Favorited": 49692
         },
         "attributes": {
           "Created": "2022-03-05T02:27:55.78Z",
@@ -13398,7 +11630,7 @@
         }
       }
     },
-    "42": {
+    "36": {
       "placeID": "9102284496",
       "universeID": 3420988885,
       "gameData": {
@@ -13424,7 +11656,7 @@
         }
       }
     },
-    "43": {
+    "37": {
       "placeID": "9038901673",
       "universeID": 3402458288,
       "gameData": {
@@ -13450,7 +11682,7 @@
         }
       }
     },
-    "44": {
+    "38": {
       "placeID": "9091069203",
       "universeID": 3417732310,
       "gameData": {
@@ -13476,7 +11708,7 @@
         }
       }
     },
-    "45": {
+    "39": {
       "placeID": "9007513539",
       "universeID": 3393784700,
       "gameData": {
@@ -13502,7 +11734,7 @@
         }
       }
     },
-    "46": {
+    "40": {
       "placeID": "9058545095",
       "universeID": 3408226916,
       "gameData": {
@@ -13528,7 +11760,7 @@
         }
       }
     },
-    "47": {
+    "41": {
       "placeID": "9049354128",
       "universeID": 3405480779,
       "gameData": {
@@ -13554,7 +11786,7 @@
         }
       }
     },
-    "48": {
+    "42": {
       "placeID": "9006610260",
       "universeID": 3393558103,
       "gameData": {
@@ -13580,7 +11812,7 @@
         }
       }
     },
-    "49": {
+    "43": {
       "placeID": "9052460180",
       "universeID": 3406434790,
       "gameData": {
