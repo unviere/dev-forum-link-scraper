@@ -59,7 +59,7 @@ const defaultInfo = {
             "Description": "the developer chalange always is a weekend in february the time to show off your skills by making a game in one weekend",
             "Theme": "Break the system",
             "OGName": "dev25_ID7", // dont change this needed for tags and for the data store
-            "bannerImg": "rbxassetid://94334333002062",
+            "bannerImg": "rbxassetid://81849467024878",
             "bannerUseAi": false,
             "bannerBy": "foodeggs7 (studio logo by Roblox)",
             "StartTimestamp": 1738969200,
