@@ -13,7 +13,12 @@ const defaultInfo = {
             "End": "09-02-2026 | 9 feb 2026 | 18:00 | 6 pm | 0",
             "Description": "the developer chalange always is a weekend in february the time to show off your skills by making a game in one weekend",
             "Theme": "The first contact",
-            "OGName": "dev26_ID10" // dont change this needed for tags and for the data store
+            "OGName": "dev26_ID10", // dont change this needed for tags and for the data store
+            "bannerImg": "rbxassetid://79795996235434",
+            "bannerUseAi": false,
+            "bannerBy": "Roblox",
+            "StartTimestamp": 1770400800,
+            "EndTimestamp": 1770660000
         },
        "2": {
             "fullName": "EuroJam 2025, spooktober fest",
@@ -23,8 +28,12 @@ const defaultInfo = {
             "End": "09-11-2025 | 9 nov 2025 | 23:59 | 23 pm| 2",
             "Description": "Looking for a treat? You’ve come to the right place - because we’ve got something special for you! We’re hosting a brand-new Halloween game jam open to developers worldwide, with a special focus on European creativity. <br /> Source: dev forum",
             "Theme": "halloween",
-            "OGName": "euJ25_ID9" // dont change this needed for tags and for the data store
-
+            "OGName": "euJ25_ID9", // dont change this needed for tags and for the data store
+            "bannerImg": "rbxassetid://128188650921015",
+            "bannerUseAi": false,
+            "bannerBy": "foodeggs7",
+            "StartTimestamp": 1761922800,
+            "EndTimestamp": 1762729140
         },
        "3": { // is again the recentst game jam
            "fullName": "inspire 2025",
@@ -34,8 +43,13 @@ const defaultInfo = {
            "End": "13-08-2025 | 13 aug 2025 | 9:00 | 9 pm | 2",
            "Description": "inspire is an event in the sumer with workshops folowed by an game jam at the end",
            "Theme": "one tool many uses",
-            "OGName": "coninsp25_ID8" // dont change this needed for tags and for the data store
-       },
+            "OGName": "coninsp25_ID8", // dont change this needed for tags and for the data store
+             "bannerImg": "rbxassetid://75442839404527",
+            "bannerUseAi": false,
+            "bannerBy": "Roblox",
+            "StartTimestamp": 1754758800,
+            "EndTimestamp": 1755068400
+        },
         "4": { // is again the recentst game jam
             "fullName": "Developer Chalange 2025",
             "shortName": "Developer 25",
@@ -44,7 +58,12 @@ const defaultInfo = {
             "End": "10-02-2025 | 10 feb 2025 | 23:00 | 11 pm | 0",
             "Description": "the developer chalange always is a weekend in february the time to show off your skills by making a game in one weekend",
             "Theme": "Break the system",
-            "OGName": "dev25_ID7" // dont change this needed for tags and for the data store
+            "OGName": "dev25_ID7", // dont change this needed for tags and for the data store
+            "bannerImg": "rbxassetid://94334333002062",
+            "bannerUseAi": false,
+            "bannerBy": "foodeggs7 (studio logo by Roblox)",
+            "StartTimestamp": 1738969200,
+            "EndTimestamp": 1739228400
         },
         "5": {
             "fullName": "Introducing Unite 2024",
@@ -54,8 +73,12 @@ const defaultInfo = {
             "End": "27-10-2024 | 27 oct 2024 | 18:00 | 6 pm| 1",
             "Description": "Unite 2024 offers an exciting opportunity to network, compete, and win amazing prizes! This challenge has a specific focus on Europe-based developer networking and collaboration, however anyone can participate, no matter where you are from! <br /> Source: dev forum",
             "Theme": "There is only one rule",
-            "OGName": "un24_ID6" // dont change this needed for tags and for the data store
-
+            "OGName": "un24_ID6", // dont change this needed for tags and for the data store
+            "bannerImg": "rbxassetid://137489464550186",
+            "bannerUseAi": false,
+            "bannerBy": "Roblox",
+            "StartTimestamp": 1728662400,
+            "EndTimestamp": 1729180800
         },
         "6": { 
             "fullName": "Roblox Inspire 2024 Challenge",
@@ -65,8 +88,12 @@ const defaultInfo = {
             "End": "13-08-2024 | 13 aug 2024 | 10:00 | 10 am | -7",
             "Description": "inspire is an events with diferent work shops and a game jam at the end",
             "Theme": "Time is your enemy",
-            "OGName": "coninsp24_ID5" // dont change this needed for tags and for the data store
-
+            "OGName": "coninsp24_ID5", // dont change this needed for tags and for the data store
+            "bannerImg": "rbxassetid://79789651253444",
+            "bannerUseAi": false,
+            "bannerBy": "Roblox",
+            "StartTimestamp": 1723309200,
+            "EndTimestamp": 1723568400
         },
         "7": { 
             "fullName": "Roblox Developer Challenge 2024",
@@ -76,8 +103,12 @@ const defaultInfo = {
             "End": "28-01-2024 | 28 jan 2024 | 15:00 | 3 pm | -8",
             "Description": "a yearly development competition gathering the whole world to create the most amazing Roblox experiences based on a theme! <br /> Source: dev forum <br /><br /> mostly run a weekend in february the time to show off your skills and make a game in one weekend",
             "Theme": "Unexpected Development",
-            "OGName": "dev24_ID4" // dont change this needed for tags and for the data store
-
+            "OGName": "dev24_ID4", // dont change this needed for tags and for the data store
+            "bannerImg": "rbxassetid://73267377038695",
+            "bannerUseAi": false,
+            "bannerBy": "foodeggs7 (studio logo by Roblox)",
+            "StartTimestamp": 1706310000,
+            "EndTimestamp": 1706482800
         },
          "8": { 
             "fullName": "Connect 2023 Challenge",
@@ -87,8 +118,12 @@ const defaultInfo = {
             "End": "07-08-2023 | 7 aug 2023 | 10:00 | 10 am | -7",
             "Description": "connect is an events with diferent work shops and a game jam at the end its called inspire now",
             "Theme": "Parallelism",
-            "OGName": "coninsp23_ID3" // dont change this needed for tags and for the data store
-
+            "OGName": "coninsp23_ID3", // dont change this needed for tags and for the data store
+            "bannerImg": "rbxassetid://102297877960599",
+            "bannerUseAi": false,
+            "bannerBy": "Roblox",
+            "StartTimestamp": 1690563600,
+            "EndTimestamp": 1691427600 
         },
         "9": { 
             "fullName": "Roblox Developer Challenge 2023",
@@ -98,8 +133,12 @@ const defaultInfo = {
             "End": "20-03-2023 | 20 mar 2023 | 10:00 | 10 am | -8",
             "Description": "Welcome to the Roblox Developer Challenge, a yearly development competition gathering the whole world to create the most amazing Roblox experiences based on a theme! <br /> Source: dev forum",
             "Theme": "Chain Reaction",
-            "OGName": "dev23_ID2" // dont change this needed for tags and for the data store
-
+            "OGName": "dev23_ID2", // dont change this needed for tags and for the data store
+            "bannerImg": "rbxassetid://84178295872257",
+            "bannerUseAi": false,
+            "bannerBy": "foodeggs7 (studio logo by Roblox)",
+            "StartTimestamp": 1679076000,
+            "EndTimestamp": 1679335200 
         },
         "10": { 
             "fullName": "Roblox Developer Dream Jam 2022",
@@ -109,8 +148,12 @@ const defaultInfo = {
             "End": "n/a | read desccription | | |",
             "Description": "developers will have ten days to create an experience based on the theme, when it’s announced on March 4th, 2022. Remember, you do not have to spend the full 10 days working on this - take as much or as little time as you’d like! After, there will be a short period of two weeks to allow our judging panel to select the top ten experiences! At this point, a vote will open where everyone will have the chance to vote on their favorite experiences! <br /><br />After the community vote, the winning teams will have the opportunity to refine, update, and make ANY changes to their experiences that they deem necessary. These changes must be made AND published by April 12th at 11:59 PM PST. <br /><br />After another week of review by our panel of judges, the top three experiences will be announced! These will be the first, second, and third place winners of the Roblox Developer Dream Jam! <br /> Source: Dev forum | <br /><br />this a game jam with diferent rounds with semi finals etc",
             "Theme": "Your Dream Experience",
-            "OGName": "dream22_ID1" // dont change this needed for tags and for the data store
-
+            "OGName": "dream22_ID1",// dont change this needed for tags and for the data store
+            "bannerImg": "rbxassetid://109882888808971",
+            "bannerUseAi": false,
+            "bannerBy": "Roblox",
+            "StartTimestamp": -1, // -1 means that the date is unknown for this chalange it hasnt reale an start and end date
+            "EndTimestamp": -1 
         },
     },
     "TotalGameJams": 10
