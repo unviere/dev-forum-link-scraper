@@ -1,6 +1,6 @@
 {
   "defaultData": {
-    "lastUpdated": "2026-05-02T07:27:12.572Z",
+    "lastUpdated": "2026-05-02T13:02:06.467Z",
     "chalanceInfo": {
       "1": {
         "fullName": "Developer Chalange 2026",
@@ -2298,7 +2298,7 @@
         "description": "🔍 A detective game about solving mysteries as a ghost of your former self.\n\nUpdate 1:\n- Made changes to the Suspect List\n- Increased maximum number of clues to 5\n- \"Exit Scene\" button renamed to \"End Search\" button for clarity\n- Marked Clues now display as Logged Clues\n- Logging clues now done by clicking on them instead of activating them with a prompt\n\nA mysterious person has just claimed your soul the night before Halloween. Are you able to solve the mystery of your lost body?\n\n🔍-> Find Clues around the map\n📃-> Compare clues to suspect descriptions\n🔪-> Take down your killer... or an innocent person?\n\n🔧 Made for Eurojam 2025: Spooktober Fest! 🎃\n\n🔧 Contributors:\n@MintyOwll: Ideas, Assets, Building, Scripting, UI/UX Design\n@obbynoobplayz: Ideas, Assets, Decorations\n\n♥️ Thank you for your support! ♥️",
         "stats": {
           "Playing": 0,
-          "Visits": 1717,
+          "Visits": 1726,
           "Favorited": 16
         },
         "attributes": {
@@ -3007,7 +3007,7 @@
         },
         "attributes": {
           "Created": "2025-08-09T18:12:41.693Z",
-          "Updated": "2026-05-01T22:59:54.1919116Z",
+          "Updated": "2026-05-02T13:04:20.6930342Z",
           "Genre": "All",
           "GenreNew": "Adventure",
           "SubGenreNew": "Exploration",
@@ -3235,9 +3235,9 @@
         "title": "Light Work",
         "description": "Welcome to the world, Choop.\n \nLight work is a puzzle-platformer set in a post apocalyptic ice-age, you are here to save this world from the cold, with the light as your tool.\n \nMade for the Inspire 2025 Challenge and winner of the Best Technical Quality category!\n \nCredits: \n \nCrystalflxme: Programming, Building\nPotenchill: Programming, Building\nSheenyo: Modeling, Building, Composing, Art\nRox_N_Roll: Modeling, Building, Art\napoll3r: Art\nLocalization Support: HUFS LUDUS",
         "stats": {
-          "Playing": 2,
-          "Visits": 111903,
-          "Favorited": 16271
+          "Playing": 4,
+          "Visits": 111969,
+          "Favorited": 16275
         },
         "attributes": {
           "Created": "2025-08-09T23:22:24.913Z",
@@ -3651,8 +3651,8 @@
         "title": "Operation Clogged Liberty",
         "description": "INSPIRE 2025 WINNER:🏆Best Overall Experience\nhttps://devforum.roblox.com/t/inspire-2025-challenge/3860029\nProject created in 86 hours for the Inspire 2025 Gamejam contest.\nThis is the full game, time of completion is between 15-30 minutes\n\n@Fabuss254 - Programmer\n@Friizti - Lead 3D Animator, Voice actor\n@kenami - UI Animator/Code, Additional Animator\n@GamaLowOff - Modeling, Lead Assets\n@EternityReality - Modeling, Lead Map\nwe own none of the SFX used in this project\n\nWSAD - Move\nC/CTRL - Sneak\nShift - Run\nE - Interact\nQ - Grapple\nP - Enable/Disable Godmode (cheat mode to complete the game faster)",
         "stats": {
-          "Playing": 1,
-          "Visits": 59536,
+          "Playing": 2,
+          "Visits": 59546,
           "Favorited": 5352
         },
         "attributes": {
@@ -4093,9 +4093,9 @@
         "title": "Armless Detective",
         "description": "You lost both your arms in a tragic accident at your factory, but you've now been employed to work as a detective - an Armless Detective! Use your magic hat to assist you in your investigations, and bring justice to Robloxia!\n\nThird place winner for the 'Best Technical Quality' category of the ROBLOX Inspire 2025 Challenge\n\nJoin our group for a free face cosmetic! https://www.roblox.com/communities/946378404/Top-of-The-Barrel#!/about\n\nMade by:\n@LiamGame09\n@forleaveFR\n@Goober_ish\n@minecoiiiFR\n@kylecat11\n\nCredits:\nloleris - ReplicaService & ProfileService\nsleitnick - RbxUtil\nScarious, dthecoolest, iGottic - R6 IK Procedural Footplanting Module",
         "stats": {
-          "Playing": 168,
-          "Visits": 67115044,
-          "Favorited": 221467
+          "Playing": 236,
+          "Visits": 67133414,
+          "Favorited": 221493
         },
         "attributes": {
           "Created": "2025-08-09T23:27:09.127Z",
@@ -4381,8 +4381,8 @@
         "title": "Hungry Hungry Hamster",
         "description": "Part of the Roblox Developer Challenge 2024\n🐹 Test your survival skills as you take care of your furry friend in \"Hungry Hungry Hamster!\"\n\nlillybearish | hiaihai1 | TopDev | Lyspyon",
         "stats": {
-          "Playing": 0,
-          "Visits": 25530,
+          "Playing": 1,
+          "Visits": 25538,
           "Favorited": 124
         },
         "attributes": {
@@ -5630,7 +5630,7 @@
         "description": "Last thing you remember – you volunteered yourself as a test subject for an experiment. You then find yourself in a strange laboratory… this experiment isn’t what you thought it was. Find a way to escape. Solve puzzles. BREAK THE SYSTEM.\nGood luck...\n\nThis game was made in 3 days for Roblox's 2025 developer challenge / game jam!\n\nCREDITS:\naTinyGecko - Programming and game Icon/Thumbnail\nHuskeeTheDev - Modeling and Building\nLuanaBraveHeart - Animations and Art\nspNebula - UI\nRaykaDev- VFX\n",
         "stats": {
           "Playing": 0,
-          "Visits": 1024,
+          "Visits": 1025,
           "Favorited": 3
         },
         "attributes": {
@@ -5968,7 +5968,7 @@
         "description": ">Incoming transmission...\n\nYou used to be free to spawn anywhere... but ever since that system was enabled, you've become a prisoner in a harsh and oppressive complex. \nWill you succumb to the endless cycle, or will you find a way to break it?\n\nRoblox Developer Challenge 2025 submission\n\nCreated by atone404 and Ringularity\n\nInspired by Portal and The Stanley Parable",
         "stats": {
           "Playing": 0,
-          "Visits": 1842,
+          "Visits": 1844,
           "Favorited": 33
         },
         "attributes": {
@@ -6098,7 +6098,7 @@
         "description": "Your new friend for life! Right?\n\nYou're an abandoned virtual pet... Nobody has interacted with you in years... It's time to find a way out.\n\nCreated for the February Roblox 2025 Developer Challenge\n\nScripting: Smellysuperfart\n2D Assets, Modeling: hiioh\nModeling, Building: Spookiner\nMusic: dieselfluids",
         "stats": {
           "Playing": 0,
-          "Visits": 23753,
+          "Visits": 23754,
           "Favorited": 1318
         },
         "attributes": {
@@ -7138,7 +7138,7 @@
         "description": "All you wanted to do was go get taco's with your friend.\n\nThen, you found the phone...\n\nAdventure this mystery world and figure out how to escape, and most importantly...\n\nBreak the System!",
         "stats": {
           "Playing": 0,
-          "Visits": 5870,
+          "Visits": 5886,
           "Favorited": 16
         },
         "attributes": {
@@ -7345,9 +7345,9 @@
         "title": "🔥[BATTLE CARS!] The CHASE: Trigger & Ignition",
         "description": "GUNS 🔫+  CARS 🚗 = CHAOS 😈\n\nCHASE or GET CHASED!\n\nFight til' the end in this fast-paced brutal car battlegrounds! The best rider shall take the victory.. 💥\n\nCreate your own loadouts, choose from an ever growing vast library of cars and weapons 🏎️🛻🚙🚓🚕🚚🚗 \n\nSelect from various game-modes, like Capture the Flag, Free For All, Team Deathmatch & more! 🏆\n\nFeatures Maps with lively details, advanced environmental destruction and stunning scenery! 🌆\n\nFire til' your hearts desire!🔥\n\nJoin our community to receive information on upcoming updates, giveaways, development news and a lot more!\n\nPremium Members receive bonuses in game!\n\nINSPIRED BY: The 'BURNIN' RUBBER' series by XFORM GAMES© & 'TWISTED METAL' by SONY INTERACTIVE© All rights reserved.\n\n\nThis game features the entire monstercat audio library! Featuring music from top videogame titles like Rocket League, Forza Horizon, Need For Speed, The Crew & more!\n\n🫶💗",
         "stats": {
-          "Playing": 0,
-          "Visits": 44385,
-          "Favorited": 1117
+          "Playing": 2,
+          "Visits": 44746,
+          "Favorited": 1122
         },
         "attributes": {
           "Created": "2025-02-08T13:40:25.103Z",
@@ -7787,9 +7787,9 @@
         "title": "Let Him Go",
         "description": "\"And waking up again, this cycle repeats itself time after time.\nStop the feeling, overcome it, and let go. Can you handle it?\"\n\nA short psychological story about loss and empathy\n\n[CREDITS]\nFounder: Foxbox226\nDevelopers: Marat198017, 1Maks_Play, Alinnaria, rrxllx, OSG3141\n\nWARNING | Game will contain vivid images and sharp unrecognizable sounds, scenes of violence and a demonstration of blood.",
         "stats": {
-          "Playing": 88,
-          "Visits": 21131737,
-          "Favorited": 690646
+          "Playing": 85,
+          "Visits": 21134374,
+          "Favorited": 690696
         },
         "attributes": {
           "Created": "2024-11-25T12:20:47.987Z",
@@ -8520,7 +8520,7 @@
         "description": "Game originally made for Inspire 2024 Challenge\n\nA package has just shown up at your front door! I wonder what's inside of it..",
         "stats": {
           "Playing": 0,
-          "Visits": 1496,
+          "Visits": 1498,
           "Favorited": 6
         },
         "attributes": {
@@ -9144,7 +9144,7 @@
         "description": "[GAME WAS RECODED POST GAME JAM TO FIX BUGS, PLEASE REPORT ANY NEW BUGS FOUND]\n\nOrtho Games presents Fangs and Ferns, a fun, silly, stylized rogue-like race against time as a gardening vampire on his quest to secure enough money before a sought-after ring goes off sale.\n\nSHORT TUTORIAL:\nGet a pot and put it down on the ground, go back and get the seed bag, walk back over to your pot, and hold E to select a seed (you start with 3).  Water and care for the seed until it grows and harvest it before it dies! Avoid the sunlight and visit the shop at night to make your fortune.\n\nThis game was a game jam game made for the Inspire 2024 game jam.\nTheme: Time Is Your Enemy\nTime Limit: 72 Hours\n\nCredits:\nDylWithlt & Robo - Scripting & Various Assistance\n2T_ye & CanyonJack - Modelers & Builders\ndodman531 - Voice Acting, UI & Animations\nVesp_Ithon - Post Game jam Recoding",
         "stats": {
           "Playing": 0,
-          "Visits": 13771,
+          "Visits": 13773,
           "Favorited": 923
         },
         "attributes": {
@@ -9534,7 +9534,7 @@
         "description": "Roblox released an update a while back which broke many existing UnionOperation objects. Due to this, many map assets have been transformed into dull gray blocks. However, the game should still be fully playable.\r\n\r\nAs this is an old game, I've also uncopylocked it! You can copy it if you like, and make something of your own with it. However, this place is just the lobby. If you're looking for the actual dungeon (with gameplay), it's linked here:\r\nhttps://www.roblox.com/games/477622292\r\n\r\nWhether you play or make with this, enjoy your nostalgia.",
         "stats": {
           "Playing": 0,
-          "Visits": 27198145,
+          "Visits": 27198152,
           "Favorited": 382144
         },
         "attributes": {
@@ -9872,7 +9872,7 @@
         "description": "\"🎮 Welcome to Endless Stairs! 🎮\n\n🌟 Step into the ultimate adventure where the stairs never end! 🌟\n\nEndless Stairs is all about climbing, collecting, and conquering! 💪\n\n🌈 Explore a variety of vibrant maps, each with its own unique theme and challenges! 🌈\n\n💰 Collect coins as you climb to unlock an array of exciting cosmetics, including funky Stair skins! 💰\n\n🏆 Compete against friends and players worldwide to reach the highest score and claim the title of the ultimate climber! 🏆\n\n🚀 Are you ready to embark on this endless journey and rise to the top? Let's climb together! 🚀\"\n\n**NOTE**\nMusic is free to use! Made by developers! 😎\n\nThere are currently:\n2 maps\n2 stair skins\n1v1 Mode\nMulti Competetive Mode(In development)",
         "stats": {
           "Playing": 0,
-          "Visits": 46,
+          "Visits": 47,
           "Favorited": 0
         },
         "attributes": {
@@ -9976,7 +9976,7 @@
         "description": "You, a worried grandparent, have lost your grandson!\nThankfully, you can manipulate the world around you to make fetching him easier.\nHowever, this comes at a cost. Your time.\nYou must balance convenience with necessity, and get your grandson back.\n\nFOR THE ROBLOX GAMEJAM - INSPIRE 2024\n\n\nPROGRAMMING: BurnedCone\nMODELS, MESHES AND MUSIC: kamoeX3\nBUILDS: Renssur\nANIMATIONS: CVLM250\nUI: Afoxbox",
         "stats": {
           "Playing": 0,
-          "Visits": 330083,
+          "Visits": 330090,
           "Favorited": 10384
         },
         "attributes": {
@@ -10108,7 +10108,7 @@
         "description": "Psychis.\nIt means \"SOUL\" in Greek.\n\nKeybinds: They are listed in-game in the options tab within the main menu. \n\nPsychis is currently in its revamp stage. Let us know about any bugs if they come up.",
         "stats": {
           "Playing": 0,
-          "Visits": 1871410,
+          "Visits": 1871414,
           "Favorited": 29914
         },
         "attributes": {
@@ -10419,9 +10419,9 @@
         "title": "Prototype",
         "description": "Welcome to my brand new game :D !!!!\nBest game of 2024 now in early development.\nCome Test out the game!! New FEATURES!!!\n____________________________________\n(Previously known as Game [W.I.P.])\n(This game has 2 Endings)\n(This game was made for RDC:2024  In 48 hours)\nTheme: Unexpected Development\n\nCredits\n_____________________________________\n- Accessibility Updates - ItzMrRatzP\n- Code by: DylWithIt, Robogojo, Dodman531\n- GUI and voice acting by: Dodman531\n- All Models, Textures & Map by: 2Tye\n\nPremade Assets\n- Sounds provided by the Roblox toolbox  (Roblox)\n- Character animations (Robo & Dod)\n- The sound bob makes and reset sound (Dodman531)\n- Parts of the parkour system (Robo)\n- The Ortho Games Framework (By Ortho Games)",
         "stats": {
-          "Playing": 8,
-          "Visits": 4545273,
-          "Favorited": 171245
+          "Playing": 16,
+          "Visits": 4545794,
+          "Favorited": 171254
         },
         "attributes": {
           "Created": "2024-01-27T00:43:12.897Z",
@@ -11823,8 +11823,8 @@
         "title": "Hungry Hungry Hamster",
         "description": "Part of the Roblox Developer Challenge 2024\n🐹 Test your survival skills as you take care of your furry friend in \"Hungry Hungry Hamster!\"\n\nlillybearish | hiaihai1 | TopDev | Lyspyon",
         "stats": {
-          "Playing": 1,
-          "Visits": 25530,
+          "Playing": 0,
+          "Visits": 25539,
           "Favorited": 124
         },
         "attributes": {
@@ -12448,7 +12448,7 @@
         "description": "A game about writing a letter to an old friend.\n\nControl with WASD.\nRoblox Developer Challenge 2024.",
         "stats": {
           "Playing": 0,
-          "Visits": 24176,
+          "Visits": 24179,
           "Favorited": 2484
         },
         "attributes": {
@@ -13332,7 +13332,7 @@
         "description": "Made in 2 days for the RDC 2024 Game Jam \n\nWelcome to the farm!  You have suddenly found yourself stuck on a farm where you need to earn money and get out of debt from a mysterious businessguy! \n\nThis game features \n- 20+ plants from normal to wacky \n- 14+ animals with \"personalities\" \n- Tons of hidden easter eggs \n- Several various random events \n- Goofy ragdolls and mechanics \n- at least one giraffe \n\n This game was inspired by The Upturned by Zeekerss and untitled tag game by .create.",
         "stats": {
           "Playing": 0,
-          "Visits": 79280,
+          "Visits": 79281,
           "Favorited": 3555
         },
         "attributes": {
@@ -13697,9 +13697,9 @@
         "title": "Nexus [Connect 2023 Winner]",
         "description": "Controls:\nQ switch dimension\nY Reset\nH Inspect weapon\nHold down mouse button to shoot\n\n(This is only a demo for chapter 1)\n- Huge Thank you to  ItzMrRatzP For updating this game to support mobile and console!\n\nGame Constraints: \n-This was was made in 10 days for the Roblox 2023 connect challenge. \nThe theme was \"Parallelism\".\nGame Description:\n-The game is a Dimensional FPS where you are tasked with completing various task throughout the facility in order to retrieve someone. Your bullet ricochets every time it hits a panel, and every ricochet causes the bullet to swap to another dimension. \nPINK PAINT on the floor is your FRIEND :D",
         "stats": {
-          "Playing": 1,
-          "Visits": 2107564,
-          "Favorited": 72895
+          "Playing": 14,
+          "Visits": 2107882,
+          "Favorited": 72900
         },
         "attributes": {
           "Created": "2023-07-28T20:04:50.47Z",
@@ -14246,7 +14246,7 @@
         "description": "Mayor of Chain Town was a game created during the 2023 Game Jam on Roblox based on the theme, \"Chain Reaction\". \nCredits:\n\nScripter - RjTheDev\nScripter - supergreatr299\nModeler - teddyraptor5\nBuilder - dinoboy5560\nComposer - Zacchary21\n\nMake sure to join the group on my profile '- Super Studios -'!",
         "stats": {
           "Playing": 1,
-          "Visits": 2800696,
+          "Visits": 2800860,
           "Favorited": 32185
         },
         "attributes": {
@@ -15704,7 +15704,7 @@
         "description": "A Game Jam Submission\r\n\r\nBy Guard303 and DARKEVATOR",
         "stats": {
           "Playing": 0,
-          "Visits": 2570680,
+          "Visits": 2570684,
           "Favorited": 49566
         },
         "attributes": {
