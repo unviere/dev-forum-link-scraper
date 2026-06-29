@@ -1,6 +1,6 @@
 {
   "defaultData": {
-    "lastUpdated": "2026-06-29T15:39:01.478Z",
+    "lastUpdated": "2026-06-29T19:50:46.291Z",
     "chalanceInfo": {
       "1": {
         "fullName": "Developer Chalange 2026",
@@ -658,7 +658,7 @@
         "description": "[🏆Winner of Best Technical Quality for Roblox Developer Challenge 2026! Thank you!!!🏆]\n\nYou are the first human to make contact with Aliens; unfortunately, they have a job interview to attend...\n\nControls: LMB and RMB.\n\nWARNING: Contains loud noises and flashing lights!\n\nTeam involved:\n- doomforks (Models, Art)\n- Justine_Emmerson (Models, Textures)\n- PuffoThePufferfish (Lead Programming)\n- reamnos (Art, UIs)\n- SComics (Sound, Music, Animations, Programming)\n\nMade in 3 days for the Roblox Developer Challenge 2026 with the theme \"First Contact\". \n\n(haha, Aliens and Connect-4. get it?)",
         "stats": {
           "Playing": 0,
-          "Visits": 783,
+          "Visits": 785,
           "Favorited": 74
         },
         "attributes": {
@@ -781,32 +781,6 @@
       }
     },
     "25": {
-      "placeID": "103751584918148",
-      "universeID": 9685757629,
-      "gameData": {
-        "title": "STARSPLITTER",
-        "description": "Every instrument pointed at Saturn's rings returns corrupted data. The starfield behind the ring plane fractures into streaks, splitting the stars, as if the light is being dragged apart along axes that should not exist. From Earth, it looks like a clean tear through space itself.\nSeven probes crossed the threshold. All seven went silent mid-transmission. No crash data. No signal decay. Clean telemetry, then nothing.\nScientists call it the Starsplitter. They named it before they understood how little that word would explain.\nMachines do not come back. They are sending a human.\n\nSolo-Developed by @a_mp5 for the \"Roblox Developer Challenge 2026\" game jam.\nGuidance and secondary project contributions by game-jam team-member @penguinchest265",
-        "stats": {
-          "Playing": 0,
-          "Visits": 179,
-          "Favorited": 7
-        },
-        "attributes": {
-          "Created": "2026-02-07T01:13:28.707Z",
-          "Updated": "2026-04-11T01:41:21.793Z",
-          "Genre": "All",
-          "GenreNew": "Adventure",
-          "SubGenreNew": "Story",
-          "MaxPlayers": 1
-        },
-        "Creator": {
-          "Name": "a_mp5",
-          "ID": 490346166,
-          "Type": "User"
-        }
-      }
-    },
-    "26": {
       "placeID": "98003360579346",
       "universeID": 9684767698,
       "gameData": {
@@ -832,33 +806,7 @@
         }
       }
     },
-    "27": {
-      "placeID": "129668363792187",
-      "universeID": 9684791405,
-      "gameData": {
-        "title": "Endless Winter",
-        "description": "The game has many problems and the idea was too big, but we gave it our best. 💪\n\n Roblox Developer Challenge 2026 🏆\n Game has been made in just  72 hours 🏆\n\nPC (Shift=Sprint) (M1=Hit) 🎮\n\nCredits:✨\nMe: (Code) \nMrPlagueMask AKA coolamirereqi  (Building) + (Ai Music+Voice) + (Gui's)",
-        "stats": {
-          "Playing": 0,
-          "Visits": 65,
-          "Favorited": 2
-        },
-        "attributes": {
-          "Created": "2026-02-06T20:32:23.047Z",
-          "Updated": "2026-03-03T17:22:22.753Z",
-          "Genre": "All",
-          "GenreNew": "Survival",
-          "SubGenreNew": "",
-          "MaxPlayers": 1
-        },
-        "Creator": {
-          "Name": "GamingFirstOne",
-          "ID": 1500317156,
-          "Type": "User"
-        }
-      }
-    },
-    "28": {
+    "26": {
       "placeID": "102593787909445",
       "universeID": 9684256195,
       "gameData": {
@@ -884,7 +832,7 @@
         }
       }
     },
-    "29": {
+    "27": {
       "placeID": "72277529306621",
       "universeID": 9685594248,
       "gameData": {
@@ -910,7 +858,7 @@
         }
       }
     },
-    "30": {
+    "28": {
       "placeID": "102126598799868",
       "universeID": 9685613046,
       "gameData": {
@@ -936,33 +884,7 @@
         }
       }
     },
-    "31": {
-      "placeID": "116836559334739",
-      "universeID": 9684293508,
-      "gameData": {
-        "title": "Broken Nurture [DevChallenge2026: First contact]",
-        "description": "Broken Nurture (First Contact) This game is a first-person psychological horror experience set inside a familiar home that slowly becomes oppressive over several days. Each morning begins with a phone call from the father, whose voice grows colder and more controlling, establishing a sense of constant surveillance and emotional pressure. During the day, the player performs household duties that maintain the appearance of order, while at night sleep leads to disturbing dream sequences where a long, narrowing hallway symbolizes mounting psychological stress. The game avoids jump scares and instead builds tension through atmosphere, repetition, and emotional discomfort rooted in everyday family dynamics. The experience culminates in a final confrontation with the truth behind the household and the control that defines it.\n\nWe come from Vietnam\n\nDev: @athea56789 @Rabbit_revenge @nhattung599 @Sakura_ChanTYT\n\nRoblox Developer Challenge 2026\n#DevChallenge2026\nThanks for playing!\n\n",
-        "stats": {
-          "Playing": 0,
-          "Visits": 94,
-          "Favorited": 2
-        },
-        "attributes": {
-          "Created": "2026-02-06T18:15:13.337Z",
-          "Updated": "2026-02-10T15:56:16.793Z",
-          "Genre": "All",
-          "GenreNew": "Adventure",
-          "SubGenreNew": "Story",
-          "MaxPlayers": 50
-        },
-        "Creator": {
-          "Name": "Boxwood Games",
-          "ID": 485676425,
-          "Type": "Group"
-        }
-      }
-    },
-    "32": {
+    "29": {
       "placeID": "134392121913711",
       "universeID": 9686572200,
       "gameData": {
@@ -988,7 +910,7 @@
         }
       }
     },
-    "33": {
+    "30": {
       "placeID": "70896907456112",
       "universeID": 9684448612,
       "gameData": {
@@ -1014,7 +936,7 @@
         }
       }
     },
-    "34": {
+    "31": {
       "placeID": "140707232239924",
       "universeID": 9686705479,
       "gameData": {
@@ -1040,7 +962,7 @@
         }
       }
     },
-    "35": {
+    "32": {
       "placeID": "89605554217591",
       "universeID": 9684244653,
       "gameData": {
@@ -1066,7 +988,7 @@
         }
       }
     },
-    "36": {
+    "33": {
       "placeID": "110653409033256",
       "universeID": 9684300889,
       "gameData": {
@@ -1092,7 +1014,7 @@
         }
       }
     },
-    "37": {
+    "34": {
       "placeID": "87178844720976",
       "universeID": 9684803867,
       "gameData": {
@@ -1105,7 +1027,7 @@
         },
         "attributes": {
           "Created": "2026-02-06T20:36:15.417Z",
-          "Updated": "2026-06-29T11:06:48.7177946Z",
+          "Updated": "2026-06-29T18:08:52.9258902Z",
           "Genre": "All",
           "GenreNew": "",
           "SubGenreNew": "",
@@ -1118,7 +1040,7 @@
         }
       }
     },
-    "38": {
+    "35": {
       "placeID": "70428169526235",
       "universeID": 9684520009,
       "gameData": {
@@ -1144,7 +1066,7 @@
         }
       }
     },
-    "39": {
+    "36": {
       "placeID": "131832707861596",
       "universeID": 9685237568,
       "gameData": {
@@ -1170,7 +1092,7 @@
         }
       }
     },
-    "40": {
+    "37": {
       "placeID": "120056532258331",
       "universeID": 9684239168,
       "gameData": {
@@ -1196,7 +1118,7 @@
         }
       }
     },
-    "41": {
+    "38": {
       "placeID": "123316833329301",
       "universeID": 9690269200,
       "gameData": {
@@ -1222,7 +1144,7 @@
         }
       }
     },
-    "42": {
+    "39": {
       "placeID": "113221634386205",
       "universeID": 9684340143,
       "gameData": {
@@ -1248,7 +1170,7 @@
         }
       }
     },
-    "43": {
+    "40": {
       "placeID": "106739769850834",
       "universeID": 9666967283,
       "gameData": {
@@ -1274,7 +1196,7 @@
         }
       }
     },
-    "44": {
+    "41": {
       "placeID": "132789854030229",
       "universeID": 9684350121,
       "gameData": {
@@ -1300,7 +1222,7 @@
         }
       }
     },
-    "45": {
+    "42": {
       "placeID": "137870801877837",
       "universeID": 9684245758,
       "gameData": {
@@ -1326,7 +1248,7 @@
         }
       }
     },
-    "46": {
+    "43": {
       "placeID": "129522477162080",
       "universeID": 7435543318,
       "gameData": {
@@ -1352,7 +1274,7 @@
         }
       }
     },
-    "47": {
+    "44": {
       "placeID": "85663471338523",
       "universeID": 9684373781,
       "gameData": {
@@ -1378,7 +1300,7 @@
         }
       }
     },
-    "48": {
+    "45": {
       "placeID": "138981612377019",
       "universeID": 9684300735,
       "gameData": {
@@ -1404,7 +1326,7 @@
         }
       }
     },
-    "49": {
+    "46": {
       "placeID": "103153024796840",
       "universeID": 9684568345,
       "gameData": {
@@ -1430,7 +1352,7 @@
         }
       }
     },
-    "50": {
+    "47": {
       "placeID": "111526388526251",
       "universeID": 9684245136,
       "gameData": {
@@ -1456,7 +1378,7 @@
         }
       }
     },
-    "51": {
+    "48": {
       "placeID": "133742964995913",
       "universeID": 9684991599,
       "gameData": {
@@ -1482,7 +1404,7 @@
         }
       }
     },
-    "52": {
+    "49": {
       "placeID": "125893338166662",
       "universeID": 9685699980,
       "gameData": {
@@ -1508,7 +1430,7 @@
         }
       }
     },
-    "53": {
+    "50": {
       "placeID": "79069190386131",
       "universeID": 9684253513,
       "gameData": {
@@ -1534,7 +1456,7 @@
         }
       }
     },
-    "54": {
+    "51": {
       "placeID": "86288201397111",
       "universeID": 9684282691,
       "gameData": {
@@ -1560,7 +1482,7 @@
         }
       }
     },
-    "55": {
+    "52": {
       "placeID": "123438507746943",
       "universeID": 9695570459,
       "gameData": {
@@ -1586,7 +1508,7 @@
         }
       }
     },
-    "56": {
+    "53": {
       "placeID": "124979251188319",
       "universeID": 9692718580,
       "gameData": {
@@ -1612,7 +1534,7 @@
         }
       }
     },
-    "57": {
+    "54": {
       "placeID": "89468401342579",
       "universeID": 9684497738,
       "gameData": {
@@ -1638,7 +1560,7 @@
         }
       }
     },
-    "58": {
+    "55": {
       "placeID": "88197535756472",
       "universeID": 9695337893,
       "gameData": {
@@ -1664,7 +1586,7 @@
         }
       }
     },
-    "59": {
+    "56": {
       "placeID": "81384732065830",
       "universeID": 9686811237,
       "gameData": {
@@ -1690,7 +1612,7 @@
         }
       }
     },
-    "60": {
+    "57": {
       "placeID": "103612822345823",
       "universeID": 9684406807,
       "gameData": {
@@ -1716,7 +1638,7 @@
         }
       }
     },
-    "61": {
+    "58": {
       "placeID": "73064695238246",
       "universeID": 9684510078,
       "gameData": {
@@ -1742,7 +1664,7 @@
         }
       }
     },
-    "62": {
+    "59": {
       "placeID": "130938790980073",
       "universeID": 9685209201,
       "gameData": {
@@ -1768,7 +1690,7 @@
         }
       }
     },
-    "63": {
+    "60": {
       "placeID": "91208653090047",
       "universeID": 9684773537,
       "gameData": {
@@ -1794,7 +1716,7 @@
         }
       }
     },
-    "64": {
+    "61": {
       "placeID": "140416698930123",
       "universeID": 9684269123,
       "gameData": {
@@ -1820,7 +1742,7 @@
         }
       }
     },
-    "65": {
+    "62": {
       "placeID": "138639027196515",
       "universeID": 9687692420,
       "gameData": {
@@ -1846,7 +1768,7 @@
         }
       }
     },
-    "66": {
+    "63": {
       "placeID": "81022818660379",
       "universeID": 9684359756,
       "gameData": {
@@ -1872,7 +1794,7 @@
         }
       }
     },
-    "67": {
+    "64": {
       "placeID": "127882597661289",
       "universeID": 9684238585,
       "gameData": {
@@ -1898,7 +1820,7 @@
         }
       }
     },
-    "68": {
+    "65": {
       "placeID": "122987961135577",
       "universeID": 9687024503,
       "gameData": {
@@ -1924,7 +1846,7 @@
         }
       }
     },
-    "69": {
+    "66": {
       "placeID": "109781446179248",
       "universeID": 9698516709,
       "gameData": {
@@ -1950,7 +1872,7 @@
         }
       }
     },
-    "70": {
+    "67": {
       "placeID": "73402065225248",
       "universeID": 9686971170,
       "gameData": {
@@ -1976,7 +1898,7 @@
         }
       }
     },
-    "71": {
+    "68": {
       "placeID": "111013123765882",
       "universeID": 9684249333,
       "gameData": {
@@ -2002,7 +1924,7 @@
         }
       }
     },
-    "72": {
+    "69": {
       "placeID": "101278880508994",
       "universeID": 9690439482,
       "gameData": {
@@ -2028,7 +1950,7 @@
         }
       }
     },
-    "73": {
+    "70": {
       "placeID": "123090162150578",
       "universeID": 9686501926,
       "gameData": {
@@ -2054,7 +1976,7 @@
         }
       }
     },
-    "74": {
+    "71": {
       "placeID": "109838388800828",
       "universeID": 9684308102,
       "gameData": {
@@ -2080,7 +2002,7 @@
         }
       }
     },
-    "75": {
+    "72": {
       "placeID": "95233074118614",
       "universeID": 9688183915,
       "gameData": {
@@ -2106,7 +2028,7 @@
         }
       }
     },
-    "76": {
+    "73": {
       "placeID": "71213983168505",
       "universeID": 9684621558,
       "gameData": {
@@ -2132,7 +2054,7 @@
         }
       }
     },
-    "77": {
+    "74": {
       "placeID": "134771192928478",
       "universeID": 9684484446,
       "gameData": {
@@ -2158,7 +2080,7 @@
         }
       }
     },
-    "78": {
+    "75": {
       "placeID": "81430930571130",
       "universeID": 9684354352,
       "gameData": {
@@ -2184,7 +2106,7 @@
         }
       }
     },
-    "79": {
+    "76": {
       "placeID": "120504479378069",
       "universeID": 9684242789,
       "gameData": {
@@ -2210,7 +2132,7 @@
         }
       }
     },
-    "80": {
+    "77": {
       "placeID": "127422761193484",
       "universeID": 9684309068,
       "gameData": {
@@ -2236,7 +2158,7 @@
         }
       }
     },
-    "81": {
+    "78": {
       "placeID": "82052173213389",
       "universeID": 9684326798,
       "gameData": {
@@ -2262,7 +2184,7 @@
         }
       }
     },
-    "82": {
+    "79": {
       "placeID": "137693214619680",
       "universeID": 9684412767,
       "gameData": {
@@ -2288,7 +2210,7 @@
         }
       }
     },
-    "83": {
+    "80": {
       "placeID": "122605051430015",
       "universeID": 9685436439,
       "gameData": {
@@ -2454,7 +2376,7 @@
         "description": "🔍 A detective game about solving mysteries as a ghost of your former self.\n\nUpdate 1:\n- Made changes to the Suspect List\n- Increased maximum number of clues to 5\n- \"Exit Scene\" button renamed to \"End Search\" button for clarity\n- Marked Clues now display as Logged Clues\n- Logging clues now done by clicking on them instead of activating them with a prompt\n\nA mysterious person has just claimed your soul the night before Halloween. Are you able to solve the mystery of your lost body?\n\n🔍-> Find Clues around the map\n📃-> Compare clues to suspect descriptions\n🔪-> Take down your killer... or an innocent person?\n\n🔧 Made for Eurojam 2025: Spooktober Fest! 🎃\n\n🔧 Contributors:\n@MintyOwll: Ideas, Assets, Building, Scripting, UI/UX Design\n@obbynoobplayz: Ideas, Assets, Decorations\n\n♥️ Thank you for your support! ♥️",
         "stats": {
           "Playing": 0,
-          "Visits": 2462,
+          "Visits": 2463,
           "Favorited": 22
         },
         "attributes": {
@@ -3236,7 +3158,7 @@
         "description": "In a quiet remote town, a new product has just been released... The 13-in-1 Soap. This innovative creation is redefining the soap industry, offering far more than just the ability to wash yourself.\n\n⭐JOIN GROUP 4 FREE DUCK HAT :D\n\nDevelopers:\nDirector - MrPiglr\nArtist - XxMakio\nBuilder - BasedMannn\nModeler - arktull\nScripter - Ihaveash0rtname\n\n/vk or /votekick to votekick someone out of the game. Make sure to provide a reason! [/vk [user] (reason)]\n(Not all Badges are available since we only made it in 3 days! In the future we will maybe be able to finish it!)",
         "stats": {
           "Playing": 0,
-          "Visits": 224557,
+          "Visits": 224559,
           "Favorited": 6467
         },
         "attributes": {
@@ -3496,7 +3418,7 @@
         "description": "Welcome to the world, Choop.\n \nLight work is a puzzle-platformer set in a post apocalyptic ice-age, you are here to save this world from the cold, with the light as your tool.\n \nMade for the Inspire 2025 Challenge and winner of the Best Technical Quality category!\n \nCredits: \n \nCrystalflxme: Programming, Building\nPotenchill: Programming, Building\nSheenyo: Modeling, Building, Composing, Art\nRox_N_Roll: Modeling, Building, Art\napoll3r: Art\nLocalization Support: HUFS LUDUS",
         "stats": {
           "Playing": 0,
-          "Visits": 123986,
+          "Visits": 124001,
           "Favorited": 17494
         },
         "attributes": {
@@ -4041,8 +3963,8 @@
         "title": "Operation Clogged Liberty",
         "description": "INSPIRE 2025 WINNER:🏆Best Overall Experience\nhttps://devforum.roblox.com/t/inspire-2025-challenge/3860029\nProject created in 86 hours for the Inspire 2025 Gamejam contest.\nThis is the full game, time of completion is between 15-30 minutes\n\n@Fabuss254 - Programmer\n@Friizti - Lead 3D Animator, Voice actor\n@kenami - UI Animator/Code, Additional Animator\n@GamaLowOff - Modeling, Lead Assets\n@EternityReality - Modeling, Lead Map\nwe own none of the SFX used in this project\n\nWSAD - Move\nC/CTRL - Sneak\nShift - Run\nE - Interact\nQ - Grapple\nP - Enable/Disable Godmode (cheat mode to complete the game faster)",
         "stats": {
-          "Playing": 1,
-          "Visits": 61352,
+          "Playing": 0,
+          "Visits": 61353,
           "Favorited": 5449
         },
         "attributes": {
@@ -4535,9 +4457,9 @@
         "title": "Armless Detective",
         "description": "You lost both your arms in a tragic accident at your factory, but you've now been employed to work as a detective - an Armless Detective! Use your magic hat to assist you in your investigations, and bring justice to Robloxia!\n\nThird place winner for the 'Best Technical Quality' category of the ROBLOX Inspire 2025 Challenge\n\nJoin our group for a free face cosmetic! https://www.roblox.com/communities/946378404/Top-of-The-Barrel#!/about\n\nMade by:\n@LiamGame09\n@forleaveFR\n@Goober_ish\n@minecoiiiFR\n@kylecat11\n\nCredits:\nloleris - ReplicaService & ProfileService\nsleitnick - RbxUtil\nScarious, dthecoolest, iGottic - R6 IK Procedural Footplanting Module",
         "stats": {
-          "Playing": 232,
-          "Visits": 73778647,
-          "Favorited": 231232
+          "Playing": 250,
+          "Visits": 73793408,
+          "Favorited": 231262
         },
         "attributes": {
           "Created": "2025-08-09T23:27:09.127Z",
@@ -4645,7 +4567,7 @@
         },
         "attributes": {
           "Created": "2025-08-10T03:13:39.047Z",
-          "Updated": "2026-05-07T07:18:01.39Z",
+          "Updated": "2026-06-29T17:41:38.3596978Z",
           "Genre": "All",
           "GenreNew": "Obby & Platformer",
           "SubGenreNew": "",
@@ -4824,7 +4746,7 @@
         "description": "Part of the Roblox Developer Challenge 2024\n🐹 Test your survival skills as you take care of your furry friend in \"Hungry Hungry Hamster!\"\n\nlillybearish | hiaihai1 | TopDev | Lyspyon",
         "stats": {
           "Playing": 0,
-          "Visits": 26351,
+          "Visits": 26355,
           "Favorited": 129
         },
         "attributes": {
@@ -8151,8 +8073,8 @@
         "title": "Escape the Phone!",
         "description": "All you wanted to do was go get taco's with your friend.\n\nThen, you found the phone...\n\nAdventure this mystery world and figure out how to escape, and most importantly...\n\nBreak the System!",
         "stats": {
-          "Playing": 1,
-          "Visits": 8110,
+          "Playing": 0,
+          "Visits": 8111,
           "Favorited": 24
         },
         "attributes": {
@@ -8463,9 +8385,9 @@
         "title": "🔥[NEW BATTLE CARS!] The CHASE: Trigger & Ignition",
         "description": "GUNS 🔫+  CARS 🚗 = CHAOS 😈\n\nLIKE 👍 & FAV ⭐ :)\n\nCHASE or GET CHASED!\nFight til' the end in this fast-paced brutal car battlegrounds! The best rider shall take the victory.. 💥\n\nYOUR REMOTE-CONTROLLED BATTLE CAR!\nCreate your own loadouts, choose from an ever growing vast library of Cars, Gadgets and Weapons 🏎️🛻🚙🚓🚕🚚🚗 \n\nSelect from various game-modes, like Capture the Flag, Free For All, Team Deathmatch & more! 🏆\n\nFeatures Maps with lively details, advanced environmental destruction and stunning scenery! 🌆\n\nFire til' your hearts desire!🔥\n\nINSPIRED BY: The 'BURNIN' RUBBER' series by XFORM GAMES© & 'TWISTED METAL' by SONY INTERACTIVE© All rights reserved.\n\nThis game features the entire monstercat audio library! Featuring music from top videogame titles like Rocket League, Forza Horizon, Need For Speed, The Crew & more!\n\nFor Parents:\nThe CHASE DOES NOT depict deadly violence and/or killing references. ALL Content is fictional and features fun mechanical destruction ONLY 🛡️\n\n🫶💗",
         "stats": {
-          "Playing": 1,
-          "Visits": 118355,
-          "Favorited": 2005
+          "Playing": 0,
+          "Visits": 118506,
+          "Favorited": 2006
         },
         "attributes": {
           "Created": "2025-02-08T13:40:25.103Z",
@@ -8776,7 +8698,7 @@
         "description": "reason 2 die epic edition is a zombie shooter where u have a reason to survive\nthis game's version is version 15 from the og\n\nthis game is in the process of converting to FE",
         "stats": {
           "Playing": 0,
-          "Visits": 1417,
+          "Visits": 1419,
           "Favorited": 70
         },
         "attributes": {
@@ -8931,9 +8853,9 @@
         "title": "Let Him Go",
         "description": "\"And waking up again, this cycle repeats itself time after time.\nStop the feeling, overcome it, and let go. Can you handle it?\"\n\nA short psychological story about loss and empathy\n\n[CREDITS]\nFounder: Foxbox226\nDevelopers: Marat198017, 1Maks_Play, Alinnaria, rrxllx, OSG3141\n\nWARNING | Game will contain vivid images and sharp unrecognizable sounds, scenes of violence and a demonstration of blood.",
         "stats": {
-          "Playing": 97,
-          "Visits": 21864393,
-          "Favorited": 708623
+          "Playing": 101,
+          "Visits": 21867022,
+          "Favorited": 708675
         },
         "attributes": {
           "Created": "2024-11-25T12:20:47.987Z",
@@ -9272,7 +9194,7 @@
         "description": "Winner of the \"Most Engaging Experience\" category in the Unite 2024 Challenge.\n\nCreated for the Unite 2024 Challenge with the theme \"There is Only One Rule.\"\n\nYou are a brave cube in a strange world of odd balls, particularly challenged by a yellow one that undergoes mitosis each time it bounces. ENGAGE in fast-paced, hack n' slash combat with your trusty blade. Combo and BLAST your way through hoards of various genetic mutations. In order to survive, there is only one rule... do not fall off the platform!",
         "stats": {
           "Playing": 0,
-          "Visits": 1403,
+          "Visits": 1405,
           "Favorited": 25
         },
         "attributes": {
@@ -10990,8 +10912,8 @@
         "description": "Roblox released an update a while back which broke many existing UnionOperation objects. Due to this, many map assets have been transformed into dull gray blocks. However, the game should still be fully playable.\r\n\r\nAs this is an old game, I've also uncopylocked it! You can copy it if you like, and make something of your own with it. However, this place is just the lobby. If you're looking for the actual dungeon (with gameplay), it's linked here:\r\nhttps://www.roblox.com/games/477622292\r\n\r\nWhether you play or make with this, enjoy your nostalgia.",
         "stats": {
           "Playing": 0,
-          "Visits": 27199547,
-          "Favorited": 382050
+          "Visits": 27199550,
+          "Favorited": 382049
         },
         "attributes": {
           "Created": "2015-06-03T23:54:29.08Z",
@@ -11506,25 +11428,25 @@
       "placeID": "18892517371",
       "universeID": 6398894738,
       "gameData": {
-        "title": "FORWARD",
-        "description": "You, a worried grandparent, have lost your grandson!\nThankfully, you can manipulate the world around you to make fetching him easier.\nHowever, this comes at a cost. Your time.\nYou must balance convenience with necessity, and get your grandson back.\n\nFOR THE ROBLOX GAMEJAM - INSPIRE 2024\n\n\nPROGRAMMING: BurnedCone\nMODELS, MESHES AND MUSIC: kamoeX3\nBUILDS: Renssur\nANIMATIONS: CVLM250\nUI: Afoxbox",
+        "title": "[TITLE UNAVAILABLE]",
+        "description": "[DESCRIPTION UNAVAILABLE]",
         "stats": {
           "Playing": 0,
-          "Visits": 330606,
-          "Favorited": 10369
+          "Visits": 0,
+          "Favorited": 0
         },
         "attributes": {
-          "Created": "2024-08-10T17:38:45.17Z",
-          "Updated": "2026-03-11T21:45:03.577Z",
-          "Genre": "Adventure",
-          "GenreNew": "Obby & Platformer",
+          "Created": "0001-01-01T05:51:00Z",
+          "Updated": "0001-01-01T05:51:00Z",
+          "Genre": "All",
+          "GenreNew": "",
           "SubGenreNew": "",
-          "MaxPlayers": 1
+          "MaxPlayers": 0
         },
         "Creator": {
-          "Name": "BurnedCone",
-          "ID": 4060672243,
-          "Type": "User"
+          "Name": "[UNKNOWN]",
+          "ID": 0,
+          "Type": "None"
         }
       }
     },
@@ -11668,7 +11590,7 @@
         "description": "Psychis.\nIt means \"SOUL\" in Greek.\n\nKeybinds: They are listed in-game in the options tab within the main menu. \n\nPsychis is currently in its revamp stage. Let us know about any bugs if they come up.",
         "stats": {
           "Playing": 0,
-          "Visits": 1872144,
+          "Visits": 1872146,
           "Favorited": 29857
         },
         "attributes": {
@@ -12005,9 +11927,9 @@
         "title": "Prototype",
         "description": "Welcome to my brand new game :D !!!!\nBest game of 2024 now in early development.\nCome Test out the game!! New FEATURES!!!\n____________________________________\n(Previously known as Game [W.I.P.])\n(This game has 2 Endings)\n(This game was made for RDC:2024  In 48 hours)\nTheme: Unexpected Development\n\nCredits\n_____________________________________\n- Accessibility Updates - ItzMrRatzP\n- Code by: DylWithIt, Robogojo, Dodman531\n- GUI and voice acting by: Dodman531\n- All Models, Textures & Map by: 2Tye\n\nPremade Assets\n- Sounds provided by the Roblox toolbox  (Roblox)\n- Character animations (Robo & Dod)\n- The sound bob makes and reset sound (Dodman531)\n- Parts of the parkour system (Robo)\n- The Ortho Games Framework (By Ortho Games)",
         "stats": {
-          "Playing": 6,
-          "Visits": 4712538,
-          "Favorited": 175000
+          "Playing": 8,
+          "Visits": 4712946,
+          "Favorited": 175015
         },
         "attributes": {
           "Created": "2024-01-27T00:43:12.897Z",
@@ -12418,25 +12340,25 @@
       "placeID": "16126270335",
       "universeID": 5572272444,
       "gameData": {
-        "title": "Happy Plants",
-        "description": "For the ROBLOX Gamejam.\n\nYou are a plant scientist, and you are contributing towards the development of experimental vegetation! \nI hope they turn out cool and healthy!..\n\nConeland Team:\nReal_Jaj\nOrderDestroy\nBurnedCone\nFoxIsADev\nRenssur",
+        "title": "[TITLE UNAVAILABLE]",
+        "description": "[DESCRIPTION UNAVAILABLE]",
         "stats": {
           "Playing": 0,
-          "Visits": 179754,
-          "Favorited": 16359
+          "Visits": 0,
+          "Favorited": 0
         },
         "attributes": {
-          "Created": "2024-01-26T23:06:27.287Z",
-          "Updated": "2024-08-18T20:47:35.43Z",
-          "Genre": "Adventure",
+          "Created": "0001-01-01T05:51:00Z",
+          "Updated": "0001-01-01T05:51:00Z",
+          "Genre": "All",
           "GenreNew": "",
           "SubGenreNew": "",
-          "MaxPlayers": 1
+          "MaxPlayers": 0
         },
         "Creator": {
-          "Name": "BurnedCone",
-          "ID": 4060672243,
-          "Type": "User"
+          "Name": "[UNKNOWN]",
+          "ID": 0,
+          "Type": "None"
         }
       }
     },
@@ -13748,7 +13670,7 @@
         "description": "Part of the Roblox Developer Challenge 2024\n🐹 Test your survival skills as you take care of your furry friend in \"Hungry Hungry Hamster!\"\n\nlillybearish | hiaihai1 | TopDev | Lyspyon",
         "stats": {
           "Playing": 0,
-          "Visits": 26351,
+          "Visits": 26355,
           "Favorited": 129
         },
         "attributes": {
@@ -14580,7 +14502,7 @@
         "description": "A game about writing a letter to an old friend.\n\nControl with WASD.\nRoblox Developer Challenge 2024.",
         "stats": {
           "Playing": 0,
-          "Visits": 24927,
+          "Visits": 24928,
           "Favorited": 2531
         },
         "attributes": {
@@ -15986,7 +15908,7 @@
         "description": "Credits:\n@noahrepublic\n@SirDerpsAlot83\n@HollowMariofan\n@drillbitboxer\n@jake_4543\n\nMade for the Connect 2023 Gamejam. Won 3rd place for Most Unique Game Concept",
         "stats": {
           "Playing": 0,
-          "Visits": 2189,
+          "Visits": 2190,
           "Favorited": 359
         },
         "attributes": {
@@ -16323,9 +16245,9 @@
         "title": "Nexus [Connect 2023 Winner]",
         "description": "Controls:\nQ switch dimension\nY Reset\nH Inspect weapon\nHold down mouse button to shoot\n\n(This is only a demo for chapter 1)\n- Huge Thank you to  ItzMrRatzP For updating this game to support mobile and console!\n\nGame Constraints: \n-This was was made in 10 days for the Roblox 2023 connect challenge. \nThe theme was \"Parallelism\".\nGame Description:\n-The game is a Dimensional FPS where you are tasked with completing various task throughout the facility in order to retrieve someone. Your bullet ricochets every time it hits a panel, and every ricochet causes the bullet to swap to another dimension. \nPINK PAINT on the floor is your FRIEND :D",
         "stats": {
-          "Playing": 8,
-          "Visits": 2183771,
-          "Favorited": 74179
+          "Playing": 4,
+          "Visits": 2184068,
+          "Favorited": 74188
         },
         "attributes": {
           "Created": "2023-07-28T20:04:50.47Z",
@@ -17002,7 +16924,7 @@
         "description": "Mayor of Chain Town was a game created during the 2023 Game Jam on Roblox based on the theme, \"Chain Reaction\". \nCredits:\n\nScripter - RjTheDev\nScripter - supergreatr299\nModeler - teddyraptor5\nBuilder - dinoboy5560\nComposer - Zacchary21\n\nMake sure to join the group on my profile '- Super Studios -'!",
         "stats": {
           "Playing": 0,
-          "Visits": 2827439,
+          "Visits": 2827462,
           "Favorited": 32233
         },
         "attributes": {
