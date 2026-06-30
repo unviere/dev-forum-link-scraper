@@ -1,6 +1,6 @@
 {
   "defaultData": {
-    "lastUpdated": "2026-06-29T19:50:46.291Z",
+    "lastUpdated": "2026-06-30T02:55:42.058Z",
     "chalanceInfo": {
       "1": {
         "fullName": "Developer Chalange 2026",
@@ -438,7 +438,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "User"
         }
       }
     },
@@ -516,7 +516,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "Group"
         }
       }
     },
@@ -658,7 +658,7 @@
         "description": "[🏆Winner of Best Technical Quality for Roblox Developer Challenge 2026! Thank you!!!🏆]\n\nYou are the first human to make contact with Aliens; unfortunately, they have a job interview to attend...\n\nControls: LMB and RMB.\n\nWARNING: Contains loud noises and flashing lights!\n\nTeam involved:\n- doomforks (Models, Art)\n- Justine_Emmerson (Models, Textures)\n- PuffoThePufferfish (Lead Programming)\n- reamnos (Art, UIs)\n- SComics (Sound, Music, Animations, Programming)\n\nMade in 3 days for the Roblox Developer Challenge 2026 with the theme \"First Contact\". \n\n(haha, Aliens and Connect-4. get it?)",
         "stats": {
           "Playing": 0,
-          "Visits": 785,
+          "Visits": 787,
           "Favorited": 74
         },
         "attributes": {
@@ -698,7 +698,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "Group"
         }
       }
     },
@@ -781,6 +781,32 @@
       }
     },
     "25": {
+      "placeID": "103751584918148",
+      "universeID": 9685757629,
+      "gameData": {
+        "title": "STARSPLITTER",
+        "description": "Every instrument pointed at Saturn's rings returns corrupted data. The starfield behind the ring plane fractures into streaks, splitting the stars, as if the light is being dragged apart along axes that should not exist. From Earth, it looks like a clean tear through space itself.\nSeven probes crossed the threshold. All seven went silent mid-transmission. No crash data. No signal decay. Clean telemetry, then nothing.\nScientists call it the Starsplitter. They named it before they understood how little that word would explain.\nMachines do not come back. They are sending a human.\n\nSolo-Developed by @a_mp5 for the \"Roblox Developer Challenge 2026\" game jam.\nGuidance and secondary project contributions by game-jam team-member @penguinchest265",
+        "stats": {
+          "Playing": 0,
+          "Visits": 179,
+          "Favorited": 7
+        },
+        "attributes": {
+          "Created": "2026-02-07T01:13:28.707Z",
+          "Updated": "2026-04-11T01:41:21.793Z",
+          "Genre": "All",
+          "GenreNew": "Adventure",
+          "SubGenreNew": "Story",
+          "MaxPlayers": 1
+        },
+        "Creator": {
+          "Name": "a_mp5",
+          "ID": 490346166,
+          "Type": "User"
+        }
+      }
+    },
+    "26": {
       "placeID": "98003360579346",
       "universeID": 9684767698,
       "gameData": {
@@ -788,8 +814,8 @@
         "description": "Welcome one and all to glebs-TV’s pristine studio! You’re right on time! (in part to being our first contact, no less). Now get out there and act, because we’re about to be ON AIR!\n\nOn AIR! Is a microgame-styled stage performance, requiring you to speak your lines while playing the part on-stage.\n\nThis game was made within 72 hours and is our submission for the Roblox Developer Challenge 2026 Challenge with the theme \"First Contact\"! The \"AI Interaction\" in-game is only speech-to-text, no other forms of AI are used.\n\n🏆 Winner of Best Use of Interactive AI for the 2026 Developer Challenge!\n\nCredits:\nCrystalflxme: Programming, Scenes\nZomebody: Programming, Scenes\nSheenyo: Art, Character Sprites, UI Elements\nSkarletbun: Art, Composing, Modeling, Building\nRox_N_Roll: Modeling, Building, Art",
         "stats": {
           "Playing": 0,
-          "Visits": 922,
-          "Favorited": 154
+          "Visits": 923,
+          "Favorited": 155
         },
         "attributes": {
           "Created": "2026-02-06T20:25:22.69Z",
@@ -806,7 +832,33 @@
         }
       }
     },
-    "26": {
+    "27": {
+      "placeID": "129668363792187",
+      "universeID": 9684791405,
+      "gameData": {
+        "title": "Endless Winter",
+        "description": "The game has many problems and the idea was too big, but we gave it our best. 💪\n\n Roblox Developer Challenge 2026 🏆\n Game has been made in just  72 hours 🏆\n\nPC (Shift=Sprint) (M1=Hit) 🎮\n\nCredits:✨\nMe: (Code) \nMrPlagueMask AKA coolamirereqi  (Building) + (Ai Music+Voice) + (Gui's)",
+        "stats": {
+          "Playing": 0,
+          "Visits": 65,
+          "Favorited": 2
+        },
+        "attributes": {
+          "Created": "2026-02-06T20:32:23.047Z",
+          "Updated": "2026-03-03T17:22:22.753Z",
+          "Genre": "All",
+          "GenreNew": "Survival",
+          "SubGenreNew": "",
+          "MaxPlayers": 1
+        },
+        "Creator": {
+          "Name": "GamingFirstOne",
+          "ID": 1500317156,
+          "Type": "User"
+        }
+      }
+    },
+    "28": {
       "placeID": "102593787909445",
       "universeID": 9684256195,
       "gameData": {
@@ -832,7 +884,7 @@
         }
       }
     },
-    "27": {
+    "29": {
       "placeID": "72277529306621",
       "universeID": 9685594248,
       "gameData": {
@@ -858,7 +910,7 @@
         }
       }
     },
-    "28": {
+    "30": {
       "placeID": "102126598799868",
       "universeID": 9685613046,
       "gameData": {
@@ -884,7 +936,33 @@
         }
       }
     },
-    "29": {
+    "31": {
+      "placeID": "116836559334739",
+      "universeID": 9684293508,
+      "gameData": {
+        "title": "Broken Nurture [DevChallenge2026: First contact]",
+        "description": "Broken Nurture (First Contact) This game is a first-person psychological horror experience set inside a familiar home that slowly becomes oppressive over several days. Each morning begins with a phone call from the father, whose voice grows colder and more controlling, establishing a sense of constant surveillance and emotional pressure. During the day, the player performs household duties that maintain the appearance of order, while at night sleep leads to disturbing dream sequences where a long, narrowing hallway symbolizes mounting psychological stress. The game avoids jump scares and instead builds tension through atmosphere, repetition, and emotional discomfort rooted in everyday family dynamics. The experience culminates in a final confrontation with the truth behind the household and the control that defines it.\n\nWe come from Vietnam\n\nDev: @athea56789 @Rabbit_revenge @nhattung599 @Sakura_ChanTYT\n\nRoblox Developer Challenge 2026\n#DevChallenge2026\nThanks for playing!\n\n",
+        "stats": {
+          "Playing": 0,
+          "Visits": 94,
+          "Favorited": 2
+        },
+        "attributes": {
+          "Created": "2026-02-06T18:15:13.337Z",
+          "Updated": "2026-02-10T15:56:16.793Z",
+          "Genre": "All",
+          "GenreNew": "Adventure",
+          "SubGenreNew": "Story",
+          "MaxPlayers": 50
+        },
+        "Creator": {
+          "Name": "Boxwood Games",
+          "ID": 485676425,
+          "Type": "Group"
+        }
+      }
+    },
+    "32": {
       "placeID": "134392121913711",
       "universeID": 9686572200,
       "gameData": {
@@ -910,7 +988,7 @@
         }
       }
     },
-    "30": {
+    "33": {
       "placeID": "70896907456112",
       "universeID": 9684448612,
       "gameData": {
@@ -936,7 +1014,7 @@
         }
       }
     },
-    "31": {
+    "34": {
       "placeID": "140707232239924",
       "universeID": 9686705479,
       "gameData": {
@@ -958,11 +1036,11 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "User"
         }
       }
     },
-    "32": {
+    "35": {
       "placeID": "89605554217591",
       "universeID": 9684244653,
       "gameData": {
@@ -988,7 +1066,7 @@
         }
       }
     },
-    "33": {
+    "36": {
       "placeID": "110653409033256",
       "universeID": 9684300889,
       "gameData": {
@@ -1014,7 +1092,7 @@
         }
       }
     },
-    "34": {
+    "37": {
       "placeID": "87178844720976",
       "universeID": 9684803867,
       "gameData": {
@@ -1040,7 +1118,7 @@
         }
       }
     },
-    "35": {
+    "38": {
       "placeID": "70428169526235",
       "universeID": 9684520009,
       "gameData": {
@@ -1066,7 +1144,7 @@
         }
       }
     },
-    "36": {
+    "39": {
       "placeID": "131832707861596",
       "universeID": 9685237568,
       "gameData": {
@@ -1092,7 +1170,7 @@
         }
       }
     },
-    "37": {
+    "40": {
       "placeID": "120056532258331",
       "universeID": 9684239168,
       "gameData": {
@@ -1118,7 +1196,7 @@
         }
       }
     },
-    "38": {
+    "41": {
       "placeID": "123316833329301",
       "universeID": 9690269200,
       "gameData": {
@@ -1140,11 +1218,11 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "User"
         }
       }
     },
-    "39": {
+    "42": {
       "placeID": "113221634386205",
       "universeID": 9684340143,
       "gameData": {
@@ -1166,11 +1244,11 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "User"
         }
       }
     },
-    "40": {
+    "43": {
       "placeID": "106739769850834",
       "universeID": 9666967283,
       "gameData": {
@@ -1196,7 +1274,7 @@
         }
       }
     },
-    "41": {
+    "44": {
       "placeID": "132789854030229",
       "universeID": 9684350121,
       "gameData": {
@@ -1222,7 +1300,7 @@
         }
       }
     },
-    "42": {
+    "45": {
       "placeID": "137870801877837",
       "universeID": 9684245758,
       "gameData": {
@@ -1248,7 +1326,7 @@
         }
       }
     },
-    "43": {
+    "46": {
       "placeID": "129522477162080",
       "universeID": 7435543318,
       "gameData": {
@@ -1274,7 +1352,7 @@
         }
       }
     },
-    "44": {
+    "47": {
       "placeID": "85663471338523",
       "universeID": 9684373781,
       "gameData": {
@@ -1300,7 +1378,7 @@
         }
       }
     },
-    "45": {
+    "48": {
       "placeID": "138981612377019",
       "universeID": 9684300735,
       "gameData": {
@@ -1326,7 +1404,7 @@
         }
       }
     },
-    "46": {
+    "49": {
       "placeID": "103153024796840",
       "universeID": 9684568345,
       "gameData": {
@@ -1334,7 +1412,7 @@
         "description": "Welcome to a brand-new planet.\nFirst contact has been made. The planet was quiet, unclaimed, and absolutely full of useful stuff — a rare cosmic coincidence.\nAs an officially unofficial space mining operation, your job is simple: set up drills, move resources, expand storage, and gently borrow everything that isn’t bolted down. This is not exploitation. It’s efficient cooperation.\nThe locals are rocks. The climate is stable enough. Earth comparisons are unnecessary.\n\nGood luck. This is for the good of humanity…\ndespite Earth’s earlier results.\n\nFeatures:\n- Randomly generated alien terrains\n- Upgradeable mining buildings\n- Infinite layout combinations\n- Conveyor logic for efficient chaos\n- Your very own robotic companion (morally optional)\n\nMade by: \n Nova_MrRoyal (Code)\n Keeenchi (Code)\n EinMarek (Code)\n Stayroh (Code)\n Leon_Kokosnuss (Build)\n",
         "stats": {
           "Playing": 0,
-          "Visits": 263,
+          "Visits": 264,
           "Favorited": 4
         },
         "attributes": {
@@ -1352,7 +1430,7 @@
         }
       }
     },
-    "47": {
+    "50": {
       "placeID": "111526388526251",
       "universeID": 9684245136,
       "gameData": {
@@ -1378,7 +1456,7 @@
         }
       }
     },
-    "48": {
+    "51": {
       "placeID": "133742964995913",
       "universeID": 9684991599,
       "gameData": {
@@ -1404,7 +1482,7 @@
         }
       }
     },
-    "49": {
+    "52": {
       "placeID": "125893338166662",
       "universeID": 9685699980,
       "gameData": {
@@ -1430,7 +1508,7 @@
         }
       }
     },
-    "50": {
+    "53": {
       "placeID": "79069190386131",
       "universeID": 9684253513,
       "gameData": {
@@ -1456,7 +1534,7 @@
         }
       }
     },
-    "51": {
+    "54": {
       "placeID": "86288201397111",
       "universeID": 9684282691,
       "gameData": {
@@ -1482,7 +1560,7 @@
         }
       }
     },
-    "52": {
+    "55": {
       "placeID": "123438507746943",
       "universeID": 9695570459,
       "gameData": {
@@ -1508,7 +1586,7 @@
         }
       }
     },
-    "53": {
+    "56": {
       "placeID": "124979251188319",
       "universeID": 9692718580,
       "gameData": {
@@ -1534,7 +1612,7 @@
         }
       }
     },
-    "54": {
+    "57": {
       "placeID": "89468401342579",
       "universeID": 9684497738,
       "gameData": {
@@ -1560,7 +1638,7 @@
         }
       }
     },
-    "55": {
+    "58": {
       "placeID": "88197535756472",
       "universeID": 9695337893,
       "gameData": {
@@ -1586,7 +1664,7 @@
         }
       }
     },
-    "56": {
+    "59": {
       "placeID": "81384732065830",
       "universeID": 9686811237,
       "gameData": {
@@ -1612,7 +1690,7 @@
         }
       }
     },
-    "57": {
+    "60": {
       "placeID": "103612822345823",
       "universeID": 9684406807,
       "gameData": {
@@ -1634,11 +1712,11 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "User"
         }
       }
     },
-    "58": {
+    "61": {
       "placeID": "73064695238246",
       "universeID": 9684510078,
       "gameData": {
@@ -1664,7 +1742,7 @@
         }
       }
     },
-    "59": {
+    "62": {
       "placeID": "130938790980073",
       "universeID": 9685209201,
       "gameData": {
@@ -1690,7 +1768,7 @@
         }
       }
     },
-    "60": {
+    "63": {
       "placeID": "91208653090047",
       "universeID": 9684773537,
       "gameData": {
@@ -1716,7 +1794,7 @@
         }
       }
     },
-    "61": {
+    "64": {
       "placeID": "140416698930123",
       "universeID": 9684269123,
       "gameData": {
@@ -1742,7 +1820,7 @@
         }
       }
     },
-    "62": {
+    "65": {
       "placeID": "138639027196515",
       "universeID": 9687692420,
       "gameData": {
@@ -1768,7 +1846,7 @@
         }
       }
     },
-    "63": {
+    "66": {
       "placeID": "81022818660379",
       "universeID": 9684359756,
       "gameData": {
@@ -1794,7 +1872,7 @@
         }
       }
     },
-    "64": {
+    "67": {
       "placeID": "127882597661289",
       "universeID": 9684238585,
       "gameData": {
@@ -1820,7 +1898,7 @@
         }
       }
     },
-    "65": {
+    "68": {
       "placeID": "122987961135577",
       "universeID": 9687024503,
       "gameData": {
@@ -1846,7 +1924,7 @@
         }
       }
     },
-    "66": {
+    "69": {
       "placeID": "109781446179248",
       "universeID": 9698516709,
       "gameData": {
@@ -1872,7 +1950,7 @@
         }
       }
     },
-    "67": {
+    "70": {
       "placeID": "73402065225248",
       "universeID": 9686971170,
       "gameData": {
@@ -1898,7 +1976,7 @@
         }
       }
     },
-    "68": {
+    "71": {
       "placeID": "111013123765882",
       "universeID": 9684249333,
       "gameData": {
@@ -1924,7 +2002,7 @@
         }
       }
     },
-    "69": {
+    "72": {
       "placeID": "101278880508994",
       "universeID": 9690439482,
       "gameData": {
@@ -1950,7 +2028,7 @@
         }
       }
     },
-    "70": {
+    "73": {
       "placeID": "123090162150578",
       "universeID": 9686501926,
       "gameData": {
@@ -1976,7 +2054,7 @@
         }
       }
     },
-    "71": {
+    "74": {
       "placeID": "109838388800828",
       "universeID": 9684308102,
       "gameData": {
@@ -2002,7 +2080,7 @@
         }
       }
     },
-    "72": {
+    "75": {
       "placeID": "95233074118614",
       "universeID": 9688183915,
       "gameData": {
@@ -2028,7 +2106,7 @@
         }
       }
     },
-    "73": {
+    "76": {
       "placeID": "71213983168505",
       "universeID": 9684621558,
       "gameData": {
@@ -2054,7 +2132,7 @@
         }
       }
     },
-    "74": {
+    "77": {
       "placeID": "134771192928478",
       "universeID": 9684484446,
       "gameData": {
@@ -2080,7 +2158,7 @@
         }
       }
     },
-    "75": {
+    "78": {
       "placeID": "81430930571130",
       "universeID": 9684354352,
       "gameData": {
@@ -2106,7 +2184,7 @@
         }
       }
     },
-    "76": {
+    "79": {
       "placeID": "120504479378069",
       "universeID": 9684242789,
       "gameData": {
@@ -2132,7 +2210,7 @@
         }
       }
     },
-    "77": {
+    "80": {
       "placeID": "127422761193484",
       "universeID": 9684309068,
       "gameData": {
@@ -2158,7 +2236,7 @@
         }
       }
     },
-    "78": {
+    "81": {
       "placeID": "82052173213389",
       "universeID": 9684326798,
       "gameData": {
@@ -2184,7 +2262,7 @@
         }
       }
     },
-    "79": {
+    "82": {
       "placeID": "137693214619680",
       "universeID": 9684412767,
       "gameData": {
@@ -2210,7 +2288,7 @@
         }
       }
     },
-    "80": {
+    "83": {
       "placeID": "122605051430015",
       "universeID": 9685436439,
       "gameData": {
@@ -2650,7 +2728,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "User"
         }
       }
     },
@@ -2912,7 +2990,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "User"
         }
       }
     },
@@ -3016,7 +3094,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "User"
         }
       }
     },
@@ -3106,7 +3184,7 @@
         "description": "Get ready for nothing like before runner game where every step counts! Dash through busy streets filled with obstacles like manholes, strangers, and roadblocks. But beware — you must stay awake and function well, or it’s game over!\n\n🔌Plug your power cord into the correct outlet to function well through tricky roadblocks. Keep your plug connected in the right lane to keep running and avoid losing!\n👋 Spot friends on the right or left? Give them a high-five with the matching arm to boost your morale and keep your pace. Raise the right hand in the right spot to progress!\n\n(This game is a submission for the Roblox Inspire 2025 Challenge and received 3rd place in the most creative game concept!🥉)",
         "stats": {
           "Playing": 0,
-          "Visits": 327,
+          "Visits": 331,
           "Favorited": 5
         },
         "attributes": {
@@ -3158,7 +3236,7 @@
         "description": "In a quiet remote town, a new product has just been released... The 13-in-1 Soap. This innovative creation is redefining the soap industry, offering far more than just the ability to wash yourself.\n\n⭐JOIN GROUP 4 FREE DUCK HAT :D\n\nDevelopers:\nDirector - MrPiglr\nArtist - XxMakio\nBuilder - BasedMannn\nModeler - arktull\nScripter - Ihaveash0rtname\n\n/vk or /votekick to votekick someone out of the game. Make sure to provide a reason! [/vk [user] (reason)]\n(Not all Badges are available since we only made it in 3 days! In the future we will maybe be able to finish it!)",
         "stats": {
           "Playing": 0,
-          "Visits": 224559,
+          "Visits": 224560,
           "Favorited": 6467
         },
         "attributes": {
@@ -3340,7 +3418,7 @@
         "description": "✨ Roblox Inspire 2025 Challenge Entry ✨\n✨First Place Winner: Most Immersive Experience✨\n\nShadows Over City is a 2D comic-style game where you play as a detective. Criminals have stolen a secret scroll, and it’s up to you to stop them!\n\nCredits:\n\nModels, Gui's & Effects: coolamirereqi (nickname: MrPlagueMask)\nGame Concept, Scripting, Sounds: ME",
         "stats": {
           "Playing": 0,
-          "Visits": 262,
+          "Visits": 263,
           "Favorited": 13
         },
         "attributes": {
@@ -3380,7 +3458,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "User"
         }
       }
     },
@@ -3418,8 +3496,8 @@
         "description": "Welcome to the world, Choop.\n \nLight work is a puzzle-platformer set in a post apocalyptic ice-age, you are here to save this world from the cold, with the light as your tool.\n \nMade for the Inspire 2025 Challenge and winner of the Best Technical Quality category!\n \nCredits: \n \nCrystalflxme: Programming, Building\nPotenchill: Programming, Building\nSheenyo: Modeling, Building, Composing, Art\nRox_N_Roll: Modeling, Building, Art\napoll3r: Art\nLocalization Support: HUFS LUDUS",
         "stats": {
           "Playing": 0,
-          "Visits": 124001,
-          "Favorited": 17494
+          "Visits": 124024,
+          "Favorited": 17493
         },
         "attributes": {
           "Created": "2025-08-09T23:22:24.913Z",
@@ -3536,7 +3614,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "Group"
         }
       }
     },
@@ -3588,7 +3666,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "User"
         }
       }
     },
@@ -3770,7 +3848,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "User"
         }
       }
     },
@@ -3796,7 +3874,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "Group"
         }
       }
     },
@@ -3900,7 +3978,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "Group"
         }
       }
     },
@@ -3964,8 +4042,8 @@
         "description": "INSPIRE 2025 WINNER:🏆Best Overall Experience\nhttps://devforum.roblox.com/t/inspire-2025-challenge/3860029\nProject created in 86 hours for the Inspire 2025 Gamejam contest.\nThis is the full game, time of completion is between 15-30 minutes\n\n@Fabuss254 - Programmer\n@Friizti - Lead 3D Animator, Voice actor\n@kenami - UI Animator/Code, Additional Animator\n@GamaLowOff - Modeling, Lead Assets\n@EternityReality - Modeling, Lead Map\nwe own none of the SFX used in this project\n\nWSAD - Move\nC/CTRL - Sneak\nShift - Run\nE - Interact\nQ - Grapple\nP - Enable/Disable Godmode (cheat mode to complete the game faster)",
         "stats": {
           "Playing": 0,
-          "Visits": 61353,
-          "Favorited": 5449
+          "Visits": 61356,
+          "Favorited": 5450
         },
         "attributes": {
           "Created": "2025-08-09T17:08:54.32Z",
@@ -4068,7 +4146,7 @@
         "description": "Build the vehicle of your dreams! Using the various parts and components provided by your trusty squeezle. Bring your little orange friend around the world as you traverse a variety of environments with unique scenery and their own challenges. Your vehicle is only limited by your imagination as you progress so get building!\n\nFor the Inspire 2025 Game Jam\nMade within 86 Hours\n\nTeam:\n@mikodamas\n@Stephex_s\n@KadoThorns\n@KenanAnimates\n@Frostydias",
         "stats": {
           "Playing": 0,
-          "Visits": 298,
+          "Visits": 299,
           "Favorited": 32
         },
         "attributes": {
@@ -4108,7 +4186,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "Group"
         }
       }
     },
@@ -4212,7 +4290,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "User"
         }
       }
     },
@@ -4432,7 +4510,7 @@
         "description": "Our gamejam submission, which placed 2nd place in terms of the best technical quality in Roblox Inspire 2025! \n\nTeam: \n1. Doninoobsh - Builder/3D-modeler\n2. TheRobloxProffe - Lead 3D-modeler\n3. AndrewTSR - Trailer Editor\n4. Afyollion - Programmer\n5. nahdero - Programmer",
         "stats": {
           "Playing": 0,
-          "Visits": 234,
+          "Visits": 235,
           "Favorited": 4
         },
         "attributes": {
@@ -4457,9 +4535,9 @@
         "title": "Armless Detective",
         "description": "You lost both your arms in a tragic accident at your factory, but you've now been employed to work as a detective - an Armless Detective! Use your magic hat to assist you in your investigations, and bring justice to Robloxia!\n\nThird place winner for the 'Best Technical Quality' category of the ROBLOX Inspire 2025 Challenge\n\nJoin our group for a free face cosmetic! https://www.roblox.com/communities/946378404/Top-of-The-Barrel#!/about\n\nMade by:\n@LiamGame09\n@forleaveFR\n@Goober_ish\n@minecoiiiFR\n@kylecat11\n\nCredits:\nloleris - ReplicaService & ProfileService\nsleitnick - RbxUtil\nScarious, dthecoolest, iGottic - R6 IK Procedural Footplanting Module",
         "stats": {
-          "Playing": 250,
-          "Visits": 73793408,
-          "Favorited": 231262
+          "Playing": 180,
+          "Visits": 73820700,
+          "Favorited": 231301
         },
         "attributes": {
           "Created": "2025-08-09T23:27:09.127Z",
@@ -4484,7 +4562,7 @@
         "description": "Play as Mr Inkwell, turned sentient by a magic multi pen, solving puzzles and exploring the human world.\n\nMade (with love) by:\nCodinGlitch\nDevSersponge\n723642767\nVulpany\nrr_ome",
         "stats": {
           "Playing": 0,
-          "Visits": 482,
+          "Visits": 484,
           "Favorited": 15
         },
         "attributes": {
@@ -4510,7 +4588,7 @@
         "description": "Luteborne is a fantasy-inspired puzzle-solving rhythm game. The main character, Bardolomew, is on a pilgrimage in long forgotten lands to uncover fragments of his, and his mentor’s past. Armed with only his mentor’s heirloom lute, Bardolomew must navigate the unknown using the power of song. \n\nMade in under 86 hours, and won 2nd in \"Most Creative Game Concept\" for the ROBLOX 2025 Inspire Challenge. 🥈\n\nGFX, 3D Modelling, Environment - lololuu6\nScripting, SFX, Lute Shredding, Writing - aybuddRBX",
         "stats": {
           "Playing": 0,
-          "Visits": 364,
+          "Visits": 365,
           "Favorited": 76
         },
         "attributes": {
@@ -4536,7 +4614,7 @@
         "description": "See the world through a new L.E.N.S.\n\nCredits:\nAstraX2 - Modeling, Scripting, Writing, SFX\nCodedKryptics - Animation, VFX\n\n🥈 Second Place Winner of \"Most Immersive\" at the 2025 Inspire Challenge!\nMade in 3 days. Theme: \"One Tool, Many Uses\"",
         "stats": {
           "Playing": 0,
-          "Visits": 166,
+          "Visits": 167,
           "Favorited": 17
         },
         "attributes": {
@@ -4562,7 +4640,7 @@
         "description": "R_oven - Builder, Modeler\nyub_3n - Scripter\nLen_xk - QA\n\nInspire 2025 Challenge - Global Citizenship Award 🥇",
         "stats": {
           "Playing": 0,
-          "Visits": 109,
+          "Visits": 110,
           "Favorited": 2
         },
         "attributes": {
@@ -4671,7 +4749,7 @@
         },
         "attributes": {
           "Created": "2025-08-10T00:41:45.58Z",
-          "Updated": "2026-06-17T16:19:47.534Z",
+          "Updated": "2026-06-29T23:34:51.2907059Z",
           "Genre": "All",
           "GenreNew": "",
           "SubGenreNew": "",
@@ -4746,7 +4824,7 @@
         "description": "Part of the Roblox Developer Challenge 2024\n🐹 Test your survival skills as you take care of your furry friend in \"Hungry Hungry Hamster!\"\n\nlillybearish | hiaihai1 | TopDev | Lyspyon",
         "stats": {
           "Playing": 0,
-          "Visits": 26355,
+          "Visits": 26357,
           "Favorited": 129
         },
         "attributes": {
@@ -4786,7 +4864,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "User"
         }
       }
     },
@@ -4812,7 +4890,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "User"
         }
       }
     },
@@ -4838,7 +4916,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "Group"
         }
       }
     },
@@ -4968,7 +5046,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "User"
         }
       }
     },
@@ -5020,7 +5098,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "User"
         }
       }
     },
@@ -5098,7 +5176,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "User"
         }
       }
     },
@@ -5150,7 +5228,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "User"
         }
       }
     },
@@ -5280,7 +5358,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "Group"
         }
       }
     },
@@ -5670,7 +5748,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "User"
         }
       }
     },
@@ -6008,7 +6086,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "Group"
         }
       }
     },
@@ -6268,7 +6346,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "User"
         }
       }
     },
@@ -6528,7 +6606,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "Group"
         }
       }
     },
@@ -6580,7 +6658,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "Group"
         }
       }
     },
@@ -6644,7 +6722,7 @@
         "description": ">Incoming transmission...\n\nYou used to be free to spawn anywhere... but ever since that system was enabled, you've become a prisoner in a harsh and oppressive complex. \nWill you succumb to the endless cycle, or will you find a way to break it?\n\nRoblox Developer Challenge 2025 submission\n\nCreated by atone404 and Ringularity\n\nInspired by Portal and The Stanley Parable",
         "stats": {
           "Playing": 0,
-          "Visits": 2141,
+          "Visits": 2142,
           "Favorited": 39
         },
         "attributes": {
@@ -6840,7 +6918,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "Group"
         }
       }
     },
@@ -6866,7 +6944,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "Group"
         }
       }
     },
@@ -6944,7 +7022,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "User"
         }
       }
     },
@@ -7074,7 +7152,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "User"
         }
       }
     },
@@ -7138,7 +7216,7 @@
         "description": "🕹️ You're a tester for a new developer's upcoming game, but some of the systems aren't working correctly...\n\n💾 In this puzzle game, Everything in your inventory seems to stay between different saves . . . ?! Maybe you could use this to progress in an otherwise unbeatable game! There are two endings to be found.\n\n🔨 Made in ~3 days for the Roblox Developer Challenge 2025 with the theme \"Break The System\"\n\nControls:\nWASD - Move\nSpace - Jump\nShift - Sprint\nR - Access save and load menu\nE - Pickup Item\n\nCredits:\n@SComics - Animating/Level Design\n@reamnos - Art/Writing\n@SearingCircuits - Art/Playtesting\n@PuffoThePufferfish - Programming/UI\n@doomforks - Modelling",
         "stats": {
           "Playing": 0,
-          "Visits": 428,
+          "Visits": 429,
           "Favorited": 79
         },
         "attributes": {
@@ -7230,7 +7308,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "User"
         }
       }
     },
@@ -7282,7 +7360,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "User"
         }
       }
     },
@@ -7308,7 +7386,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "Group"
         }
       }
     },
@@ -7620,7 +7698,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "Group"
         }
       }
     },
@@ -7724,7 +7802,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "User"
         }
       }
     },
@@ -7776,7 +7854,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "Group"
         }
       }
     },
@@ -7828,7 +7906,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "Group"
         }
       }
     },
@@ -8166,7 +8244,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "User"
         }
       }
     },
@@ -8192,7 +8270,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "User"
         }
       }
     },
@@ -8270,7 +8348,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "Group"
         }
       }
     },
@@ -8348,7 +8426,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "User"
         }
       }
     },
@@ -8386,8 +8464,8 @@
         "description": "GUNS 🔫+  CARS 🚗 = CHAOS 😈\n\nLIKE 👍 & FAV ⭐ :)\n\nCHASE or GET CHASED!\nFight til' the end in this fast-paced brutal car battlegrounds! The best rider shall take the victory.. 💥\n\nYOUR REMOTE-CONTROLLED BATTLE CAR!\nCreate your own loadouts, choose from an ever growing vast library of Cars, Gadgets and Weapons 🏎️🛻🚙🚓🚕🚚🚗 \n\nSelect from various game-modes, like Capture the Flag, Free For All, Team Deathmatch & more! 🏆\n\nFeatures Maps with lively details, advanced environmental destruction and stunning scenery! 🌆\n\nFire til' your hearts desire!🔥\n\nINSPIRED BY: The 'BURNIN' RUBBER' series by XFORM GAMES© & 'TWISTED METAL' by SONY INTERACTIVE© All rights reserved.\n\nThis game features the entire monstercat audio library! Featuring music from top videogame titles like Rocket League, Forza Horizon, Need For Speed, The Crew & more!\n\nFor Parents:\nThe CHASE DOES NOT depict deadly violence and/or killing references. ALL Content is fictional and features fun mechanical destruction ONLY 🛡️\n\n🫶💗",
         "stats": {
           "Playing": 0,
-          "Visits": 118506,
-          "Favorited": 2006
+          "Visits": 118678,
+          "Favorited": 2007
         },
         "attributes": {
           "Created": "2025-02-08T13:40:25.103Z",
@@ -8634,7 +8712,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "User"
         }
       }
     },
@@ -8699,7 +8777,7 @@
         "stats": {
           "Playing": 0,
           "Visits": 1419,
-          "Favorited": 70
+          "Favorited": 71
         },
         "attributes": {
           "Created": "2024-12-07T00:17:47.013Z",
@@ -8853,9 +8931,9 @@
         "title": "Let Him Go",
         "description": "\"And waking up again, this cycle repeats itself time after time.\nStop the feeling, overcome it, and let go. Can you handle it?\"\n\nA short psychological story about loss and empathy\n\n[CREDITS]\nFounder: Foxbox226\nDevelopers: Marat198017, 1Maks_Play, Alinnaria, rrxllx, OSG3141\n\nWARNING | Game will contain vivid images and sharp unrecognizable sounds, scenes of violence and a demonstration of blood.",
         "stats": {
-          "Playing": 101,
-          "Visits": 21867022,
-          "Favorited": 708675
+          "Playing": 69,
+          "Visits": 21870844,
+          "Favorited": 708780
         },
         "attributes": {
           "Created": "2024-11-25T12:20:47.987Z",
@@ -8948,7 +9026,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "User"
         }
       }
     },
@@ -9078,7 +9156,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "Group"
         }
       }
     },
@@ -9130,7 +9208,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "Group"
         }
       }
     },
@@ -9260,7 +9338,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "Group"
         }
       }
     },
@@ -9600,7 +9678,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "User"
         }
       }
     },
@@ -9626,7 +9704,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "User"
         }
       }
     },
@@ -10016,7 +10094,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "User"
         }
       }
     },
@@ -10042,7 +10120,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "User"
         }
       }
     },
@@ -10120,7 +10198,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "User"
         }
       }
     },
@@ -10562,7 +10640,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "User"
         }
       }
     },
@@ -10874,7 +10952,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "User"
         }
       }
     },
@@ -10900,7 +10978,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "Group"
         }
       }
     },
@@ -10912,8 +10990,8 @@
         "description": "Roblox released an update a while back which broke many existing UnionOperation objects. Due to this, many map assets have been transformed into dull gray blocks. However, the game should still be fully playable.\r\n\r\nAs this is an old game, I've also uncopylocked it! You can copy it if you like, and make something of your own with it. However, this place is just the lobby. If you're looking for the actual dungeon (with gameplay), it's linked here:\r\nhttps://www.roblox.com/games/477622292\r\n\r\nWhether you play or make with this, enjoy your nostalgia.",
         "stats": {
           "Playing": 0,
-          "Visits": 27199550,
-          "Favorited": 382049
+          "Visits": 27199553,
+          "Favorited": 382047
         },
         "attributes": {
           "Created": "2015-06-03T23:54:29.08Z",
@@ -11316,7 +11394,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "Group"
         }
       }
     },
@@ -11368,7 +11446,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "User"
         }
       }
     },
@@ -11446,7 +11524,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "User"
         }
       }
     },
@@ -11498,7 +11576,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "Group"
         }
       }
     },
@@ -11590,8 +11668,8 @@
         "description": "Psychis.\nIt means \"SOUL\" in Greek.\n\nKeybinds: They are listed in-game in the options tab within the main menu. \n\nPsychis is currently in its revamp stage. Let us know about any bugs if they come up.",
         "stats": {
           "Playing": 0,
-          "Visits": 1872146,
-          "Favorited": 29857
+          "Visits": 1872150,
+          "Favorited": 29855
         },
         "attributes": {
           "Created": "2022-09-25T22:35:58.843Z",
@@ -11694,7 +11772,7 @@
         "description": "DON'T OPEN THE BOX\n\nAn interactive, suspenseful, and abstract adventure through public domain and contemporary artwork inspired by the myth of Pandora's Box.\n\nCheck out the sequel of this game made for the 2025 development challenge: https://www.roblox.com/games/129538720687906/lucid-dream#!/about\n\nUse [Shift] to run.\nRecommended to play on High Graphics with Audio.\n\nThanks to everyone who is playing! I didn't expect people to play this game after the challenge was over!\n\nCreated for the Roblox Developer Challenge 2024, for the theme \"unexpected development\"",
         "stats": {
           "Playing": 0,
-          "Visits": 891,
+          "Visits": 892,
           "Favorited": 26
         },
         "attributes": {
@@ -11760,7 +11838,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "User"
         }
       }
     },
@@ -11928,8 +12006,8 @@
         "description": "Welcome to my brand new game :D !!!!\nBest game of 2024 now in early development.\nCome Test out the game!! New FEATURES!!!\n____________________________________\n(Previously known as Game [W.I.P.])\n(This game has 2 Endings)\n(This game was made for RDC:2024  In 48 hours)\nTheme: Unexpected Development\n\nCredits\n_____________________________________\n- Accessibility Updates - ItzMrRatzP\n- Code by: DylWithIt, Robogojo, Dodman531\n- GUI and voice acting by: Dodman531\n- All Models, Textures & Map by: 2Tye\n\nPremade Assets\n- Sounds provided by the Roblox toolbox  (Roblox)\n- Character animations (Robo & Dod)\n- The sound bob makes and reset sound (Dodman531)\n- Parts of the parkour system (Robo)\n- The Ortho Games Framework (By Ortho Games)",
         "stats": {
           "Playing": 8,
-          "Visits": 4712946,
-          "Favorited": 175015
+          "Visits": 4713550,
+          "Favorited": 175031
         },
         "attributes": {
           "Created": "2024-01-27T00:43:12.897Z",
@@ -11994,7 +12072,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "Group"
         }
       }
     },
@@ -12046,7 +12124,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "User"
         }
       }
     },
@@ -12072,7 +12150,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "User"
         }
       }
     },
@@ -12124,7 +12202,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "User"
         }
       }
     },
@@ -12202,7 +12280,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "User"
         }
       }
     },
@@ -12254,7 +12332,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "Group"
         }
       }
     },
@@ -12358,7 +12436,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "User"
         }
       }
     },
@@ -12540,7 +12618,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "Group"
         }
       }
     },
@@ -12592,7 +12670,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "User"
         }
       }
     },
@@ -12748,7 +12826,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "User"
         }
       }
     },
@@ -12826,7 +12904,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "Group"
         }
       }
     },
@@ -12904,7 +12982,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "User"
         }
       }
     },
@@ -13034,7 +13112,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "Group"
         }
       }
     },
@@ -13216,7 +13294,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "User"
         }
       }
     },
@@ -13372,7 +13450,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "User"
         }
       }
     },
@@ -13670,7 +13748,7 @@
         "description": "Part of the Roblox Developer Challenge 2024\n🐹 Test your survival skills as you take care of your furry friend in \"Hungry Hungry Hamster!\"\n\nlillybearish | hiaihai1 | TopDev | Lyspyon",
         "stats": {
           "Playing": 0,
-          "Visits": 26355,
+          "Visits": 26357,
           "Favorited": 129
         },
         "attributes": {
@@ -13788,7 +13866,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "Group"
         }
       }
     },
@@ -13840,7 +13918,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "Group"
         }
       }
     },
@@ -13918,7 +13996,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "Group"
         }
       }
     },
@@ -14048,7 +14126,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "Group"
         }
       }
     },
@@ -14152,7 +14230,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "User"
         }
       }
     },
@@ -14256,7 +14334,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "User"
         }
       }
     },
@@ -14360,7 +14438,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "Group"
         }
       }
     },
@@ -14438,7 +14516,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "User"
         }
       }
     },
@@ -14490,7 +14568,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "User"
         }
       }
     },
@@ -14502,7 +14580,7 @@
         "description": "A game about writing a letter to an old friend.\n\nControl with WASD.\nRoblox Developer Challenge 2024.",
         "stats": {
           "Playing": 0,
-          "Visits": 24928,
+          "Visits": 24929,
           "Favorited": 2531
         },
         "attributes": {
@@ -14620,7 +14698,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "User"
         }
       }
     },
@@ -14698,7 +14776,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "User"
         }
       }
     },
@@ -14854,7 +14932,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "Group"
         }
       }
     },
@@ -14906,7 +14984,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "Group"
         }
       }
     },
@@ -14984,7 +15062,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "Group"
         }
       }
     },
@@ -15010,7 +15088,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "User"
         }
       }
     },
@@ -15062,7 +15140,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "Group"
         }
       }
     },
@@ -15140,7 +15218,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "User"
         }
       }
     },
@@ -15166,7 +15244,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "Group"
         }
       }
     },
@@ -15218,7 +15296,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "User"
         }
       }
     },
@@ -15478,7 +15556,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "Group"
         }
       }
     },
@@ -15660,7 +15738,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "User"
         }
       }
     },
@@ -15686,7 +15764,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "Group"
         }
       }
     },
@@ -15712,7 +15790,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "User"
         }
       }
     },
@@ -15844,7 +15922,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "Group"
         }
       }
     },
@@ -15974,7 +16052,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "Group"
         }
       }
     },
@@ -16026,7 +16104,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "Group"
         }
       }
     },
@@ -16052,7 +16130,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "User"
         }
       }
     },
@@ -16208,7 +16286,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "User"
         }
       }
     },
@@ -16245,9 +16323,9 @@
         "title": "Nexus [Connect 2023 Winner]",
         "description": "Controls:\nQ switch dimension\nY Reset\nH Inspect weapon\nHold down mouse button to shoot\n\n(This is only a demo for chapter 1)\n- Huge Thank you to  ItzMrRatzP For updating this game to support mobile and console!\n\nGame Constraints: \n-This was was made in 10 days for the Roblox 2023 connect challenge. \nThe theme was \"Parallelism\".\nGame Description:\n-The game is a Dimensional FPS where you are tasked with completing various task throughout the facility in order to retrieve someone. Your bullet ricochets every time it hits a panel, and every ricochet causes the bullet to swap to another dimension. \nPINK PAINT on the floor is your FRIEND :D",
         "stats": {
-          "Playing": 4,
-          "Visits": 2184068,
-          "Favorited": 74188
+          "Playing": 5,
+          "Visits": 2184477,
+          "Favorited": 74198
         },
         "attributes": {
           "Created": "2023-07-28T20:04:50.47Z",
@@ -16338,7 +16416,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "User"
         }
       }
     },
@@ -16416,7 +16494,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "User"
         }
       }
     },
@@ -16520,7 +16598,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "Group"
         }
       }
     },
@@ -16598,7 +16676,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "Group"
         }
       }
     }
@@ -16678,7 +16756,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "Group"
         }
       }
     },
@@ -16924,8 +17002,8 @@
         "description": "Mayor of Chain Town was a game created during the 2023 Game Jam on Roblox based on the theme, \"Chain Reaction\". \nCredits:\n\nScripter - RjTheDev\nScripter - supergreatr299\nModeler - teddyraptor5\nBuilder - dinoboy5560\nComposer - Zacchary21\n\nMake sure to join the group on my profile '- Super Studios -'!",
         "stats": {
           "Playing": 0,
-          "Visits": 2827462,
-          "Favorited": 32233
+          "Visits": 2827486,
+          "Favorited": 32231
         },
         "attributes": {
           "Created": "2023-03-17T20:34:06.513Z",
@@ -17276,7 +17354,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "Group"
         }
       }
     },
@@ -17746,7 +17824,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "Group"
         }
       }
     },
@@ -17784,7 +17862,7 @@
         "description": "BUGS TO LOOK OUT FOR:\r\n| Using packages/layered clothing may break death animations and ability unlock animations.\r\n| Dying or falling while an enemy is attacking may cause the server to lag out for the rest of the session.\r\n| Enemies may permanently attack faster if others are killed nearby.\r\n| Rarely, enemies will vanish without dying and stop you from progressing; Resetting will respawn the enemies and fix this.\r\n\r\nTeam Yokimaa's Game made for the 2022 Roblox Game Jam with the theme \"Dream Game\"\r\nAdventure/Platforming/Fighting\r\n\r\nThis game's setting takes place within your own fantasies, which have been slowly taken over by nightmares; it's your job to traverse the otherworldly scattered lands of this illusory realm and subdue these nightmares to prevent them from spreading any further! \r\n\r\nCurrently, there are three levels/worlds to explore and three abilities to unlock.\r\n\r\nAvailable on Computer and Xbox\r\nWASD | Space | Shift | LMB | E | RMB\r\nLS | A | LT | RT | X | B",
         "stats": {
           "Playing": 0,
-          "Visits": 1847,
+          "Visits": 1849,
           "Favorited": 113
         },
         "attributes": {
@@ -18032,7 +18110,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "Group"
         }
       }
     },
@@ -18058,7 +18136,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "User"
         }
       }
     },
@@ -18292,7 +18370,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "User"
         }
       }
     },
@@ -18318,7 +18396,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "Group"
         }
       }
     },
@@ -18422,7 +18500,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "Group"
         }
       }
     },
@@ -18474,7 +18552,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "User"
         }
       }
     },
@@ -18552,7 +18630,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "Group"
         }
       }
     },
@@ -18616,7 +18694,7 @@
         "description": "A Game Jam Submission\r\n\r\nBy Guard303 and DARKEVATOR",
         "stats": {
           "Playing": 0,
-          "Visits": 2571915,
+          "Visits": 2571916,
           "Favorited": 49487
         },
         "attributes": {
@@ -18656,7 +18734,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "Group"
         }
       }
     },
@@ -18682,7 +18760,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "Group"
         }
       }
     },
@@ -18708,7 +18786,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "Group"
         }
       }
     },
@@ -18760,7 +18838,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "User"
         }
       }
     },
@@ -18864,7 +18942,7 @@
         "Creator": {
           "Name": "[UNKNOWN]",
           "ID": 0,
-          "Type": "None"
+          "Type": "Group"
         }
       }
     },
