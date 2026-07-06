@@ -1,6 +1,6 @@
 {
   "defaultData": {
-    "lastUpdated": "2026-07-06T02:48:16.026Z",
+    "lastUpdated": "2026-07-06T10:10:31.981Z",
     "chalanceInfo": {
       "1": {
         "fullName": "Developer Chalange 2026",
@@ -996,7 +996,7 @@
         "description": "🚀Fresh off the shuttle, you're being taken on a tour to meet the lovely locale of Xolnoph City! With the help of your friend Dayn'll, navigate through the city and enjoy speaking with the people you'll meet along the way! At least, as much as your malfunctioning translator will let you...\n\n- 👽 Assist a variety of aliens in a quaint adventure through Xolnoph City's streets! They're happy to have a helping hand around.\n- 📖 Do your best to communicate with them using your intuition and a handy dictionary! Solve puzzles involving an expanding language and understand how the residents of the city speak!\n\n{This is a submission for the Developer Challenge 2026}",
         "stats": {
           "Playing": 0,
-          "Visits": 59,
+          "Visits": 60,
           "Favorited": 1
         },
         "attributes": {
@@ -2454,7 +2454,7 @@
         "description": "🔍 A detective game about solving mysteries as a ghost of your former self.\n\nUpdate 1:\n- Made changes to the Suspect List\n- Increased maximum number of clues to 5\n- \"Exit Scene\" button renamed to \"End Search\" button for clarity\n- Marked Clues now display as Logged Clues\n- Logging clues now done by clicking on them instead of activating them with a prompt\n\nA mysterious person has just claimed your soul the night before Halloween. Are you able to solve the mystery of your lost body?\n\n🔍-> Find Clues around the map\n📃-> Compare clues to suspect descriptions\n🔪-> Take down your killer... or an innocent person?\n\n🔧 Made for Eurojam 2025: Spooktober Fest! 🎃\n\n🔧 Contributors:\n@MintyOwll: Ideas, Assets, Building, Scripting, UI/UX Design\n@obbynoobplayz: Ideas, Assets, Decorations\n\n♥️ Thank you for your support! ♥️",
         "stats": {
           "Playing": 0,
-          "Visits": 2479,
+          "Visits": 2480,
           "Favorited": 22
         },
         "attributes": {
@@ -3236,7 +3236,7 @@
         "description": "In a quiet remote town, a new product has just been released... The 13-in-1 Soap. This innovative creation is redefining the soap industry, offering far more than just the ability to wash yourself.\n\n⭐JOIN GROUP 4 FREE DUCK HAT :D\n\nDevelopers:\nDirector - MrPiglr\nArtist - XxMakio\nBuilder - BasedMannn\nModeler - arktull\nScripter - Ihaveash0rtname\n\n/vk or /votekick to votekick someone out of the game. Make sure to provide a reason! [/vk [user] (reason)]\n(Not all Badges are available since we only made it in 3 days! In the future we will maybe be able to finish it!)",
         "stats": {
           "Playing": 0,
-          "Visits": 224593,
+          "Visits": 224594,
           "Favorited": 6457
         },
         "attributes": {
@@ -3496,8 +3496,8 @@
         "description": "Welcome to the world, Choop.\n \nLight work is a puzzle-platformer set in a post apocalyptic ice-age, you are here to save this world from the cold, with the light as your tool.\n \nMade for the Inspire 2025 Challenge and winner of the Best Technical Quality category!\n \nCredits: \n \nCrystalflxme: Programming, Building\nPotenchill: Programming, Building\nSheenyo: Modeling, Building, Composing, Art\nRox_N_Roll: Modeling, Building, Art\napoll3r: Art\nLocalization Support: HUFS LUDUS",
         "stats": {
           "Playing": 0,
-          "Visits": 124364,
-          "Favorited": 17533
+          "Visits": 124380,
+          "Favorited": 17534
         },
         "attributes": {
           "Created": "2025-08-09T23:22:24.913Z",
@@ -4041,9 +4041,9 @@
         "title": "Operation Clogged Liberty",
         "description": "INSPIRE 2025 WINNER:🏆Best Overall Experience\nhttps://devforum.roblox.com/t/inspire-2025-challenge/3860029\nProject created in 86 hours for the Inspire 2025 Gamejam contest.\nThis is the full game, time of completion is between 15-30 minutes\n\n@Fabuss254 - Programmer\n@Friizti - Lead 3D Animator, Voice actor\n@kenami - UI Animator/Code, Additional Animator\n@GamaLowOff - Modeling, Lead Assets\n@EternityReality - Modeling, Lead Map\nwe own none of the SFX used in this project\n\nWSAD - Move\nC/CTRL - Sneak\nShift - Run\nE - Interact\nQ - Grapple\nP - Enable/Disable Godmode (cheat mode to complete the game faster)",
         "stats": {
-          "Playing": 0,
-          "Visits": 61395,
-          "Favorited": 5451
+          "Playing": 1,
+          "Visits": 61398,
+          "Favorited": 5452
         },
         "attributes": {
           "Created": "2025-08-09T17:08:54.32Z",
@@ -4535,9 +4535,9 @@
         "title": "Armless Detective",
         "description": "You lost both your arms in a tragic accident at your factory, but you've now been employed to work as a detective - an Armless Detective! Use your magic hat to assist you in your investigations, and bring justice to Robloxia!\n\nThird place winner for the 'Best Technical Quality' category of the ROBLOX Inspire 2025 Challenge\n\nJoin our group for a free face cosmetic! https://www.roblox.com/communities/946378404/Top-of-The-Barrel#!/about\n\nMade by:\n@LiamGame09\n@forleaveFR\n@Goober_ish\n@minecoiiiFR\n@kylecat11\n\nCredits:\nloleris - ReplicaService & ProfileService\nsleitnick - RbxUtil\nScarious, dthecoolest, iGottic - R6 IK Procedural Footplanting Module",
         "stats": {
-          "Playing": 214,
-          "Visits": 74278183,
-          "Favorited": 232140
+          "Playing": 131,
+          "Visits": 74297339,
+          "Favorited": 232169
         },
         "attributes": {
           "Created": "2025-08-09T23:27:09.127Z",
@@ -8152,7 +8152,7 @@
         "description": "All you wanted to do was go get taco's with your friend.\n\nThen, you found the phone...\n\nAdventure this mystery world and figure out how to escape, and most importantly...\n\nBreak the System!",
         "stats": {
           "Playing": 0,
-          "Visits": 8115,
+          "Visits": 8116,
           "Favorited": 24
         },
         "attributes": {
@@ -8776,7 +8776,7 @@
         "description": "reason 2 die epic edition is a zombie shooter where u have a reason to survive\nthis game's version is version 15 from the og\n\nthis game is in the process of converting to FE",
         "stats": {
           "Playing": 0,
-          "Visits": 1452,
+          "Visits": 1454,
           "Favorited": 69
         },
         "attributes": {
@@ -8931,9 +8931,9 @@
         "title": "Let Him Go",
         "description": "\"And waking up again, this cycle repeats itself time after time.\nStop the feeling, overcome it, and let go. Can you handle it?\"\n\nA short psychological story about loss and empathy\n\n[CREDITS]\nFounder: Foxbox226\nDevelopers: Marat198017, 1Maks_Play, Alinnaria, rrxllx, OSG3141\n\nWARNING | Game will contain vivid images and sharp unrecognizable sounds, scenes of violence and a demonstration of blood.",
         "stats": {
-          "Playing": 78,
-          "Visits": 21945105,
-          "Favorited": 710518
+          "Playing": 72,
+          "Visits": 21947979,
+          "Favorited": 710573
         },
         "attributes": {
           "Created": "2024-11-25T12:20:47.987Z",
@@ -10990,7 +10990,7 @@
         "description": "Roblox released an update a while back which broke many existing UnionOperation objects. Due to this, many map assets have been transformed into dull gray blocks. However, the game should still be fully playable.\r\n\r\nAs this is an old game, I've also uncopylocked it! You can copy it if you like, and make something of your own with it. However, this place is just the lobby. If you're looking for the actual dungeon (with gameplay), it's linked here:\r\nhttps://www.roblox.com/games/477622292\r\n\r\nWhether you play or make with this, enjoy your nostalgia.",
         "stats": {
           "Playing": 0,
-          "Visits": 27199639,
+          "Visits": 27199645,
           "Favorited": 382037
         },
         "attributes": {
@@ -11668,8 +11668,8 @@
         "description": "Psychis.\nIt means \"SOUL\" in Greek.\n\nKeybinds: They are listed in-game in the options tab within the main menu. \n\nPsychis is currently in its revamp stage. Let us know about any bugs if they come up.",
         "stats": {
           "Playing": 0,
-          "Visits": 1872217,
-          "Favorited": 29851
+          "Visits": 1872226,
+          "Favorited": 29852
         },
         "attributes": {
           "Created": "2022-09-25T22:35:58.843Z",
@@ -12006,8 +12006,8 @@
         "description": "Welcome to my brand new game :D !!!!\nBest game of 2024 now in early development.\nCome Test out the game!! New FEATURES!!!\n____________________________________\n(Previously known as Game [W.I.P.])\n(This game has 2 Endings)\n(This game was made for RDC:2024  In 48 hours)\nTheme: Unexpected Development\n\nCredits\n_____________________________________\n- Accessibility Updates - ItzMrRatzP\n- Code by: DylWithIt, Robogojo, Dodman531\n- GUI and voice acting by: Dodman531\n- All Models, Textures & Map by: 2Tye\n\nPremade Assets\n- Sounds provided by the Roblox toolbox  (Roblox)\n- Character animations (Robo & Dod)\n- The sound bob makes and reset sound (Dodman531)\n- Parts of the parkour system (Robo)\n- The Ortho Games Framework (By Ortho Games)",
         "stats": {
           "Playing": 5,
-          "Visits": 4723403,
-          "Favorited": 175246
+          "Visits": 4723715,
+          "Favorited": 175252
         },
         "attributes": {
           "Created": "2024-01-27T00:43:12.897Z",
@@ -16323,9 +16323,9 @@
         "title": "Nexus [Connect 2023 Winner]",
         "description": "Controls:\nQ switch dimension\nY Reset\nH Inspect weapon\nHold down mouse button to shoot\n\n(This is only a demo for chapter 1)\n- Huge Thank you to  ItzMrRatzP For updating this game to support mobile and console!\n\nGame Constraints: \n-This was was made in 10 days for the Roblox 2023 connect challenge. \nThe theme was \"Parallelism\".\nGame Description:\n-The game is a Dimensional FPS where you are tasked with completing various task throughout the facility in order to retrieve someone. Your bullet ricochets every time it hits a panel, and every ricochet causes the bullet to swap to another dimension. \nPINK PAINT on the floor is your FRIEND :D",
         "stats": {
-          "Playing": 11,
-          "Visits": 2191572,
-          "Favorited": 74325
+          "Playing": 8,
+          "Visits": 2191841,
+          "Favorited": 74326
         },
         "attributes": {
           "Created": "2023-07-28T20:04:50.47Z",
@@ -17002,8 +17002,8 @@
         "description": "Mayor of Chain Town was a game created during the 2023 Game Jam on Roblox based on the theme, \"Chain Reaction\". \nCredits:\n\nScripter - RjTheDev\nScripter - supergreatr299\nModeler - teddyraptor5\nBuilder - dinoboy5560\nComposer - Zacchary21\n\nMake sure to join the group on my profile '- Super Studios -'!",
         "stats": {
           "Playing": 0,
-          "Visits": 2828023,
-          "Favorited": 32235
+          "Visits": 2828056,
+          "Favorited": 32236
         },
         "attributes": {
           "Created": "2023-03-17T20:34:06.513Z",
@@ -18694,8 +18694,8 @@
         "description": "A Game Jam Submission\r\n\r\nBy Guard303 and DARKEVATOR",
         "stats": {
           "Playing": 0,
-          "Visits": 2571933,
-          "Favorited": 49479
+          "Visits": 2571934,
+          "Favorited": 49478
         },
         "attributes": {
           "Created": "2022-03-05T02:27:55.78Z",
