@@ -1,6 +1,6 @@
 {
   "defaultData": {
-    "lastUpdated": "2026-07-16T02:11:39.348Z",
+    "lastUpdated": "2026-07-16T08:05:25.720Z",
     "chalanceInfo": {
       "1": {
         "fullName": "Developer Chalange 2026",
@@ -3365,7 +3365,7 @@
         "title": "Beyond Blackout (Inspire 2025)",
         "description": "Beyond Blackout is a story game taking place at the GybaSpace Station. The station has recently lost power in mysterious circumstances. Without power, the station's alien deflection shields are unable to work, and humanity is in danger.\n\nMade in less than 86 hours for the Inspire 2025 Challenge with the theme \"One Tool, Many Uses\".\n\nGabys - Scripting\nidezye - Level Design, UI Design\nQosmio - 3D Modelling, Audio, Scripting\nTommy - Building",
         "stats": {
-          "Playing": 0,
+          "Playing": 1,
           "Visits": 507,
           "Favorited": 13
         },
@@ -3496,8 +3496,8 @@
         "description": "Welcome to the world, Choop.\n \nLight work is a puzzle-platformer set in a post apocalyptic ice-age, you are here to save this world from the cold, with the light as your tool.\n \nMade for the Inspire 2025 Challenge and winner of the Best Technical Quality category!\n \nCredits: \n \nCrystalflxme: Programming, Building\nPotenchill: Programming, Building\nSheenyo: Modeling, Building, Composing, Art\nRox_N_Roll: Modeling, Building, Art\napoll3r: Art\nLocalization Support: HUFS LUDUS",
         "stats": {
           "Playing": 0,
-          "Visits": 124888,
-          "Favorited": 17585
+          "Visits": 124895,
+          "Favorited": 17587
         },
         "attributes": {
           "Created": "2025-08-09T23:22:24.913Z",
@@ -4042,7 +4042,7 @@
         "description": "INSPIRE 2025 WINNER:🏆Best Overall Experience\nhttps://devforum.roblox.com/t/inspire-2025-challenge/3860029\nProject created in 86 hours for the Inspire 2025 Gamejam contest.\nThis is the full game, time of completion is between 15-30 minutes\n\n@Fabuss254 - Programmer\n@Friizti - Lead 3D Animator, Voice actor\n@kenami - UI Animator/Code, Additional Animator\n@GamaLowOff - Modeling, Lead Assets\n@EternityReality - Modeling, Lead Map\nwe own none of the SFX used in this project\n\nWSAD - Move\nC/CTRL - Sneak\nShift - Run\nE - Interact\nQ - Grapple\nP - Enable/Disable Godmode (cheat mode to complete the game faster)",
         "stats": {
           "Playing": 0,
-          "Visits": 61504,
+          "Visits": 61507,
           "Favorited": 5453
         },
         "attributes": {
@@ -4535,9 +4535,9 @@
         "title": "Armless Detective",
         "description": "You lost both your arms in a tragic accident at your factory, but you've now been employed to work as a detective - an Armless Detective! Use your magic hat to assist you in your investigations, and bring justice to Robloxia!\n\nThird place winner for the 'Best Technical Quality' category of the ROBLOX Inspire 2025 Challenge\n\nJoin our group for a free face cosmetic! https://www.roblox.com/communities/946378404/Top-of-The-Barrel#!/about\n\nMade by:\n@LiamGame09\n@forleaveFR\n@Goober_ish\n@minecoiiiFR\n@kylecat11\n\nCredits:\nloleris - ReplicaService & ProfileService\nsleitnick - RbxUtil\nScarious, dthecoolest, iGottic - R6 IK Procedural Footplanting Module",
         "stats": {
-          "Playing": 190,
-          "Visits": 74965543,
-          "Favorited": 233338
+          "Playing": 100,
+          "Visits": 74978242,
+          "Favorited": 233364
         },
         "attributes": {
           "Created": "2025-08-09T23:27:09.127Z",
@@ -5110,7 +5110,7 @@
         "description": "HONORABLE MENTION - GAMEJAM 2025!!\n\nThis game is still a Work In Progress, which means I’m still building it! There’s a ton of cool stuff here especially some really awesome obbies.. but it’s NOT DONE YET!\n\nSo, if you somehow joined… uh, you probably weren’t supposed to. And if I tell you to leave, please do. Seriously. I’ve had to ban so many people already…\n\n(You're supposed to rejoin whenever you're banned, thank you.)\n\nDeveloped in 2 days as a submission for the 2025 Gamejam\n\nZ + B to access Debug Mode",
         "stats": {
           "Playing": 0,
-          "Visits": 4944,
+          "Visits": 4958,
           "Favorited": 123
         },
         "attributes": {
@@ -6722,7 +6722,7 @@
         "description": ">Incoming transmission...\n\nYou used to be free to spawn anywhere... but ever since that system was enabled, you've become a prisoner in a harsh and oppressive complex. \nWill you succumb to the endless cycle, or will you find a way to break it?\n\nRoblox Developer Challenge 2025 submission\n\nCreated by atone404 and Ringularity\n\nInspired by Portal and The Stanley Parable",
         "stats": {
           "Playing": 0,
-          "Visits": 2166,
+          "Visits": 2167,
           "Favorited": 40
         },
         "attributes": {
@@ -8931,9 +8931,9 @@
         "title": "Let Him Go",
         "description": "\"And waking up again, this cycle repeats itself time after time.\nStop the feeling, overcome it, and let go. Can you handle it?\"\n\nA short psychological story about loss and empathy\n\n[CREDITS]\nFounder: Foxbox226\nDevelopers: Marat198017, 1Maks_Play, Alinnaria, rrxllx, OSG3141\n\nWARNING | Game will contain vivid images and sharp unrecognizable sounds, scenes of violence and a demonstration of blood.",
         "stats": {
-          "Playing": 125,
-          "Visits": 22086868,
-          "Favorited": 714840
+          "Playing": 96,
+          "Visits": 22090435,
+          "Favorited": 714919
         },
         "attributes": {
           "Created": "2024-11-25T12:20:47.987Z",
@@ -10990,7 +10990,7 @@
         "description": "Roblox released an update a while back which broke many existing UnionOperation objects. Due to this, many map assets have been transformed into dull gray blocks. However, the game should still be fully playable.\r\n\r\nAs this is an old game, I've also uncopylocked it! You can copy it if you like, and make something of your own with it. However, this place is just the lobby. If you're looking for the actual dungeon (with gameplay), it's linked here:\r\nhttps://www.roblox.com/games/477622292\r\n\r\nWhether you play or make with this, enjoy your nostalgia.",
         "stats": {
           "Playing": 0,
-          "Visits": 27199785,
+          "Visits": 27199788,
           "Favorited": 382025
         },
         "attributes": {
@@ -12005,9 +12005,9 @@
         "title": "Prototype",
         "description": "Welcome to my brand new game :D !!!!\nBest game of 2024 now in early development.\nCome Test out the game!! New FEATURES!!!\n____________________________________\n(Previously known as Game [W.I.P.])\n(This game has 2 Endings)\n(This game was made for RDC:2024  In 48 hours)\nTheme: Unexpected Development\n\nCredits\n_____________________________________\n- Accessibility Updates - ItzMrRatzP\n- Code by: DylWithIt, Robogojo, Dodman531\n- GUI and voice acting by: Dodman531\n- All Models, Textures & Map by: 2Tye\n\nPremade Assets\n- Sounds provided by the Roblox toolbox  (Roblox)\n- Character animations (Robo & Dod)\n- The sound bob makes and reset sound (Dodman531)\n- Parts of the parkour system (Robo)\n- The Ortho Games Framework (By Ortho Games)",
         "stats": {
-          "Playing": 4,
-          "Visits": 4734744,
-          "Favorited": 175487
+          "Playing": 2,
+          "Visits": 4734939,
+          "Favorited": 175494
         },
         "attributes": {
           "Created": "2024-01-27T00:43:12.897Z",
@@ -12214,7 +12214,7 @@
         "description": "2024 Roblox GameJam \"Unexpected Development\" Entry.\n\n[ RGB ] - Switch through 4 modes of vision, Normal, Red, Green and Blue.",
         "stats": {
           "Playing": 0,
-          "Visits": 532,
+          "Visits": 533,
           "Favorited": 36
         },
         "attributes": {
@@ -14580,7 +14580,7 @@
         "description": "A game about writing a letter to an old friend.\n\nControl with WASD.\nRoblox Developer Challenge 2024.",
         "stats": {
           "Playing": 0,
-          "Visits": 25056,
+          "Visits": 25057,
           "Favorited": 2539
         },
         "attributes": {
@@ -16323,9 +16323,9 @@
         "title": "Nexus [Connect 2023 Winner]",
         "description": "Controls:\nQ switch dimension\nY Reset\nH Inspect weapon\nHold down mouse button to shoot\n\n(This is only a demo for chapter 1)\n- Huge Thank you to  ItzMrRatzP For updating this game to support mobile and console!\n\nGame Constraints: \n-This was was made in 10 days for the Roblox 2023 connect challenge. \nThe theme was \"Parallelism\".\nGame Description:\n-The game is a Dimensional FPS where you are tasked with completing various task throughout the facility in order to retrieve someone. Your bullet ricochets every time it hits a panel, and every ricochet causes the bullet to swap to another dimension. \nPINK PAINT on the floor is your FRIEND :D",
         "stats": {
-          "Playing": 6,
-          "Visits": 2203268,
-          "Favorited": 74488
+          "Playing": 4,
+          "Visits": 2203431,
+          "Favorited": 74491
         },
         "attributes": {
           "Created": "2023-07-28T20:04:50.47Z",
@@ -17002,8 +17002,8 @@
         "description": "Mayor of Chain Town was a game created during the 2023 Game Jam on Roblox based on the theme, \"Chain Reaction\". \nCredits:\n\nScripter - RjTheDev\nScripter - supergreatr299\nModeler - teddyraptor5\nBuilder - dinoboy5560\nComposer - Zacchary21\n\nMake sure to join the group on my profile '- Super Studios -'!",
         "stats": {
           "Playing": 0,
-          "Visits": 2828861,
-          "Favorited": 32228
+          "Visits": 2828874,
+          "Favorited": 32229
         },
         "attributes": {
           "Created": "2023-03-17T20:34:06.513Z",
@@ -18694,8 +18694,8 @@
         "description": "A Game Jam Submission\r\n\r\nBy Guard303 and DARKEVATOR",
         "stats": {
           "Playing": 0,
-          "Visits": 2572089,
-          "Favorited": 49467
+          "Visits": 2572093,
+          "Favorited": 49466
         },
         "attributes": {
           "Created": "2022-03-05T02:27:55.78Z",
