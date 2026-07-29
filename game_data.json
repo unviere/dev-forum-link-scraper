@@ -1,6 +1,6 @@
 {
   "defaultData": {
-    "lastUpdated": "2026-07-29T14:00:25.812Z",
+    "lastUpdated": "2026-07-29T19:08:06.218Z",
     "chalanceInfo": {
       "1": {
         "fullName": "Developer Chalange 2026",
@@ -528,7 +528,7 @@
         "description": "Developer Challenge 2026 Winner: 🏆 Most Creative Interpretation of the Theme\n\nsharing is caring!\nCreated in 72 hours for the Developer Challenge 2026\nhttps://devforum.roblox.com/t/roblox-developer-challenge-2026/4274705\n\n@kenami - Code, UI, Animation\n@Soorbeet - Modelling\nWe own none of the sound assets used in this project.",
         "stats": {
           "Playing": 0,
-          "Visits": 418,
+          "Visits": 419,
           "Favorited": 31
         },
         "attributes": {
@@ -658,7 +658,7 @@
         "description": "[🏆Winner of Best Technical Quality for Roblox Developer Challenge 2026! Thank you!!!🏆]\n\nYou are the first human to make contact with Aliens; unfortunately, they have a job interview to attend...\n\nControls: LMB and RMB.\n\nWARNING: Contains loud noises and flashing lights!\n\nTeam involved:\n- doomforks (Models, Art)\n- Justine_Emmerson (Models, Textures)\n- PuffoThePufferfish (Lead Programming)\n- reamnos (Art, UIs)\n- SComics (Sound, Music, Animations, Programming)\n\nMade in 3 days for the Roblox Developer Challenge 2026 with the theme \"First Contact\". \n\n(haha, Aliens and Connect-4. get it?)",
         "stats": {
           "Playing": 0,
-          "Visits": 804,
+          "Visits": 806,
           "Favorited": 77
         },
         "attributes": {
@@ -814,7 +814,7 @@
         "description": "Welcome one and all to glebs-TV’s pristine studio! You’re right on time! (in part to being our first contact, no less). Now get out there and act, because we’re about to be ON AIR!\n\nOn AIR! Is a microgame-styled stage performance, requiring you to speak your lines while playing the part on-stage.\n\nThis game was made within 72 hours and is our submission for the Roblox Developer Challenge 2026 Challenge with the theme \"First Contact\"! The \"AI Interaction\" in-game is only speech-to-text, no other forms of AI are used.\n\n🏆 Winner of Best Use of Interactive AI for the 2026 Developer Challenge!\n\nCredits:\nCrystalflxme: Programming, Scenes\nZomebody: Programming, Scenes\nSheenyo: Art, Character Sprites, UI Elements\nSkarletbun: Art, Composing, Modeling, Building\nRox_N_Roll: Modeling, Building, Art",
         "stats": {
           "Playing": 0,
-          "Visits": 948,
+          "Visits": 949,
           "Favorited": 161
         },
         "attributes": {
@@ -1386,7 +1386,7 @@
         "description": "[🏆 Winner for most innovative gameplay]\nDeveloper challenge 2026 Gamejam, done under 72 hours!\n\nBuilding, Texturing, Modelling, Lore:\n@MarkMuz123\n@EAGLEMKII\n\nScripting, GUI, SFX, VFX:\n@Xelixis\n@catmanguy_s\n\nArt, Character sprites:\n@fineeena",
         "stats": {
           "Playing": 0,
-          "Visits": 283,
+          "Visits": 287,
           "Favorited": 11
         },
         "attributes": {
@@ -1412,7 +1412,7 @@
         "description": "Welcome to a brand-new planet.\nFirst contact has been made. The planet was quiet, unclaimed, and absolutely full of useful stuff — a rare cosmic coincidence.\nAs an officially unofficial space mining operation, your job is simple: set up drills, move resources, expand storage, and gently borrow everything that isn’t bolted down. This is not exploitation. It’s efficient cooperation.\nThe locals are rocks. The climate is stable enough. Earth comparisons are unnecessary.\n\nGood luck. This is for the good of humanity…\ndespite Earth’s earlier results.\n\nFeatures:\n- Randomly generated alien terrains\n- Upgradeable mining buildings\n- Infinite layout combinations\n- Conveyor logic for efficient chaos\n- Your very own robotic companion (morally optional)\n\nMade by: \n Nova_MrRoyal (Code)\n Keeenchi (Code)\n EinMarek (Code)\n Stayroh (Code)\n Leon_Kokosnuss (Build)\n",
         "stats": {
           "Playing": 0,
-          "Visits": 271,
+          "Visits": 273,
           "Favorited": 4
         },
         "attributes": {
@@ -2823,7 +2823,7 @@
         },
         "attributes": {
           "Created": "2025-11-04T19:51:05.13Z",
-          "Updated": "2026-07-20T21:10:17.946Z",
+          "Updated": "2026-07-29T16:26:40.8764839Z",
           "Genre": "All",
           "GenreNew": "Adventure",
           "SubGenreNew": "Scavenger Hunt",
@@ -3496,8 +3496,8 @@
         "description": "Welcome to the world, Choop.\n \nLight work is a puzzle-platformer set in a post apocalyptic ice-age, you are here to save this world from the cold, with the light as your tool.\n \nMade for the Inspire 2025 Challenge and winner of the Best Technical Quality category!\n \nCredits: \n \nCrystalflxme: Programming, Building\nPotenchill: Programming, Building\nSheenyo: Modeling, Building, Composing, Art\nRox_N_Roll: Modeling, Building, Art\napoll3r: Art\nLocalization Support: HUFS LUDUS",
         "stats": {
           "Playing": 0,
-          "Visits": 125714,
-          "Favorited": 17704
+          "Visits": 125738,
+          "Favorited": 17709
         },
         "attributes": {
           "Created": "2025-08-09T23:22:24.913Z",
@@ -4041,9 +4041,9 @@
         "title": "Operation Clogged Liberty",
         "description": "INSPIRE 2025 WINNER:🏆Best Overall Experience\nhttps://devforum.roblox.com/t/inspire-2025-challenge/3860029\nProject created in 86 hours for the Inspire 2025 Gamejam contest.\nThis is the full game, time of completion is between 15-30 minutes\n\n@Fabuss254 - Programmer\n@Friizti - Lead 3D Animator, Voice actor\n@kenami - UI Animator/Code, Additional Animator\n@GamaLowOff - Modeling, Lead Assets\n@EternityReality - Modeling, Lead Map\nwe own none of the SFX used in this project\n\nWSAD - Move\nC/CTRL - Sneak\nShift - Run\nE - Interact\nQ - Grapple\nP - Enable/Disable Godmode (cheat mode to complete the game faster)",
         "stats": {
-          "Playing": 0,
-          "Visits": 61641,
-          "Favorited": 5466
+          "Playing": 1,
+          "Visits": 61650,
+          "Favorited": 5467
         },
         "attributes": {
           "Created": "2025-08-09T17:08:54.32Z",
@@ -4535,9 +4535,9 @@
         "title": "Armless Detective",
         "description": "You lost both your arms in a tragic accident at your factory, but you've now been employed to work as a detective - an Armless Detective! Use your magic hat to assist you in your investigations, and bring justice to Robloxia!\n\nThird place winner for the 'Best Technical Quality' category of the ROBLOX Inspire 2025 Challenge\n\nJoin our group for a free face cosmetic! https://www.roblox.com/communities/946378404/Top-of-The-Barrel#!/about\n\nMade by:\n@LiamGame09\n@forleaveFR\n@Goober_ish\n@minecoiiiFR\n@kylecat11\n\nCredits:\nloleris - ReplicaService & ProfileService\nsleitnick - RbxUtil\nScarious, dthecoolest, iGottic - R6 IK Procedural Footplanting Module",
         "stats": {
-          "Playing": 162,
-          "Visits": 75799751,
-          "Favorited": 234638
+          "Playing": 194,
+          "Visits": 75814188,
+          "Favorited": 234662
         },
         "attributes": {
           "Created": "2025-08-09T23:27:09.127Z",
@@ -4562,7 +4562,7 @@
         "description": "Play as Mr Inkwell, turned sentient by a magic multi pen, solving puzzles and exploring the human world.\n\nMade (with love) by:\nCodinGlitch\nDevSersponge\n723642767\nVulpany\nrr_ome",
         "stats": {
           "Playing": 0,
-          "Visits": 536,
+          "Visits": 537,
           "Favorited": 19
         },
         "attributes": {
@@ -4824,7 +4824,7 @@
         "description": "Part of the Roblox Developer Challenge 2024\n🐹 Test your survival skills as you take care of your furry friend in \"Hungry Hungry Hamster!\"\n\nlillybearish | hiaihai1 | TopDev | Lyspyon",
         "stats": {
           "Playing": 0,
-          "Visits": 26525,
+          "Visits": 26528,
           "Favorited": 132
         },
         "attributes": {
@@ -8386,12 +8386,12 @@
         "description": "Made for Roblox Developer Challenge 2025.\n\nDEVELOPERS:\nDanCodes - Scripting, Interface, SFX\nXyloma7a - Building, VFX, Writing (Story, Dialogue)\nImprovedSquid - Modeling, Art\nmxterminal - Animating\nGrandGumdrop - Music",
         "stats": {
           "Playing": 0,
-          "Visits": 173,
+          "Visits": 174,
           "Favorited": 5
         },
         "attributes": {
           "Created": "2025-02-07T23:36:24.383Z",
-          "Updated": "2026-07-28T19:06:48.7449484Z",
+          "Updated": "2026-07-29T17:08:26.8363449Z",
           "Genre": "All",
           "GenreNew": "",
           "SubGenreNew": "",
@@ -8465,7 +8465,7 @@
         "stats": {
           "Playing": 0,
           "Visits": 118837,
-          "Favorited": 2008
+          "Favorited": 2007
         },
         "attributes": {
           "Created": "2025-02-08T13:40:25.103Z",
@@ -8931,9 +8931,9 @@
         "title": "Let Him Go",
         "description": "\"And waking up again, this cycle repeats itself time after time.\nStop the feeling, overcome it, and let go. Can you handle it?\"\n\nA short psychological story about loss and empathy\n\n[CREDITS]\nFounder: Foxbox226\nDevelopers: Marat198017, 1Maks_Play, Alinnaria, rrxllx, OSG3141\n\nWARNING | Game will contain vivid images and sharp unrecognizable sounds, scenes of violence and a demonstration of blood.",
         "stats": {
-          "Playing": 120,
-          "Visits": 22347735,
-          "Favorited": 723931
+          "Playing": 218,
+          "Visits": 22352237,
+          "Favorited": 724097
         },
         "attributes": {
           "Created": "2024-11-25T12:20:47.987Z",
@@ -10523,7 +10523,7 @@
         "stats": {
           "Playing": 0,
           "Visits": 14096,
-          "Favorited": 946
+          "Favorited": 947
         },
         "attributes": {
           "Created": "2024-08-10T19:17:00.853Z",
@@ -10990,7 +10990,7 @@
         "description": "Roblox released an update a while back which broke many existing UnionOperation objects. Due to this, many map assets have been transformed into dull gray blocks. However, the game should still be fully playable.\r\n\r\nAs this is an old game, I've also uncopylocked it! You can copy it if you like, and make something of your own with it. However, this place is just the lobby. If you're looking for the actual dungeon (with gameplay), it's linked here:\r\nhttps://www.roblox.com/games/477622292\r\n\r\nWhether you play or make with this, enjoy your nostalgia.",
         "stats": {
           "Playing": 0,
-          "Visits": 27199977,
+          "Visits": 27199980,
           "Favorited": 382008
         },
         "attributes": {
@@ -11668,7 +11668,7 @@
         "description": "Psychis.\nIt means \"SOUL\" in Greek.\n\nKeybinds: They are listed in-game in the options tab within the main menu. \n\nPsychis is currently in its revamp stage. Let us know about any bugs if they come up.",
         "stats": {
           "Playing": 0,
-          "Visits": 1872433,
+          "Visits": 1872434,
           "Favorited": 29849
         },
         "attributes": {
@@ -12006,8 +12006,8 @@
         "description": "Welcome to my brand new game :D !!!!\nBest game of 2024 now in early development.\nCome Test out the game!! New FEATURES!!!\n____________________________________\n(Previously known as Game [W.I.P.])\n(This game has 2 Endings)\n(This game was made for RDC:2024  In 48 hours)\nTheme: Unexpected Development\n\nCredits\n_____________________________________\n- Accessibility Updates - ItzMrRatzP\n- Code by: DylWithIt, Robogojo, Dodman531\n- GUI and voice acting by: Dodman531\n- All Models, Textures & Map by: 2Tye\n\nPremade Assets\n- Sounds provided by the Roblox toolbox  (Roblox)\n- Character animations (Robo & Dod)\n- The sound bob makes and reset sound (Dodman531)\n- Parts of the parkour system (Robo)\n- The Ortho Games Framework (By Ortho Games)",
         "stats": {
           "Playing": 1,
-          "Visits": 4746388,
-          "Favorited": 175721
+          "Visits": 4746560,
+          "Favorited": 175727
         },
         "attributes": {
           "Created": "2024-01-27T00:43:12.897Z",
@@ -13748,7 +13748,7 @@
         "description": "Part of the Roblox Developer Challenge 2024\n🐹 Test your survival skills as you take care of your furry friend in \"Hungry Hungry Hamster!\"\n\nlillybearish | hiaihai1 | TopDev | Lyspyon",
         "stats": {
           "Playing": 0,
-          "Visits": 26525,
+          "Visits": 26528,
           "Favorited": 132
         },
         "attributes": {
@@ -14528,7 +14528,7 @@
         "description": "Duo project for 'Roblox Developer Challenge 2024'\nTheme: unexpected development\n\nYou are stuck in a subway station and your goal is to find a way out!\nInteract with NPCs or things by clicking on them!\nGain experience and wins to buy stuff from the shop!\n(I don't have enough time to make the shop during the Challenge 😭)",
         "stats": {
           "Playing": 0,
-          "Visits": 13347,
+          "Visits": 13349,
           "Favorited": 186
         },
         "attributes": {
@@ -14580,8 +14580,8 @@
         "description": "A game about writing a letter to an old friend.\n\nControl with WASD.\nRoblox Developer Challenge 2024.",
         "stats": {
           "Playing": 0,
-          "Visits": 25169,
-          "Favorited": 2548
+          "Visits": 25171,
+          "Favorited": 2549
         },
         "attributes": {
           "Created": "2024-01-27T05:12:06.223Z",
@@ -16323,9 +16323,9 @@
         "title": "Nexus [Connect 2023 Winner]",
         "description": "Controls:\nQ switch dimension\nY Reset\nH Inspect weapon\nHold down mouse button to shoot\n\n(This is only a demo for chapter 1)\n- Huge Thank you to  ItzMrRatzP For updating this game to support mobile and console!\n\nGame Constraints: \n-This was was made in 10 days for the Roblox 2023 connect challenge. \nThe theme was \"Parallelism\".\nGame Description:\n-The game is a Dimensional FPS where you are tasked with completing various task throughout the facility in order to retrieve someone. Your bullet ricochets every time it hits a panel, and every ricochet causes the bullet to swap to another dimension. \nPINK PAINT on the floor is your FRIEND :D",
         "stats": {
-          "Playing": 6,
-          "Visits": 2215054,
-          "Favorited": 74655
+          "Playing": 9,
+          "Visits": 2215288,
+          "Favorited": 74663
         },
         "attributes": {
           "Created": "2023-07-28T20:04:50.47Z",
@@ -17002,7 +17002,7 @@
         "description": "Mayor of Chain Town was a game created during the 2023 Game Jam on Roblox based on the theme, \"Chain Reaction\". \nCredits:\n\nScripter - RjTheDev\nScripter - supergreatr299\nModeler - teddyraptor5\nBuilder - dinoboy5560\nComposer - Zacchary21\n\nMake sure to join the group on my profile '- Super Studios -'!",
         "stats": {
           "Playing": 0,
-          "Visits": 2830025,
+          "Visits": 2830054,
           "Favorited": 32220
         },
         "attributes": {
@@ -18694,7 +18694,7 @@
         "description": "A Game Jam Submission\r\n\r\nBy Guard303 and DARKEVATOR",
         "stats": {
           "Playing": 0,
-          "Visits": 2572193,
+          "Visits": 2572194,
           "Favorited": 49454
         },
         "attributes": {
