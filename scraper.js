@@ -5,7 +5,22 @@ const fs = require("fs");
 const defaultInfo = {
  "lastUpdated": new Date().toISOString(),
     "chalanceInfo": {
-         "1": { // is again the recentst game jam
+     "1": { // is again the recentst game jam
+            "fullName": "Inspire 2026",
+            "shortName": "Ins 26",
+            "Duration": "3 days",
+            "Start": "31-07-2026 | 31 jul 2026 | 19:00 | 7 pm | 2",
+            "End": "03-08-2026 | 3 aug 2026 | 19:00 | 7 pm | 2",
+            "Description": "the inspire chalange of 2026 where you make an game in 72 hours",
+            "Theme": "Winning is just the beginning",
+            "OGName": "Ins26_ID11", // dont change this needed for tags and for the data store
+            "bannerImg": "",
+            "bannerUseAi": false,
+            "bannerBy": "",
+            "StartTimestamp": 1785517200,
+            "EndTimestamp": 1785776400
+        },
+         "2": { // is again the recentst game jam
             "fullName": "Developer Chalange 2026",
             "shortName": "RDC 26",
             "Duration": "3 days",
@@ -20,7 +35,7 @@ const defaultInfo = {
             "StartTimestamp": 1770400800,
             "EndTimestamp": 1770660000
         },
-       "2": {
+       "3": {
             "fullName": "EuroJam 2025, spooktober fest",
             "shortName": "EuroJam 25",
             "Duration": "16 days",
@@ -35,7 +50,7 @@ const defaultInfo = {
             "StartTimestamp": 1761922800,
             "EndTimestamp": 1762729140
         },
-       "3": { // is again the recentst game jam
+       "4": { // is again the recentst game jam
            "fullName": "inspire 2025",
            "shortName": "inspire 25",
            "Duration": "3,5 days",
@@ -50,7 +65,7 @@ const defaultInfo = {
             "StartTimestamp": 1754758800,
             "EndTimestamp": 1755068400
         },
-        "4": { // is again the recentst game jam
+        "5": { // is again the recentst game jam
             "fullName": "Developer Chalange 2025",
             "shortName": "Developer 25",
             "Duration": "3 days",
@@ -65,7 +80,7 @@ const defaultInfo = {
             "StartTimestamp": 1738969200,
             "EndTimestamp": 1739228400
         },
-        "5": {
+        "6": {
             "fullName": "Introducing Unite 2024",
             "shortName": "Unite 24",
             "Duration": "16 days",
@@ -80,7 +95,7 @@ const defaultInfo = {
             "StartTimestamp": 1728662400,
             "EndTimestamp": 1729180800
         },
-        "6": { 
+        "7": { 
             "fullName": "Roblox Inspire 2024 Challenge",
             "shortName": "Inspire 24",
             "Duration": "3 days",
@@ -95,7 +110,7 @@ const defaultInfo = {
             "StartTimestamp": 1723309200,
             "EndTimestamp": 1723568400
         },
-        "7": { 
+        "8": { 
             "fullName": "Roblox Developer Challenge 2024",
             "shortName": "Developer 24",
             "Duration": "2 days",
@@ -110,7 +125,7 @@ const defaultInfo = {
             "StartTimestamp": 1706310000,
             "EndTimestamp": 1706482800
         },
-         "8": { 
+         "9": { 
             "fullName": "Connect 2023 Challenge",
             "shortName": "Connect 23",
             "Duration": "10 days",
@@ -125,7 +140,7 @@ const defaultInfo = {
             "StartTimestamp": 1690563600,
             "EndTimestamp": 1691427600 
         },
-        "9": { 
+        "10": { 
             "fullName": "Roblox Developer Challenge 2023",
             "shortName": "Developer 23",
             "Duration": "3 days",
@@ -140,7 +155,7 @@ const defaultInfo = {
             "StartTimestamp": 1679076000,
             "EndTimestamp": 1679335200 
         },
-        "10": { 
+        "11": { 
             "fullName": "Roblox Developer Dream Jam 2022",
             "shortName": "Dream Jam 22",
             "Duration": "10 days",
@@ -156,7 +171,7 @@ const defaultInfo = {
             "EndTimestamp": -1 
         },
     },
-    "TotalGameJams": 10
+    "TotalGameJams": 11
 };
 
 let gameJamData = {
@@ -165,16 +180,17 @@ let gameJamData = {
 
 // Define the forum post URLs for each game jam
 const GAMEJAM_URLS = {
-    "gameJam1": "https://devforum.roblox.com/raw/4274705/?page=",
-    "gameJam2": "https://devforum.roblox.com/raw/4036710/?page=",
-    "gameJam3": "https://devforum.roblox.com/raw/3860029/?page=",
-    "gameJam4": "https://devforum.roblox.com/raw/3389448?page=", // game jam 1 is the recentsts
-    "gameJam5": "https://devforum.roblox.com/raw/3181924/?page=",
-    "gameJam6": "https://devforum.roblox.com/raw/3104238/?page=",
-    "gameJam7": "https://devforum.roblox.com/raw/2779970/?page=",
-    "gameJam8": "https://devforum.roblox.com/raw/2468676/?page=",
-    "gameJam9": "https://devforum.roblox.com/raw/2206650/?page=",
-    "gameJam10": "https://devforum.roblox.com/raw/1677276/?page="
+    "gameJam1": "https://devforum.roblox.com/raw/4751288/?page=",
+    "gameJam2": "https://devforum.roblox.com/raw/4274705/?page=",
+    "gameJam3": "https://devforum.roblox.com/raw/4036710/?page=",
+    "gameJam4": "https://devforum.roblox.com/raw/3860029/?page=",
+    "gameJam5": "https://devforum.roblox.com/raw/3389448?page=", // game jam 1 is the recentsts
+    "gameJam6": "https://devforum.roblox.com/raw/3181924/?page=",
+    "gameJam7": "https://devforum.roblox.com/raw/3104238/?page=",
+    "gameJam8": "https://devforum.roblox.com/raw/2779970/?page=",
+    "gameJam9": "https://devforum.roblox.com/raw/2468676/?page=",
+    "gameJam10": "https://devforum.roblox.com/raw/2206650/?page=",
+    "gameJam11": "https://devforum.roblox.com/raw/1677276/?page="
 };
 
 async function fetchAndPopulateGameJamData(gameJamKey, baseURL) {
