@@ -1,6 +1,6 @@
 {
   "defaultData": {
-    "lastUpdated": "2026-08-21T06:37:48.414Z",
+    "lastUpdated": "2026-08-21T12:37:11.921Z",
     "chalanceInfo": {
       "1": {
         "fullName": "Inspire 2026",
@@ -172,32 +172,6 @@
   },
   "gameJam1": {
     "1": {
-      "placeID": "96017595925144",
-      "universeID": 10316392535,
-      "gameData": {
-        "title": "Rue du Petit-Champlain, Quebec. 🇨🇦",
-        "description": "La Fiesta del Mundial | Nuevo Desafío\n**HIGHLY RECOMMEND CHECKING OUT THE TIME OF DAY OPTIONS AS WELL**\nDevRel Submission for Quebec, a French Canadian Province 🇫🇷🇨🇦\n@coolchristopher912_2\n@bexxaai\n@rospritesalt1\n@onyx00615",
-        "stats": {
-          "Playing": 0,
-          "Visits": 222,
-          "Favorited": 2
-        },
-        "attributes": {
-          "Created": "2026-06-13T02:00:02.682Z",
-          "Updated": "2026-06-22T04:07:08.839Z",
-          "Genre": "All",
-          "GenreNew": "",
-          "SubGenreNew": "",
-          "MaxPlayers": 17
-        },
-        "Creator": {
-          "Name": "coolchristopher912_2",
-          "ID": 888871148,
-          "Type": "User"
-        }
-      }
-    },
-    "2": {
       "placeID": "83773433743083",
       "universeID": 10434285694,
       "gameData": {
@@ -223,7 +197,7 @@
         }
       }
     },
-    "3": {
+    "2": {
       "placeID": "135391055240597",
       "universeID": 9888672743,
       "gameData": {
@@ -249,16 +223,16 @@
         }
       }
     },
-    "4": {
+    "3": {
       "placeID": "109095501650701",
       "universeID": 9275594410,
       "gameData": {
         "title": "Hide and Seek Prop Hunt",
         "description": "\"Hide and Seek Prop Hunt\" is a crazy combination of Hide And Seek and Prop Hunt!\n\n\n🔎 SEEKERS: Take your blasters and explore map trying to find all hiders! Be cautious — they could be anywhere!\n📦 HIDERS: Morph into props and hide as well as you can! Create chaos with clones of yourself to confuse seekers!\n\n🪙 Collect coins to buy new blasters!\n❤️ Like, favorite our game and join our group to get free blaster!\n\n\nTags: Hide and Seek, Prop Hunt, FPS, Knife, Hide N Seek, Hide and Die, Seekers, Hiders, Hide as props, Hide & Seek",
         "stats": {
-          "Playing": 4,
-          "Visits": 1720928,
-          "Favorited": 17595
+          "Playing": 10,
+          "Visits": 1721196,
+          "Favorited": 17601
         },
         "attributes": {
           "Created": "2025-11-30T20:30:51.477Z",
@@ -275,7 +249,7 @@
         }
       }
     },
-    "5": {
+    "4": {
       "placeID": "111852446316315",
       "universeID": 8393905403,
       "gameData": {
@@ -301,7 +275,7 @@
         }
       }
     },
-    "6": {
+    "5": {
       "placeID": "115968706263751",
       "universeID": 9064069072,
       "gameData": {
@@ -327,16 +301,16 @@
         }
       }
     },
-    "7": {
+    "6": {
       "placeID": "128556531191609",
       "universeID": 9818454583,
       "gameData": {
         "title": "Clevo World",
         "description": "No description",
         "stats": {
-          "Playing": 31,
-          "Visits": 13315,
-          "Favorited": 68
+          "Playing": 57,
+          "Visits": 14834,
+          "Favorited": 70
         },
         "attributes": {
           "Created": "2026-03-01T10:32:13.553Z",
@@ -353,20 +327,20 @@
         }
       }
     },
-    "8": {
+    "7": {
       "placeID": "79714560360676",
       "universeID": 10322389217,
       "gameData": {
-        "title": "Blox Monster Adventure",
+        "title": "[NEW✨] Blox Monster Adventure",
         "description": "Catch. Train. Evolve. Become a legendary Monster Tamer!\n\nExplore unique islands, battle wild monsters and bosses, hatch eggs, discover secrets, and build your ultimate team.\n\n⚔️ Battle monsters, Elites, and bosses\n✨ Catch and collect blocky pets\n🥚 Hatch rare companions\n⭐ Hunt powerful ranks and mutations\n📈 Level up, enhance, fuse, mutate, and evolve\n🛡️ Equip Pet Gear\n🏇 Unlock Land, Water, and Flying mounts\n🏝️ Explore islands, secrets, and special encounters\n🌦️ Experience changing weather and world events\n🏆 Climb the rankings\n\nCan you catch them all?\n\n🌟 More islands, events, and content coming!",
         "stats": {
-          "Playing": 1,
-          "Visits": 1148,
+          "Playing": 0,
+          "Visits": 1189,
           "Favorited": 7
         },
         "attributes": {
           "Created": "2026-06-13T21:38:26.838Z",
-          "Updated": "2026-08-21T05:29:37.6809872Z",
+          "Updated": "2026-08-21T12:06:30.2549033Z",
           "Genre": "All",
           "GenreNew": "Adventure",
           "SubGenreNew": "Exploration",
@@ -379,7 +353,7 @@
         }
       }
     },
-    "9": {
+    "8": {
       "placeID": "119862296775112",
       "universeID": 10604993972,
       "gameData": {
@@ -405,7 +379,7 @@
         }
       }
     },
-    "10": {
+    "9": {
       "placeID": "86920846192804",
       "universeID": 10608216398,
       "gameData": {
@@ -431,7 +405,7 @@
         }
       }
     },
-    "11": {
+    "10": {
       "placeID": "133798772609369",
       "universeID": 10605104429,
       "gameData": {
@@ -457,7 +431,7 @@
         }
       }
     },
-    "12": {
+    "11": {
       "placeID": "75829642679597",
       "universeID": 10605101858,
       "gameData": {
@@ -483,7 +457,7 @@
         }
       }
     },
-    "13": {
+    "12": {
       "placeID": "95808028179976",
       "universeID": 10605845580,
       "gameData": {
@@ -491,7 +465,7 @@
         "description": "Welcome to DEEPER! 🌊\n\n💎 Dive into the dark ocean and see how deep your crew can survive!\n🦑 Defend your submarine from terrifying deep-sea monsters!\n\n🔧 Keep your submarine running by repairing broken machines on the fly!\n💥 Man the turrets and blast incoming threats before they destroy the Reactor!\n\n🚩 Can you reach 10,000m of depth?\n\n[⚠️This game was made in 3 days solely for the Roblox Inspire 2026 Challenge⚠️]\n\nMade completely from scratch, using zero asset packs and only our OMECS Framework\n\nWinning is just the beginning!",
         "stats": {
           "Playing": 0,
-          "Visits": 556,
+          "Visits": 557,
           "Favorited": 31
         },
         "attributes": {
@@ -509,7 +483,7 @@
         }
       }
     },
-    "14": {
+    "13": {
       "placeID": "137662887642731",
       "universeID": 10606718272,
       "gameData": {
@@ -535,7 +509,7 @@
         }
       }
     },
-    "15": {
+    "14": {
       "placeID": "90688811342792",
       "universeID": 10605081315,
       "gameData": {
@@ -543,7 +517,7 @@
         "description": "GET TO THE PRECIOUS TREASURE TO WIN.\n\nConcept, Art, Models, Animations, Items by Casiopaper\nMusic by River347\nUI by Cheezboy27 and Casiopaper\nMap Code by blankname\nMap Designs by snailbugs, Casiopaper, Cheezboy27 and River347",
         "stats": {
           "Playing": 0,
-          "Visits": 964,
+          "Visits": 968,
           "Favorited": 66
         },
         "attributes": {
@@ -561,7 +535,7 @@
         }
       }
     },
-    "16": {
+    "15": {
       "placeID": "107782103290120",
       "universeID": 10605288408,
       "gameData": {
@@ -587,7 +561,7 @@
         }
       }
     },
-    "17": {
+    "16": {
       "placeID": "81849861472714",
       "universeID": 10610947419,
       "gameData": {
@@ -613,7 +587,7 @@
         }
       }
     },
-    "18": {
+    "17": {
       "placeID": "101536639050316",
       "universeID": 10605116123,
       "gameData": {
@@ -639,7 +613,7 @@
         }
       }
     },
-    "19": {
+    "18": {
       "placeID": "96053109871727",
       "universeID": 10624918521,
       "gameData": {
@@ -665,7 +639,7 @@
         }
       }
     },
-    "20": {
+    "19": {
       "placeID": "136769415066723",
       "universeID": 10620898609,
       "gameData": {
@@ -691,7 +665,7 @@
         }
       }
     },
-    "21": {
+    "20": {
       "placeID": "71753951054905",
       "universeID": 10605177990,
       "gameData": {
@@ -717,16 +691,16 @@
         }
       }
     },
-    "22": {
+    "21": {
       "placeID": "97463153534674",
       "universeID": 10605046792,
       "gameData": {
         "title": "TERMINUS🚇",
         "description": "🚋 TERMINUS 🚋 \n\nPut your survival skills to the test and try your best to escape this seemingly infinite train that will throw anything at you to ensure you don't. Features 6 unique entities, 45 upgrades, 32 room types, and INFINITE FUN!\n\nSubmission for ROBLOX Inspire 2026 Challenge, Made by:\n@LiamGame09\n@forleaveFR\n@Goober_ish\n@minecoiiiFR\n@DDkreep\n\nCredits:\nProgramSquid - Mesh Shape Pack V2\nbhristt - bezier curve module\nuglyburger0 and littlebird78 - MaterialFootsteps module\nsaythrts - Mega Pack vfx textures\nsleitnick - Camera Shaker and Observers\nloleris - ReplicaService and ProfileService\ncosmicalnight - Cosmics Textures",
         "stats": {
-          "Playing": 10,
-          "Visits": 24509,
-          "Favorited": 899
+          "Playing": 9,
+          "Visits": 25686,
+          "Favorited": 950
         },
         "attributes": {
           "Created": "2026-07-31T17:45:48.068Z",
@@ -743,7 +717,7 @@
         }
       }
     },
-    "23": {
+    "22": {
       "placeID": "133005241166013",
       "universeID": 10605084555,
       "gameData": {
@@ -769,7 +743,7 @@
         }
       }
     },
-    "24": {
+    "23": {
       "placeID": "119485125654809",
       "universeID": 10604888954,
       "gameData": {
@@ -777,7 +751,7 @@
         "description": "yub_3n - Scripter\nR_oven - Builder, Modeler\nsunny10311031 - 2D Graphic\nkk77w - Story Planner, QA\n\nInspire 2026 Challenge",
         "stats": {
           "Playing": 0,
-          "Visits": 313,
+          "Visits": 317,
           "Favorited": 25
         },
         "attributes": {
@@ -795,7 +769,7 @@
         }
       }
     },
-    "25": {
+    "24": {
       "placeID": "131688946046191",
       "universeID": 10604933226,
       "gameData": {
@@ -821,7 +795,7 @@
         }
       }
     },
-    "26": {
+    "25": {
       "placeID": "123988749324978",
       "universeID": 10605194026,
       "gameData": {
@@ -829,8 +803,8 @@
         "description": "Oh no! You missed the last gondola after your race finished! Now you have to make the climb back up on foot!\n\nClimb up the mountain and dodge enemies on your way to the *new* finish line.\n3rd place winner for \"Creative Exploration of Genre\" in the 2026 Inspire Gamejam!\n\nThis game uses touch-to-move controls. Made in 72 hours for the Inspire 2026 Game Jam with the theme \"Winning is just the beginning\".\n\nCredits:\n- Zomebody: Programming\n- Crystalflxme: Programming\n- rox_n_roll: Building & 2d art\n- Sheenyo: Character art & Building\n- Skarletbun: Music, SFX, polishing pass\n\nDespite referencing 2d characters from previous jams, all character art was made during the jam!\n\nRe-used assets:\n- Zomebody's BasePart material pack\n- Craftastrophe's BasePart material pack\n- Zomebody's custom skybox\n- Bezier curve utility module\n- Spring utility module",
         "stats": {
           "Playing": 0,
-          "Visits": 253,
-          "Favorited": 31
+          "Visits": 254,
+          "Favorited": 32
         },
         "attributes": {
           "Created": "2026-07-31T18:22:51.947Z",
@@ -847,7 +821,7 @@
         }
       }
     },
-    "27": {
+    "26": {
       "placeID": "89003007710021",
       "universeID": 10605015023,
       "gameData": {
@@ -873,7 +847,7 @@
         }
       }
     },
-    "28": {
+    "27": {
       "placeID": "137562670585517",
       "universeID": 10604955055,
       "gameData": {
@@ -881,8 +855,8 @@
         "description": "Created for the Inspire 2026 challenge.\n\nArm your weapons, prepare your gear, and embark your LANCE. Become the spear that pierces the heavens to take back the fate of humanity.\n\n@treebee63\n@Bad_B0y\n@MarkMuz123\n@JonnyBonkers\n@arcsoftdev",
         "stats": {
           "Playing": 0,
-          "Visits": 457,
-          "Favorited": 63
+          "Visits": 459,
+          "Favorited": 64
         },
         "attributes": {
           "Created": "2026-07-31T17:22:57.006Z",
@@ -899,7 +873,7 @@
         }
       }
     },
-    "29": {
+    "28": {
       "placeID": "125713640371503",
       "universeID": 10604873100,
       "gameData": {
@@ -925,7 +899,7 @@
         }
       }
     },
-    "30": {
+    "29": {
       "placeID": "121650328981387",
       "universeID": 10604873530,
       "gameData": {
@@ -951,7 +925,7 @@
         }
       }
     },
-    "31": {
+    "30": {
       "placeID": "76434952473519",
       "universeID": 10618615373,
       "gameData": {
@@ -977,7 +951,7 @@
         }
       }
     },
-    "32": {
+    "31": {
       "placeID": "70520680961372",
       "universeID": 10606555483,
       "gameData": {
@@ -1003,7 +977,7 @@
         }
       }
     },
-    "33": {
+    "32": {
       "placeID": "108023342576232",
       "universeID": 10606523880,
       "gameData": {
@@ -1029,7 +1003,7 @@
         }
       }
     },
-    "34": {
+    "33": {
       "placeID": "118489627855069",
       "universeID": 10619917993,
       "gameData": {
@@ -1055,7 +1029,7 @@
         }
       }
     },
-    "35": {
+    "34": {
       "placeID": "107323562653398",
       "universeID": 10620160199,
       "gameData": {
@@ -1081,7 +1055,7 @@
         }
       }
     },
-    "36": {
+    "35": {
       "placeID": "101149002151532",
       "universeID": 10605954777,
       "gameData": {
@@ -1107,7 +1081,7 @@
         }
       }
     },
-    "37": {
+    "36": {
       "placeID": "74647010028849",
       "universeID": 10605168999,
       "gameData": {
@@ -1133,7 +1107,7 @@
         }
       }
     },
-    "38": {
+    "37": {
       "placeID": "132250331593600",
       "universeID": 10609685883,
       "gameData": {
@@ -1159,7 +1133,7 @@
         }
       }
     },
-    "39": {
+    "38": {
       "placeID": "79697749790284",
       "universeID": 10604886479,
       "gameData": {
@@ -1185,7 +1159,7 @@
         }
       }
     },
-    "40": {
+    "39": {
       "placeID": "125455973640188",
       "universeID": 10604883640,
       "gameData": {
@@ -1211,7 +1185,7 @@
         }
       }
     },
-    "41": {
+    "40": {
       "placeID": "135048628869196",
       "universeID": 10605021729,
       "gameData": {
@@ -1237,7 +1211,7 @@
         }
       }
     },
-    "42": {
+    "41": {
       "placeID": "139735395875311",
       "universeID": 10606601930,
       "gameData": {
@@ -1263,7 +1237,7 @@
         }
       }
     },
-    "43": {
+    "42": {
       "placeID": "114656592694604",
       "universeID": 10611167786,
       "gameData": {
@@ -1289,7 +1263,7 @@
         }
       }
     },
-    "44": {
+    "43": {
       "placeID": "118125579554554",
       "universeID": 10605136277,
       "gameData": {
@@ -1315,7 +1289,7 @@
         }
       }
     },
-    "45": {
+    "44": {
       "placeID": "92857028100686",
       "universeID": 10610833310,
       "gameData": {
@@ -1341,7 +1315,7 @@
         }
       }
     },
-    "46": {
+    "45": {
       "placeID": "73897904604072",
       "universeID": 10605842309,
       "gameData": {
@@ -1367,7 +1341,7 @@
         }
       }
     },
-    "47": {
+    "46": {
       "placeID": "73586926783728",
       "universeID": 10611723627,
       "gameData": {
@@ -1393,7 +1367,7 @@
         }
       }
     },
-    "48": {
+    "47": {
       "placeID": "90919263926914",
       "universeID": 10604887293,
       "gameData": {
@@ -1406,7 +1380,7 @@
         },
         "attributes": {
           "Created": "2026-07-31T17:05:55.122Z",
-          "Updated": "2026-08-20T00:30:31.6340977Z",
+          "Updated": "2026-08-20T00:30:31.634Z",
           "Genre": "All",
           "GenreNew": "Puzzle",
           "SubGenreNew": "Escape Room",
@@ -1419,7 +1393,7 @@
         }
       }
     },
-    "49": {
+    "48": {
       "placeID": "107250350053534",
       "universeID": 10605493729,
       "gameData": {
@@ -1445,7 +1419,7 @@
         }
       }
     },
-    "50": {
+    "49": {
       "placeID": "122152923601522",
       "universeID": 10604882529,
       "gameData": {
@@ -1471,7 +1445,7 @@
         }
       }
     },
-    "51": {
+    "50": {
       "placeID": "88181496932976",
       "universeID": 10604904100,
       "gameData": {
@@ -1497,7 +1471,7 @@
         }
       }
     },
-    "52": {
+    "51": {
       "placeID": "84150243341593",
       "universeID": 10605141143,
       "gameData": {
@@ -1505,7 +1479,7 @@
         "description": "Third place in Innovative Gameplay category at Inspire Challenge 2026!\n\nHazel suddenly inherits a whole bakery and now its her job to take all oncoming orders!\n\nArts & designs by AsteroideaMarinha\nCoding and modelling by Gamblocks1\n\nMade in 72 hours for the Inspire 2026 Challenge!\n (it was very tiring btw ow)",
         "stats": {
           "Playing": 0,
-          "Visits": 325,
+          "Visits": 327,
           "Favorited": 49
         },
         "attributes": {
@@ -1523,7 +1497,7 @@
         }
       }
     },
-    "53": {
+    "52": {
       "placeID": "72196580360926",
       "universeID": 10605149080,
       "gameData": {
@@ -1549,7 +1523,7 @@
         }
       }
     },
-    "54": {
+    "53": {
       "placeID": "122247138101359",
       "universeID": 10609048836,
       "gameData": {
@@ -1575,7 +1549,7 @@
         }
       }
     },
-    "55": {
+    "54": {
       "placeID": "131147328200317",
       "universeID": 10605384525,
       "gameData": {
@@ -1601,7 +1575,7 @@
         }
       }
     },
-    "56": {
+    "55": {
       "placeID": "135479102376696",
       "universeID": 10604889008,
       "gameData": {
@@ -1627,33 +1601,7 @@
         }
       }
     },
-    "57": {
-      "placeID": "120438990154850",
-      "universeID": 10604996435,
-      "gameData": {
-        "title": "AfterBloom: Roblox Inspire 2026 Entry",
-        "description": "A narrative puzzle adventure where players enter arcade games, alter a digital blueprint, and watch their victories reshape a living 3D garden.",
-        "stats": {
-          "Playing": 0,
-          "Visits": 22,
-          "Favorited": 0
-        },
-        "attributes": {
-          "Created": "2026-07-31T17:33:23.399Z",
-          "Updated": "2026-08-03T16:59:17.305Z",
-          "Genre": "All",
-          "GenreNew": "Puzzle",
-          "SubGenreNew": "",
-          "MaxPlayers": 50
-        },
-        "Creator": {
-          "Name": "qwertsdfgnm",
-          "ID": 2847240240,
-          "Type": "User"
-        }
-      }
-    },
-    "58": {
+    "56": {
       "placeID": "93310761674958",
       "universeID": 10605183085,
       "gameData": {
@@ -1661,7 +1609,7 @@
         "description": "Race your marble back and forth between two points as the level changes.\n\nMy submission for the Inspire 2026 Game Jam!",
         "stats": {
           "Playing": 0,
-          "Visits": 205,
+          "Visits": 207,
           "Favorited": 2
         },
         "attributes": {
@@ -1679,7 +1627,7 @@
         }
       }
     },
-    "59": {
+    "57": {
       "placeID": "105910044817126",
       "universeID": 10604878774,
       "gameData": {
@@ -1705,7 +1653,7 @@
         }
       }
     },
-    "60": {
+    "58": {
       "placeID": "90370462950341",
       "universeID": 10624615756,
       "gameData": {
@@ -1731,7 +1679,7 @@
         }
       }
     },
-    "61": {
+    "59": {
       "placeID": "126513378316706",
       "universeID": 10606659021,
       "gameData": {
@@ -1757,7 +1705,7 @@
         }
       }
     },
-    "62": {
+    "60": {
       "placeID": "95653441053985",
       "universeID": 10605616493,
       "gameData": {
@@ -1783,33 +1731,7 @@
         }
       }
     },
-    "63": {
-      "placeID": "97213105541473",
-      "universeID": 10604882605,
-      "gameData": {
-        "title": "(Inspire 2026) Delta T",
-        "description": "\"In the fight for justice, winning is just the beginning.\"\n\nA game about magical girls, tarot cards, and learning to accept the uncertainity of the future. Made in 3 days for the Roblox Inspire Challenge 2026!\n\n[WARNING]\nThis game contains danmaku patterns that may trigger photosensitive epilepsy throughout the entire game.\n\n[Controls]\n1/2/3/4 (number on top right) to use an Active card\nX to use bullet-clearing Bomb\nM1 to shoot, M2 to Focus\n\nPlay the far better post-Inspire build.",
-        "stats": {
-          "Playing": 0,
-          "Visits": 23,
-          "Favorited": 0
-        },
-        "attributes": {
-          "Created": "2026-07-31T17:04:44.982Z",
-          "Updated": "2026-08-14T21:28:34.503Z",
-          "Genre": "All",
-          "GenreNew": "Shooter",
-          "SubGenreNew": "PvE Shooter",
-          "MaxPlayers": 1
-        },
-        "Creator": {
-          "Name": "MyonSlash",
-          "ID": 1588733808,
-          "Type": "User"
-        }
-      }
-    },
-    "64": {
+    "61": {
       "placeID": "113085905588159",
       "universeID": 10625256646,
       "gameData": {
@@ -1835,7 +1757,7 @@
         }
       }
     },
-    "65": {
+    "62": {
       "placeID": "122538720405277",
       "universeID": 10604903854,
       "gameData": {
@@ -1861,7 +1783,7 @@
         }
       }
     },
-    "66": {
+    "63": {
       "placeID": "100338044289825",
       "universeID": 10623235477,
       "gameData": {
@@ -1887,7 +1809,7 @@
         }
       }
     },
-    "67": {
+    "64": {
       "placeID": "104801453275475",
       "universeID": 10607200185,
       "gameData": {
@@ -1913,7 +1835,7 @@
         }
       }
     },
-    "68": {
+    "65": {
       "placeID": "127735170842102",
       "universeID": 10622500847,
       "gameData": {
@@ -1939,7 +1861,7 @@
         }
       }
     },
-    "69": {
+    "66": {
       "placeID": "79854968459434",
       "universeID": 10607300109,
       "gameData": {
@@ -1965,7 +1887,7 @@
         }
       }
     },
-    "70": {
+    "67": {
       "placeID": "92255117666389",
       "universeID": 10605927803,
       "gameData": {
@@ -1991,7 +1913,7 @@
         }
       }
     },
-    "71": {
+    "68": {
       "placeID": "126225422685082",
       "universeID": 10604969858,
       "gameData": {
@@ -2017,7 +1939,7 @@
         }
       }
     },
-    "72": {
+    "69": {
       "placeID": "100424379917700",
       "universeID": 10609884865,
       "gameData": {
@@ -2043,7 +1965,7 @@
         }
       }
     },
-    "73": {
+    "70": {
       "placeID": "86779783952631",
       "universeID": 10618456850,
       "gameData": {
@@ -2069,7 +1991,7 @@
         }
       }
     },
-    "74": {
+    "71": {
       "placeID": "135227299978243",
       "universeID": 10605395797,
       "gameData": {
@@ -2095,7 +2017,7 @@
         }
       }
     },
-    "75": {
+    "72": {
       "placeID": "115946489752482",
       "universeID": 10605284219,
       "gameData": {
@@ -2121,7 +2043,7 @@
         }
       }
     },
-    "76": {
+    "73": {
       "placeID": "89091325578666",
       "universeID": 10605055501,
       "gameData": {
@@ -2129,7 +2051,7 @@
         "description": "Submission for the Inspire 2026 Challenge\n\n@TeaCem Programmer\n@Clockset Builder/Modeler\n@alphh_100 Builder/Modeler/Animator",
         "stats": {
           "Playing": 0,
-          "Visits": 104,
+          "Visits": 106,
           "Favorited": 4
         },
         "attributes": {
@@ -2147,7 +2069,7 @@
         }
       }
     },
-    "77": {
+    "74": {
       "placeID": "117799288965395",
       "universeID": 10605002869,
       "gameData": {
@@ -2173,7 +2095,7 @@
         }
       }
     },
-    "78": {
+    "75": {
       "placeID": "118574219861232",
       "universeID": 10604868037,
       "gameData": {
@@ -2199,7 +2121,7 @@
         }
       }
     },
-    "79": {
+    "76": {
       "placeID": "111931619451323",
       "universeID": 8850545489,
       "gameData": {
@@ -2225,7 +2147,7 @@
         }
       }
     },
-    "80": {
+    "77": {
       "placeID": "129003635663121",
       "universeID": 10604916274,
       "gameData": {
@@ -3034,32 +2956,6 @@
       }
     },
     "31": {
-      "placeID": "116836559334739",
-      "universeID": 9684293508,
-      "gameData": {
-        "title": "Broken Nurture [DevChallenge2026: First contact]",
-        "description": "Broken Nurture (First Contact) This game is a first-person psychological horror experience set inside a familiar home that slowly becomes oppressive over several days. Each morning begins with a phone call from the father, whose voice grows colder and more controlling, establishing a sense of constant surveillance and emotional pressure. During the day, the player performs household duties that maintain the appearance of order, while at night sleep leads to disturbing dream sequences where a long, narrowing hallway symbolizes mounting psychological stress. The game avoids jump scares and instead builds tension through atmosphere, repetition, and emotional discomfort rooted in everyday family dynamics. The experience culminates in a final confrontation with the truth behind the household and the control that defines it.\n\nWe come from Vietnam\n\nDev: @athea56789 @Rabbit_revenge @nhattung599 @Sakura_ChanTYT\n\nRoblox Developer Challenge 2026\n#DevChallenge2026\nThanks for playing!\n\n",
-        "stats": {
-          "Playing": 0,
-          "Visits": 96,
-          "Favorited": 2
-        },
-        "attributes": {
-          "Created": "2026-02-06T18:15:13.337Z",
-          "Updated": "2026-02-10T15:56:16.793Z",
-          "Genre": "All",
-          "GenreNew": "Adventure",
-          "SubGenreNew": "Story",
-          "MaxPlayers": 50
-        },
-        "Creator": {
-          "Name": "Boxwood Games",
-          "ID": 485676425,
-          "Type": "Group"
-        }
-      }
-    },
-    "32": {
       "placeID": "134392121913711",
       "universeID": 9686572200,
       "gameData": {
@@ -3085,7 +2981,7 @@
         }
       }
     },
-    "33": {
+    "32": {
       "placeID": "70896907456112",
       "universeID": 9684448612,
       "gameData": {
@@ -3111,7 +3007,7 @@
         }
       }
     },
-    "34": {
+    "33": {
       "placeID": "140707232239924",
       "universeID": 9686705479,
       "gameData": {
@@ -3137,7 +3033,7 @@
         }
       }
     },
-    "35": {
+    "34": {
       "placeID": "89605554217591",
       "universeID": 9684244653,
       "gameData": {
@@ -3163,7 +3059,7 @@
         }
       }
     },
-    "36": {
+    "35": {
       "placeID": "110653409033256",
       "universeID": 9684300889,
       "gameData": {
@@ -3189,7 +3085,7 @@
         }
       }
     },
-    "37": {
+    "36": {
       "placeID": "87178844720976",
       "universeID": 9684803867,
       "gameData": {
@@ -3215,7 +3111,7 @@
         }
       }
     },
-    "38": {
+    "37": {
       "placeID": "70428169526235",
       "universeID": 9684520009,
       "gameData": {
@@ -3241,7 +3137,7 @@
         }
       }
     },
-    "39": {
+    "38": {
       "placeID": "131832707861596",
       "universeID": 9685237568,
       "gameData": {
@@ -3267,7 +3163,7 @@
         }
       }
     },
-    "40": {
+    "39": {
       "placeID": "120056532258331",
       "universeID": 9684239168,
       "gameData": {
@@ -3293,7 +3189,7 @@
         }
       }
     },
-    "41": {
+    "40": {
       "placeID": "123316833329301",
       "universeID": 9690269200,
       "gameData": {
@@ -3319,7 +3215,7 @@
         }
       }
     },
-    "42": {
+    "41": {
       "placeID": "113221634386205",
       "universeID": 9684340143,
       "gameData": {
@@ -3345,7 +3241,7 @@
         }
       }
     },
-    "43": {
+    "42": {
       "placeID": "106739769850834",
       "universeID": 9666967283,
       "gameData": {
@@ -3371,7 +3267,7 @@
         }
       }
     },
-    "44": {
+    "43": {
       "placeID": "132789854030229",
       "universeID": 9684350121,
       "gameData": {
@@ -3397,7 +3293,7 @@
         }
       }
     },
-    "45": {
+    "44": {
       "placeID": "137870801877837",
       "universeID": 9684245758,
       "gameData": {
@@ -3423,7 +3319,7 @@
         }
       }
     },
-    "46": {
+    "45": {
       "placeID": "129522477162080",
       "universeID": 7435543318,
       "gameData": {
@@ -3449,7 +3345,7 @@
         }
       }
     },
-    "47": {
+    "46": {
       "placeID": "85663471338523",
       "universeID": 9684373781,
       "gameData": {
@@ -3475,7 +3371,7 @@
         }
       }
     },
-    "48": {
+    "47": {
       "placeID": "138981612377019",
       "universeID": 9684300735,
       "gameData": {
@@ -3501,7 +3397,7 @@
         }
       }
     },
-    "49": {
+    "48": {
       "placeID": "103153024796840",
       "universeID": 9684568345,
       "gameData": {
@@ -3527,7 +3423,7 @@
         }
       }
     },
-    "50": {
+    "49": {
       "placeID": "111526388526251",
       "universeID": 9684245136,
       "gameData": {
@@ -3553,7 +3449,7 @@
         }
       }
     },
-    "51": {
+    "50": {
       "placeID": "133742964995913",
       "universeID": 9684991599,
       "gameData": {
@@ -3579,7 +3475,7 @@
         }
       }
     },
-    "52": {
+    "51": {
       "placeID": "125893338166662",
       "universeID": 9685699980,
       "gameData": {
@@ -3605,7 +3501,7 @@
         }
       }
     },
-    "53": {
+    "52": {
       "placeID": "79069190386131",
       "universeID": 9684253513,
       "gameData": {
@@ -3631,7 +3527,7 @@
         }
       }
     },
-    "54": {
+    "53": {
       "placeID": "86288201397111",
       "universeID": 9684282691,
       "gameData": {
@@ -3657,7 +3553,7 @@
         }
       }
     },
-    "55": {
+    "54": {
       "placeID": "123438507746943",
       "universeID": 9695570459,
       "gameData": {
@@ -3683,7 +3579,7 @@
         }
       }
     },
-    "56": {
+    "55": {
       "placeID": "124979251188319",
       "universeID": 9692718580,
       "gameData": {
@@ -3709,7 +3605,7 @@
         }
       }
     },
-    "57": {
+    "56": {
       "placeID": "89468401342579",
       "universeID": 9684497738,
       "gameData": {
@@ -3735,7 +3631,7 @@
         }
       }
     },
-    "58": {
+    "57": {
       "placeID": "88197535756472",
       "universeID": 9695337893,
       "gameData": {
@@ -3761,7 +3657,7 @@
         }
       }
     },
-    "59": {
+    "58": {
       "placeID": "81384732065830",
       "universeID": 9686811237,
       "gameData": {
@@ -3787,7 +3683,7 @@
         }
       }
     },
-    "60": {
+    "59": {
       "placeID": "103612822345823",
       "universeID": 9684406807,
       "gameData": {
@@ -3813,7 +3709,7 @@
         }
       }
     },
-    "61": {
+    "60": {
       "placeID": "73064695238246",
       "universeID": 9684510078,
       "gameData": {
@@ -3839,7 +3735,7 @@
         }
       }
     },
-    "62": {
+    "61": {
       "placeID": "130938790980073",
       "universeID": 9685209201,
       "gameData": {
@@ -3865,7 +3761,7 @@
         }
       }
     },
-    "63": {
+    "62": {
       "placeID": "91208653090047",
       "universeID": 9684773537,
       "gameData": {
@@ -3891,7 +3787,7 @@
         }
       }
     },
-    "64": {
+    "63": {
       "placeID": "140416698930123",
       "universeID": 9684269123,
       "gameData": {
@@ -3917,7 +3813,7 @@
         }
       }
     },
-    "65": {
+    "64": {
       "placeID": "138639027196515",
       "universeID": 9687692420,
       "gameData": {
@@ -3943,7 +3839,7 @@
         }
       }
     },
-    "66": {
+    "65": {
       "placeID": "81022818660379",
       "universeID": 9684359756,
       "gameData": {
@@ -3969,7 +3865,7 @@
         }
       }
     },
-    "67": {
+    "66": {
       "placeID": "127882597661289",
       "universeID": 9684238585,
       "gameData": {
@@ -3995,7 +3891,7 @@
         }
       }
     },
-    "68": {
+    "67": {
       "placeID": "122987961135577",
       "universeID": 9687024503,
       "gameData": {
@@ -4021,7 +3917,7 @@
         }
       }
     },
-    "69": {
+    "68": {
       "placeID": "109781446179248",
       "universeID": 9698516709,
       "gameData": {
@@ -4047,7 +3943,7 @@
         }
       }
     },
-    "70": {
+    "69": {
       "placeID": "73402065225248",
       "universeID": 9686971170,
       "gameData": {
@@ -4073,7 +3969,7 @@
         }
       }
     },
-    "71": {
+    "70": {
       "placeID": "111013123765882",
       "universeID": 9684249333,
       "gameData": {
@@ -4099,7 +3995,7 @@
         }
       }
     },
-    "72": {
+    "71": {
       "placeID": "101278880508994",
       "universeID": 9690439482,
       "gameData": {
@@ -4125,7 +4021,7 @@
         }
       }
     },
-    "73": {
+    "72": {
       "placeID": "123090162150578",
       "universeID": 9686501926,
       "gameData": {
@@ -4151,7 +4047,7 @@
         }
       }
     },
-    "74": {
+    "73": {
       "placeID": "109838388800828",
       "universeID": 9684308102,
       "gameData": {
@@ -4177,7 +4073,7 @@
         }
       }
     },
-    "75": {
+    "74": {
       "placeID": "95233074118614",
       "universeID": 9688183915,
       "gameData": {
@@ -4203,7 +4099,7 @@
         }
       }
     },
-    "76": {
+    "75": {
       "placeID": "71213983168505",
       "universeID": 9684621558,
       "gameData": {
@@ -4229,7 +4125,7 @@
         }
       }
     },
-    "77": {
+    "76": {
       "placeID": "134771192928478",
       "universeID": 9684484446,
       "gameData": {
@@ -4255,7 +4151,7 @@
         }
       }
     },
-    "78": {
+    "77": {
       "placeID": "81430930571130",
       "universeID": 9684354352,
       "gameData": {
@@ -4281,7 +4177,7 @@
         }
       }
     },
-    "79": {
+    "78": {
       "placeID": "120504479378069",
       "universeID": 9684242789,
       "gameData": {
@@ -4307,7 +4203,7 @@
         }
       }
     },
-    "80": {
+    "79": {
       "placeID": "127422761193484",
       "universeID": 9684309068,
       "gameData": {
@@ -4333,7 +4229,7 @@
         }
       }
     },
-    "81": {
+    "80": {
       "placeID": "82052173213389",
       "universeID": 9684326798,
       "gameData": {
@@ -4359,7 +4255,7 @@
         }
       }
     },
-    "82": {
+    "81": {
       "placeID": "137693214619680",
       "universeID": 9684412767,
       "gameData": {
@@ -4385,7 +4281,7 @@
         }
       }
     },
-    "83": {
+    "82": {
       "placeID": "122605051430015",
       "universeID": 9685436439,
       "gameData": {
@@ -5333,7 +5229,7 @@
         "description": "In a quiet remote town, a new product has just been released... The 13-in-1 Soap. This innovative creation is redefining the soap industry, offering far more than just the ability to wash yourself.\n\n⭐JOIN GROUP 4 FREE DUCK HAT :D\n\nDevelopers:\nDirector - MrPiglr\nArtist - XxMakio\nBuilder - BasedMannn\nModeler - arktull\nScripter - Ihaveash0rtname\n\n/vk or /votekick to votekick someone out of the game. Make sure to provide a reason! [/vk [user] (reason)]\n(Not all Badges are available since we only made it in 3 days! In the future we will maybe be able to finish it!)",
         "stats": {
           "Playing": 0,
-          "Visits": 224983,
+          "Visits": 224985,
           "Favorited": 6398
         },
         "attributes": {
@@ -5592,9 +5488,9 @@
         "title": "Light Work",
         "description": "Welcome to the world, Choop.\n \nLight work is a puzzle-platformer set in a post apocalyptic ice-age, you are here to save this world from the cold, with the light as your tool.\n \nMade for the Inspire 2025 Challenge and winner of the Best Technical Quality category!\n \nCredits: \n \nCrystalflxme: Programming, Building\nPotenchill: Programming, Building\nSheenyo: Modeling, Building, Composing, Art\nRox_N_Roll: Modeling, Building, Art\napoll3r: Art\nLocalization Support: HUFS LUDUS",
         "stats": {
-          "Playing": 1,
-          "Visits": 126867,
-          "Favorited": 17818
+          "Playing": 0,
+          "Visits": 126879,
+          "Favorited": 17820
         },
         "attributes": {
           "Created": "2025-08-09T23:22:24.913Z",
@@ -6138,9 +6034,9 @@
         "title": "Operation Clogged Liberty",
         "description": "INSPIRE 2025 WINNER:🏆Best Overall Experience\nhttps://devforum.roblox.com/t/inspire-2025-challenge/3860029\nProject created in 86 hours for the Inspire 2025 Gamejam contest.\nThis is the full game, time of completion is between 15-30 minutes\n\n@Fabuss254 - Programmer\n@Friizti - Lead 3D Animator, Voice actor\n@kenami - UI Animator/Code, Additional Animator\n@GamaLowOff - Modeling, Lead Assets\n@EternityReality - Modeling, Lead Map\nwe own none of the SFX used in this project\n\nWSAD - Move\nC/CTRL - Sneak\nShift - Run\nE - Interact\nQ - Grapple\nP - Enable/Disable Godmode (cheat mode to complete the game faster)",
         "stats": {
-          "Playing": 0,
-          "Visits": 61916,
-          "Favorited": 5477
+          "Playing": 1,
+          "Visits": 61923,
+          "Favorited": 5478
         },
         "attributes": {
           "Created": "2025-08-09T17:08:54.32Z",
@@ -6607,7 +6503,7 @@
         "description": "Our gamejam submission, which placed 2nd place in terms of the best technical quality in Roblox Inspire 2025! \n\nTeam: \n1. Doninoobsh - Builder/3D-modeler\n2. TheRobloxProffe - Lead 3D-modeler\n3. AndrewTSR - Trailer Editor\n4. Afyollion - Programmer\n5. nahdero - Programmer",
         "stats": {
           "Playing": 0,
-          "Visits": 273,
+          "Visits": 274,
           "Favorited": 5
         },
         "attributes": {
@@ -6632,9 +6528,9 @@
         "title": "[SUMMER🌞] Armless Detective",
         "description": "You lost both your arms in a tragic accident at your factory, but you've now been employed to work as a detective - an Armless Detective! Use your magic hat to assist you in your investigations, and bring justice to Robloxia!\n\nThird place winner for the 'Best Technical Quality' category of the ROBLOX Inspire 2025 Challenge\n\nJoin our group for a free face cosmetic! https://www.roblox.com/communities/946378404/Top-of-The-Barrel#!/about\n\nMade by:\n@LiamGame09\n@forleaveFR\n@Goober_ish\n@minecoiiiFR\n@kylecat11\n\nCredits:\nloleris - ReplicaService & ProfileService\nsleitnick - RbxUtil\nScarious, dthecoolest, iGottic - R6 IK Procedural Footplanting Module",
         "stats": {
-          "Playing": 99,
-          "Visits": 77076542,
-          "Favorited": 236080
+          "Playing": 109,
+          "Visits": 77087533,
+          "Favorited": 236100
         },
         "attributes": {
           "Created": "2025-08-09T23:27:09.127Z",
@@ -6921,7 +6817,7 @@
         "description": "Part of the Roblox Developer Challenge 2024\n🐹 Test your survival skills as you take care of your furry friend in \"Hungry Hungry Hamster!\"\n\nlillybearish | hiaihai1 | TopDev | Lyspyon",
         "stats": {
           "Playing": 0,
-          "Visits": 26648,
+          "Visits": 26649,
           "Favorited": 135
         },
         "attributes": {
@@ -10873,7 +10769,7 @@
         "description": "reason 2 die epic edition is a zombie shooter where u have a reason to survive\nthis game's version is version 15 from the og\n\nthis game is in the process of converting to FE",
         "stats": {
           "Playing": 0,
-          "Visits": 1690,
+          "Visits": 1691,
           "Favorited": 89
         },
         "attributes": {
@@ -11028,9 +10924,9 @@
         "title": "Let Him Go",
         "description": "\"And waking up again, this cycle repeats itself time after time.\nStop the feeling, overcome it, and let go. Can you handle it?\"\n\nA short psychological story about loss and empathy\n\n[CREDITS]\nFounder: Foxbox226\nDevelopers: Marat198017, 1Maks_Play, Alinnaria, rrxllx, OSG3141\n\nWARNING | Game will contain vivid images and sharp unrecognizable sounds, scenes of violence and a demonstration of blood.",
         "stats": {
-          "Playing": 65,
-          "Visits": 22699774,
-          "Favorited": 734679
+          "Playing": 63,
+          "Visits": 22701963,
+          "Favorited": 734742
         },
         "attributes": {
           "Created": "2024-11-25T12:20:47.987Z",
@@ -13555,7 +13451,7 @@
         "description": "TIME IS YOUR ENEMY! \n\nSurvive waves of lasers, bombs, fire, spikes, and falls! As time goes on, the more intense it gets! \n\nDeveloped for the 2024 Inspire gamejam by Plaything: \n- @Tom_atoes (Programming, UI Design) \n- @DevSpec (Programming) \n- @WhoseTrade (Modelling, Building)",
         "stats": {
           "Playing": 0,
-          "Visits": 244638,
+          "Visits": 244639,
           "Favorited": 1672
         },
         "attributes": {
@@ -13765,7 +13661,7 @@
         "description": "Psychis.\nIt means \"SOUL\" in Greek.\n\nKeybinds: They are listed in-game in the options tab within the main menu. \n\nPsychis is currently in its revamp stage. Let us know about any bugs if they come up.",
         "stats": {
           "Playing": 0,
-          "Visits": 1872644,
+          "Visits": 1872645,
           "Favorited": 29834
         },
         "attributes": {
@@ -14102,9 +13998,9 @@
         "title": "Prototype",
         "description": "Welcome to my brand new game :D !!!!\nBest game of 2024 now in early development.\nCome Test out the game!! New FEATURES!!!\n____________________________________\n(Previously known as Game [W.I.P.])\n(This game has 2 Endings)\n(This game was made for RDC:2024  In 48 hours)\nTheme: Unexpected Development\n\nCredits\n_____________________________________\n- Accessibility Updates - ItzMrRatzP\n- Code by: DylWithIt, Robogojo, Dodman531\n- GUI and voice acting by: Dodman531\n- All Models, Textures & Map by: 2Tye\n\nPremade Assets\n- Sounds provided by the Roblox toolbox  (Roblox)\n- Character animations (Robo & Dod)\n- The sound bob makes and reset sound (Dodman531)\n- Parts of the parkour system (Robo)\n- The Ortho Games Framework (By Ortho Games)",
         "stats": {
-          "Playing": 2,
-          "Visits": 4772258,
-          "Favorited": 176286
+          "Playing": 5,
+          "Visits": 4772576,
+          "Favorited": 176296
         },
         "attributes": {
           "Created": "2024-01-27T00:43:12.897Z",
@@ -15760,32 +15656,6 @@
       }
     },
     "79": {
-      "placeID": "16126337889",
-      "universeID": 5572292300,
-      "gameData": {
-        "title": "RESONANT DISQUIET - 2024 Developer Challenge",
-        "description": "1-3 Player Side Scroller Game.\n\nThe Bed was the access into the level system. (Unfinished)",
-        "stats": {
-          "Playing": 0,
-          "Visits": 322,
-          "Favorited": 2
-        },
-        "attributes": {
-          "Created": "2024-01-26T23:14:06.673Z",
-          "Updated": "2026-06-03T16:03:42.997Z",
-          "Genre": "All",
-          "GenreNew": "",
-          "SubGenreNew": "",
-          "MaxPlayers": 3
-        },
-        "Creator": {
-          "Name": "IISato",
-          "ID": 74568937,
-          "Type": "User"
-        }
-      }
-    },
-    "80": {
       "placeID": "16126704171",
       "universeID": 5572398925,
       "gameData": {
@@ -15811,7 +15681,7 @@
         }
       }
     },
-    "81": {
+    "80": {
       "placeID": "16132264140",
       "universeID": 5574208598,
       "gameData": {
@@ -15837,7 +15707,7 @@
         }
       }
     },
-    "82": {
+    "81": {
       "placeID": "16128837102",
       "universeID": 5573090223,
       "gameData": {
@@ -15845,7 +15715,7 @@
         "description": "Part of the Roblox Developer Challenge 2024\n🐹 Test your survival skills as you take care of your furry friend in \"Hungry Hungry Hamster!\"\n\nlillybearish | hiaihai1 | TopDev | Lyspyon",
         "stats": {
           "Playing": 0,
-          "Visits": 26648,
+          "Visits": 26649,
           "Favorited": 135
         },
         "attributes": {
@@ -15863,7 +15733,7 @@
         }
       }
     },
-    "83": {
+    "82": {
       "placeID": "16129490482",
       "universeID": 5573301459,
       "gameData": {
@@ -15889,7 +15759,7 @@
         }
       }
     },
-    "84": {
+    "83": {
       "placeID": "16131902123",
       "universeID": 5574097775,
       "gameData": {
@@ -15915,7 +15785,7 @@
         }
       }
     },
-    "85": {
+    "84": {
       "placeID": "16126963765",
       "universeID": 5572479369,
       "gameData": {
@@ -15941,7 +15811,7 @@
         }
       }
     },
-    "86": {
+    "85": {
       "placeID": "16127300562",
       "universeID": 5572588839,
       "gameData": {
@@ -15967,7 +15837,7 @@
         }
       }
     },
-    "87": {
+    "86": {
       "placeID": "16126225238",
       "universeID": 5572260305,
       "gameData": {
@@ -15993,7 +15863,7 @@
         }
       }
     },
-    "88": {
+    "87": {
       "placeID": "16133574138",
       "universeID": 5574606580,
       "gameData": {
@@ -16019,7 +15889,7 @@
         }
       }
     },
-    "89": {
+    "88": {
       "placeID": "16131353838",
       "universeID": 5573925100,
       "gameData": {
@@ -16045,7 +15915,7 @@
         }
       }
     },
-    "90": {
+    "89": {
       "placeID": "16126236118",
       "universeID": 5572263109,
       "gameData": {
@@ -16071,7 +15941,7 @@
         }
       }
     },
-    "91": {
+    "90": {
       "placeID": "16126380732",
       "universeID": 5572303597,
       "gameData": {
@@ -16097,7 +15967,7 @@
         }
       }
     },
-    "92": {
+    "91": {
       "placeID": "16127008977",
       "universeID": 5572494313,
       "gameData": {
@@ -16123,7 +15993,7 @@
         }
       }
     },
-    "93": {
+    "92": {
       "placeID": "16126419038",
       "universeID": 5572314606,
       "gameData": {
@@ -16149,7 +16019,7 @@
         }
       }
     },
-    "94": {
+    "93": {
       "placeID": "16126208703",
       "universeID": 5572256322,
       "gameData": {
@@ -16175,7 +16045,7 @@
         }
       }
     },
-    "95": {
+    "94": {
       "placeID": "16126501315",
       "universeID": 5572338513,
       "gameData": {
@@ -16201,7 +16071,7 @@
         }
       }
     },
-    "96": {
+    "95": {
       "placeID": "16145190114",
       "universeID": 5578000085,
       "gameData": {
@@ -16227,7 +16097,7 @@
         }
       }
     },
-    "97": {
+    "96": {
       "placeID": "16127094199",
       "universeID": 5572521039,
       "gameData": {
@@ -16253,7 +16123,7 @@
         }
       }
     },
-    "98": {
+    "97": {
       "placeID": "16126494279",
       "universeID": 5572336770,
       "gameData": {
@@ -16279,7 +16149,7 @@
         }
       }
     },
-    "99": {
+    "98": {
       "placeID": "16138494926",
       "universeID": 5576075341,
       "gameData": {
@@ -16305,7 +16175,7 @@
         }
       }
     },
-    "100": {
+    "99": {
       "placeID": "16142181158",
       "universeID": 5577029529,
       "gameData": {
@@ -16331,7 +16201,7 @@
         }
       }
     },
-    "101": {
+    "100": {
       "placeID": "16126634054",
       "universeID": 5572377964,
       "gameData": {
@@ -16357,7 +16227,7 @@
         }
       }
     },
-    "102": {
+    "101": {
       "placeID": "16126478346",
       "universeID": 5572332100,
       "gameData": {
@@ -16383,7 +16253,7 @@
         }
       }
     },
-    "103": {
+    "102": {
       "placeID": "16144754329",
       "universeID": 5577852694,
       "gameData": {
@@ -16409,7 +16279,7 @@
         }
       }
     },
-    "104": {
+    "103": {
       "placeID": "16130414575",
       "universeID": 5573610465,
       "gameData": {
@@ -16435,7 +16305,7 @@
         }
       }
     },
-    "105": {
+    "104": {
       "placeID": "16126840625",
       "universeID": 5572441938,
       "gameData": {
@@ -16461,7 +16331,7 @@
         }
       }
     },
-    "106": {
+    "105": {
       "placeID": "16126399162",
       "universeID": 5572309092,
       "gameData": {
@@ -16487,7 +16357,7 @@
         }
       }
     },
-    "107": {
+    "106": {
       "placeID": "16127106203",
       "universeID": 5572525113,
       "gameData": {
@@ -16513,7 +16383,7 @@
         }
       }
     },
-    "108": {
+    "107": {
       "placeID": "16126223650",
       "universeID": 5572259915,
       "gameData": {
@@ -16539,7 +16409,7 @@
         }
       }
     },
-    "109": {
+    "108": {
       "placeID": "16126314887",
       "universeID": 5572285783,
       "gameData": {
@@ -16565,7 +16435,7 @@
         }
       }
     },
-    "110": {
+    "109": {
       "placeID": "16122488753",
       "universeID": 5571191681,
       "gameData": {
@@ -16591,7 +16461,7 @@
         }
       }
     },
-    "111": {
+    "110": {
       "placeID": "16126229214",
       "universeID": 5572261376,
       "gameData": {
@@ -16617,7 +16487,7 @@
         }
       }
     },
-    "112": {
+    "111": {
       "placeID": "16128274068",
       "universeID": 5572908261,
       "gameData": {
@@ -16643,7 +16513,7 @@
         }
       }
     },
-    "113": {
+    "112": {
       "placeID": "16155169337",
       "universeID": 5581037933,
       "gameData": {
@@ -16669,7 +16539,7 @@
         }
       }
     },
-    "114": {
+    "113": {
       "placeID": "16129559952",
       "universeID": 5573324603,
       "gameData": {
@@ -16677,8 +16547,8 @@
         "description": "A game about writing a letter to an old friend.\n\nControl with WASD.\nRoblox Developer Challenge 2024.",
         "stats": {
           "Playing": 0,
-          "Visits": 25324,
-          "Favorited": 2565
+          "Visits": 25327,
+          "Favorited": 2566
         },
         "attributes": {
           "Created": "2024-01-27T05:12:06.223Z",
@@ -16695,7 +16565,7 @@
         }
       }
     },
-    "115": {
+    "114": {
       "placeID": "16134962712",
       "universeID": 5575046116,
       "gameData": {
@@ -16721,7 +16591,7 @@
         }
       }
     },
-    "116": {
+    "115": {
       "placeID": "16128577375",
       "universeID": 5573005364,
       "gameData": {
@@ -16747,7 +16617,7 @@
         }
       }
     },
-    "117": {
+    "116": {
       "placeID": "16130519846",
       "universeID": 5573644805,
       "gameData": {
@@ -16773,7 +16643,7 @@
         }
       }
     },
-    "118": {
+    "117": {
       "placeID": "16126250501",
       "universeID": 5572266777,
       "gameData": {
@@ -16799,7 +16669,7 @@
         }
       }
     },
-    "119": {
+    "118": {
       "placeID": "16127319627",
       "universeID": 5572595166,
       "gameData": {
@@ -16825,7 +16695,7 @@
         }
       }
     },
-    "120": {
+    "119": {
       "placeID": "16126473318",
       "universeID": 5572330721,
       "gameData": {
@@ -16851,7 +16721,7 @@
         }
       }
     },
-    "121": {
+    "120": {
       "placeID": "16127953631",
       "universeID": 5572800773,
       "gameData": {
@@ -16877,7 +16747,7 @@
         }
       }
     },
-    "122": {
+    "121": {
       "placeID": "16126290449",
       "universeID": 5572278516,
       "gameData": {
@@ -16903,7 +16773,7 @@
         }
       }
     },
-    "123": {
+    "122": {
       "placeID": "16126917247",
       "universeID": 5572465564,
       "gameData": {
@@ -16929,7 +16799,7 @@
         }
       }
     },
-    "124": {
+    "123": {
       "placeID": "16149110353",
       "universeID": 5579274251,
       "gameData": {
@@ -16955,7 +16825,7 @@
         }
       }
     },
-    "125": {
+    "124": {
       "placeID": "16147355298",
       "universeID": 5578729856,
       "gameData": {
@@ -16981,7 +16851,7 @@
         }
       }
     },
-    "126": {
+    "125": {
       "placeID": "16130354037",
       "universeID": 5573590293,
       "gameData": {
@@ -17007,7 +16877,7 @@
         }
       }
     },
-    "127": {
+    "126": {
       "placeID": "16126300573",
       "universeID": 5572281479,
       "gameData": {
@@ -17033,7 +16903,7 @@
         }
       }
     },
-    "128": {
+    "127": {
       "placeID": "16131012074",
       "universeID": 5573814056,
       "gameData": {
@@ -17059,7 +16929,7 @@
         }
       }
     },
-    "129": {
+    "128": {
       "placeID": "16134300856",
       "universeID": 5574836370,
       "gameData": {
@@ -17085,7 +16955,7 @@
         }
       }
     },
-    "130": {
+    "129": {
       "placeID": "16153231053",
       "universeID": 5580503028,
       "gameData": {
@@ -17111,7 +16981,7 @@
         }
       }
     },
-    "131": {
+    "130": {
       "placeID": "16131014192",
       "universeID": 5573814740,
       "gameData": {
@@ -17137,7 +17007,7 @@
         }
       }
     },
-    "132": {
+    "131": {
       "placeID": "16126312381",
       "universeID": 5572284952,
       "gameData": {
@@ -17163,7 +17033,7 @@
         }
       }
     },
-    "133": {
+    "132": {
       "placeID": "16126907264",
       "universeID": 5572462802,
       "gameData": {
@@ -17189,7 +17059,7 @@
         }
       }
     },
-    "134": {
+    "133": {
       "placeID": "16130457011",
       "universeID": 5573624596,
       "gameData": {
@@ -17215,7 +17085,7 @@
         }
       }
     },
-    "135": {
+    "134": {
       "placeID": "16132199194",
       "universeID": 5574188443,
       "gameData": {
@@ -17241,7 +17111,7 @@
         }
       }
     },
-    "136": {
+    "135": {
       "placeID": "13749134455",
       "universeID": 4770565999,
       "gameData": {
@@ -17267,7 +17137,7 @@
         }
       }
     },
-    "137": {
+    "136": {
       "placeID": "16127216322",
       "universeID": 5572561533,
       "gameData": {
@@ -17293,7 +17163,7 @@
         }
       }
     },
-    "138": {
+    "137": {
       "placeID": "16114283208",
       "universeID": 5568424634,
       "gameData": {
@@ -17319,7 +17189,7 @@
         }
       }
     },
-    "139": {
+    "138": {
       "placeID": "16153517941",
       "universeID": 5580584358,
       "gameData": {
@@ -17345,7 +17215,7 @@
         }
       }
     },
-    "140": {
+    "139": {
       "placeID": "16131820259",
       "universeID": 5574072280,
       "gameData": {
@@ -17371,7 +17241,7 @@
         }
       }
     },
-    "141": {
+    "140": {
       "placeID": "16129888855",
       "universeID": 5573433279,
       "gameData": {
@@ -17397,7 +17267,7 @@
         }
       }
     },
-    "142": {
+    "141": {
       "placeID": "16129948379",
       "universeID": 5573454110,
       "gameData": {
@@ -17423,7 +17293,7 @@
         }
       }
     },
-    "143": {
+    "142": {
       "placeID": "16128224709",
       "universeID": 5572892075,
       "gameData": {
@@ -17449,7 +17319,7 @@
         }
       }
     },
-    "144": {
+    "143": {
       "placeID": "16127606835",
       "universeID": 5572689792,
       "gameData": {
@@ -17475,7 +17345,7 @@
         }
       }
     },
-    "145": {
+    "144": {
       "placeID": "16152698135",
       "universeID": 5580350531,
       "gameData": {
@@ -17501,7 +17371,7 @@
         }
       }
     },
-    "146": {
+    "145": {
       "placeID": "16130961537",
       "universeID": 5573797218,
       "gameData": {
@@ -17527,7 +17397,7 @@
         }
       }
     },
-    "147": {
+    "146": {
       "placeID": "16126371318",
       "universeID": 5572301084,
       "gameData": {
@@ -17553,7 +17423,7 @@
         }
       }
     },
-    "148": {
+    "147": {
       "placeID": "16126346436",
       "universeID": 5572294537,
       "gameData": {
@@ -17579,7 +17449,7 @@
         }
       }
     },
-    "149": {
+    "148": {
       "placeID": "16127537343",
       "universeID": 5572666518,
       "gameData": {
@@ -17605,7 +17475,7 @@
         }
       }
     },
-    "150": {
+    "149": {
       "placeID": "12813038547",
       "universeID": 4486452283,
       "gameData": {
@@ -17631,7 +17501,7 @@
         }
       }
     },
-    "151": {
+    "150": {
       "placeID": "16126597216",
       "universeID": 5572366583,
       "gameData": {
@@ -17657,7 +17527,7 @@
         }
       }
     },
-    "152": {
+    "151": {
       "placeID": "16126256479",
       "universeID": 5572268573,
       "gameData": {
@@ -17683,7 +17553,7 @@
         }
       }
     },
-    "153": {
+    "152": {
       "placeID": "16137587139",
       "universeID": 5575816474,
       "gameData": {
@@ -17709,7 +17579,7 @@
         }
       }
     },
-    "154": {
+    "153": {
       "placeID": "16131354195",
       "universeID": 5573925186,
       "gameData": {
@@ -17735,7 +17605,7 @@
         }
       }
     },
-    "155": {
+    "154": {
       "placeID": "16130693436",
       "universeID": 5573704130,
       "gameData": {
@@ -17761,7 +17631,7 @@
         }
       }
     },
-    "156": {
+    "155": {
       "placeID": "16126577003",
       "universeID": 5572360877,
       "gameData": {
@@ -17787,7 +17657,7 @@
         }
       }
     },
-    "157": {
+    "156": {
       "placeID": "16131538653",
       "universeID": 5573983412,
       "gameData": {
@@ -17813,33 +17683,7 @@
         }
       }
     },
-    "158": {
-      "placeID": "16126206827",
-      "universeID": 5572255880,
-      "gameData": {
-        "title": "[TITLE UNAVAILABLE]",
-        "description": "[DESCRIPTION UNAVAILABLE]",
-        "stats": {
-          "Playing": 0,
-          "Visits": 0,
-          "Favorited": 0
-        },
-        "attributes": {
-          "Created": "0001-01-01T05:51:00Z",
-          "Updated": "0001-01-01T05:51:00Z",
-          "Genre": "All",
-          "GenreNew": "",
-          "SubGenreNew": "",
-          "MaxPlayers": 0
-        },
-        "Creator": {
-          "Name": "[UNKNOWN]",
-          "ID": 0,
-          "Type": "User"
-        }
-      }
-    },
-    "159": {
+    "157": {
       "placeID": "16145703406",
       "universeID": 5578173445,
       "gameData": {
@@ -17865,7 +17709,7 @@
         }
       }
     },
-    "160": {
+    "158": {
       "placeID": "16147298772",
       "universeID": 5578711022,
       "gameData": {
@@ -17891,33 +17735,7 @@
         }
       }
     },
-    "161": {
-      "placeID": "16145275694",
-      "universeID": 5578029965,
-      "gameData": {
-        "title": "A Wizard Tale",
-        "description": "This game was made in 48 hours (with coffee and no sleep!)\nWinner of Roblox Developer Challenge of 2024 for best use of tech\n",
-        "stats": {
-          "Playing": 0,
-          "Visits": 619,
-          "Favorited": 17
-        },
-        "attributes": {
-          "Created": "2024-01-28T04:13:10.497Z",
-          "Updated": "2024-02-23T18:55:47.317Z",
-          "Genre": "All",
-          "GenreNew": "",
-          "SubGenreNew": "",
-          "MaxPlayers": 1
-        },
-        "Creator": {
-          "Name": "IS para os íntimos",
-          "ID": 4658529,
-          "Type": "Group"
-        }
-      }
-    },
-    "162": {
+    "159": {
       "placeID": "16126208632",
       "universeID": 5572256310,
       "gameData": {
@@ -17943,7 +17761,7 @@
         }
       }
     },
-    "163": {
+    "160": {
       "placeID": "16128037933",
       "universeID": 5572828082,
       "gameData": {
@@ -18394,9 +18212,9 @@
         "title": "Nexus [Connect 2023 Winner]",
         "description": "Controls:\nQ switch dimension\nY Reset\nH Inspect weapon\nHold down mouse button to shoot\n\n(This is only a demo for chapter 1)\n- Huge Thank you to  ItzMrRatzP For updating this game to support mobile and console!\n\nGame Constraints: \n-This was was made in 10 days for the Roblox 2023 connect challenge. \nThe theme was \"Parallelism\".\nGame Description:\n-The game is a Dimensional FPS where you are tasked with completing various task throughout the facility in order to retrieve someone. Your bullet ricochets every time it hits a panel, and every ricochet causes the bullet to swap to another dimension. \nPINK PAINT on the floor is your FRIEND :D",
         "stats": {
-          "Playing": 2,
-          "Visits": 2225492,
-          "Favorited": 74820
+          "Playing": 0,
+          "Visits": 2225574,
+          "Favorited": 74821
         },
         "attributes": {
           "Created": "2023-07-28T20:04:50.47Z",
@@ -19072,9 +18890,9 @@
         "title": "Mayor Of Chain Town",
         "description": "Mayor of Chain Town was a game created during the 2023 Game Jam on Roblox based on the theme, \"Chain Reaction\". \nCredits:\n\nScripter - RjTheDev\nScripter - supergreatr299\nModeler - teddyraptor5\nBuilder - dinoboy5560\nComposer - Zacchary21\n\nMake sure to join the group on my profile '- Super Studios -'!",
         "stats": {
-          "Playing": 0,
-          "Visits": 2831495,
-          "Favorited": 32203
+          "Playing": 1,
+          "Visits": 2831507,
+          "Favorited": 32204
         },
         "attributes": {
           "Created": "2023-03-17T20:34:06.513Z",
@@ -19430,32 +19248,6 @@
       }
     },
     "27": {
-      "placeID": "12812732940",
-      "universeID": 4486363726,
-      "gameData": {
-        "title": "Domino Effect [GAME JAM]",
-        "description": "🎲ㆍDomino Effect, is a game that uses chain reaction to complete the stages that are present in it.\nThe goal is for you to start with 1 domino from the beginning (Green Zone) to the end (Red Zone), using Roblox's own physics and tools.\n\n👤ㆍThe game is singleplayer\n\n👾ㆍPersonal note from the developers:\n\nHello 2023 Challenge judges, we prepared this game with great care and dedication for you, I hope you like this game a lot, because we spent almost these 3 whole days making this game. We have positive energies for the final result. We've been developing some games for a long time on roblox, but this is our first Game-Jam.\n\nI hope you like it!!! 😜👍",
-        "stats": {
-          "Playing": 0,
-          "Visits": 86,
-          "Favorited": 2
-        },
-        "attributes": {
-          "Created": "2023-03-17T18:14:41.69Z",
-          "Updated": "2026-08-05T23:39:47.74Z",
-          "Genre": "All",
-          "GenreNew": "",
-          "SubGenreNew": "",
-          "MaxPlayers": 1
-        },
-        "Creator": {
-          "Name": "TeequisOficial",
-          "ID": 93363053,
-          "Type": "User"
-        }
-      }
-    },
-    "28": {
       "placeID": "12812883238",
       "universeID": 4486407711,
       "gameData": {
@@ -19481,7 +19273,7 @@
         }
       }
     },
-    "29": {
+    "28": {
       "placeID": "12812351554",
       "universeID": 4486253736,
       "gameData": {
@@ -19510,32 +19302,6 @@
   },
   "gameJam11": {
     "1": {
-      "placeID": "9009227085",
-      "universeID": 3394267985,
-      "gameData": {
-        "title": "Roblox Developer (Dream Challenge)",
-        "description": "No description",
-        "stats": {
-          "Playing": 0,
-          "Visits": 95,
-          "Favorited": 2
-        },
-        "attributes": {
-          "Created": "2022-03-05T03:08:48.4Z",
-          "Updated": "2022-03-14T01:37:07.643Z",
-          "Genre": "All",
-          "GenreNew": "",
-          "SubGenreNew": "",
-          "MaxPlayers": 6
-        },
-        "Creator": {
-          "Name": "karaisaac",
-          "ID": 358681244,
-          "Type": "User"
-        }
-      }
-    },
-    "2": {
       "placeID": "9007489592",
       "universeID": 3393778434,
       "gameData": {
@@ -19561,7 +19327,7 @@
         }
       }
     },
-    "3": {
+    "2": {
       "placeID": "9006331795",
       "universeID": 3393482389,
       "gameData": {
@@ -19587,7 +19353,7 @@
         }
       }
     },
-    "4": {
+    "3": {
       "placeID": "9067042344",
       "universeID": 3410720030,
       "gameData": {
@@ -19613,7 +19379,7 @@
         }
       }
     },
-    "5": {
+    "4": {
       "placeID": "9010881988",
       "universeID": 3394746033,
       "gameData": {
@@ -19639,7 +19405,7 @@
         }
       }
     },
-    "6": {
+    "5": {
       "placeID": "9011375291",
       "universeID": 3394892366,
       "gameData": {
@@ -19665,7 +19431,7 @@
         }
       }
     },
-    "7": {
+    "6": {
       "placeID": "9012888307",
       "universeID": 3395310520,
       "gameData": {
@@ -19691,7 +19457,7 @@
         }
       }
     },
-    "8": {
+    "7": {
       "placeID": "9006729666",
       "universeID": 3393588496,
       "gameData": {
@@ -19717,7 +19483,7 @@
         }
       }
     },
-    "9": {
+    "8": {
       "placeID": "9007089626",
       "universeID": 3393679411,
       "gameData": {
@@ -19743,7 +19509,7 @@
         }
       }
     },
-    "10": {
+    "9": {
       "placeID": "9015455873",
       "universeID": 3396029996,
       "gameData": {
@@ -19769,7 +19535,7 @@
         }
       }
     },
-    "11": {
+    "10": {
       "placeID": "9018548014",
       "universeID": 3396845018,
       "gameData": {
@@ -19795,7 +19561,7 @@
         }
       }
     },
-    "12": {
+    "11": {
       "placeID": "9017315805",
       "universeID": 3396541429,
       "gameData": {
@@ -19821,7 +19587,7 @@
         }
       }
     },
-    "13": {
+    "12": {
       "placeID": "9063637191",
       "universeID": 3409743952,
       "gameData": {
@@ -19847,7 +19613,7 @@
         }
       }
     },
-    "14": {
+    "13": {
       "placeID": "9039799235",
       "universeID": 3402681258,
       "gameData": {
@@ -19873,7 +19639,7 @@
         }
       }
     },
-    "15": {
+    "14": {
       "placeID": "9073848712",
       "universeID": 3412732597,
       "gameData": {
@@ -19899,7 +19665,7 @@
         }
       }
     },
-    "16": {
+    "15": {
       "placeID": "9034872145",
       "universeID": 3401286358,
       "gameData": {
@@ -19925,7 +19691,7 @@
         }
       }
     },
-    "17": {
+    "16": {
       "placeID": "9007398811",
       "universeID": 3393755896,
       "gameData": {
@@ -19951,7 +19717,7 @@
         }
       }
     },
-    "18": {
+    "17": {
       "placeID": "9007783718",
       "universeID": 3393856393,
       "gameData": {
@@ -19977,7 +19743,7 @@
         }
       }
     },
-    "19": {
+    "18": {
       "placeID": "9007302996",
       "universeID": 3393731999,
       "gameData": {
@@ -20003,7 +19769,7 @@
         }
       }
     },
-    "20": {
+    "19": {
       "placeID": "9069332945",
       "universeID": 3411457222,
       "gameData": {
@@ -20029,7 +19795,7 @@
         }
       }
     },
-    "21": {
+    "20": {
       "placeID": "9007844670",
       "universeID": 3393873120,
       "gameData": {
@@ -20055,7 +19821,7 @@
         }
       }
     },
-    "22": {
+    "21": {
       "placeID": "9020628985",
       "universeID": 3397358548,
       "gameData": {
@@ -20081,7 +19847,7 @@
         }
       }
     },
-    "23": {
+    "22": {
       "placeID": "9074400084",
       "universeID": 3412898433,
       "gameData": {
@@ -20107,7 +19873,7 @@
         }
       }
     },
-    "24": {
+    "23": {
       "placeID": "9005208326",
       "universeID": 3393161343,
       "gameData": {
@@ -20133,7 +19899,7 @@
         }
       }
     },
-    "25": {
+    "24": {
       "placeID": "9038745629",
       "universeID": 3402416628,
       "gameData": {
@@ -20159,7 +19925,7 @@
         }
       }
     },
-    "26": {
+    "25": {
       "placeID": "9066117201",
       "universeID": 3410431494,
       "gameData": {
@@ -20185,7 +19951,7 @@
         }
       }
     },
-    "27": {
+    "26": {
       "placeID": "9006457245",
       "universeID": 3393516863,
       "gameData": {
@@ -20211,7 +19977,7 @@
         }
       }
     },
-    "28": {
+    "27": {
       "placeID": "9006533068",
       "universeID": 3393537837,
       "gameData": {
@@ -20237,7 +20003,7 @@
         }
       }
     },
-    "29": {
+    "28": {
       "placeID": "9059223798",
       "universeID": 3408440205,
       "gameData": {
@@ -20263,7 +20029,7 @@
         }
       }
     },
-    "30": {
+    "29": {
       "placeID": "9050355483",
       "universeID": 3405766411,
       "gameData": {
@@ -20289,7 +20055,7 @@
         }
       }
     },
-    "31": {
+    "30": {
       "placeID": "9097297216",
       "universeID": 3419406670,
       "gameData": {
@@ -20315,7 +20081,7 @@
         }
       }
     },
-    "32": {
+    "31": {
       "placeID": "9057450349",
       "universeID": 3407914240,
       "gameData": {
@@ -20341,7 +20107,7 @@
         }
       }
     },
-    "33": {
+    "32": {
       "placeID": "9041517066",
       "universeID": 3403156888,
       "gameData": {
@@ -20367,7 +20133,7 @@
         }
       }
     },
-    "34": {
+    "33": {
       "placeID": "9006392689",
       "universeID": 3393498402,
       "gameData": {
@@ -20393,7 +20159,7 @@
         }
       }
     },
-    "35": {
+    "34": {
       "placeID": "9007314802",
       "universeID": 3393734853,
       "gameData": {
@@ -20419,7 +20185,7 @@
         }
       }
     },
-    "36": {
+    "35": {
       "placeID": "9005170966",
       "universeID": 3393148974,
       "gameData": {
@@ -20445,7 +20211,7 @@
         }
       }
     },
-    "37": {
+    "36": {
       "placeID": "9032097739",
       "universeID": 3400523239,
       "gameData": {
@@ -20471,7 +20237,7 @@
         }
       }
     },
-    "38": {
+    "37": {
       "placeID": "9098537389",
       "universeID": 3419799222,
       "gameData": {
@@ -20497,7 +20263,7 @@
         }
       }
     },
-    "39": {
+    "38": {
       "placeID": "9064681219",
       "universeID": 3410025707,
       "gameData": {
@@ -20523,7 +20289,7 @@
         }
       }
     },
-    "40": {
+    "39": {
       "placeID": "9047893545",
       "universeID": 3405083775,
       "gameData": {
@@ -20549,7 +20315,7 @@
         }
       }
     },
-    "41": {
+    "40": {
       "placeID": "9005267085",
       "universeID": 3393180894,
       "gameData": {
@@ -20575,7 +20341,7 @@
         }
       }
     },
-    "42": {
+    "41": {
       "placeID": "9056870881",
       "universeID": 3407753296,
       "gameData": {
@@ -20601,7 +20367,7 @@
         }
       }
     },
-    "43": {
+    "42": {
       "placeID": "9078172457",
       "universeID": 3371775820,
       "gameData": {
@@ -20627,7 +20393,7 @@
         }
       }
     },
-    "44": {
+    "43": {
       "placeID": "9061603350",
       "universeID": 3409184398,
       "gameData": {
@@ -20653,7 +20419,7 @@
         }
       }
     },
-    "45": {
+    "44": {
       "placeID": "9012959818",
       "universeID": 3395329546,
       "gameData": {
@@ -20679,7 +20445,7 @@
         }
       }
     },
-    "46": {
+    "45": {
       "placeID": "9007521845",
       "universeID": 3393786665,
       "gameData": {
@@ -20705,7 +20471,7 @@
         }
       }
     },
-    "47": {
+    "46": {
       "placeID": "9018883551",
       "universeID": 3396923380,
       "gameData": {
@@ -20731,7 +20497,7 @@
         }
       }
     },
-    "48": {
+    "47": {
       "placeID": "9006710730",
       "universeID": 3393583586,
       "gameData": {
@@ -20757,7 +20523,7 @@
         }
       }
     },
-    "49": {
+    "48": {
       "placeID": "9008929655",
       "universeID": 3394182823,
       "gameData": {
@@ -20765,7 +20531,7 @@
         "description": "A Game Jam Submission\r\n\r\nBy Guard303 and DARKEVATOR",
         "stats": {
           "Playing": 0,
-          "Visits": 2572298,
+          "Visits": 2572300,
           "Favorited": 49425
         },
         "attributes": {
@@ -20783,7 +20549,7 @@
         }
       }
     },
-    "50": {
+    "49": {
       "placeID": "9094201061",
       "universeID": 3418584004,
       "gameData": {
@@ -20809,7 +20575,7 @@
         }
       }
     },
-    "51": {
+    "50": {
       "placeID": "9011970859",
       "universeID": 3395058507,
       "gameData": {
@@ -20835,7 +20601,7 @@
         }
       }
     },
-    "52": {
+    "51": {
       "placeID": "9016311810",
       "universeID": 3396269806,
       "gameData": {
@@ -20861,7 +20627,7 @@
         }
       }
     },
-    "53": {
+    "52": {
       "placeID": "9102284496",
       "universeID": 3420988885,
       "gameData": {
@@ -20887,7 +20653,7 @@
         }
       }
     },
-    "54": {
+    "53": {
       "placeID": "9006010038",
       "universeID": 3393398184,
       "gameData": {
@@ -20913,7 +20679,7 @@
         }
       }
     },
-    "55": {
+    "54": {
       "placeID": "9038901673",
       "universeID": 3402458288,
       "gameData": {
@@ -20939,7 +20705,7 @@
         }
       }
     },
-    "56": {
+    "55": {
       "placeID": "9091069203",
       "universeID": 3417732310,
       "gameData": {
@@ -20965,7 +20731,7 @@
         }
       }
     },
-    "57": {
+    "56": {
       "placeID": "9007513539",
       "universeID": 3393784700,
       "gameData": {
@@ -20991,7 +20757,7 @@
         }
       }
     },
-    "58": {
+    "57": {
       "placeID": "9053920284",
       "universeID": 3406951378,
       "gameData": {
@@ -21017,7 +20783,7 @@
         }
       }
     },
-    "59": {
+    "58": {
       "placeID": "9058545095",
       "universeID": 3408226916,
       "gameData": {
@@ -21043,7 +20809,7 @@
         }
       }
     },
-    "60": {
+    "59": {
       "placeID": "9049354128",
       "universeID": 3405480779,
       "gameData": {
@@ -21069,7 +20835,7 @@
         }
       }
     },
-    "61": {
+    "60": {
       "placeID": "9006610260",
       "universeID": 3393558103,
       "gameData": {
@@ -21095,7 +20861,7 @@
         }
       }
     },
-    "62": {
+    "61": {
       "placeID": "9052460180",
       "universeID": 3406434790,
       "gameData": {
