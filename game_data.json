@@ -1,6 +1,6 @@
 {
   "defaultData": {
-    "lastUpdated": "2026-09-03T15:42:13.820Z",
+    "lastUpdated": "2026-09-03T20:25:53.206Z",
     "chalanceInfo": {
       "1": {
         "fullName": "Inspire 2026",
@@ -256,9 +256,9 @@
         "title": "Hide and Seek Prop Hunt",
         "description": "\"Hide and Seek Prop Hunt\" is a crazy combination of Hide And Seek and Prop Hunt!\n\n\n🔎 SEEKERS: Take your blasters and explore map trying to find all hiders! Be cautious — they could be anywhere!\n📦 HIDERS: Morph into props and hide as well as you can! Create chaos with clones of yourself to confuse seekers!\n\n🪙 Collect coins to buy new blasters!\n❤️ Like, favorite our game and join our group to get free blaster!\n\n\nTags: Hide and Seek, Prop Hunt, FPS, Knife, Hide N Seek, Hide and Die, Seekers, Hiders, Hide as props, Hide & Seek",
         "stats": {
-          "Playing": 10,
-          "Visits": 1753503,
-          "Favorited": 17959
+          "Playing": 0,
+          "Visits": 1753733,
+          "Favorited": 17961
         },
         "attributes": {
           "Created": "2025-11-30T20:30:51.477Z",
@@ -334,13 +334,13 @@
         "title": "Clevo World",
         "description": "No description",
         "stats": {
-          "Playing": 6,
-          "Visits": 52295,
+          "Playing": 2,
+          "Visits": 52337,
           "Favorited": 227
         },
         "attributes": {
           "Created": "2026-03-01T10:32:13.553Z",
-          "Updated": "2026-09-03T07:47:15.5418162Z",
+          "Updated": "2026-09-03T16:32:56.5254038Z",
           "Genre": "All",
           "GenreNew": "Simulation",
           "SubGenreNew": "Sandbox",
@@ -491,7 +491,7 @@
         "description": "Welcome to DEEPER! 🌊\n\n💎 Dive into the dark ocean and see how deep your crew can survive!\n🦑 Defend your submarine from terrifying deep-sea monsters!\n\n🔧 Keep your submarine running by repairing broken machines on the fly!\n💥 Man the turrets and blast incoming threats before they destroy the Reactor!\n\n🚩 Can you reach 10,000m of depth?\n\n[⚠️This game was made in 3 days solely for the Roblox Inspire 2026 Challenge⚠️]\n\nMade completely from scratch, using zero asset packs and only our OMECS Framework\n\nWinning is just the beginning!",
         "stats": {
           "Playing": 0,
-          "Visits": 631,
+          "Visits": 633,
           "Favorited": 37
         },
         "attributes": {
@@ -725,8 +725,8 @@
         "description": "🚋 TERMINUS 🚋 \n\nPut your survival skills to the test and try your best to escape this seemingly infinite train that will throw anything at you to ensure you don't. Features 6 unique entities, 45 upgrades, 32 room types, and INFINITE FUN!\n\nSubmission for ROBLOX Inspire 2026 Challenge, Made by:\n@LiamGame09\n@forleaveFR\n@Goober_ish\n@minecoiiiFR\n@DDkreep\n\nCredits:\nProgramSquid - Mesh Shape Pack V2\nbhristt - bezier curve module\nuglyburger0 and littlebird78 - MaterialFootsteps module\nsaythrts - Mega Pack vfx textures\nsleitnick - Camera Shaker and Observers\nloleris - ReplicaService and ProfileService\ncosmicalnight - Cosmics Textures",
         "stats": {
           "Playing": 0,
-          "Visits": 40178,
-          "Favorited": 1379
+          "Visits": 40234,
+          "Favorited": 1381
         },
         "attributes": {
           "Created": "2026-07-31T17:45:48.068Z",
@@ -1115,7 +1115,7 @@
         "description": "Made in 3 days for the Inspire 2026 Challenge\n\nIn Play GAME you play several minigames separated by cutscenes.\nThe theme of the Challenge was \"Winning is just the beginning\", so when a character wins a minigame it leads to some other character's minigame.\n\n\n(almost) All assets were made during the 72 hours of gamejam, here are the assets that were not:\n- Sleepy Cap\n- Classic Banana Peels\n- Old Man Hair\n- Taxi (interior)\n- Breaking Bad RV (by us)\n- Small Taxi (by us)\n- Elevator Model (by us)\n\n\nCredits:\nzbcrft: Scripting / Cutscenes\nYiga: Game Design / Scenery / 3D Modelling / Cutscenes\nWoshuabcd: Scripting / UI\nmangerfritos: Scenery / 3D Modelling",
         "stats": {
           "Playing": 0,
-          "Visits": 102,
+          "Visits": 104,
           "Favorited": 9
         },
         "attributes": {
@@ -4341,7 +4341,7 @@
         "description": "Welcome to Blackpole Protocol  🧲⚡\n\nThe Rule is Simple: If the magnets touch, you get a shock.\n\nPlease play with graphics quality set to max.\n\nBuilt entirely in just 72 hours for the Roblox Developer Challenge 2026, this game tests your steady hand and your nerves.\n\nExperience avaible only on PC.\n\n🎮 Controls: \n[Right Mouse Button] - Activate Right Magnet\n[Left Mouse Button] - Activate Left Magnet\n[C] - Slide",
         "stats": {
           "Playing": 0,
-          "Visits": 148,
+          "Visits": 149,
           "Favorited": 5
         },
         "attributes": {
@@ -5592,9 +5592,9 @@
         "title": "Light Work",
         "description": "Welcome to the world, Choop.\n \nLight work is a puzzle-platformer set in a post apocalyptic ice-age, you are here to save this world from the cold, with the light as your tool.\n \nMade for the Inspire 2025 Challenge and winner of the Best Technical Quality category!\n \nCredits: \n \nCrystalflxme: Programming, Building\nPotenchill: Programming, Building\nSheenyo: Modeling, Building, Composing, Art\nRox_N_Roll: Modeling, Building, Art\napoll3r: Art\nLocalization Support: HUFS LUDUS",
         "stats": {
-          "Playing": 0,
-          "Visits": 128492,
-          "Favorited": 18015
+          "Playing": 1,
+          "Visits": 128517,
+          "Favorited": 18016
         },
         "attributes": {
           "Created": "2025-08-09T23:22:24.913Z",
@@ -5768,6 +5768,32 @@
       }
     },
     "29": {
+      "placeID": "73267661122121",
+      "universeID": 8392797107,
+      "gameData": {
+        "title": "TELAMON COILS [INSPIRE 2025]",
+        "description": "[TELAMON COILS]\n\nis an obby with a touch of story, where Telamon wants to prove that coils are far more powerful than they seem, and that by mastering their abilities, you can achieve amazing things.\n\nYou will go through 6 levels, each granting you a new COIL ability:\n\nJump Coil\nSpeed Coil\nLife Coil\nSize Coil\nGravity Coil\nTime Coil\n\nWith each one, you’ll have to figure out clever ways to overcome the obbies designed by Telamon to challenge both you and your coil skills, we hope you enjoy it a lot!\n\n[Created for Inspire 2025]",
+        "stats": {
+          "Playing": 0,
+          "Visits": 99,
+          "Favorited": 7
+        },
+        "attributes": {
+          "Created": "2025-08-09T22:02:46.577Z",
+          "Updated": "2026-02-26T02:46:42.365Z",
+          "Genre": "All",
+          "GenreNew": "Obby & Platformer",
+          "SubGenreNew": "Classic Obby",
+          "MaxPlayers": 1
+        },
+        "Creator": {
+          "Name": "Bloxy World [DEVRELS]",
+          "ID": 839037132,
+          "Type": "Group"
+        }
+      }
+    },
+    "30": {
       "placeID": "79009487359931",
       "universeID": 8423681346,
       "gameData": {
@@ -5793,7 +5819,7 @@
         }
       }
     },
-    "30": {
+    "31": {
       "placeID": "95955367526377",
       "universeID": 8391238461,
       "gameData": {
@@ -5819,7 +5845,7 @@
         }
       }
     },
-    "31": {
+    "32": {
       "placeID": "87490532811268",
       "universeID": 8390884307,
       "gameData": {
@@ -5845,7 +5871,7 @@
         }
       }
     },
-    "32": {
+    "33": {
       "placeID": "132784866036275",
       "universeID": 8390680072,
       "gameData": {
@@ -5871,7 +5897,7 @@
         }
       }
     },
-    "33": {
+    "34": {
       "placeID": "128590815979530",
       "universeID": 8423289792,
       "gameData": {
@@ -5897,7 +5923,7 @@
         }
       }
     },
-    "34": {
+    "35": {
       "placeID": "130665712714798",
       "universeID": 8396472887,
       "gameData": {
@@ -5923,7 +5949,7 @@
         }
       }
     },
-    "35": {
+    "36": {
       "placeID": "76578051573274",
       "universeID": 8390809107,
       "gameData": {
@@ -5949,7 +5975,7 @@
         }
       }
     },
-    "36": {
+    "37": {
       "placeID": "114643693698513",
       "universeID": 8390972296,
       "gameData": {
@@ -5975,7 +6001,7 @@
         }
       }
     },
-    "37": {
+    "38": {
       "placeID": "129522477162080",
       "universeID": 7435543318,
       "gameData": {
@@ -6001,7 +6027,7 @@
         }
       }
     },
-    "38": {
+    "39": {
       "placeID": "124597397548131",
       "universeID": 8390822055,
       "gameData": {
@@ -6027,7 +6053,7 @@
         }
       }
     },
-    "39": {
+    "40": {
       "placeID": "116975698259085",
       "universeID": 8397294851,
       "gameData": {
@@ -6053,7 +6079,7 @@
         }
       }
     },
-    "40": {
+    "41": {
       "placeID": "115513136066545",
       "universeID": 8398604777,
       "gameData": {
@@ -6079,7 +6105,7 @@
         }
       }
     },
-    "41": {
+    "42": {
       "placeID": "88008138884368",
       "universeID": 8400241798,
       "gameData": {
@@ -6105,7 +6131,7 @@
         }
       }
     },
-    "42": {
+    "43": {
       "placeID": "129118912228998",
       "universeID": 8390691528,
       "gameData": {
@@ -6113,7 +6139,7 @@
         "description": "INSPIRE 2025 WINNER:🏆Best Overall Experience\nhttps://devforum.roblox.com/t/inspire-2025-challenge/3860029\nProject created in 86 hours for the Inspire 2025 Gamejam contest.\nThis is the full game, time of completion is between 15-30 minutes\n\n@Fabuss254 - Programmer\n@Friizti - Lead 3D Animator, Voice actor\n@kenami - UI Animator/Code, Additional Animator\n@GamaLowOff - Modeling, Lead Assets\n@EternityReality - Modeling, Lead Map\nwe own none of the SFX used in this project\n\nWSAD - Move\nC/CTRL - Sneak\nShift - Run\nE - Interact\nQ - Grapple\nP - Enable/Disable Godmode (cheat mode to complete the game faster)",
         "stats": {
           "Playing": 0,
-          "Visits": 62475,
+          "Visits": 62481,
           "Favorited": 5496
         },
         "attributes": {
@@ -6131,7 +6157,7 @@
         }
       }
     },
-    "43": {
+    "44": {
       "placeID": "124896810569253",
       "universeID": 8390719685,
       "gameData": {
@@ -6157,7 +6183,7 @@
         }
       }
     },
-    "44": {
+    "45": {
       "placeID": "124686846553604",
       "universeID": 8391237502,
       "gameData": {
@@ -6183,7 +6209,7 @@
         }
       }
     },
-    "45": {
+    "46": {
       "placeID": "139130515908319",
       "universeID": 8390764446,
       "gameData": {
@@ -6209,7 +6235,7 @@
         }
       }
     },
-    "46": {
+    "47": {
       "placeID": "70536887101230",
       "universeID": 8390670220,
       "gameData": {
@@ -6235,7 +6261,7 @@
         }
       }
     },
-    "47": {
+    "48": {
       "placeID": "96057469313256",
       "universeID": 8424500283,
       "gameData": {
@@ -6261,7 +6287,7 @@
         }
       }
     },
-    "48": {
+    "49": {
       "placeID": "134400740696755",
       "universeID": 8423149342,
       "gameData": {
@@ -6287,7 +6313,7 @@
         }
       }
     },
-    "49": {
+    "50": {
       "placeID": "127448355907200",
       "universeID": 8391050771,
       "gameData": {
@@ -6313,7 +6339,7 @@
         }
       }
     },
-    "50": {
+    "51": {
       "placeID": "89744289156397",
       "universeID": 8392807839,
       "gameData": {
@@ -6339,7 +6365,7 @@
         }
       }
     },
-    "51": {
+    "52": {
       "placeID": "87546221505784",
       "universeID": 8390668687,
       "gameData": {
@@ -6365,7 +6391,7 @@
         }
       }
     },
-    "52": {
+    "53": {
       "placeID": "84651950158606",
       "universeID": 8397212753,
       "gameData": {
@@ -6391,7 +6417,7 @@
         }
       }
     },
-    "53": {
+    "54": {
       "placeID": "119927111573861",
       "universeID": 8406617334,
       "gameData": {
@@ -6417,7 +6443,7 @@
         }
       }
     },
-    "54": {
+    "55": {
       "placeID": "92774023001755",
       "universeID": 8390717545,
       "gameData": {
@@ -6443,7 +6469,7 @@
         }
       }
     },
-    "55": {
+    "56": {
       "placeID": "104948081594100",
       "universeID": 8391514602,
       "gameData": {
@@ -6469,7 +6495,7 @@
         }
       }
     },
-    "56": {
+    "57": {
       "placeID": "107243517260577",
       "universeID": 8390773961,
       "gameData": {
@@ -6495,7 +6521,7 @@
         }
       }
     },
-    "57": {
+    "58": {
       "placeID": "130403193040541",
       "universeID": 8390796376,
       "gameData": {
@@ -6521,7 +6547,7 @@
         }
       }
     },
-    "58": {
+    "59": {
       "placeID": "111165238694210",
       "universeID": 8393457911,
       "gameData": {
@@ -6547,7 +6573,7 @@
         }
       }
     },
-    "59": {
+    "60": {
       "placeID": "131208496626535",
       "universeID": 8407321656,
       "gameData": {
@@ -6573,7 +6599,7 @@
         }
       }
     },
-    "60": {
+    "61": {
       "placeID": "129666626349917",
       "universeID": 8391215177,
       "gameData": {
@@ -6599,16 +6625,16 @@
         }
       }
     },
-    "61": {
+    "62": {
       "placeID": "97719631053849",
       "universeID": 8393350511,
       "gameData": {
         "title": "[ANNIVERSARY 🎉] Armless Detective",
         "description": "You lost both your arms in a tragic accident at your factory, but you've now been employed to work as a detective - an Armless Detective! Use your magic hat to assist you in your investigations, and bring justice to Robloxia!\n\nThird place winner for the 'Best Technical Quality' category of the ROBLOX Inspire 2025 Challenge\n\nJoin our group for a free face cosmetic! https://www.roblox.com/communities/946378404/Top-of-The-Barrel#!/about\n\nMade by:\n@LiamGame09\n@forleaveFR\n@Goober_ish\n@minecoiiiFR\n@kylecat11\n\nCredits:\nloleris - ReplicaService & ProfileService\nsleitnick - RbxUtil\nScarious, dthecoolest, iGottic - R6 IK Procedural Footplanting Module",
         "stats": {
-          "Playing": 187,
-          "Visits": 77926148,
-          "Favorited": 237644
+          "Playing": 174,
+          "Visits": 77938355,
+          "Favorited": 237667
         },
         "attributes": {
           "Created": "2025-08-09T23:27:09.127Z",
@@ -6625,7 +6651,7 @@
         }
       }
     },
-    "62": {
+    "63": {
       "placeID": "126341693436579",
       "universeID": 8390734085,
       "gameData": {
@@ -6651,7 +6677,7 @@
         }
       }
     },
-    "63": {
+    "64": {
       "placeID": "101973845425565",
       "universeID": 8393166201,
       "gameData": {
@@ -6677,7 +6703,7 @@
         }
       }
     },
-    "64": {
+    "65": {
       "placeID": "120507358143223",
       "universeID": 8395662930,
       "gameData": {
@@ -6703,7 +6729,7 @@
         }
       }
     },
-    "65": {
+    "66": {
       "placeID": "79118539278043",
       "universeID": 8395136088,
       "gameData": {
@@ -6729,7 +6755,7 @@
         }
       }
     },
-    "66": {
+    "67": {
       "placeID": "124164402253726",
       "universeID": 8418683877,
       "gameData": {
@@ -6755,7 +6781,7 @@
         }
       }
     },
-    "67": {
+    "68": {
       "placeID": "133386244907188",
       "universeID": 8391882942,
       "gameData": {
@@ -6781,7 +6807,7 @@
         }
       }
     },
-    "68": {
+    "69": {
       "placeID": "132624527472993",
       "universeID": 8390897287,
       "gameData": {
@@ -6807,7 +6833,7 @@
         }
       }
     },
-    "69": {
+    "70": {
       "placeID": "111852446316315",
       "universeID": 8393905403,
       "gameData": {
@@ -7489,24 +7515,24 @@
       "placeID": "105473820232108",
       "universeID": 7211030291,
       "gameData": {
-        "title": "[TITLE UNAVAILABLE]",
-        "description": "[DESCRIPTION UNAVAILABLE]",
+        "title": "UNREALITY",
+        "description": "After a long gaming night session, you decided to go to sleep, and it turns out to be the worst decision of your life.\n[WARNING: UNREALITY may not render correctly on your device. Please use max graphic quality to prevent this from happening.]\n\n🔨 Created by Bell (@Lee_TheBird) and Cr1s (@Cr1sOnTop).\n🏆 Made in 3 days for Roblox Developer Challenge 2025.",
         "stats": {
           "Playing": 0,
-          "Visits": 0,
-          "Favorited": 0
+          "Visits": 121,
+          "Favorited": 2
         },
         "attributes": {
-          "Created": "0001-01-01T05:51:00Z",
-          "Updated": "0001-01-01T05:51:00Z",
+          "Created": "2025-02-08T03:50:30.397Z",
+          "Updated": "2025-02-12T11:13:56.647Z",
           "Genre": "All",
-          "GenreNew": "",
-          "SubGenreNew": "",
-          "MaxPlayers": 0
+          "GenreNew": "Puzzle",
+          "SubGenreNew": "Escape Room",
+          "MaxPlayers": 1
         },
         "Creator": {
-          "Name": "[UNKNOWN]",
-          "ID": 0,
+          "Name": "Lee_TheBird",
+          "ID": 4728898272,
           "Type": "User"
         }
       }
@@ -7905,24 +7931,24 @@
       "placeID": "115816561529160",
       "universeID": 7211945837,
       "gameData": {
-        "title": "[TITLE UNAVAILABLE]",
-        "description": "[DESCRIPTION UNAVAILABLE]",
+        "title": "404: REALITY NOT FOUND",
+        "description": "[Shift to run]\n\nJust another day in your little town!.. or is it?\nEveryday your head hurts more and more, making you go to sleep and wake up in the middle of the night.\nEveryday you get a sense of dread, as you watch your world... corrupt?\nAnd why is the local swordman talking about defeating \"The Core\"..? What is the core??\n\nmade for the 2025 roblox gamejam lol\n\n@Expertiz7 : man of ideas, guy who recorded the last voiceline, playtester\n@RaptorLego11 ; @drymczok : Builders\n@PainMiseryAgony : Artist\n@CR33P3R_945 : lead dev (scripter, music composer, animator)",
         "stats": {
           "Playing": 0,
-          "Visits": 0,
+          "Visits": 36,
           "Favorited": 0
         },
         "attributes": {
-          "Created": "0001-01-01T05:51:00Z",
-          "Updated": "0001-01-01T05:51:00Z",
+          "Created": "2025-02-08T07:54:10.083Z",
+          "Updated": "2025-07-13T21:43:20.347Z",
           "Genre": "All",
           "GenreNew": "",
           "SubGenreNew": "",
-          "MaxPlayers": 0
+          "MaxPlayers": 1
         },
         "Creator": {
-          "Name": "[UNKNOWN]",
-          "ID": 0,
+          "Name": "CR33P3R_945",
+          "ID": 1772876789,
           "Type": "User"
         }
       }
@@ -8477,24 +8503,24 @@
       "placeID": "81829706093461",
       "universeID": 7209969269,
       "gameData": {
-        "title": "[TITLE UNAVAILABLE]",
-        "description": "[DESCRIPTION UNAVAILABLE]",
+        "title": "Maniacal-John",
+        "description": "[ROBLOX DEVELOPER CHALLENGE 2025]\nYour name is John Reed.\n\nYou are on a mission of blood, blood of R.A.A.H\n\nGo in to Roblox and break the A.I R.A.A.H",
         "stats": {
           "Playing": 0,
-          "Visits": 0,
-          "Favorited": 0
+          "Visits": 90,
+          "Favorited": 6
         },
         "attributes": {
-          "Created": "0001-01-01T05:51:00Z",
-          "Updated": "0001-01-01T05:51:00Z",
+          "Created": "2025-02-07T23:08:21.097Z",
+          "Updated": "2026-06-04T18:48:02.08Z",
           "Genre": "All",
           "GenreNew": "",
           "SubGenreNew": "",
-          "MaxPlayers": 0
+          "MaxPlayers": 1
         },
         "Creator": {
-          "Name": "[UNKNOWN]",
-          "ID": 0,
+          "Name": "luauRBX",
+          "ID": 7354280707,
           "Type": "User"
         }
       }
@@ -8841,24 +8867,24 @@
       "placeID": "117043177174983",
       "universeID": 7210023591,
       "gameData": {
-        "title": "[TITLE UNAVAILABLE]",
-        "description": "[DESCRIPTION UNAVAILABLE]",
+        "title": "TIME LOOP ⌚",
+        "description": "An intern for a Research Lab is stuck in a Time Loop. The goal? Figure out how to prevent the Core from exploding and end the infinite cycle.\n\n🛠️ Made for the Roblox Developer Challenge 2025\n❓ Theme: Break the System\n\n⭐ Team Members:\n- @Azutreo - Programming\n- @Sayersooth - Programming\n- @Guy_Awe - Building\n- @FlaruaYatua - Building\n- @whoops_2008 - Sound Design\n\n🏆 How to Win:\n1. Choose \"Unlimited Energy\" as your Research\n2. Bring Attention to Error in Particle Accelerator Server Room\n3. Volunteer to Help With Immortality\n4. Turn On Particle Accelerator\n5. Enter Core Room and Remove Core",
         "stats": {
           "Playing": 0,
-          "Visits": 0,
+          "Visits": 35,
           "Favorited": 0
         },
         "attributes": {
-          "Created": "0001-01-01T05:51:00Z",
-          "Updated": "0001-01-01T05:51:00Z",
+          "Created": "2025-02-07T23:24:54.32Z",
+          "Updated": "2025-02-10T22:50:35.603Z",
           "Genre": "All",
           "GenreNew": "",
           "SubGenreNew": "",
-          "MaxPlayers": 0
+          "MaxPlayers": 1
         },
         "Creator": {
-          "Name": "[UNKNOWN]",
-          "ID": 0,
+          "Name": "sudo rm -rf /",
+          "ID": 35597411,
           "Type": "Group"
         }
       }
@@ -8945,24 +8971,24 @@
       "placeID": "117219760805800",
       "universeID": 7210765744,
       "gameData": {
-        "title": "[TITLE UNAVAILABLE]",
-        "description": "[DESCRIPTION UNAVAILABLE]",
+        "title": "Freewill [2025 Developer Challenge]",
+        "description": "This game was created for the 2025 Developer Challenge!\n\n[@flobberdart] Scripting, Building, Writing\n[@LunarUIStudios] UI Design\n[@euanthegamer21] Voice Acting\n\nFreewill is a short game about choices. You are a dummy rig, spawned in for testing. When prompted with a choice, what will you do? Will you disrupt the brilliant work of the British narrator, or will you follow along? The choice is yours.\n\n(Due to bug I recommend rejoining if you are going for multiple endings in one play session!)\n(Sorry if you run into any bugs, the game was made in 3 days. Let us know what you think!)",
         "stats": {
           "Playing": 0,
-          "Visits": 0,
-          "Favorited": 0
+          "Visits": 178,
+          "Favorited": 8
         },
         "attributes": {
-          "Created": "0001-01-01T05:51:00Z",
-          "Updated": "0001-01-01T05:51:00Z",
+          "Created": "2025-02-08T02:43:12.673Z",
+          "Updated": "2025-11-28T20:00:36.827Z",
           "Genre": "All",
           "GenreNew": "",
           "SubGenreNew": "",
-          "MaxPlayers": 0
+          "MaxPlayers": 1
         },
         "Creator": {
-          "Name": "[UNKNOWN]",
-          "ID": 0,
+          "Name": "Fishbone Studios",
+          "ID": 34795694,
           "Type": "Group"
         }
       }
@@ -9599,7 +9625,7 @@
         "description": "Game created under 72 hours for Roblox Developer Challenge 2025\n\nCredits: just 5 developers",
         "stats": {
           "Playing": 0,
-          "Visits": 114,
+          "Visits": 117,
           "Favorited": 1
         },
         "attributes": {
@@ -10847,7 +10873,7 @@
         "description": "reason 2 die epic edition is a zombie shooter where u have a reason to survive\nthis game's version is version 15 from the og\n\nthis game is in the process of converting to FE",
         "stats": {
           "Playing": 0,
-          "Visits": 1769,
+          "Visits": 1772,
           "Favorited": 93
         },
         "attributes": {
@@ -11002,9 +11028,9 @@
         "title": "Let Him Go",
         "description": "\"And waking up again, this cycle repeats itself time after time.\nStop the feeling, overcome it, and let go. Can you handle it?\"\n\nA short psychological story about loss and empathy\n\n[CREDITS]\nFounder: Foxbox226\nDevelopers: Marat198017, 1Maks_Play, Alinnaria, rrxllx, OSG3141\n\nWARNING | Game will contain vivid images and sharp unrecognizable sounds, scenes of violence and a demonstration of blood.",
         "stats": {
-          "Playing": 69,
-          "Visits": 22878422,
-          "Favorited": 739487
+          "Playing": 80,
+          "Visits": 22880437,
+          "Favorited": 739546
         },
         "attributes": {
           "Created": "2024-11-25T12:20:47.987Z",
@@ -11105,24 +11131,24 @@
       "placeID": "135117039113438",
       "universeID": 6663090762,
       "gameData": {
-        "title": "[TITLE UNAVAILABLE]",
-        "description": "[DESCRIPTION UNAVAILABLE]",
+        "title": "An enigmatic Attic",
+        "description": "R to reload battery into flashlight\n\nIn the middle of the night, you hear a faint chime from the corridor.\nYou decide to go investigate. Turns out, the trapdoor to the hotel's attic is open.\nSOMETHING WICKED THIS WAY COMES.\nYOU CAN ONLY GO FORWARD.\nTHE PLACE SEEMS UNENDING,\nYET YOU KNOW YOU MUST KEEP GOING AS FAR AS YOU CAN,\nUNTIL YOUR INEVITABLE FAILURE\nAND THAT YOUR ONLY RULE.\nIS TO.\nM A K E  H A S T E .",
         "stats": {
           "Playing": 0,
-          "Visits": 0,
-          "Favorited": 0
+          "Visits": 82,
+          "Favorited": 2
         },
         "attributes": {
-          "Created": "0001-01-01T05:51:00Z",
-          "Updated": "0001-01-01T05:51:00Z",
+          "Created": "2024-10-11T16:40:24.043Z",
+          "Updated": "2025-09-10T15:54:40.163Z",
           "Genre": "All",
           "GenreNew": "",
           "SubGenreNew": "",
-          "MaxPlayers": 0
+          "MaxPlayers": 50
         },
         "Creator": {
-          "Name": "[UNKNOWN]",
-          "ID": 0,
+          "Name": "CR33P3R_945",
+          "ID": 1772876789,
           "Type": "User"
         }
       }
@@ -11497,24 +11523,24 @@
       "placeID": "10323349112",
       "universeID": 3773346234,
       "gameData": {
-        "title": "[TITLE UNAVAILABLE]",
-        "description": "[DESCRIPTION UNAVAILABLE]",
+        "title": "Apartment Nightmare",
+        "description": "This is for the Connect 2022 Game Jam! Good luck to everyone participating!\r\n\r\nYou and your friend decided to explore an old apartment. You both found an elevator and decided to go to the third floor. Instead, the elevator plummets down and separates you and your friend into different basements. Will you both be able to communicate clearly and quickly in five minutes or less so both of your lives can be saved?\r\n\r\nScrambling and telling code, asking people to press buttons so you can continue to take on the next obstacle, this fast-paced game is perfect for communicating and establishing long friendships.\r\n\r\nWhy does this sound kind of like the game doors?",
         "stats": {
           "Playing": 0,
-          "Visits": 0,
-          "Favorited": 0
+          "Visits": 317,
+          "Favorited": 7
         },
         "attributes": {
-          "Created": "0001-01-01T05:51:00Z",
-          "Updated": "0001-01-01T05:51:00Z",
+          "Created": "2022-07-23T00:03:24.363Z",
+          "Updated": "2025-09-22T15:12:46.063Z",
           "Genre": "All",
           "GenreNew": "",
           "SubGenreNew": "",
-          "MaxPlayers": 0
+          "MaxPlayers": 2
         },
         "Creator": {
-          "Name": "[UNKNOWN]",
-          "ID": 0,
+          "Name": "FlashBolt Studios",
+          "ID": 5124692,
           "Type": "Group"
         }
       }
@@ -12277,24 +12303,24 @@
       "placeID": "18892263944",
       "universeID": 6398811306,
       "gameData": {
-        "title": "[TITLE UNAVAILABLE]",
-        "description": "[DESCRIPTION UNAVAILABLE]",
+        "title": "Pizza Time!",
+        "description": "Special delivery! Help Miss Dhed Line travel across time to deliver pizza!\n\nMade for the Roblox Inspire 2024 Challenge, the theme of the jam is \"time is your enemy!\"\n\n@3210brian - 3D Artist\n@apolI3r - 2D Artist, Animator\n@Greeism - 3D Artist\n@IcyyDicy - Programming\n@Potenchill - Programming",
         "stats": {
           "Playing": 0,
-          "Visits": 0,
+          "Visits": 109,
           "Favorited": 0
         },
         "attributes": {
-          "Created": "0001-01-01T05:51:00Z",
-          "Updated": "0001-01-01T05:51:00Z",
+          "Created": "2024-08-10T17:18:38.76Z",
+          "Updated": "2024-08-13T16:57:00.237Z",
           "Genre": "All",
           "GenreNew": "",
           "SubGenreNew": "",
-          "MaxPlayers": 0
+          "MaxPlayers": 1
         },
         "Creator": {
-          "Name": "[UNKNOWN]",
-          "ID": 0,
+          "Name": "In Blockage Sights",
+          "ID": 34773808,
           "Type": "Group"
         }
       }
@@ -13061,7 +13087,7 @@
         "description": "Roblox released an update a while back which broke many existing UnionOperation objects. Due to this, many map assets have been transformed into dull gray blocks. However, the game should still be fully playable.\r\n\r\nAs this is an old game, I've also uncopylocked it! You can copy it if you like, and make something of your own with it. However, this place is just the lobby. If you're looking for the actual dungeon (with gameplay), it's linked here:\r\nhttps://www.roblox.com/games/477622292\r\n\r\nWhether you play or make with this, enjoy your nostalgia.",
         "stats": {
           "Playing": 0,
-          "Visits": 27200421,
+          "Visits": 27200422,
           "Favorited": 381960
         },
         "attributes": {
@@ -13118,7 +13144,7 @@
         },
         "attributes": {
           "Created": "2024-08-10T17:03:04.327Z",
-          "Updated": "2026-09-02T19:42:53.1030614Z",
+          "Updated": "2026-09-03T18:54:19.4609847Z",
           "Genre": "All",
           "GenreNew": "",
           "SubGenreNew": "",
@@ -13681,24 +13707,24 @@
       "placeID": "18907623162",
       "universeID": 6404273456,
       "gameData": {
-        "title": "[TITLE UNAVAILABLE]",
-        "description": "[DESCRIPTION UNAVAILABLE]",
+        "title": "Lost in Time | Roblox Inspire 2024 | DESCRIPTION",
+        "description": "Please read whole description.\n\nThe game \"Lost in TIME\" created in 3 (in reality 2) days for the Inspire 2024 Challenge.\n\nThis game has bugs. Those are small bugs, but it makes you unable to finish the game. Unfortunately we found Inspire event too late and started our work on it one day after it has started. If we had one more hour, we could get rid of bugs. If you would like to see how the whole game should look like without bugs please visit place:\n\nhttps://www.roblox.com/games/18942624810\n\nChanges from the original are just a few very small fixes, to be exact it was 10 lines of code added and 12 removed. If we had started with other participants, this would be the final version (or better!!)\n\nYou can even see that we started a day later in the creation date. \n\nFor JURY - please consider everything written above and enjoy the gameplay :D\nPlease check both versions so you see whole map and enjoy full gameplay!\n\nProgramming | pazdanmichal2\nLevel design and Environment art | hEcros_415",
         "stats": {
           "Playing": 0,
-          "Visits": 0,
-          "Favorited": 0
+          "Visits": 38,
+          "Favorited": 2
         },
         "attributes": {
-          "Created": "0001-01-01T05:51:00Z",
-          "Updated": "0001-01-01T05:51:00Z",
+          "Created": "2024-08-11T17:03:04.597Z",
+          "Updated": "2026-04-01T19:44:58.627Z",
           "Genre": "All",
           "GenreNew": "",
           "SubGenreNew": "",
-          "MaxPlayers": 0
+          "MaxPlayers": 1
         },
         "Creator": {
-          "Name": "[UNKNOWN]",
-          "ID": 0,
+          "Name": "hEcros_415",
+          "ID": 276185905,
           "Type": "User"
         }
       }
@@ -13738,9 +13764,9 @@
         "title": "Psychis",
         "description": "Psychis.\nIt means \"SOUL\" in Greek.\n\nKeybinds: They are listed in-game in the options tab within the main menu. \n\nPsychis is currently in its revamp stage. Let us know about any bugs if they come up.",
         "stats": {
-          "Playing": 1,
-          "Visits": 1872730,
-          "Favorited": 29831
+          "Playing": 0,
+          "Visits": 1872734,
+          "Favorited": 29829
         },
         "attributes": {
           "Created": "2022-09-25T22:35:58.843Z",
@@ -14076,9 +14102,9 @@
         "title": "Prototype",
         "description": "Welcome to my brand new game :D !!!!\nBest game of 2024 now in early development.\nCome Test out the game!! New FEATURES!!!\n____________________________________\n(Previously known as Game [W.I.P.])\n(This game has 2 Endings)\n(This game was made for RDC:2024  In 48 hours)\nTheme: Unexpected Development\n\nCredits\n_____________________________________\n- Accessibility Updates - ItzMrRatzP\n- Code by: DylWithIt, Robogojo, Dodman531\n- GUI and voice acting by: Dodman531\n- All Models, Textures & Map by: 2Tye\n\nPremade Assets\n- Sounds provided by the Roblox toolbox  (Roblox)\n- Character animations (Robo & Dod)\n- The sound bob makes and reset sound (Dodman531)\n- Parts of the parkour system (Robo)\n- The Ortho Games Framework (By Ortho Games)",
         "stats": {
-          "Playing": 2,
-          "Visits": 4783317,
-          "Favorited": 176461
+          "Playing": 1,
+          "Visits": 4783446,
+          "Favorited": 176466
         },
         "attributes": {
           "Created": "2024-01-27T00:43:12.897Z",
@@ -14515,24 +14541,24 @@
       "placeID": "16126265731",
       "universeID": 5572271178,
       "gameData": {
-        "title": "[TITLE UNAVAILABLE]",
-        "description": "[DESCRIPTION UNAVAILABLE]",
+        "title": "The Lab",
+        "description": "Made for the Roblox Developer Challenge 2024. Your must use the computer and the other lab equipment in order to complete your tasks. Created by Sardiception, agentcole1, and 27_0Glocks.",
         "stats": {
           "Playing": 0,
-          "Visits": 0,
-          "Favorited": 0
+          "Visits": 63,
+          "Favorited": 6
         },
         "attributes": {
-          "Created": "0001-01-01T05:51:00Z",
-          "Updated": "0001-01-01T05:51:00Z",
-          "Genre": "All",
+          "Created": "2024-01-26T23:05:58.293Z",
+          "Updated": "2024-01-28T23:31:59.097Z",
+          "Genre": "Sci-Fi",
           "GenreNew": "",
           "SubGenreNew": "",
-          "MaxPlayers": 0
+          "MaxPlayers": 1
         },
         "Creator": {
-          "Name": "[UNKNOWN]",
-          "ID": 0,
+          "Name": "agentcole1",
+          "ID": 25557640,
           "Type": "User"
         }
       }
@@ -14701,7 +14727,7 @@
         "description": "An asymmetrical multiplayer game intended for 3-5 players!\n1-3 Modes Enabled for accessibility\n\nAs a bug, your duty will be to confront the dev and reach the backdoor!\nAs a dev, you'll have to stop them from doing that with all your arsenal at dispose!\n\nControls [BUG]\nWASD - Movement\nSpace - Double Jump\n\nControls [DEV]\nWASD - Movement\nLeftClick - Select tool\nRightClick - Hammer (Use it in fragile tiles to break them for longer)\nF - Pillar\nQ/E - Hands\n\nDev Team:\nSagaStars - Scripting/UI/Animation\nSoreku - Builder/VFX/Modeler\nsmoothfreak - Builder/Modeler\nAxermis - VFX/Decals\nRepollito789 - Design/SFX",
         "stats": {
           "Playing": 0,
-          "Visits": 290,
+          "Visits": 291,
           "Favorited": 12
         },
         "attributes": {
@@ -16023,24 +16049,24 @@
       "placeID": "16126236118",
       "universeID": 5572263109,
       "gameData": {
-        "title": "[TITLE UNAVAILABLE]",
-        "description": "[DESCRIPTION UNAVAILABLE]",
+        "title": "Showtime",
+        "description": "Our submission for the 2024 developer challenge",
         "stats": {
           "Playing": 0,
-          "Visits": 0,
-          "Favorited": 0
+          "Visits": 16,
+          "Favorited": 1
         },
         "attributes": {
-          "Created": "0001-01-01T05:51:00Z",
-          "Updated": "0001-01-01T05:51:00Z",
+          "Created": "2024-01-26T23:02:50.927Z",
+          "Updated": "2024-09-19T09:59:24.02Z",
           "Genre": "All",
           "GenreNew": "",
           "SubGenreNew": "",
-          "MaxPlayers": 0
+          "MaxPlayers": 50
         },
         "Creator": {
-          "Name": "[UNKNOWN]",
-          "ID": 0,
+          "Name": "HiireKlops48",
+          "ID": 681439367,
           "Type": "User"
         }
       }
@@ -16101,24 +16127,24 @@
       "placeID": "16126419038",
       "universeID": 5572314606,
       "gameData": {
-        "title": "[TITLE UNAVAILABLE]",
-        "description": "[DESCRIPTION UNAVAILABLE]",
+        "title": "Pizzakour!",
+        "description": "i regret making this game.\ni learned absolutely nothing making this game. and it was just a massive waste of time.\n\n\nMade for Roblox Developer Challenge 2024.\n\nA game where you deliver pizza and do parkour at the same time, did I forget to say competitively as well? you and your friends can compete with each other in parkour and see who can deliver the most pizzas! Have fun and don't fall!\n\nThere may also be some unexpected gadgets, so look out for them! 👀\n\nControls: \nHold space on a wall mid air to wall run, and let go of space to jump off the wall.\nHold space on a truss to truss jump\nTap space on the ledge of an object or building to vault!\n\nRemember the longer you run the faster and higher you can jump!\n\n\nBrought to you by \nTommy_Catz (Scripter, UI)\niNexesi (Scripter, Builder) \nPat_WasTaken (Builder, VFX)\n",
         "stats": {
           "Playing": 0,
-          "Visits": 0,
-          "Favorited": 0
+          "Visits": 144,
+          "Favorited": 2
         },
         "attributes": {
-          "Created": "0001-01-01T05:51:00Z",
-          "Updated": "0001-01-01T05:51:00Z",
+          "Created": "2024-01-26T23:22:37.777Z",
+          "Updated": "2025-11-12T07:09:53.487Z",
           "Genre": "All",
           "GenreNew": "",
           "SubGenreNew": "",
-          "MaxPlayers": 0
+          "MaxPlayers": 50
         },
         "Creator": {
-          "Name": "[UNKNOWN]",
-          "ID": 0,
+          "Name": "Tommy_Catz",
+          "ID": 157372620,
           "Type": "User"
         }
       }
@@ -16153,24 +16179,24 @@
       "placeID": "16126501315",
       "universeID": 5572338513,
       "gameData": {
-        "title": "[TITLE UNAVAILABLE]",
-        "description": "[DESCRIPTION UNAVAILABLE]",
+        "title": "The Flight",
+        "description": "No description",
         "stats": {
           "Playing": 0,
-          "Visits": 0,
-          "Favorited": 0
+          "Visits": 63,
+          "Favorited": 7
         },
         "attributes": {
-          "Created": "0001-01-01T05:51:00Z",
-          "Updated": "0001-01-01T05:51:00Z",
+          "Created": "2024-01-26T23:31:41.42Z",
+          "Updated": "2024-01-28T23:58:42.607Z",
           "Genre": "All",
           "GenreNew": "",
           "SubGenreNew": "",
-          "MaxPlayers": 0
+          "MaxPlayers": 50
         },
         "Creator": {
-          "Name": "[UNKNOWN]",
-          "ID": 0,
+          "Name": "Defend_RBLX",
+          "ID": 1095170312,
           "Type": "User"
         }
       }
@@ -16651,7 +16677,7 @@
         "description": "A game about writing a letter to an old friend.\n\nControl with WASD.\nRoblox Developer Challenge 2024.",
         "stats": {
           "Playing": 0,
-          "Visits": 25388,
+          "Visits": 25389,
           "Favorited": 2573
         },
         "attributes": {
@@ -18105,24 +18131,24 @@
       "placeID": "14225402013",
       "universeID": 4921135757,
       "gameData": {
-        "title": "[TITLE UNAVAILABLE]",
-        "description": "[DESCRIPTION UNAVAILABLE]",
+        "title": "Galactic Corp. (Fork N’ Join) - 2nd Place Winner",
+        "description": "Connect 2023 Game submission\n\n(Update)\n\n- We have officially placed 2nd with unique concept, thank you for enjoying our game submission!\n\n-Concept-\nGalactic Corp. is based on parallel processing. Our take on this theme allows a regular character to divide in half as well as into quarters. These divisions are used to achieve certain goals.\n\n-How to play-\nKey-binds listed in experience\n\n-Inspiration-\nOur submission is inspired by 2 player obstacle courses. Our single player game takes ideas from regular 2 player games but instead of the use of other players, you are able to divide your character into separate sections.\n\n\n\n\n",
         "stats": {
           "Playing": 0,
-          "Visits": 0,
-          "Favorited": 0
+          "Visits": 200,
+          "Favorited": 6
         },
         "attributes": {
-          "Created": "0001-01-01T05:51:00Z",
-          "Updated": "0001-01-01T05:51:00Z",
+          "Created": "2023-07-28T14:56:05.46Z",
+          "Updated": "2026-06-03T23:18:44.632Z",
           "Genre": "All",
           "GenreNew": "",
           "SubGenreNew": "",
-          "MaxPlayers": 0
+          "MaxPlayers": 2
         },
         "Creator": {
-          "Name": "[UNKNOWN]",
-          "ID": 0,
+          "Name": "ADT Game Jammers",
+          "ID": 11238925,
           "Type": "Group"
         }
       }
@@ -18183,24 +18209,24 @@
       "placeID": "14312758459",
       "universeID": 4948654017,
       "gameData": {
-        "title": "[TITLE UNAVAILABLE]",
-        "description": "[DESCRIPTION UNAVAILABLE]",
+        "title": "Wavelength",
+        "description": "Wavelength is a puzzle obby hybrid about manipulating the color spectrum. Shifting between color views is crucial to navigating this games five unique levels. Players can also view important elements in Infrared View.\n\nControls:\nR - Red color view\nG - Green color view\nB - Blue color view\nN - Normal view\nI - Infrared view\n\nThis game does not support mobile devices",
         "stats": {
           "Playing": 0,
-          "Visits": 0,
-          "Favorited": 0
+          "Visits": 94,
+          "Favorited": 5
         },
         "attributes": {
-          "Created": "0001-01-01T05:51:00Z",
-          "Updated": "0001-01-01T05:51:00Z",
+          "Created": "2023-08-04T14:23:55.667Z",
+          "Updated": "2023-08-07T14:57:48.613Z",
           "Genre": "All",
           "GenreNew": "",
           "SubGenreNew": "",
-          "MaxPlayers": 0
+          "MaxPlayers": 1
         },
         "Creator": {
-          "Name": "[UNKNOWN]",
-          "ID": 0,
+          "Name": "Enigma Game Studios",
+          "ID": 14571512,
           "Type": "Group"
         }
       }
@@ -18369,7 +18395,7 @@
         "description": "Controls:\nQ switch dimension\nY Reset\nH Inspect weapon\nHold down mouse button to shoot\n\n(This is only a demo for chapter 1)\n- Huge Thank you to  ItzMrRatzP For updating this game to support mobile and console!\n\nGame Constraints: \n-This was was made in 10 days for the Roblox 2023 connect challenge. \nThe theme was \"Parallelism\".\nGame Description:\n-The game is a Dimensional FPS where you are tasked with completing various task throughout the facility in order to retrieve someone. Your bullet ricochets every time it hits a panel, and every ricochet causes the bullet to swap to another dimension. \nPINK PAINT on the floor is your FRIEND :D",
         "stats": {
           "Playing": 0,
-          "Visits": 2230073,
+          "Visits": 2230130,
           "Favorited": 74882
         },
         "attributes": {
@@ -19047,8 +19073,8 @@
         "description": "Mayor of Chain Town was a game created during the 2023 Game Jam on Roblox based on the theme, \"Chain Reaction\". \nCredits:\n\nScripter - RjTheDev\nScripter - supergreatr299\nModeler - teddyraptor5\nBuilder - dinoboy5560\nComposer - Zacchary21\n\nMake sure to join the group on my profile '- Super Studios -'!",
         "stats": {
           "Playing": 0,
-          "Visits": 2832062,
-          "Favorited": 32186
+          "Visits": 2832073,
+          "Favorited": 32184
         },
         "attributes": {
           "Created": "2023-03-17T20:34:06.513Z",
@@ -19329,24 +19355,24 @@
       "placeID": "12815732971",
       "universeID": 4487237362,
       "gameData": {
-        "title": "[TITLE UNAVAILABLE]",
-        "description": "[DESCRIPTION UNAVAILABLE]",
+        "title": "Ding Reaction",
+        "description": "\"In this adventure you will become a tiny toy, whose mission is to help white king of the kingdom to defeat, the black king of the rebellion with the help of the dings. The entire history takes place in Danny's bedroom. \"\n\nShowy19 - UI Designer, environmental artist.\nColgobs - 3D Modeler, Builder.\nmatonenes - 3D Modeler, Builder\nRobuxMaster8912 - Scripter\nBlondyDev - Scripter\n\n",
         "stats": {
           "Playing": 0,
-          "Visits": 0,
-          "Favorited": 0
+          "Visits": 98,
+          "Favorited": 4
         },
         "attributes": {
-          "Created": "0001-01-01T05:51:00Z",
-          "Updated": "0001-01-01T05:51:00Z",
+          "Created": "2023-03-17T23:54:52.37Z",
+          "Updated": "2023-06-10T04:52:00.237Z",
           "Genre": "All",
           "GenreNew": "",
           "SubGenreNew": "",
-          "MaxPlayers": 0
+          "MaxPlayers": 1
         },
         "Creator": {
-          "Name": "[UNKNOWN]",
-          "ID": 0,
+          "Name": "5 Tristes Tigres",
+          "ID": 14164075,
           "Type": "Group"
         }
       }
@@ -19591,24 +19617,24 @@
       "placeID": "9010881988",
       "universeID": 3394746033,
       "gameData": {
-        "title": "[TITLE UNAVAILABLE]",
-        "description": "[DESCRIPTION UNAVAILABLE]",
+        "title": "Autism : Dreaming",
+        "description": "Jump, jump, jump, can't.\r\nwelcome to my dream, don't bring brains into this. Bring only one, shut down the others. Take the game yourself.\r\n============================================\r\nCONTROLS:\r\n[LeftControl] - UnLock Mouse\r\n\r\n ・Saving best friend out of his dream, his sickness, make-build-create on the best connection between dreams, lock him in your creations.\r\n\r\n🔊Recommend : Using headphones during gameplay.\r\n                     - Turning best graphics (if not, you may not really enjoy yourself)\r\n⚠️WARNING! = JUMPSCARES AND LOUD SCREAMS❗\r\n============================================\r\nThis game was made for Dream Jam [Roblox Dev Ev]",
         "stats": {
           "Playing": 0,
-          "Visits": 0,
-          "Favorited": 0
+          "Visits": 479,
+          "Favorited": 15
         },
         "attributes": {
-          "Created": "0001-01-01T05:51:00Z",
-          "Updated": "0001-01-01T05:51:00Z",
-          "Genre": "All",
+          "Created": "2022-03-05T07:28:51.453Z",
+          "Updated": "2025-07-04T14:04:04.757Z",
+          "Genre": "Adventure",
           "GenreNew": "",
           "SubGenreNew": "",
-          "MaxPlayers": 0
+          "MaxPlayers": 10
         },
         "Creator": {
-          "Name": "[UNKNOWN]",
-          "ID": 0,
+          "Name": "LowBudget",
+          "ID": 14250041,
           "Type": "Group"
         }
       }
@@ -19617,24 +19643,24 @@
       "placeID": "9011375291",
       "universeID": 3394892366,
       "gameData": {
-        "title": "[TITLE UNAVAILABLE]",
-        "description": "[DESCRIPTION UNAVAILABLE]",
+        "title": "Sweet Dreams? [Dream Jam Submission]",
+        "description": "This game was made for the Roblox Dream Jam 2022. ",
         "stats": {
           "Playing": 0,
-          "Visits": 0,
-          "Favorited": 0
+          "Visits": 104,
+          "Favorited": 6
         },
         "attributes": {
-          "Created": "0001-01-01T05:51:00Z",
-          "Updated": "0001-01-01T05:51:00Z",
+          "Created": "2022-03-05T08:42:50.267Z",
+          "Updated": "2026-07-25T07:18:40.377Z",
           "Genre": "All",
           "GenreNew": "",
           "SubGenreNew": "",
-          "MaxPlayers": 0
+          "MaxPlayers": 1
         },
         "Creator": {
-          "Name": "[UNKNOWN]",
-          "ID": 0,
+          "Name": "Wosarpy",
+          "ID": 53144695,
           "Type": "User"
         }
       }
@@ -20007,24 +20033,24 @@
       "placeID": "9007844670",
       "universeID": 3393873120,
       "gameData": {
-        "title": "[TITLE UNAVAILABLE]",
-        "description": "[DESCRIPTION UNAVAILABLE]",
+        "title": "Haze",
+        "description": "Created for the Roblox Developer Dream Jam by a team of 5 developers.\r\n\r\nWhat's this? Judging by your dream, I assume you're some Sci-Fi fanatic. Wait, what? Oh yeah, this is all a dream. How do you think you're on a floating island with nightmarish-zombie-like monsters in an arena?\r\n\r\nI hope you like this fighting game with the dream theme! :)\r\n\r\nControls:\r\nE - Interact\r\nShift - Sprint\r\nCtrl - Block\r\n\r\nScripter - Attyuo2\r\nBuilder - x5tb\r\nModeler - Tactelus\r\nAnimator - NINJAJACK567\r\nComposer - Zacchary21",
         "stats": {
           "Playing": 0,
-          "Visits": 0,
-          "Favorited": 0
+          "Visits": 128,
+          "Favorited": 4
         },
         "attributes": {
-          "Created": "0001-01-01T05:51:00Z",
-          "Updated": "0001-01-01T05:51:00Z",
-          "Genre": "All",
+          "Created": "2022-03-04T23:56:03.327Z",
+          "Updated": "2022-06-27T17:36:42.663Z",
+          "Genre": "Fighting",
           "GenreNew": "",
           "SubGenreNew": "",
-          "MaxPlayers": 0
+          "MaxPlayers": 12
         },
         "Creator": {
-          "Name": "[UNKNOWN]",
-          "ID": 0,
+          "Name": "Astralis Interactive",
+          "ID": 14011859,
           "Type": "Group"
         }
       }
@@ -20709,24 +20735,24 @@
       "placeID": "9006710730",
       "universeID": 3393583586,
       "gameData": {
-        "title": "[TITLE UNAVAILABLE]",
-        "description": "[DESCRIPTION UNAVAILABLE]",
+        "title": "Spectrum Warriors",
+        "description": "Spectrum Warriors is made for Roblox Dream Jam 2022,\nControls in Battleground:\nLeft click: Basic attacks (does not push)\nRight Click: Heavy attack (does push)\nJumps: With +1 jump you can feel the air strafing\nLeft Shift: Dash",
         "stats": {
           "Playing": 0,
-          "Visits": 0,
-          "Favorited": 0
+          "Visits": 174,
+          "Favorited": 4
         },
         "attributes": {
-          "Created": "0001-01-01T05:51:00Z",
-          "Updated": "0001-01-01T05:51:00Z",
-          "Genre": "All",
+          "Created": "2022-03-04T21:13:45.51Z",
+          "Updated": "2026-07-25T16:27:28.228Z",
+          "Genre": "Fighting",
           "GenreNew": "",
           "SubGenreNew": "",
-          "MaxPlayers": 0
+          "MaxPlayers": 50
         },
         "Creator": {
-          "Name": "[UNKNOWN]",
-          "ID": 0,
+          "Name": "Skater cat",
+          "ID": 14227493,
           "Type": "Group"
         }
       }
@@ -20739,7 +20765,7 @@
         "description": "A Game Jam Submission\r\n\r\nBy Guard303 and DARKEVATOR",
         "stats": {
           "Playing": 0,
-          "Visits": 2572469,
+          "Visits": 2572470,
           "Favorited": 49413
         },
         "attributes": {
